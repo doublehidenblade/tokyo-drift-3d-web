@@ -1,17 +1,17 @@
 {
-  "published_at": "2026-09-23T20:34:11Z",
+  "published_at": "2026-09-23T21:22:18Z",
   "source_repo": "doublehidenblade/tokyo-drift-3d",
-  "source_sha": "58bcf6e5f19c74acbf703fc47136e9310e2efd7b",
+  "source_sha": "17dd1150b387c7eb99688ce535a2e611b1919361",
   "sha256": {
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "6150b4ab2b66c4cd56abfd5a1573d401ac6a2bf1bd0bb24e326bd6375c782080",
+    "index.html": "ed4638ec7c115b65dea8ae7ab319a3947a3f87df107fc6a146f7d2c093668f04",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "4305aee7c8a0319846b36393905d30b2dce7b7134057d4d53a924268b9268010",
+    "index.pck": "9b2d9ffdd44f0c18ef8e161651d3d1bf9a1acd60fcd32959f585bfa0b93c19b7",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "build-sha.txt": "9daf92e2ed22cbd9666628f537d59f2c4f4d7c51b14942181c86f2a48f284420"
+    "build-sha.txt": "148ab11d82d69b56a20cba17563184120a8b6ffc2765dc1c181dbf176eb202aa"
   }
 }
