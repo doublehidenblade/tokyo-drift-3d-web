@@ -1,20 +1,17 @@
 {
-  "source_sha": "2c238a855eaa000cb3b33d12fd24d96c1138047f",
-  "source_branch": "td016-texture-request-and-td018-occlusion",
-  "validation_run": 35814581966,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/35814581966",
-  "published_at": "2026-09-23T08:45:06.537Z",
-  "export_commit": "de4d4f71960183837a02a7edb7d4ff99a7f90d4c",
+  "published_at": "2026-09-23T20:34:11Z",
+  "source_repo": "doublehidenblade/tokyo-drift-3d",
+  "source_sha": "58bcf6e5f19c74acbf703fc47136e9310e2efd7b",
   "sha256": {
-    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
-    "build-sha.txt": "867890eb5cec5b9622791c2fb3418a69398ded159f1f77c63cf733a0127f6500",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "index.html": "0146c905589992ed4b0c8301587f18bb3aa8bb0c6a188000f7fe1c1f4e028e35",
-    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.pck": "f7a82937ed9fc75f7acf29e119eff490b91ea594e97207f8b24a55404371e624",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.html": "6150b4ab2b66c4cd56abfd5a1573d401ac6a2bf1bd0bb24e326bd6375c782080",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
+    "index.pck": "4305aee7c8a0319846b36393905d30b2dce7b7134057d4d53a924268b9268010",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "build-sha.txt": "9daf92e2ed22cbd9666628f537d59f2c4f4d7c51b14942181c86f2a48f284420"
   }
 }
