@@ -1,19 +1,19 @@
 {
-  "source_sha": "8e2b90e09b2570f1d8b5c44637bf4b6da7d6a539",
+  "source_sha": "5d62034160d6fba2c48c46820af1d686d84d000c",
   "source_branch": "main",
-  "publish_method": "root-commit (legacy Pages branch-root mode)",
-  "note": "Committed directly because GitHub Pages' source setting reverted to legacy branch-root mode (returned 404 from the Pages API to actions/configure-pages) after the repository visibility was changed; the Actions-based publish-game.yml deployment succeeds at the API level but is not what Pages actually serves in this mode. See PUBLISHING.md and CHECKPOINT.md for the full incident writeup.",
-  "published_at": "2026-09-22T17:41:00Z",
-  "export_commit": "8e2b90e09b2570f1d8b5c44637bf4b6da7d6a539",
+  "publish_method": "root-commit (publish-game.yml's deploy-pages step is dead since the 2026-09-22 hosting migration moved Pages off this now-private repo entirely - it still runs and still fails on every relevant push, see CHECKPOINT.md)",
+  "note": "Committed directly per PUBLISHING.md's flow, matching td-020's precedent: publish-web.yml only mirrors whatever is already committed at root, it does not build or fetch an export itself. Exported locally from this exact merged main commit (PR #26, reviews/td016-td018-publication/README.md), re-imported and re-exported cleanly (0 script/parse errors), verified via a fresh boot+console check (0 errors) and the harness/webgl unit suite (45/45) before committing. The gameplay/correctness content itself was already validated end-to-end in CI on the pinned candidate run before merge (deploy/web-candidate.json) - this export step only re-packages that same validated source.",
+  "published_at": "2026-09-23T04:20:00Z",
+  "export_commit": "5d62034160d6fba2c48c46820af1d686d84d000c",
   "sha256": {
-    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
-    "index.pck": "51ff8e9230e03a43431c30b0b49fff8b0edd25e1978780d9b296253dcd1db8c8",
-    "index.html": "d1cd0129a73e3e40ff27e4bdf69dfa9d04aa81ef4817d8c307594c85d9c23401",
+    "index.html": "0146c905589992ed4b0c8301587f18bb3aa8bb0c6a188000f7fe1c1f4e028e35",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c"
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.pck": "a05f22b5a3348dc8824027186383e5b821660ee05d81fe2c5aa5401c5fcd464d",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
   }
 }
