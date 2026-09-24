@@ -6,11 +6,11 @@
 
 </head><body><canvas id="canvas">Your browser needs WebGL2 to run Tokyo Drift.</canvas><div id="status"><div class="card"><h1>TOKYO DRIFT</h1><p>TOKYO BAY / MIDNIGHT RUN</p><progress id="progress" value="0" max="1"></progress><p id="message">Downloading the game</p></div></div>
 <script src="index.js"></script><script>
-const config={"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":46509616,"index.wasm":37902138},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const config={"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":46514876,"index.wasm":37902138},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const engine=new Engine(config);let progress=0;
 window.tdLoadProgress=(value,message)=>{progress=Math.max(progress,value);const bar=document.querySelector('#progress'),label=document.querySelector('#message');if(bar)bar.value=progress;if(label)label.textContent=message;};
 window.tdGamePrepared=()=>{window.__tdPrepared=true;document.querySelector('#status')?.remove();};
-engine.startGame({onProgress:(current,total)=>{if(total>0)window.tdLoadProgress(.70*current/total,'Downloading the game');}}).then(()=>{
+engine.startGame({onProgress:(current,total)=>{if(total>0){const mb=b=>Math.round(b/1048576);window.tdLoadProgress(.70*current/total,current>0?mb(current)+'M/'+mb(total)+'M downloaded':'Downloading the game');}}}).then(()=>{
  // Deterministic CI bypasses the menu/preparation flow; ordinary players use one bar.
  if(new URLSearchParams(location.search).has('selftest'))window.tdGamePrepared();
 }).catch(error=>{document.querySelector('#message').textContent='Could not load the game. Reload to try again. '+error.message;});

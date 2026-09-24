@@ -1,17 +1,20 @@
 {
-  "published_at": "2026-09-23T21:22:18Z",
-  "source_repo": "doublehidenblade/tokyo-drift-3d",
-  "source_sha": "17dd1150b387c7eb99688ce535a2e611b1919361",
+  "source_sha": "9584c4f678f22fcac29202319663c1c240938d00",
+  "source_branch": "td032-loading-progress",
+  "validation_run": 35939874642,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/35939874642",
+  "published_at": "2026-09-24T02:26:28.498Z",
+  "export_commit": "8e096b88c948ccae161df21f64662c04a929ee72",
   "sha256": {
-    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "build-sha.txt": "c506ed5228ceceef3cd488ddb72cc55de1d607241808cabf96eba285df9b7b12",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "ed4638ec7c115b65dea8ae7ab319a3947a3f87df107fc6a146f7d2c093668f04",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
-    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "9b2d9ffdd44f0c18ef8e161651d3d1bf9a1acd60fcd32959f585bfa0b93c19b7",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "build-sha.txt": "148ab11d82d69b56a20cba17563184120a8b6ffc2765dc1c181dbf176eb202aa"
+    "index.html": "2e8ba2ad5533a75208a582649355c5c6c5beb91d65eee20e40bda8cd490c70d1",
+    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
+    "index.pck": "05b9fc06fbf8b3bc3079acdf291d657214e8b6f9e70e236fde8e12c7ac3446d5",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
   }
 }
