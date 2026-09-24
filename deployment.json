@@ -1,20 +1,21 @@
 {
-  "source_sha": "9584c4f678f22fcac29202319663c1c240938d00",
-  "source_branch": "td032-loading-progress",
-  "validation_run": 35939874642,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/35939874642",
-  "published_at": "2026-09-24T02:26:28.498Z",
-  "export_commit": "8e096b88c948ccae161df21f64662c04a929ee72",
+  "source_sha": "edecf92c800c510313752fe422b42ab2f8833c28",
+  "source_branch": "td038-harbor-textures",
+  "validation_run": 36073030480,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36073030480",
+  "validation_note": "Build/import/gameplay batches passed; post-build smoke stopped on pre-existing td-037 exit leak. Publication authorized as after-the-fact CI verification.",
+  "published_at": "2026-09-24T23:34:08.455165+00:00",
+  "export_commit": "edecf92c800c510313752fe422b42ab2f8833c28",
   "sha256": {
-    "build-sha.txt": "c506ed5228ceceef3cd488ddb72cc55de1d607241808cabf96eba285df9b7b12",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "build-sha.txt": "72d44b96575961f9f25dc46a8999483e1d87ed9e4f977a4fcfc41816a58d48e9",
+    "index.pck": "4fbe206ce6402127282d6a54e41719b5fe2deefc9987a0ce2b3372bb4987dd22",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "index.html": "26626d0905412d1700ae22321c68f44211f4e22c7268fc012f92b5343cfc4aeb",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "2e8ba2ad5533a75208a582649355c5c6c5beb91d65eee20e40bda8cd490c70d1",
-    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "05b9fc06fbf8b3bc3079acdf291d657214e8b6f9e70e236fde8e12c7ac3446d5",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
   }
 }
