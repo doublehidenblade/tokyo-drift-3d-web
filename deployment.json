@@ -3,7 +3,7 @@
   "source_branch": "fix/td-042-opponent-navigation",
   "validation_run": 36111795415,
   "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36111795415",
-  "published_at": "2026-09-25T09:12:17.384Z",
+  "published_at": "2026-09-25T18:40:35.761Z",
   "export_commit": "c45e05b952a588d48ec10d4a3e96096275fc47df",
   "sha256": {
     "build-sha.txt": "57a317dde80983a0060106ed47ae70223aef86cc5f9ad843916f2a4830ec3555",
