@@ -1,20 +1,20 @@
 {
-  "source_sha": "1d419b4866b3dee8cbf02f9277921f602e83df0c",
-  "source_branch": "main",
-  "validation_run": 36253739671,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36253739671",
-  "published_at": "2026-09-26T16:37:02.496Z",
-  "export_commit": "1d419b4866b3dee8cbf02f9277921f602e83df0c",
+  "source_sha": "f04f59d16e3b385e09e8cf5a6ee0a78fd0ee0c8f",
+  "source_branch": "fix/td-070-room-code-keyboard",
+  "validation_run": 36258663381,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36258663381",
+  "published_at": "2026-09-26T18:12:58.162Z",
+  "export_commit": "3ba3db94883be4c49e25b3c62858401e699089fe",
   "sha256": {
-    "build-sha.txt": "13c69f1e7da03044ee1041f1d80d570fd4393ac01bf405252f3e486e53d501bf",
+    "build-sha.txt": "a1c301b17ff2b7f452c6b4a9f34296cfab5080069cce50beab138ae762609114",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "ce294dbf8b12ac575141abf8b634190997085c2db8d82aa88597ca9998573d22",
+    "index.html": "2d74e6d7d06b8159e8712e6611bf1f86c4545d6f81d06c5ce4bb912b1d17992a",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "8ca6d8e4ea2edfcdd34bb48a8892428cd012f89f3b3406489a9929511b3ff527",
+    "index.pck": "cbe5be2296aaac6d96a2710a292cba23f05c3bbacf728f45655b1dea484b91d1",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
   }
 }
