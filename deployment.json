@@ -1,20 +1,21 @@
 {
-  "source_sha": "38c258ba562425283969a9eb3824481a38eb2dc0",
-  "source_branch": "fix/td-042-opponent-navigation",
-  "validation_run": 36111795415,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36111795415",
-  "published_at": "2026-09-25T18:40:35.761Z",
-  "export_commit": "c45e05b952a588d48ec10d4a3e96096275fc47df",
+  "source_sha": "de15deec25170f7555d0380083f579b93b9f149b",
+  "source_branch": "main",
+  "validation_run": 36214316724,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36214316724",
+  "published_at": "2026-09-26T04:21:55.473149+00:00",
+  "export_commit": "de15deec25170f7555d0380083f579b93b9f149b",
   "sha256": {
-    "build-sha.txt": "57a317dde80983a0060106ed47ae70223aef86cc5f9ad843916f2a4830ec3555",
+    "build-sha.txt": "7a29dab747aad90996c119dfdbf5d07b640fe815718e558674b0f77b4453ca87",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "8927d8eda7fd222104abec50f3e8f8a9fdbd2d946c47bdfa6524b43887cb0a1f",
+    "index.html": "5b99da624f50c608038edb53b0d27ef75ae52a345648866dfbd0846b2f465477",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "ff30c879bbb809ebd44eb845d662f7f593a8c68ed67b44666bb238d66e606e7e",
+    "index.pck": "9732e5e712aeebb6edeb4967b37b356ad811d4d29037a476bcfa40efd80cfd2c",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
-  }
+  },
+  "publish_note": "Craig-directed one-off manual publish 2026-09-26 (\"publish then fix\"): smoke run 36214316724 built a clean export from main de15deec (net heartbeat pong fix PR #89 + signaling wss URL PR #91); the run's only failing step was the td-060 harness tap-coordinate bug, which does not touch the exported game. publish-game.yml guard left intact."
 }
