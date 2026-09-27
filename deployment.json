@@ -1,20 +1,20 @@
 {
-  "source_sha": "d737f958ae9e3dca5d3a4a528f612961a0c9a228",
+  "source_sha": "00beaf5c61202ab5b35f409565f2fb4ee6aefb4d",
   "source_branch": "main",
-  "validation_run": 36291240401,
-  "published_at": "2026-09-27T04:55:00Z",
-  "export_commit": "d737f958ae9e3dca5d3a4a528f612961a0c9a228",
-  "note": "Craig 2026-09-27 explicit push request: all pending Tokyo multiplayer fixes",
+  "validation_run": 36299418686,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36299418686",
+  "published_at": "2026-09-27T06:58:21.891Z",
+  "export_commit": "00beaf5c61202ab5b35f409565f2fb4ee6aefb4d",
   "sha256": {
-    "build-sha.txt": "2cb43b4c8aae128296c747647c94e6aa088a26eb46b34c1e7cd6596a21708003",
+    "build-sha.txt": "5fade07e641b7bbc83584c80193d87f4ec5164b5ab0ff6c0470becb5c05eb1f3",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "17e1547427b345709861eaf7369a6a46a522e9e3b65f43b573fa383fa993df66",
+    "index.html": "0f1e115f6ce35fcef4927b212875d6dd0e628bb0c71408f01ad23a95c6e4e7ac",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "93788f16e7f609c2a892afe02464721e29a8086c0e955fad1efdc3519097c031",
+    "index.pck": "ea81716c7b7d0ffbebf8f8b4683c67ae5380fcbbe55b72305f3acfdd2987924b",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
   }
 }
