@@ -14,7 +14,7 @@ engine.startGame({onProgress:(current,total)=>{if(total>0){const mb=b=>Math.roun
  // Deterministic CI bypasses the menu/preparation flow; ordinary players use one bar.
  if(new URLSearchParams(location.search).has('selftest'))window.tdGamePrepared();
 }).catch(error=>{document.querySelector('#message').textContent='Could not load the game. Reload to try again. '+error.message;});
-</script><div id="td3-ver" data-ver="v23" style="position:fixed;right:8px;bottom:8px;z-index:99999;font:11px/1.4 system-ui,-apple-system,sans-serif;color:#fff;background:rgba(10,15,36,.72);border:1px solid rgba(255,243,107,.5);border-radius:6px;padding:3px 8px;user-select:none">Loading version&hellip;</div>
+</script><div id="td3-ver" data-ver="v24" style="position:fixed;right:8px;bottom:8px;z-index:99999;font:11px/1.4 system-ui,-apple-system,sans-serif;color:#fff;background:rgba(10,15,36,.72);border:1px solid rgba(255,243,107,.5);border-radius:6px;padding:3px 8px;user-select:none">Loading version&hellip;</div>
 <script>
 (function(){var b=document.getElementById("td3-ver"),mine=b.getAttribute("data-ver");b.textContent=mine+" · ab50f2d6";
 function check(){fetch("version.txt?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.text():null}).then(function(t){if(!t)return;var live=t.trim().split(/\s+/)[0];if(live&&live!==mine){b.textContent=mine+" → "+live+" available — tap to refresh";b.style.borderColor="#ff5d5d";b.style.cursor="pointer";b.onclick=function(){location.reload()}}}).catch(function(){})}

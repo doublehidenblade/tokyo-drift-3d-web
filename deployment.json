@@ -5,7 +5,7 @@
   "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/36367571971",
   "smoke_conclusion": "failure",
   "forced": true,
-  "published_at": "2026-09-28T02:58:49.297Z",
+  "published_at": "2026-09-28T04:54:44.598Z",
   "export_commit": "ab50f2d685f67aa2c951f82dbeff090d151bb7a8",
   "sha256": {
     "build-sha.txt": "7af07dde43259c133b395c66ecbfdcc4188634d704cd03cc1fefd505a4dce83e",
