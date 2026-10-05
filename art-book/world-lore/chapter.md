@@ -3,8 +3,12 @@
 
 *Canon: `~/workspace/game-design/gig-city-world-bible.md` (v2). This chapter is the story the player learns from behind the wheel — never a codex, never a lecture. History law applies: nothing here is historically accurate; it is post-war in energy and retro-futurist in fact. Nobody may correct it against real history.*
 
-![Kurogane Bay — vertical cross-section world map](mock-worldmap.png)
+*Two mock layers per scene: **[REFERENCE]** is the aspirational painterly art direction; **[IMPLEMENTATION]** is what the final 3D actually renders under our real technology — Godot low-poly geometry, the AnimeLook shader module (flat color fields, ink outlines, cel-shading bands, washed-out texture noise), dust-culling fog, masked characters, no faces ever. Where a scene can't be built in-engine at all (the world map is a diagram, not a place), it stays reference-only — said explicitly, never silently.*
+
+![[REFERENCE] Kurogane Bay — vertical cross-section world map](mock-worldmap.png)
 *The three strata: the Aerium above the cloud deck, the Trench below, the Outskirts road west. The elevator pylons are the city's spine.*
+
+**Production translation — REFERENCE ONLY, no implementation layer.** This image is a diagram, not a place. In-game the driver never sees an abstract cross-section camera — the strata exist only through the windshield, so a 3D implementation mock would burn budget on a viewpoint the shipped game never renders. The reference layer stands as the art-book diagram, unchanged. The closest it ever gets to the engine is a flat, unlit 2D graphic on the dash monitor (a folded tourist-pamphlet texture at 512×512), which is a UI prop, not a scene.
 
 ---
 
@@ -132,8 +136,13 @@ The teal sea is never a mission objective. It is the thing at the end of the lon
 
 **The cab is sovereign ground** is why syndicate blockades wave you through — the food, the fuel, and the vice move through neutral drivers, and everyone knows it. You learn the exact shape of this sovereignty the first time you carry contraband through a blockade that *would* have waved you through: the wave becomes a search, the search becomes a chase, and the rule reveals its boundary. Neutral is a license. It can be revoked.
 
-![The night the sea changed color](mock-sea-night.png)
+![[REFERENCE] The night the sea changed color](mock-sea-night.png)
 *Deep-sea rigs on the horizon; the water lit from within. KPC called it copper runoff. The fishermen never did.*
+
+![[IMPLEMENTATION] The night the sea changed color — as the shipped 3D renders it](impl-sea-night.png)
+*The same scene through the AnimeLook module: unlit flat teal fields slammed against ink-black silhouettes. The glow survives as value contrast, not as light.*
+
+**Production translation.** Survived: the whole idea — teal water against night-black — carried entirely by material-ID flat fills; silhouette oil rigs and boat with inverted-hull ink outlines; flare stacks as billboarded unshaded orange diamond quads; both masked figures (full respirator per the mask law, hood and cap, no faces ever). Cut: bloom, glow gradients, screen-space water reflections, Fresnel, atmospheric distance haze — the reference's "lit from within" luminescence cannot exist under flat-shaded low-poly; the glow is faked by setting the teal material *unshaded* so it reads as brighter than everything around it. Honest flag: the sea is a stepped-poly grid of hard teal bands, not water — the illusion thins up close, so this scene is staged at distance (the Nagisa waystation overlook, the coast run), never as a swim-up-to-it moment. The mystery is never resolved either way.
 ---
 
 ## C. TIMELINE — A Civic Artifact, Not a Wiki
@@ -194,8 +203,13 @@ The ordinances' small print contains the city's strangest decade-long argument: 
 
 **Winters 32–38 — the elevator construction.** Three brutalist shafts rise through the dust layer — open freight decks on cables, counterweight drums, Solari split-flap boards. They are built with the scuttled carrier's hoisting tackle and the wreck-clearance crews' grandchildren, and they leak oil on the tenement roofs below (carriages with weeping oil pans are charged double fare, per the posted notice, to discourage it). Terminal 2 opens at Tenjin's north end with a brass band; Terminals 1 and 3 open in the Aerium with a tariff schedule. The 8-second ascent becomes the city's signature vista: the fog dropping away beneath you, the Lower City shrinking into an amber sea, the punch through into blinding sunlight. The first driver to ride it up with a fare in the back seat doubles his price on the spot, and the price holds.
 
-![Sky-elevator construction, the Lift Era](mock-elevator-build.png)
+![[REFERENCE] Sky-elevator construction, the Lift Era](mock-elevator-build.png)
 *Built with a scuttled carrier's hoisting tackle. The oil leaks were priced into the fare schedule.*
+
+![[IMPLEMENTATION] Sky-elevator construction — as the shipped 3D renders it](impl-elevator-build.png)
+*Brutalist massing survives; the crowd becomes low-poly silhouettes. The shaft is still the biggest thing in the Lower City.*
+
+**Production translation.** Survived: the shaft's brutalist massing (flat-shaded concrete pillar + red steel framework, 2-step cel bands, inverted-hull outlines), twin cranes hoisting low-poly loads on cables, worker crews reduced to boxy hardhat-and-mask primitives, the brick warehouses and flat ochre dust fog at the base. Cut: the reference's dozens of individually-posed workers and hand-drawn texture detail — in-engine the crews are ~8 blocky figures with backs turned, the lattice cranes are angular low-poly geometry, and the "city skyline" is a handful of fog-swallowed boxes. Honest flag: this is history, not a playable space — in the present-day game the shafts stand complete, so this mock only justifies itself for timeline vignettes or loading-screen stills; don't budget a construction *scene* as in-game geometry.
 
 **Winter 36 — the wildcat founding.** Rogue courier drivers, midnight drag-racers, and chop-shop mechanics who refuse the harbor syndicates' terms walk out of a Kaiun-controlled garage *en masse*, tools in hand, and set up under the expressway in Kotobuki. The **Iron Wheel Union** is founded without a charter, a headquarters, or permission — its founding document is a union card stamped in grease, and its first act is to run the broken industrial lift that the elevator authority condemned. Boss Tetsu's rule, still quoted: *"The roads are a commons. Drive well."*
 
@@ -205,8 +219,13 @@ The ordinances' small print contains the city's strangest decade-long argument: 
 
 > [IRON WHEEL WAYSTATION LOGBOOK — last entry, undated]: *"Glowed again. Brighter past the third rig. Jiro's marble, the sea, the marble. The sea wins. — K."*
 
-![The Dust Tithe, paid weekly at Kotobuki](mock-dust-tithe.png)
+![[REFERENCE] The Dust Tithe, paid weekly at Kotobuki](mock-dust-tithe.png)
 *The most recession-proof business in Kurogane Bay: the rinse bay. The dust is the one tax nobody dodges.*
+
+![[IMPLEMENTATION] The Dust Tithe — as the shipped 3D renders it](impl-dust-tithe.png)
+*Behind-car chase camera, the taxi's rear bumper anchoring the frame. The water jet is an opaque white anime splash — zero fluid simulation, zero cost.*
+
+**Production translation.** Survived: the whole staging — low chase-cam behind the taxi, red taxi body at ~1,500 tris with 2-step cel bands and ink outlines, stepped-geometry corrugated awning, the attendant as a boxy masked primitive with blocky backpack (back turned, face fully covered), the wooden booth and barrels, flat ochre dust fog. Cut: alpha-blended mist, fluid dynamics, wet-surface shaders, specular highlights on paint — the reference's wet sheen and drifting dust can't survive the AnimeLook module and are replaced by flat fog and the sprite jet. The water jet itself is the cheapest win in this chapter: a 2D sprite-flipbook splash, opaque and sharp-edged, with no lighting calculation at all. Honest flag: the reference's hand-drawn respirator detail is gone — attendants read as silhouettes, which is also why the mask law is free to enforce.
 
 ---
 

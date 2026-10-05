@@ -1,7 +1,7 @@
 # THE AERIUM — Upper City Art-Book Chapter
 ### KUROGANE BAY / Tokyo Drift 3D — the gig-driver game
 
-*Chapter writer: Upper City artist. 2026-10-05. Canon sources: world bible v2, retrofutur identity plan (§8 DO/DON'T are hard law), Showa-dust extrapolation. Design research: 2 Gemini consult rounds (daytime expressway cel direction; Showa-Metabolist arcology design) — digested below, never quoted. 5 bespoke 2D mocks verified pixel-by-pixel before embedding.*
+*Chapter writer: Upper City artist. 2026-10-05. Canon sources: world bible v2, retrofutur identity plan (§8 DO/DON'T are hard law), Showa-dust extrapolation. Design research: 3 Gemini consult rounds (daytime expressway cel direction; Showa-Metabolist arcology design; production-translation check) — digested below, never quoted. 5 REFERENCE 2D mocks + 3 IMPLEMENTATION game-screenshot mocks, all verified pixel-by-pixel before embedding.*
 
 ---
 
@@ -31,7 +31,10 @@ A single glance at the horizon or the ambient light must tell the stratum. This 
 *District 7. Tycoon demilitarized zone. The dust is a distant amber sea below the cliff; the air is clean, thin, and quiet. Gig profile: luxury limo work, discreet personal deliveries (tapes, wine, pedigree pets), silent rides — never look in the mirror.*
 
 ![Haibara estate above the cloud sea](mock-2-haibara-estate.png)
-*Mock 2 — a clifftop estate: terracotta kawara roof, kuromatsu pine, ishigaki wall, the dust sea below.*
+*[REFERENCE] Mock 2 — a clifftop estate: terracotta kawara roof, kuromatsu pine, ishigaki wall, the dust sea below.*
+
+![Haibara estate, implementation pass](impl-2-haibara-estate.png)
+*[IMPLEMENTATION] Impl 2 — the shipped-game camera framing: solid terracotta roof wedge, stone-textured retaining hull, low-poly pine blobs, banded dust-sea plane.*
 
 ### Building types
 **Showa-modernist clifftop villas** — the language of Antonin Raymond and the Isozaki residential phase, not the Mediterranean:
@@ -71,7 +74,10 @@ A single glance at the horizon or the ambient light must tell the stratum. This 
 *District 8. White concrete towers, skybridges, corporate plazas with 360° horizons; sky-elevator Terminals 1 & 3. Councilman Minami's transport-board HQ. Gig profile: corporate courier runs, toll-jurisdiction escapes, executive extractions, decontamination-dodging smuggles.*
 
 ![Skyway ribbon between arcologies](mock-1-skyway-ribbon.png)
-*Mock 1 — the skyway ribbon: banked viaduct threading Metabolist arcologies, form-tie holes, capsule pods, green enamel signs.*
+*[REFERENCE] Mock 1 — the skyway ribbon: banked viaduct threading Metabolist arcologies, form-tie holes, capsule pods, green enamel signs.*
+
+![Skyway ribbon, implementation pass](impl-1-skyway-ribbon.png)
+*[IMPLEMENTATION] Impl 1 — low-poly box towers with tie-hole texture, instanced box pods, box-beam toll gantry, simplified traffic.*
 
 ### Building types — Showa-Metabolist arcologies
 The lineage is Nakagin Capsule Tower, Tange's bay plan, Expo '70 — **skeleton and cells**, never monoliths:
@@ -92,7 +98,10 @@ The lineage is Nakagin Capsule Tower, Tange's bay plan, Expo '70 — **skeleton 
 - **Terminal 1 & Terminal 3** — the two Aerium sky-elevator terminals (see §3).
 
 ![Terminal 1: car decks on cables](mock-3-terminal-1.png)
-*Mock 3 — Terminal 1: open freight decks riding cables, striped counterweight drums, Solari boards, taxi queues.*
+*[REFERENCE] Mock 3 — Terminal 1: open freight decks riding cables, striped counterweight drums, Solari boards, taxi queues.*
+
+![Terminal 1, implementation pass](impl-3-terminal-1.png)
+*[IMPLEMENTATION] Impl 3 — box tower, ledge decks with concrete crash lips, one thick tension rod, flat Solari quad, low-poly taxi queue.*
 
 ### Street props (Minami)
 - **Toll gantries**: pale-gray angle-iron lattice spans with transformer boxes and maintenance walkways; deep-green enamel signboards, white JH-Gothic kanji dominant over small English Helvetica subtext, reflective white borders; mechanical **split-flap fare boards** that clack as toll brackets update; yellow triangular warning pictograms.
@@ -102,7 +111,7 @@ The lineage is Nakagin Capsule Tower, Tange's bay plan, Expo '70 — **skeleton 
 - Plaza set: white concrete paving in a radial pattern, trimmed hedges in cast planters, flagpoles with corporate mon flags, a central Solari departure board, perimeter bollards with purple bands.
 
 ![Corporate plaza with toll gantries](mock-4-corporate-plaza.png)
-*Mock 4 — a corporate plaza: 360° horizon, split-flap toll boards, parked executive sedans, HQ tower with monogram.*
+*[REFERENCE] Mock 4 — a corporate plaza: 360° horizon, split-flap toll boards, parked executive sedans, HQ tower with monogram.*
 
 ### Vehicles (Minami)
 - **Corporate sedans**: Ohtori Sovereigns in black/ivory, vacuum-tube taillights, altitude compensators standard (a Lower tune runs rich and smoky upstairs — and attracts corporate police).
@@ -135,7 +144,7 @@ The lineage is Nakagin Capsule Tower, Tange's bay plan, Expo '70 — **skeleton 
 - **Scale anchors, never deleted by the look**: hijō denwa boxes, 85 cm crash barriers, maintenance hatches, catwalks, cage-ladders. Stylization means simplified rendering, not omitted engineering — without the human metric, a 100 m viaduct reads as a plastic toy.
 
 ![The cloudbreak vista](mock-5-cloudbreak-vista.png)
-*Mock 5 — the cloudbreak: arcologies rising from the dust sea, ring-road viaduct, elevator cables descending.*
+*[REFERENCE] Mock 5 — the cloudbreak: arcologies rising from the dust sea, ring-road viaduct, elevator cables descending.*
 
 ### The cloudbreak vista (the signature shot)
 From the ring road's highest banked turn: an endless ochre cloud sea to every horizon, white towers rising from it, one elevator tower's cables plunging into the deck below. This is the Aerium's rooftop moment — Tekkonkinkreet's murk-below/clarity-above, earned by riding the elevator instead of climbing. The 8-second ascent's Gig Triage Screen plays against this view.
@@ -188,7 +197,40 @@ Craig's law: comedy emerges from systems. The Aerium's systemic engines:
 
 ---
 
-## 8. Open questions
+## 9. Production translation — what the shipped 3D actually looks like
+
+Two mock layers per scene from here on: **[REFERENCE]** (aspirational, painterly, art-directed) and **[IMPLEMENTATION]** (low-poly + AnimeLook cel-shader mock — flat color fields, ink outlines, cel shading bands, washed-out texture noise — what the final 3D reads as at the driving camera). Impl mocks were generated against the reference compositions and verified pixel-by-pixel: game-screenshot read, no painterly drift, no unmasked faces, no neon, no night, buildings daylight-warm never purple.
+
+Digest of a Gemini technical-art consult (`consult/translation-check.md`) informed every cut below. Tech rules the impl layer must follow:
+
+- **Arcology facades are boxes, not sculptures.** P-con form-tie holes, slip-form banding, window gaskets: 100% texture on a 512px trim sheet. Modeled holes at driving distance cause shimmer and triangle-setup waste. Pod-cleavage is the ONE thing that stays geometry — pods must cast shadows and step the silhouette, so they ship as simple instanced boxes (12 triangles) penetrating the core, no air gaps behind them.
+- **Inverted-hull outline is rationed.** Anything thinner than 2× the hull grow amount turns into solid black ink. Thin cables, lattice trusses, alpha-tested leaf cards, and wire railings get NO outline pass — high-contrast albedo carries the edge instead, or the part gets replaced (below).
+- **Vehicles: 300–450 tris traffic, 800–1000 hero.** Survives: wedge silhouette, opaque flat-color glass, 8-sided prism wheels. Dies: wheel wells, mirrors, wipers, interiors, headlight geometry (flat emissive quads).
+- **Humans are 2D billboard impostors** — ink-baked sprite atlases, masks included, culled beyond 35 m. No skinned 3D characters, ever (mask law is also a budget law).
+- **The dust sea is one flat unlit quad** — two scrolling noise bands quantized into ochre/amber, depth-faded at the cliff. No volumetrics, no stacked translucency.
+
+### Impl 1 — skyway ribbon (skyway viaduct)
+
+**Survived:** the banked S-curve, the tower-pair framing, green enamel kanji signs on a gantry, cobra-head lamp masts, portal-frame piers, simple low-poly taxis. **Cut:** open-web lattice gantries → solid box-beam portals (lattice + hull outlines = black mush); wall-climbing MEP pipe networks → pipes only on silhouette edges, the rest painted into the trim sheet; thin railing meshes → solid concrete Jersey barriers; individual window reveals → painted gaskets on pod boxes. **Kept as geometry:** the capsule pods — without real pods the towers collapse into plain boxes and the Metabolist read dies. **Flag:** the reference's cobra-head lamp masts are drawn unlit; in 3D they must stay unlit-by-day meshes (faint orange reflector in the glass painted, not emissive) or the noon-lock breaks.
+
+### Impl 2 — Haibara estate (clifftop villa)
+
+**Survived:** terracotta roof as a solid wedge plane with tile-row texture, white plaster villa body, garden wall with terracotta coping, beveled retaining wall with painted stone texture, pine tree (hull-outlined trunk, convex foliage blobs). **Cut:** individual 3D kawara barrel caps → directional banded texture on the wedge (modeled caps at this scale are polygon waste); stone-by-stone ishigaki → single hull + non-repeating stone texture; alpha-cutout foliage → solid low-poly blobs (leaf cards render as a black jumble under inverted-hull). **Flag:** the reference's long horizontal cantilevered volumes are hard — the first impl attempt rendered the roof as a red-and-white striped awning and was rejected/regenerated. The villa's full horizontal massing will read best from a slightly elevated approach-camera; from ground level the player mostly sees garden wall + roof ridge, which is the honest shipped view — the wide estate vista is a REFERENCE-only framing. **Flag:** the banded dust-sea plane can look posterized if the two bands are too hard; the shader needs soft-scroll noise between the bands or the horizon reads as a bar code.
+
+### Impl 3 — Terminal 1 (car sky-elevator)
+
+**Survived:** the box tower massing, five open car decks with solid crash lips, low-poly taxi queues in cream/ochre, the striped orange-white counterweight drum, the flat Solari departure-board quad, toll booths. **Cut:** multi-strand elevator cables → ONE thick hexagonal tension rod with flat black albedo (thin cables under hull outlines become solid ink bars); open safety mesh fences → solid 1 m concrete crash lips; mechanical Solari flap drums → stepped UV-scroll emissive quad (flaps that physically flip are rigged animation nobody will ever inspect). **Flag:** the counterweight drum wants to read "hazard-orange industrial" — if its diagonal stripes drift toward toy-like or clownish at ship resolution, shrink the drum and deepen the orange toward #E65C00. The reference's elegant cable sheave composition does not survive as rigging — it survives as massing + striping.
+
+### Honest flags — what the reference layer cannot promise
+
+1. **Reference camera framings are not the shipped cameras.** The references are wide painterly vistas; the impl mocks are framed at the driving/elevator camera. Mock 5 (cloudbreak vista) has no impl pass — the full vista survives in-game as the flat dust-sea shader plane + distant simplified tower silhouettes, not as a designed composition.
+2. **Texture resolution is the new bottleneck.** Once geometry is cut, the trim sheets (form-tie grid, kawara bands, stone courses) carry the Showa read. They must be authored at 512px tiled with crisp ink marks — blurry textures turn the towers into generic sci-fi boxes faster than any geometry cut.
+3. **Daylight-warm must be authored, not assumed.** The impl layer keeps drifting cool-grey on tower shadows (visible on impl-1's piers). The cel shadow color must be pinned to dry ochre-grey/muted khaki in the shader, not left to the renderer.
+4. **No impl pass was generated for the corporate plaza (mock 4).** Its toll gantries and booths reuse the exact same translation rules as impl-1/impl-3 (box-beam portals, solid booths); a plaza impl pass is queued if a corporate-district gameplay task needs it.
+
+---
+
+## 10. Open questions
 
 1. **No "BIBLE DELTA" markers found** — grep over `~/workspace/game-design/` returned zero hits; nothing in the canon sources is flagged pending.
 2. **The Grand Haibara Auction Hall** (§1) is an art-book addition, not bible canon — needs Craig's approval or a bible amendment.
@@ -200,5 +242,5 @@ Craig's law: comedy emerges from systems. The Aerium's systemic engines:
 
 ---
 
-*Mock files: `mock-1-skyway-ribbon.png`, `mock-2-haibara-estate.png`, `mock-3-terminal-1.png`, `mock-4-corporate-plaza.png`, `mock-5-cloudbreak-vista.png` — all 80s-anime cel, daytime, verified: no neon, no night, no purple buildings, no unmasked faces.*
-*Consult notes (process, not canon): `consult/daytime-art-direction.md`, `consult/arcology-design.md`.*
+*Two mock layers per chapter (Craig 2026-10-05): REFERENCE files — `mock-1-skyway-ribbon.png`, `mock-2-haibara-estate.png`, `mock-3-terminal-1.png`, `mock-4-corporate-plaza.png`, `mock-5-cloudbreak-vista.png` (all 80s-anime cel, daytime, verified: no neon, no night, no purple buildings, no unmasked faces). IMPLEMENTATION files — `impl-1-skyway-ribbon.png`, `impl-2-haibara-estate.png`, `impl-3-terminal-1.png` (low-poly + AnimeLook game-screenshot mocks, verified: no painterly drift, no unmasked faces, no neon, no night, daylight-warm never purple). Impl-1's first estate attempt (striped-awning roof) was rejected and regenerated; impl-2 ships with the camera pushed closer to the estate per §9 flag.*
+*Consult notes (process, not canon): `consult/daytime-art-direction.md`, `consult/arcology-design.md`, `consult/translation-check.md`.*

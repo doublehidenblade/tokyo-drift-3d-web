@@ -201,7 +201,11 @@ The Kuro-Kiri ordinance killed foot travel; the city rebuilt itself around the c
 
 ---
 
-## 10. MOCKS
+## 10. MOCKS — TWO LAYERS (Craig 2026-10-05)
+
+Every design chapter carries two mock layers: **[REFERENCE]** (aspirational, painterly, art-directed) and **[IMPLEMENTATION]** (what the shipped game actually looks like under low-poly geometry, the AnimeLook shader module, and the 50–80 m dust-visibility wall). If a reference scene can't survive translation, the production-translation notes (§11) say so honestly and describe the closest achievable version.
+
+### [REFERENCE] — aspirational, painterly
 
 Generated via the gemini-imagegen skill (80s-anime cel, Showa retro-futurist, dust-forward, masked figures, warm umber shadows — no neon soup, no faces, no cool blue/purple):
 
@@ -213,9 +217,52 @@ Generated via the gemini-imagegen skill (80s-anime cel, Showa retro-futurist, du
 
 (Plus `mock-daikoku.png` if the sixth district mock is commissioned — currently the five priority districts are covered; Daikoku's offshore panel fields are already mocked in the bible v2 set as `v2e-bay-floating-panels.png`.)
 
+### [IMPLEMENTATION] — shipped-game look (production-translation consult, 2026-10-05)
+
+Generated via the gemini-imagegen skill, prompted as low-poly in-engine screenshots: flat-shaded geometry, inverted-hull ink outlines, 2-step cel shading bands, washed-out texture noise, ochre fog wall at ~60 m, masked figures only, warm umber shadows — no painterly brushwork, no SSR, no neon soup, no faces, no cool blue/purple. Each mirrors its reference's composition so the translation is comparable:
+
+- `impl-kamome.png` — Kamome alley, implementation pass: baked light-streak road, silhouette wire card, low eaves hiding the fog ceiling.
+- `impl-chidori.png` — Chidori alley, implementation pass: ground-floor bazaar with unlit emissive blades, upper floors surrendered to the fog wall.
+- `impl-kotobuki.png` — Kotobuki lane, implementation pass: concrete soffit ceiling, chunky piers, white-hot AMBER welding flash (palette-retuned).
+- `impl-tenjin.png` — Tenjin canyon, implementation pass: brutalist slabs, opaque kōban booths, baked wall gradients, 60 m fog cap.
+
+All four opened and verified: they read as in-engine screenshots — flat color fields, hard shadow bands, silhouettes flattening into the ochre fog wall.
+
 ---
 
-## 11. OPEN QUESTIONS
+## 11. PRODUCTION TRANSLATION — what survives, what was cut
+
+Digest of a Gemini production-translation consult (gemini-3.8-flash, 2026-10-05) against the real stack: Godot 4 low-poly kits, AnimeLook (flat fields + inverted-hull outlines + 2-step cel + washed-out noise + warm umber shadows), 50–80 m dust-visibility wall, masked static figures, 12–16 spline cars.
+
+**General triage (applies to every scene).** The three most expensive traps: (1) inverted-hull outlines on thin/lattice geometry (fire escapes, rebar cages, wire looms, long tube runs — they double draw calls and render as black pixel noise); (2) real-time specular/reflection (wet-road SSR, dynamic grazing lights — breaks cel banding, bloats fill rate); (3) alpha-blend transparency (booth glass, layered smoke — sorting errors vs. the outline pass). The three cheapest high-value tricks: (1) alpha-scissor silhouette cards with the outline pass disabled (wires, laundry, catwalks — 2 triangles per plane); (2) vertex-color baked lighting (light pools, oil stains, vertical wash gradients — free, cel-safe); (3) vertical framing occlusion (low eaves, deck soffits — the ceiling hides the fog clipping plane so the 60 m wall reads as intentional).
+
+### Kamome — SURVIVES CLEANLY
+- **Kept:** low-clearance modular eaves, tile-white walls, kei van, near-field crate stacks, static masked stall-hands under stall lights, the wire-canopy read.
+- **Cut:** real-time planar reflections/SSR on the wet road; true 3D overhead cable looms (overhead geometry at that density turns to outline mush); micro-props past ~15 m (ice trays, hanging scales, loose fish).
+- **Fakes:** wet-road reflections are baked vertical light streaks in the ground's vertex colors; the overhead canopy is a single 2-triangle alpha-scissor wire-loom card with the outline pass disabled.
+- **Why it survives:** the low eaves hide the vertical fog line — the corridor's tight roof makes the 60 m fog wall feel authored.
+
+### Chidori — SURVIVES WITH AN IDENTITY SHIFT
+- **Kept:** rhythmic vertical blade-sign silhouettes (warm red/amber), lantern meshes, the cab, ground-floor storefront blocks inside the 30 m envelope.
+- **Cut:** true 3D steel fire escapes and catwalks (outlines on lattice = illegible black wire clutter); dynamic multi-bounce colored light injection (multiple overlapping colored lights destroy 2-step cel shading); all upper-floor facade detailing (invisible past the fog wall anyway).
+- **Fakes:** signs are self-illuminated unlit emissive planes plus soft additive camera-facing glow quads — zero dynamic lights; catwalks become 2D alpha-scissor billboards clamped flat to facades, excluded from the outline pass.
+- **Honest flag:** the reference's "soaring neon canyon" CAN'T survive translation — the 50–80 m fog wall severs the verticality the reference sells. Closest achievable version is what `impl-chidori.png` shows: a dense *ground-floor bazaar* where signs crowd the visible 30 m envelope and everything above dissolves into amber murk. The rhythm and color discipline carry the district; the height does not.
+
+### Kotobuki — REFERENCE COULDN'T SURVIVE AS WRITTEN (palette breach)
+- **Kept:** the concrete soffit ceiling (the best-behaved framing in the whole chapter — it completely hides the fog clipping plane), heavy chunky piers, stripped car on stands, oil drums, welder-mask mannequins, dirt floor with baked oil-stain vertex tints.
+- **Cut:** the cold blue-white welding-arc flash — direct violation of the no-cool-blue/purple palette ban; true 3D rebar cages (outline rendering bugs, sub-pixel aliasing); loose floor-clutter meshes (hoses, gravel, tools as geometry).
+- **Fakes:** rebar painted onto the pier base color / alpha-scissor wrap; oil stains as zero-overhead vertex-color patches; pirate-antenna wire as silhouette lines.
+- **Honest flag:** the reference's luminance signature is cobalt arc light — that element is DEAD under the palette ban. Closest achievable version (`impl-kotobuki.png`): a searing white-hot AMBER/ochre pulse on a hard flicker from one chop-shop bay. Structurally the scene thrives in low-poly; only the light's color had to be re-tuned. This is now an art-direction call to confirm, not an engineering problem.
+
+### Tenjin — SURVIVES WELL (lowest-risk scene)
+- **Kept:** massive brutalist planar massing (the most modular-kit-friendly architecture in the chapter), the Solari gantry, the sedan queue, the kōban footprint.
+- **Cut:** transparent kōban glass (Godot alpha-sorting + outline-pass failures — booths go 100% opaque dark-amber "mirror" with a baked fake horizon line, no interior geometry); floor-level grazing wash-lights (dynamic grazing light steps the 2-step cel into ugly banding artifacts on flat walls); extruded 3D brass pneumatic tube runs (thin long cylinders alias badly).
+- **Fakes:** tubes and bronze expansion seams as flat offset quad strips or baked into the modular wall color; the vertical light-sheets baked into the wall vertex colors as a warm amber-to-umber gradient.
+- **Why it survives:** sheer concrete planes + hard ink outlines are exactly what AnimeLook does best; the fog wall caps the canyon with zero special handling.
+
+---
+
+## 12. OPEN QUESTIONS
 
 1. **Chidori authored night vs. fixed-lighting canon.** The identity plan cuts the day/night cycle (fixed lighting per stratum; time told by shift horns and Solari boards) yet assigns Chidori "night" and Daikoku "dusk" as authored exceptions. Is Chidori's night a separate lighting scene within the Lower City stratum (one more authored variant — acceptable), or does the whole Trench share one amber-murk bake with Chidori's signage doing the work? Affects art scope: one bake vs. two.
 2. **Kotobuki welding-arc light color.** The design consult proposed cobalt/cold blue-white welding bursts as Kotobuki's luminance signature — but the identity DO-list bans cool blue/purple in Lower City shadows. Question: is welding-arc flash an *emissive light source* exception (like vacuum-tube glow and phosphor green — both cool-ish and both canon), or should arc light be re-tuned warm (sodium-white/amber) to keep the ban absolute? Art-direction call needed before Kotobuki's lighting pass.

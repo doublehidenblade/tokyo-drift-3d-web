@@ -3,7 +3,13 @@
 
 *The game's exhale. The one place the dust can't reach — and the water is the wrong color.*
 
-![Coastal viaduct over the teal sea](mock-viaduct-sea.png)
+**TWO MOCK LAYERS (Craig 2026-10-05):** every scene below ships both layers. **[REFERENCE]** = the aspirational art-directed target. **[IMPLEMENTATION]** = what the shipped game actually looks like under our real tech — Godot low-poly geometry, the AnimeLook module (flat color fields, inverted-hull ink outlines, 2-band cel shading, washed-out texture noise), masked characters (no faces ever), teal sea hue-locked 168–174°. Nagisa has long sightlines and no dust wall — the cost centers are water-shader simplicity and mountain geometry.
+
+![Coastal viaduct over the teal sea [REFERENCE]](mock-viaduct-sea.png)
+
+![Coastal viaduct over the teal sea [IMPLEMENTATION]](impl-viaduct-sea.png)
+
+**Production translation — viaduct / sea.** SURVIVED: curved viaduct on bored piers, rust-red filter-canister rig, faceted cone-pine cliffs, flat skyline-card horizon, the wrong viridian sea, the hard ink waterline at piers and shore. CUT: smooth water gradients, foam, painted brushwork on water — impl keeps only hard two-tone cel banding on the sea plane; reference's painted cloud masses become flat cloud cards. HONEST FLAGS: (1) the reference's painterly shoreline detail (stained rocks, tide texture) cannot survive — impl shore is faceted rock plus a flat teal-stain decal ring with hard ink edges, and that is the closest achievable version; (2) the knife-edge waterline depends on the depth-sampled shader band — an unlit fallback would lose it, so the water shader is one of the few non-negotiable custom shaders in the district; (3) camera must never skim parallel to the water surface (minimum −3° pitch) or the flat plane loses all sense of distance — viaduct railings are authored to block grazing views.
 
 ---
 
@@ -39,13 +45,26 @@ The sea at Nagisa is a vivid, unnatural **teal-green**. Not tropical, not algae 
 
 **The skyline trick:** keep the teal water flat and the skyscraper silhouettes flatter — both painted, both wrong. The whole horizon is a postcard that misprinted.
 
+### Production consult — what survives the engine (Gemini, Godot technical-art; digested, not quoted)
+
+Nagisa has no dust wall, so the two real costs are water and mountains. The verdict:
+
+- **The sea ships as a flat plane, not a water shader.** Single camera-parented `PlaneMesh`, 4×4 subdivisions, fragment shader ~18 ALU: two scrolled noise lookups → hard `step()` → 2-tone cel mix (base `#00A896` hue 173°, trough `#025E5A`), noise faded 800–1500m into pure base teal at the horizon to kill shimmer. No normals, no SSR, no fresnel, no refraction, no mesh displacement, <0.04 ms at 1440p. The hard ink waterline is a depth-buffer diff band (dark line where sea meets piers/shore) — the non-negotiable signifier that keeps geometry from reading unclipped.
+- **Mountains are three distance bands.** 0–400m: instanced low-poly terrain + pine cutouts + real road mesh. 400–1200m: faceted peaks (600–1200 tris each), zero individual trees (the mesh vertices *are* the pines), switchbacks as floating ribbon geometry — 2 tris/segment, 14m wide (cartoonishly wide on purpose, so it reads at distance), white vertex-color guardrail edge. 1200m+: flat silhouette cards with switchbacks baked as ≥2px vector lines. Because fog is banned, depth comes from value-stepping (near `#153028` → mid `#21443B` → far `#3A6359`) — far mountains read as paper cutouts, which the anime look absorbs.
+- **Cut list:** dynamic foam/wake at viaduct footings (static ink ring instead), realistic road width at distance, individual trees beyond 300m, atmospheric perspective, decals for switchbacks (depth precision fails at 1km — ribbons, not decals).
+- **Collapse risks:** grazing camera angles parallel to the water kill the sense of distance — enforce a minimum −3° camera pitch or block grazing views with railings; sub-pixel noise shimmer beyond 1.5km — the 800–1500m noise fade handles it.
+
 ---
 
 ## Locations
 
 ### The Iron Wheel waystation (District 9, mile 88 on the highway)
 
-![The waystation at dusk](mock-waystation-dusk.png)
+![The waystation at dusk [REFERENCE]](mock-waystation-dusk.png)
+
+![The waystation at dusk [IMPLEMENTATION]](impl-waystation-dusk.png)
+
+**Production translation — Iron Wheel waystation.** SURVIVED: chalkboard, union pennants, tire windsocks, rooftop Yagi antenna, drum stove + kettle, iron-wheel signage, box trucks, rock cliff and amber dusk cel bands, the masked mechanic (full respirator + dust hood — faces are never modeled here, no lip/face animation budget ever spent on this district). CUT: legible chalk text — impl uses abstract chalk scribbles, which is also the production truth: in-engine world-space text at playable distance would be an unreadable smudge anyway, so route advisories reach the player through the UI overlay, not world text. Reference's painterly grime becomes AnimeLook's washed-out noise at low intensity. HONEST FLAG: the two-mechanic scene thins to one — humans in Nagisa are set dressing with zero animation cost; the vacuum-tube radio gear is prop geometry only, the pirate station lives in audio.
 
 The Union's sovereign outpost: refueling, repairs, pirate radio, and the last place that will save you before the viaduct. Design language: a mechanics' republic, deadpan-serious — mutual survival carved out of state infrastructure.
 
@@ -59,7 +78,11 @@ The Union's sovereign outpost: refueling, repairs, pirate radio, and the last pl
 
 ### The fishing village
 
-![The fishing harbor](mock-fishing-harbor.png)
+![The fishing harbor [REFERENCE]](mock-fishing-harbor.png)
+
+![The fishing harbor [IMPLEMENTATION]](impl-fishing-harbor.png)
+
+**Production translation — fishing harbor.** SURVIVED: trawlers with teal tide-ring stains, mineral-crust ropes, yellow HDPE tub stacks, winches, IBC tanks on stilts, blank windowless sea-facing walls, masked fishermen (hats + cloth masks, no faces), faceted pine hills, the flat wrong sea. CUT: rust/corrosion micro-detail, petroleum-scum waterline — no water micro-variation at dock scale; hull stains become a flat decal band with hard ink edges. Rigging wires become 1-pixel lines or nothing. HONEST FLAGS: (1) the reference's dense labor clutter (crates, coils, tools) is the district's main perf risk — it survives only as instanced low-poly prop clusters, never unique meshes; (2) the water at dock scale gets NO extra shader treatment — it is the same flat plane, and the knife-edge ink boundary against the breakwater carries the entire "wrong sea" effect.
 
 A working harbor, never a postcard. Hermit fishermen, teal-stained boats, and a village that has physically turned its back on the sea.
 
@@ -127,10 +150,20 @@ The year the deep-sea coal seams were cracked for Sol-88, the water changed colo
 
 ## Mocks (this chapter)
 
+**[REFERENCE] layer** — aspirational, painterly, art-directed:
+
 - `mock-viaduct-sea.png` — coastal viaduct over the teal sea, skyscraper silhouettes on the horizon, filter-canister rig crossing. The arrival establishing shot.
-- `mock-waystation-dusk.png` — Iron Wheel waystation at amber dusk: chalkboard, pennants, windsocks, pirate antenna, scrap stove, two masked mechanics with tapping hammers.
+- `mock-waystation-dusk.png` — Iron Wheel waystation at amber dusk: chalkboard, pennants, windsocks, pirate antenna, scrap stove, masked mechanics.
 - `mock-fishing-harbor.png` — working harbor: teal-stained hulls, crusted mooring lines, yellow fish tubs, IBC water tanks, blank sea-facing walls, masked fishermen hauling lines.
 - `mock-switchback.png` — mountain switchbacks through dark pines, hazard-orange guardrails, iron mirrors, the long-haul rig, the wrong-colored sea at the horizon.
+
+**[IMPLEMENTATION] layer** — what the shipped 3D actually looks like (Godot low-poly, AnimeLook ink/cel, masked figures only, teal sea hue-locked 168–174°):
+
+- `impl-viaduct-sea.png` — the viaduct shot as an in-engine render: faceted cliffs, cone pines, flat viridian sea with hard ink waterline at the piers.
+- `impl-waystation-dusk.png` — the waystation as an in-engine render: flat concrete, abstract chalk scribbles, full-face-respirator mechanic, drum stove.
+- `impl-fishing-harbor.png` — the harbor as an in-engine render: faceted trawlers, flat stain bands on hulls, mineral-crust ropes, flat wrong sea with knife-edge boundary.
+
+`mock-switchback.png` has no impl twin yet — the mountain bands (instanced cutouts / faceted peaks / silhouette cards) are specified in "Production consult" above but not yet rendered; that render is a follow-up, not a blocker.
 
 ---
 

@@ -5,6 +5,8 @@
 
 **Reading key (per faction):** LOOK (colors, insignia, mask/uniform design) · VEHICLES (livery) · TURF (where they read on the street) · THE WHEELMAN (how they hire, threaten, or tolerate the player).
 
+**Mock layers (Craig 2026-10-05):** every scene carries two mock layers — **[REFERENCE]** (aspirational, painterly, art-directed) and **[IMPLEMENTATION]** (what the shipped Godot game actually renders under the AnimeLook module: flat-shaded low-poly, ink outlines, 2-band cel shading, warm umber shadows, dust fog). Each scene's implementation note records what survived production translation, what was cut, and honest flags where the reference cannot survive.
+
 > **A note on method.** At 100 m through dust you cannot read a badge — you read **silhouette geometry, luminance contrast, and material motion.** Every faction below was designed to be identified by those three channels before you ever read its insignia. (Gemini design consultation digested throughout; consult notes in `consult/gig-city/factions-design/`.)
 
 ---
@@ -12,7 +14,12 @@
 ## 1. KAIUN-GUMI — 海運組 · The Ocean Transport Syndicate
 
 ![Kaiun-gumi dock checkpoint with enforcers](mock-kaiun-checkpoint.png)
-*Freight Gate 4, Daikoku Piers. The banner says what the enforcers don't have to.*
+*[REFERENCE] Freight Gate 4, Daikoku Piers. The banner says what the enforcers don't have to.*
+
+![Kaiun-gumi dock checkpoint — implementation-realistic low-poly Godot render](impl-kaiun-checkpoint.png)
+*[IMPLEMENTATION] What the shipped game actually renders: flat-shaded low-poly, ink outlines, cel bands, warm umber shadows, emissive T-bar piercing the fog.*
+
+**Production translation.** What survived: the sodium-orange coverall blocks, the glowing T-bar chest band (authored as an emissive/unshaded component — the most fog-proof ID channel per the consult), the square box-hood silhouettes, the hook banner as a big orange field. What was cut: crane-hook stencils on uniforms (dead at 100 m — a 4×4-pixel gray smudge; decals are fill-rate poison on mobile TBDR), canvas wrinkles (coveralls become rigid low-poly cylinders). Honest flag: the hook emblem itself is only legible under ~40 m — at 100 m the read is the banner's orange field and the gooseneck lamp pools, not the stencil. Faction readability: VERIFIED at 100 m.
 
 **Origin.** Demobilized naval logistics crews and dockers who cleared harbor wreckage after the war; the brute-force masters of the waterfront. (Echoes the real Yamaguchi-gumi's 1915 dock-labor origins — energy, not history.)
 
@@ -29,7 +36,9 @@
 ## 2. GOKURAKU-KAI — 極楽会 · The Paradise Society
 
 ![Madame Kanzaki's lacquered mask](mock-kanzaki-mask.png)
-*Madame Kanzaki, velvet office above the Starlight Lounge. The mask never comes off.*
+*[REFERENCE] Madame Kanzaki, velvet office above the Starlight Lounge. The mask never comes off. No implementation layer commissioned this round — the highest-risk translation; see §10.*
+
+**Production translation.** The lacquered-mask rank system survives as a **texture swap, not geometry**: one mask mesh for all ranks, footman (plain black) and inner circle (red smile + brass grille) packed into one atlas with an INSTANCE_CUSTOM / vertex-color UV offset in the custom shader. Modeling the smile or grille in geometry would collapse under the inverted-hull outline pass ("ink cancer" — inflated black clotted artifacts around the mouth). Kanzaki's amber goggles earn a dedicated head-mesh variant — chunky 8–12-triangle blockouts that break the external silhouette profile. Gold-leaf trim is cut from all geometry: at 30 m+ it becomes subpixel shimmer and inflates hull vertex counts — if it appears at all, it's a flat cel-specular MatCap mask, never metallic PBR (fog + mobile metallic reflections produce unnatural glow inside fog volumes). Honest flag: at 100 m through dust, only the dark vertical column silhouette survives — the lacquer quality, the red smile, and the brass grille are all under-40 m details. The reference portrait cannot survive as-is; read it as close-range character art.
 
 **Origin.** Post-war black-market cabaret rings — dance halls, hostess bars, and show business built on hospitality, synthetic vice, and spectacle. They own the night by owning the *room*.
 
@@ -55,12 +64,19 @@
 
 **THE WHEELMAN — hired as cold-chain infrastructure.** Tsuru-kai gigs are timers with teeth: perishables on a clock (Kenji the Fish-King's million-yen tuna to Haibara before rigor mortis), restaurant resupply, cash-bag escorts before sunrise. They pay in *produce and credit*, not just yen: a driver in good standing eats from the auction floor and gets first call on the dawn runs. **"Abacus" Kenjiro Sato** (merchant apron, canvas dust hood, brass abacus — carried, not a gun) destroys rivals through debt, supply starvation, and razor-wire ambushes on supply avenues. He hires drivers the way he hires everything: on margin. Be late with his fish and the abacus beads click — and your next three gigs across the whole city quietly pay 10% less until the ledger balances. No threats. Arithmetic.
 
+**Production translation (no mock this round — see §10).** The consult's verdict: the non-negotiable read is the stark white boot blocks (ground-level value contrast in fog) plus tall, rigid nobori banner cards on the trucks — and the cheapest cuts are the crane kamon on the apron belly and the copper scrubber canisters (boxy geometry at LOD0 only, culled by LOD2). Trap warning: the reference's streaming banners must NOT become cloth sim — rigid opaque low-poly cards with baked vertex-shader sway (`sin(TIME*freq + VERTEX.y)`), no bones, no alpha-cut edges (alpha kills TBDR tile performance). Honest flag: with no implementation mock commissioned, Tsuru-kai's 100 m read is consult-verified on paper, not proven in pixels — flagged for the next mock round (§9 #2).
+
 ---
 
 ## 4. IRON WHEEL UNION — 鉄輪連合 · The Tetsurin Alliance
 
 ![Boss Tetsu's chop-shop garage](mock-ironwheel-garage.png)
-*Repair Row, under the expressway. The checkered banner is older than the city charter.*
+*[REFERENCE] Repair Row, under the expressway. The checkered banner is older than the city charter.*
+
+![Iron Wheel chop-shop garage — implementation-realistic low-poly Godot render](impl-ironwheel-garage.png)
+*[IMPLEMENTATION] What the shipped game actually renders: flat-shaded patchwork panels, ink outlines, twin filter-cone helmet profiles, right-side chevrons.*
+
+**Production translation.** What survived: the asymmetric right-side hazard-orange chevrons (the directional heading read — the faction's cheapest and most reliable ID), the twin filter cones as real geometry (hexagonal prisms, ~12 tris each — they break the head circle into the insectoid wedge at LOD0/LOD1, flattening to texture at LOD2), the patched mismatched body panels as flat color blocks, the checkered banner as a rigid opaque card. What was cut: welded seams and patch stitching (sub-pixel dither under 2-band cel shading), fine stenciled part numbers. Ink-outline rule enforced: outlines only on base body masses — never on straps, antennas, or thin props (the "black clot" trap: hull inflation wider than the object leaves floating black splotches). Honest flags: (1) the banner's "IRON WHEEL UNION" lettering is legible only at mock distance — in production the checkered PATTERN is the read; the text dies past ~30 m; (2) one of the three figures wears chevrons on the wrong arm — the directional convention must be enforced per-instance in the asset pipeline, not left to chance. Faction readability: VERIFIED at 100 m (chevron side + filter-cone silhouette).
 
 **Origin.** Rogue courier drivers, midnight drag-racers, and wildcat chop-shop mechanics who refused the harbor syndicates. The only faction born on the road itself — and **the player's natural early ally**.
 
@@ -77,7 +93,12 @@
 ## 5. KMTED — Kurogane Municipal Traffic Enforcement Division
 
 ![KMTED cruiser and the Meter Maid](mock-kmted-cruiser.png)
-*Factory Row, Section B-7. The cruiser wants a confession; the scooter wants your meter money.*
+*[REFERENCE] Factory Row, Section B-7. The cruiser wants a confession; the scooter wants your meter money.*
+
+![KMTED cruiser and Meter Maid — implementation-realistic low-poly Godot render](impl-kmted-cruiser.png)
+*[IMPLEMENTATION] What the shipped game actually renders: flat-shaded low-poly, flashing amber beacon as the fog-piercing read, masked figures.*
+
+**Production translation.** What survived: the flashing amber roof beacon (authored emissive — the KMTED's #1 fog-proof read), the putty-gray sedan block with simplified municipal-blue door bands, the white bucket helmet + square respirator profile on both figures, the chunky hazard-orange belt stripe, the kōban booth with pneumatic bribe-chute slot. What was cut: badge numbers, fine belt piping, sedan greebles (all culled at distance), the cruiser's fine stencil lettering. Honest flag: in this mock the Meter Maid's scooter is mostly occluded behind the cruiser — production needs a dedicated readable scooter profile mock before vehicle modeling; the silent three-wheeler silhouette is her signature and it isn't proven here. Faction readability: VERIFIED at 100 m (beacon + helmet + belt stripe).
 
 **Identity.** Bored, underpaid municipal officers in heavy, understeered pursuit sedans with mechanical roof sirens, dashboard dispatch radios, and push-bars. They don't shoot — they use **mechanical leverage and paperwork**: pull alongside, scrape paint, pin you against street furniture until the chassis is immobilized, then write you into the next fiscal quarter.
 
@@ -94,7 +115,7 @@
 ## 6. AMERICAN ARMY PRESENCE — **PROPOSED, NOT CANON**
 
 ![American surplus depot](mock-american-depot.png)
-*The treaty-port depot at the Daikoku perimeter. The fence is peeled open and nobody fixes it — that's the whole relationship.*
+*[REFERENCE] The treaty-port depot at the Daikoku perimeter. The fence is peeled open and nobody fixes it — that's the whole relationship. (No implementation layer: PROPOSED, not canon. The design is already a pure color-field read — flat olive-drab vs. ochre dust translates to low-poly trivially; the stencil typography would survive only as under-40 m flavor.)*
 
 > **Status: PROPOSED — pending Craig's approval. This section is a design proposal, not canon.** If approved, it slots into the bible as a sixth power at the harbor's edge: a residual US military logistics footprint under a port-access treaty — present, armed-light, economically embedded, culturally distinct.
 
@@ -156,12 +177,66 @@
 
 ---
 
-## Mocks delivered
+---
 
+## 10. PRODUCTION TRANSLATION — the Gemini consult digest
+
+*Method: Gemini technical-artist consult (gemini-3.8-flash via the gemini-consult skill; answer digested, not pasted — full text in `consult/factions-production-translation.md`). The question: what's cheapest to cut while keeping 100 m faction readability under Godot 4 low-poly + the AnimeLook module (flat poster fields, inverted-hull ink outlines, 2-band cel shading, washed-out noise) in heavy ochre dust fog.*
+
+**The distance-readability hierarchy (at 100 m, fog-attenuated):**
+1. **Emissive/reflective strips — most reliable.** Authored as emissive/unshaded components writing directly to the color buffer; passive albedo dies in the fog volume, self-illumination pierces it. (Kaiun's T-bar, KMTED's beacon, Iron Wheel's chevrons belong here.)
+2. **Big poster-color livery/banner blocks — highly reliable.** Contiguous un-textured color fields survive down to the lowest mipmap levels — a 20-pixel coat reads instantly as a plum A-line against ochre.
+3. **Stenciled insignia decals — completely dead.** A chest kamon at 100 m is 2–4 pixels of gray smudge; decals cost fill-rate on mobile TBDR (alpha blending / extra depth samples). Never rely on stencils for distance ID.
+
+**Per-faction: the one non-negotiable vs. the cheapest cut:**
+
+| Faction | Non-negotiable (never cut) | Cheapest cut (dies without loss) |
+|---|---|---|
+| Kaiun-gumi | Sodium-orange block + emissive T-bar band + square box-hood silhouette (gives chest/back orientation in fog) | Crane-hook insignia, canvas folds — coveralls become rigid low-poly cylinders |
+| Gokuraku-kai | Vertical A-line column silhouette + bruised-plum value drop (dark block against bright dust) | Gold-leaf filigree — subpixel shimmer at 30 m+, inflates hull vertex counts; texture or nothing |
+| Tsuru-kai | Stark white boot blocks (ground-level value contrast) + tall rigid nobori banner cards | Crane kamon on apron belly; copper scrubber canisters (LOD0 geometry at best, culled by LOD2) |
+| Iron Wheel Union | Asymmetric right-side orange chevron (heading read — camera-facing bar = facing you) | Patch seams, weld beads, fine stenciled part numbers — sub-pixel dither under cel shading |
+| KMTED | Flashing amber beacon + white bucket helmet + square respirator profile | Badge numbers, fine belt stripes, sedan greebles |
+| Americans *(proposed)* | Flat olive-drab block vs. ochre dust | Stencil typography (under-40 m flavor only) |
+
+**Geometry/LOD breakpoints (what earns polygons):**
+- **Twin filter cones (Iron Wheel): EARN polygons.** 12-tri hexagonal prisms at LOD0/LOD1 — they extend outside the head perimeter and break the human circle into the insectoid wedge. Flat texture at LOD2.
+- **Copper scrubbers (Tsuru-kai): MEDIUM.** Boxy 8-tri geometry at LOD0 only (close ramming/interaction range); baked into the collar mass at LOD1; culled at LOD2.
+- **Acoustic grilles, gold-leaf trim: ZERO polygon budget.** Interior-plane details; modeled trim causes coplanar Z-fighting on mobile depth buffers.
+- **Kanzaki's mask ranks: one mesh, texture-swap.** Pack footman and inner-circle variants into one atlas; offset UVs via INSTANCE_CUSTOM.x / vertex color in the custom shader. Micro-geometry on the mask causes inverted-hull self-intersection ("ink cancer" — black clotted artifacts around the mouth). Her amber goggles earn a dedicated head variant (chunky 8–12-triangle blockouts) because they break the external silhouette profile.
+
+**Asset-budget traps (look cheap in concept art, expensive in-engine):**
+1. **Flowing nobori banners (cloth sim / alpha-cut edges)** → model as rigid opaque low-poly cards with baked vertex-shader wind sway (`sin(TIME*freq + VERTEX.y)`), no bones, no alpha-scissor (alpha kills TBDR tile performance).
+2. **Ink outlines on thin floating props** → outline shader ONLY on base body masses (chassis, torso, cranium). Inflated hulls on straps/antennas/push-bars render wider than the object — the "black clot" trap.
+3. **Gold-leaf specular** → never metallic PBR + reflection probes in fog on mobile (unnatural glow inside fog volumes). Fake as an unshaded MatCap texture masked by an ORM channel, with a stepped cel-specular glint.
+4. **Insignia decals at distance** → see the hierarchy above; replace with chunky color blocks.
+
+**What the three implementation mocks prove.** The Kaiun checkpoint, KMTED cruiser, and Iron Wheel garage impl mocks were generated against these constraints (flat fields, ink outlines, cel bands, warm umber shadows, dust fog) and each faction's 100 m read survives the translation. The de-risk point held: silhouette + color + motion carry the ID; insignia and micro-detail do not — and were cut without gameplay loss.
+
+**What the reference mocks cannot survive (honest flags):**
+- The Kanzaki portrait's lacquered sheen, red smile, and brass grille are under-40 m details; no implementation mock was commissioned this round — the highest-risk translation, still unproven in-engine.
+- The Iron Wheel mock's banner lettering and one mis-sided chevron (noted in §4).
+- The KMTED mock's occluded Meter Maid scooter (noted in §5).
+- No implementation pass exists for Tsuru-kai or the proposed Americans (see §9 #2).
+
+---
+
+## Mocks delivered — two layers
+
+**[REFERENCE] (aspirational, painterly, art-directed):**
 - `mock-kaiun-checkpoint.png` — Kaiun-gumi dock checkpoint, enforcers, hook banner
 - `mock-kanzaki-mask.png` — Madame Kanzaki lacquered-mask portrait
 - `mock-kmted-cruiser.png` — KMTED cruiser + Meter Maid scooter (mask-law compliant pass)
 - `mock-ironwheel-garage.png` — Iron Wheel chop-shop garage, Boss Tetsu
-- `mock-american-depot.png` — American surplus depot, PX stalls, joint patrol (mask-law compliant pass)
+- `mock-american-depot.png` — American surplus depot, PX stalls, joint patrol (mask-law compliant pass; PROPOSED)
 
 All five opened and verified: 80s-anime cel, warm dust palette, no unmasked faces, no neon soup.
+
+**[IMPLEMENTATION] (what the shipped Godot game actually renders — flat-shaded low-poly, ink outlines, cel bands, warm umber shadows, dust fog):**
+- `impl-kaiun-checkpoint.png` — Kaiun dock checkpoint: orange blocks + emissive T-bar + box-hoods; readability verified at 100 m
+- `impl-kmted-cruiser.png` — KMTED cruiser + Meter Maid: flashing beacon + white helmet + belt stripe; readability verified at 100 m (flag: scooter occluded — dedicated profile mock needed)
+- `impl-ironwheel-garage.png` — Iron Wheel garage: patchwork panels + twin filter cones + right-side chevrons; readability verified at 100 m (flag: one mis-sided chevron; banner text dies past ~30 m)
+
+All three opened and verified: game-screenshot read, every face masked, no neon soup.
+
+**Not yet commissioned:** Tsuru-kai implementation mock (Kamome dawn-auction piece, per §9 #2); Kanzaki implementation mock (highest-risk translation, unproven in-engine); Americans implementation layer (PROPOSED — on hold pending Craig's verdict).

@@ -1,7 +1,9 @@
 # FLEET & GEAR
 ### KUROGANE BAY Art Book — Chapter: the vehicles, the upgrades, the cargo, the kit
 
-*Status: draft for bible approval. Canon sources: `gig-city-world-bible.md` §7/§9/§12, `gig-city-retrofutur-identity.md` §1/§4/§8, `showa-dust-extrapolation.md` §5.2/§5.8. Research: 2 Gemini consult rounds (upgrade-tier legibility; cargo telegraphing) — digested below, not quoted.*
+*Status: draft for bible approval. Canon sources: `gig-city-world-bible.md` §7/§9/§12, `gig-city-retrofutur-identity.md` §1/§4/§8, `showa-dust-extrapolation.md` §5.2/§5.8. Research: 3 Gemini consult rounds (upgrade-tier legibility; cargo telegraphing; low-poly production translation) — digested below, not quoted.*
+
+**Mock layers:** every mock in this chapter carries a layer tag. **[REFERENCE]** = aspirational, painterly, art-directed — the dream. **[IMPLEMENTATION]** = what the final 3D actually looks like under our real technology: Godot low-poly geometry, the AnimeLook shader module (flat color fields, ink outlines, 2-band cel shading, washed-out texture noise), traffic cars ~2k tris and hero cars still low-poly, fixed lighting, upgrade tiers that must read at 50 m in dust. The de-risk question for every IMPLEMENTATION mock: does the visual progression survive low-poly, or only the reference promise?
 
 **Design laws governing this chapter:**
 - All vehicles are *analog machines*: carburetors tuned by ear, vacuum tubes, stamped steel, bakelite, rubber hoses with worm-gear clamps. No digital-era form factors (§15 tech ceiling).
@@ -15,8 +17,8 @@
 
 ### A1. Hinode Carrier — the starter beater cab
 
-![Hinode Carrier three-quarter hero view](mock-hinode-carrier.png)
-*The Hinode Carrier: boxy '70s notchback, rooftop VACANT flag, fender bullet mirrors, cyclone intake on the hood, spare filter canisters on the roof rack.*
+**[REFERENCE]** ![Hinode Carrier three-quarter hero view](mock-hinode-carrier.png)
+*[REFERENCE] The Hinode Carrier: boxy '70s notchback, rooftop VACANT flag, fender bullet mirrors, cyclone intake on the hood, spare filter canisters on the roof rack.*
 
 **Silhouette:** Upright, honest, boxy '70s notchback — a tall greenhouse, flat deck lid, nearly vertical windshield. The proportions say "fleet issue" before the paint does. Nothing on this car is trying to look fast.
 
@@ -42,8 +44,8 @@
 
 ### A3. Ohtori Sovereign — the luxury sedan
 
-![Ohtori Sovereign luxury sedan](mock-ohtori-sovereign.png)
-*The Ohtori Sovereign: stretched brutalist barge, vacuum-tube taillight bar, lace curtains, sealed formal livery.*
+**[REFERENCE]** ![Ohtori Sovereign luxury sedan](mock-ohtori-sovereign.png)
+*[REFERENCE] The Ohtori Sovereign: stretched brutalist barge, vacuum-tube taillight bar, lace curtains, sealed formal livery.*
 
 **Silhouette:** A stretched brutalist barge — long flat hood, upright formal greenhouse, and a trunk that reads like a bank vault. The wheelbase is the status; the car announces arrivals before the driver does.
 
@@ -69,8 +71,8 @@
 
 ### A5. Goliath 800 — the heavy flatbed rig
 
-![Goliath 800 heavy flatbed rig](mock-goliath-800.png)
-*The Goliath 800: twin-steer tractor, knuckle-boom crane, winch bumper, chained flatbed load, annotated like a workshop manual.*
+**[REFERENCE]** ![Goliath 800 heavy flatbed rig](mock-goliath-800.png)
+*[REFERENCE] The Goliath 800: twin-steer tractor, knuckle-boom crane, winch bumper, chained flatbed load, annotated like a workshop manual.*
 
 **Silhouette:** Twin-steer tractor — two front steering axles — pulling a long riveted flatbed. The cab is a riveted steel box with a split windshield; the roof carries marker lamps on a light bar. Behind the cab, a knuckle-boom crane folded like a sleeping arm. Everything on this vehicle is load-rated and stenciled as such.
 
@@ -223,8 +225,8 @@ These ride alongside the four stats — the dust is a tax, and these are the rec
 
 ## D. DRIVER GEAR — the wheelman's kit
 
-![Driver gear flat-lay](mock-driver-gear.png)
-*The wheelman's kit: respirator, amber goggles, union cap, ROUTE-88 punch cards, stamped union card, pigskin glove, brass-zippered coverall, coin tray, split-drum taximeter, dash fan.*
+**[REFERENCE]** ![Driver gear flat-lay](mock-driver-gear.png)
+*[REFERENCE] The wheelman's kit: respirator, amber goggles, union cap, ROUTE-88 punch cards, stamped union card, pigskin glove, brass-zippered coverall, coin tray, split-drum taximeter, dash fan.*
 
 The driver is never modeled unmasked. The kit *is* the character — silhouette + mask + props, per the character law.
 
@@ -249,6 +251,68 @@ The *Night on Earth* rule: the cab is the one sealed, private room in a city wit
 
 ---
 
+## E. PRODUCTION TRANSLATION — the implementation layer
+
+*(From the low-poly Gemini tech consult, canon-filtered. The ruling in one line: at 50 m in dust, silhouette-chunk size >>> contrasting paint values >>> cel shadow bands >>> fine detail (dead). Anything smaller than ~0.25 m world-space drops below a pixel on 1080p and is never worth tris.)*
+
+### E1. The low-poly doctrine (applies to all 6 classes + all cargo props)
+
+**Geometry vs. texture ruling:** only *silhouette-breakers* earn geometry. Tier 4–5 speed wings, hood blowers that break the hood plane, exhaust stacks that break the rear contour, push bars projecting past the bumper, external cage loops, and the bounding prism of any roof basket or crate — these are real chunks. Everything else is albedo/material-ID plus a hard ink line in the texture: T1–3 scoops and side vents get a baked fake drop-shadow in the albedo; intercooler mesh is a flat bumper quad with a painted grid; door armor and rivets/welds are coplanar quads or painted into the door texture; chrome brightwork is a material ID with a stepped, stylized specular band; pinstriping is albedo only.
+
+**The 50 m tier signal** runs on the B0 arc unchanged — chunk, not count — but the *carrier* of the signal is paint value, not geometry: a white hood against a dark chassis reads through 50% fog; a red fender on brown washes into grey mush. Every tier's outer boundary keeps the heaviest ink line weight (B0 stands), but the outline pass needs a fog clamp so the ink keeps a 30–40% value floor instead of washing chalky grey.
+
+**Hard production warnings (encoded for modelers):**
+- **Inverted-hull black-blobbing:** thin geometry (antennae, cage bars, roll-cage tubes) blows out into swollen black scribbles under the outline pass. Suppress outlines on small props via a vertex-color channel.
+- **No alpha-scissor** for wire mesh, chains, or grilles — it stalls mobile tile-based GPUs. 100% opaque geometry only; fake perforations with baked high-contrast line textures.
+- **No dial needles at distance** — a moving needle is sub-pixel crawl. Analog gauges become binary: the whole dial face flips color (red/green halves, or solid red + emissive flash on alert).
+- **No real lights for prop telegraphs** — a dynamic OmniLight is fill-rate suicide on mobile. Emissive states are driven by instance shader params (e.g. RPM-over-threshold flips the amber lamp's albedo band to emissive), and the lamp is modeled **3× oversized** so it reads at 50 m.
+
+### E2. Hinode Carrier — implementation
+
+**[IMPLEMENTATION]** ![Hinode Carrier as a low-poly 3D game screenshot](impl-hinode-carrier.png)
+*[IMPLEMENTATION] The Hinode at late tiers, as a Godot low-poly screenshot: faceted mustard/rust body, hood blower chunk, prism push-bar, zinc-yellow door plates with oversized bolt heads, roof-rack basket prism with filter canisters, conical cyclone intake, bullet mirror.*
+
+**What survived:** the whole B0 shape language — the hood blower is a silhouette-breaking chunk (T5 SPEED reads at 50 m), the push-bar is a 3-sided prism past the bumper (T2 HEALTH), the zinc-yellow door plates with four comic-book bolt heads carry T3–T5 HEALTH on paint value, the roof-rack basket is a solid bounding prism (CARGO), the conical cyclone intake reads as one 12-sided cone (dust module). Two-tone split at the rub strip survives as albedo zones.
+
+**What was cut/changed:** T1–T3 SPEED hardware (primer lunchbox scoop, rough-cut pod filter) is albedo + ink line only — honest flag, it is *invisible at gameplay distance* and reads only in garage close-ups; the tier signal there rides on the paint value, not the scoop. The mock collapsed the VACANT flag-on-brass-stalk into a generic roof-sign box — the flag design is NOT cut; the real model restores the brass-stalk flag, it's the fleet identity marker. The mock's diegetic roof sign carried legible micro-text — real build renders the sign as geometry + albedo with NO readable text (sub-pixel crawl rule).
+
+**Honest flag:** the reference promise "T1 reads as someone opened the hood with intent" cannot survive at 50 m in dust. T1–T3 SPEED is a garage-showroom read; on the road, SPEED's signal starts at T4 (contour breaks) plus the contrasting paint values.
+
+### E3. Goliath 800 — implementation
+
+**[IMPLEMENTATION]** ![Goliath 800 as a low-poly 3D game screenshot](impl-goliath-800.png)
+*[IMPLEMENTATION] The Goliath 800 as a Godot low-poly screenshot: twin-steer tractor (two front axles mandatory — see flags), knuckle-boom crane folded in big rectangular segments, winch drum on the bumper, solid slab-sided basket rails, crate loads in solid stamped-metal bracket straps, hazard-orange/soot-gray value zones, chevron color blocks.*
+
+**What survived:** hazard-orange/soot-gray value zoning, chevron color blocks on the bumper, the winch cable drum as a chunky cylinder, roof marker lamp bar, riveted cab box with split windshield. The flatbed loads read as blocky crates under solid bracket straps — the chained-load look translated.
+
+**What was cut/changed:** chain links → solid stamped-metal bracket straps (chains blob under inverted hull at distance, and the mock's thin slat rails must become a solid slab prism per the no-alpha-scissor rule). Marker and charge lamps oversized 3×. Crane hook-block/chain-sling detail is garage-props only.
+
+**Honest flags (two, both mock drift, both must be fixed in the model):**
+1. The mock shows the crane RAISED; the reference design parks it folded "like a sleeping arm." The mock is wrong — the real model folds it.
+2. The mock reads as a single front axle; the **twin-steer second axle is the class's signature silhouette** and must be modeled — it's a silhouette-breaker, non-negotiable.
+
+### E4. Cargo-lashing study — implementation
+
+**[IMPLEMENTATION]** ![Cargo payload props as low-poly 3D game screenshot](impl-cargo-lashing.png)
+*[IMPLEMENTATION] The cargo telegraphs as low-poly theater props: wedding-cake box in four thick corner posts with accordion zigzag strips, slatted tuna crate with 2-tone anime vapor puffs, organ cooler with an oversized emissive amber dome lamp and fan belt, half-red/half-green binary dial face, red jerrycans in a solid stamped bracket rack.*
+
+**What survived (the de-risk verdict — all five telegraphs translate):**
+- **Wedding cake:** wire cage CUT; four thick corner posts + flat roof cap + accordion zigzag cross-strips replace the coil springs (springs scale on Z in the vertex shader with vehicle vertical velocity). The mock nails this — the cage still reads as "the gauge."
+- **Bluefin tuna:** the vapor trail SURVIVES as 4–6 CPUParticles3D billboard quads with an 80s 2-tone puff sprite. Hard limit: keep the count tiny; over-scaling drifts into modern soft-puff territory.
+- **Organ cooler:** amber lamp SURVIVES as an 8-tri dome at 3× scale, emissive step driven by an RPM instance shader param — no OmniLight. The belt stays as a simple torus-ish band; the squeal is the audio tell, not geometry.
+- **Nitro/fuel dials:** needle CUT; whole-face binary color flip (half-red/half-green dial, solid red + emissive flash on alert). The mock's needle-free dial is the production spec.
+- **Gimbal rings:** flat 8–10-sided ribbon hoops (16–20 tris per ring), tilt animated from vehicle roll vectors in a vertex shader — no physics joints.
+
+**What was cut:** helical spring geometry, real wire mesh, analog needle gauges, chain links on the loads, hemp-rope strand geometry (rope is a single extruded spline tube; the *knot count* tell becomes texture bumps at garage distance only).
+
+**Honest flag:** the octopus tank's sloshing sight-glass and the bond certificates' "no external tell" survive only at close range — at 50 m a tank is a sealed round box, full stop. The *momentum* telegraph (sloshing waterline) is a chase-camera/garage read, not a gameplay-distance read. Design accepts this: the tank's visible surge matters when the player is close enough to see it slosh.
+
+### E5. Coverage gaps (not yet translated)
+
+This pass covers the Hinode Carrier, the Goliath 800, and the cargo props. Still owed an IMPLEMENTATION pass: Tatsumi Hauler, Ohtori Sovereign (note: its reference mock had stamped spec text — the impl pass must avoid that), Raiden Fastback, Mirage Zero, and the driver gear flat-lay. The upgrade-tier T1–T5 visual matrix (B1–B4) reads on the Hinode proofs above, but each chassis needs its own impl verification before modeling briefs go out.
+
+---
+
 ## OPEN QUESTIONS (pending BIBLE DELTA)
 
 1. **Mirage Zero class gating** — the bible assigns it "top-tier syndicate gigs, prestige fares." Is there a named gig *class* that requires the Mirage specifically (like Ohtori ↔ Appeal ≥ 70 VIP), or is it pure aspiration/prestige with no mechanical gate?
@@ -262,4 +326,4 @@ The *Night on Earth* rule: the cab is the one sealed, private room in a city wit
 
 ---
 
-*End of FLEET & GEAR chapter draft. Mocks: `mock-hinode-carrier.png`, `mock-ohtori-sovereign.png`, `mock-goliath-800.png`, `mock-cargo-lashing.png`, `mock-driver-gear.png` — all 80s-anime cel, 1024×1024, verified by eye: warm umber shadows, no neon soup, no unmasked faces, no digital-era form factors.*
+*End of FLEET & GEAR chapter draft. Mocks — [REFERENCE] layer: `mock-hinode-carrier.png`, `mock-ohtori-sovereign.png`, `mock-goliath-800.png`, `mock-cargo-lashing.png`, `mock-driver-gear.png` (80s-anime cel, verified by eye: warm umber shadows, no neon soup, no unmasked faces, no digital-era form factors). [IMPLEMENTATION] layer: `impl-hinode-carrier.png`, `impl-goliath-800.png`, `impl-cargo-lashing.png` — low-poly 3D game-screenshot read (faceted geometry, ink outlines, cel bands, washed-out texture noise, simple backdrops), each opened and verified: no painterly drift, no text artifacts (one diegetic TAXI roof-sign in the Hinode mock — flagged in E2), no digital-era form factors, no faces. E2–E4 carry the per-vehicle production translation notes with honest flags; E5 lists the chassis still owed an impl pass.*
