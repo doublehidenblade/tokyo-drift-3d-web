@@ -1,0 +1,226 @@
+# THE TRENCH — Lower City Art Book Chapter
+### KUROGANE BAY art book · 80s-anime cel · Showa retro-futurist · dust-forward
+
+*Writer: Lower City chapter. Canon sources: `gig-city-world-bible.md` (v2), `gig-city-retrofutur-identity.md`, `showa-dust-extrapolation.md`, plus design consultation digested into this text. This is 2D design only — no implementation. Craig's law honored throughout: comedy emerges from systems; nothing here is a joke.*
+
+**The Trench** is the main drivable world of Kurogane Bay: the Lower City, drowning in permanent ochre dust, visibility rarely past 100 m. The "sky" is never empty — it is the industrial underbelly of the Upper City: hydraulic conduit bundles, elevator counterweight tracks, truss bridges, dangling cranes, foundation plates blotting out the sun. Humans stay masked, inside, or above. The cab is the citizen's life-support capsule; the street is a machine trench.
+
+**The 100 m rule (from design consultation):** at 100 m visibility in ochre particulate, fine detail is dead. A district is read at a glance only through **macro-massing silhouettes** (what shape fills the ceiling, eye-level channel, and ground plane) and **dominant luminance planes** (where the district's light sits in the vertical stack). Every district section below therefore opens with its **signature read** — the one shape-and-light combination a driver registers before they can read a single sign. Details are for 30 m; silhouette and light are for 100 m.
+
+**The density law (Tekkonkinkreet, translated for drivable streets):** Treasure Town's lived-in cram is faked, never simulated. Four cheap tricks, applied per-district:
+1. **Aerial choke** — cable looms, pneumatic tubes, transformer cans strung across the roadway just above cab roof-rack height (3.2–4 m), compressing the drivable trench at windshield level.
+2. **Sign atlases** — clusters of 6–15 small stamped-steel enamel plates over every junction box, lamppost, and bridge abutment (ward tax tags, Sol-rationing certificates, high-voltage warnings, filter-change dates), stacked overlapping: a physical paper-trail of civic function.
+3. **Observer perches** — static masked figures placed strictly out of vehicular reach: fire escapes, booth slits, catwalk railings, skybridge windows. They never move; mask lenses catch headlights.
+4. **Machine-slag windrows** — gutters never meet walls cleanly: dented kerosene tins, wire-tied soaked cardboard bundles, dead battery casings, blown retreads, concrete-hard ochre dust windrows.
+
+---
+
+## 1. DAIKOKU PIERS — the harbor
+
+> *Miles of rusted gantry cranes, container stacks, open-flame shipbreaking yards; offshore, the bay carpeted with floating panel arrays to the horizon. Controller: Kaiun-gumi.*
+
+**Signature read:** skeletal overhead cross-trussing and A-frame crane counterweights cutting against sodium backscatter; container canyons stacked strictly 4-high in rust-orange; unshielded high-pressure sodium floodlights at 30 m elevation driving cone-shaped light shafts into the dust. At 100 m: rust-orange latticework + light cones above a black ground plane. The offshore panel fields read as a black geometric sea to the horizon, broken by catwalk lines and maintenance-boat wakes.
+
+**Building types (vernacular):**
+- **Container-stack terraces** — corrugated steel boxes in rust-orange, tar beige, and faded marine primers, stacked 4-high, staggered like masonry. Ground floors cut into: tally offices with amber acrylic windows, tally-clerks' dust-locks, tally lamps on goosenecks.
+- **Tally offices & customs sheds** — squat board-formed concrete blocks with corrugated-iron lean-tos; enamel "GATE" number plates; canvas dust flaps on doorways; swept-dust piles at every threshold.
+- **Shipbreaking yards** — open sheds of I-beam frames with corrugated roofs half-torn off; hull plates leaning like tombstones; cutting-torch flash behind welding screens.
+- **Sand-blasted foreign-settlement hybrids** — the port's pre-war European slopes survive here: plaster stripped in patches to expose brick, arched windows bricked halfway up into squinting half-arches, verandas converted into amber-acrylic dust-locks (see extrapolation §5.5). Identity: two architectures weathering differently.
+
+**Unique landmarks:**
+1. **Freight Gates 1–9** — nine riveted-steel customs arches, each numbered in three-foot enamel numerals, hazard-orange chevrons at bumper height. Gate 7 is the Kaiun-gumi's gate: its flag mast flies the syndicate's mon on a weather-cracked banner; bribe-chute pedestals flank both lanes.
+2. **The Winch Mast** — a dead gantry crane converted into Oyabun Murata's watch tower: its cab glazed with amber acrylic, a longshoreman's coat draped over the rail. Drives understand: the district has a landlord.
+
+**Street props:** pallet windrows, coiled mooring hawsers, oil-drum crash barriers painted with enamel gate marks, chalk tally boards on A-frames, crane-hook shadows swinging on cables overhead.
+
+**Traffic/vehicles:** Harbor Tram on its center-boulevard rail (kinematic, unstoppable, brass bell — moving cover or lethal wall); Zaibatsu Heavy Haulers on artery splines (air-horn warning, never brake for sedans); kei dock vans scattering at the horn. Cyclone-filter dust haulers parked nose-out at tally offices.
+
+**Character silhouettes (all masked, zero locomotion):** masked docker waving the cab into a bay (canvas hood, dual-canister respirator, tally board in hand); tally clerk behind amber booth glass; an observer perched on the Gate 7 catwalk railing, arms crossed.
+
+**Signature items:** brass pneumatic carrier cylinders stamped with gate manifests; enamel "GATE 7" plates; the tally-clerk's chalk stick; heavy mooring chain sections.
+
+---
+
+## 2. KAMOME WHOLESALE WARD — the wet market
+
+> *Chaotic wet-pavement labyrinth of seafood halls, cold storage, auction stalls — dust caked on every awning. Controller: Tsuru-kai.*
+
+**Signature read:** the ground plane itself. Squat low-clearance eaves of corrugated fiberglass; 4000K fluorescent strips hung beneath them bouncing off perpetually flooded, fish-scale-coated tarmac — the road glows **wet tile-white** beneath the ochre air. At 100 m: no sky view, white horizontal bloom below, amber murk above. Narrowest streets in the Trench: this is where alleycraft is learned.
+
+**Building types (vernacular):**
+- **Seafood halls** — long single-story sheds, tile-white lower walls stained with tide-lines of grime, corrugated fiberglass upper walls, dripping ice-melt drains at the eaves. Noren dust flaps weighted with sewn-in chain links, each stenciled with the stall's mon in whitewash.
+- **Cold-storage blocks** — windowless concrete cubes with rusted ammonia-pipe runs, enamel "ICE" plates, canvas-sealed loading docks.
+- **Auction stalls** — open bays with hanging scales, ice trays, and blade-less hanging menu banners (oilcloth, stiff with frost). Drive-up bidding windows at cab height: the driver never leaves the car.
+
+**Unique landmarks:**
+1. **The Dawn Bell Gantry** — a riveted steel arch over the main auction avenue carrying a bronze ship's bell and the market's master Solari board (split-flap panels clacking the day's auction lots). The bell is rung at shift-start; the district's clock.
+2. **Kenji the Fish-King's Hall** — the largest auction hall, its noren three times standard width, its mon painted floor-to-roof on the gable: a tuna silhouette in faded indigo wash. Rubber-boot prints permanently stained into the loading bay's concrete.
+
+**Street props:** ice-chip slurry drifts against curbs, fish crates in stacks (rope-lashed, tarped), enamel auction-lot plates, synthetic-ice block pallets sweating through burlap, hand-truck fleets chained to bollards.
+
+**Traffic/vehicles:** kei vans (panic-brake at the horn, gutter-swerve); Tatsumi Haulers on cold-chain artery runs; the Harbor Tram's spur line dead-ending at the market gate. Pre-dawn shift-horn rushes flood the avenues on a fixed schedule — the ROUTE-88's problem.
+
+**Character silhouettes (all masked):** auctioneer at the drive-up window (rubber apron, sou'wester over cloth mask, hammer raised); stall hand leaning on a crate stack at curb height; an observer on the hall's fire escape, clipboard in hand.
+
+**Signature items:** the auctioneer's brass hand bell; enamel lot-number plates; blood-stained rubber aprons on pegs; the waxed manifest scrolls Tsuru-kai toll collectors carry in brass tubes.
+
+---
+
+## 3. CHIDORI NEON STRIP — the pleasure quarter
+
+> *Multi-tiered red-light alleyways: cabarets, capsule motels, pachinko palaces — the one district where the dust thins enough for blade signs to cut through. Controller: Gokuraku-kai.*
+
+**Signature read:** dense, rhythmic vertical blade-sign slashes — saturated warm red and deep amber gas-discharge blades projecting 2 m off the facades at alternating heights every ~10 m, stepped-back building faces, multi-tiered steel catwalks and fire escapes choking the vertical trench. At 100 m: warm color bars repeating like a slalom through the haze. Authored lighting exception: **this is night.** (Canon: districts get authored fixed lighting as identity.) Emissive restraint holds: warm filament and gas-discharge only — cherry red, amber, incandescent orange. No magenta/cyan, no neon soup.
+
+**Building types (vernacular):**
+- **Cabaret terraces** — narrow 3–5 story fronts, each floor a different establishment: paper-lantern eaves, vertical blade signs, capsule windows with lace curtains, mirrored-glass booth slits at street level.
+- **Pachinko palaces** — windowless blocks wrapped in horizontal enamel banding, their facades one continuous sign surface; doorways as guillotine-sill ticket windows.
+- **Capsule motels** — honeycomb pod walls (small-scale cousin of the capsule towers), each pod porthole glowing warm; "VACANCY" rendered as a flip-number board, never a screen.
+
+**Unique landmarks:**
+1. **The Starlight Lounge tower** — Gokuraku-kai's house: a seven-story corner block wrapped in a continuous vertical cascade of amber blade signs; Madame Kanzaki's velvet office visible as the one dark floor, its black-lacquered windows shuttered. The district's crown.
+2. **North Canal motel row** — canal-side service road lined with love-hotel blocks whose rooftop water tanks are painted as giant paper lanterns (faded vermilion). The canal itself reads as a black mirror band under the signage glow.
+
+**Street props:** velvet-rope queue rails at club doors, discarded "Spark-9" matchbook stubs in gutters, enamel "MEMBERS ONLY" plates, pachinko-ball spill drifts (brass-colored gravel that rattles under tires), paper lanterns on sagging wires.
+
+**Traffic/vehicles:** fleet cabs queue three-deep at club doors (Taro "Clean Towel" Inaba's immaculate black sedans are the tell: chrome half-masks on their drivers, white gloves on the wheel); kei vans delivering synthetic liquor; the occasional Ohtori Sovereign on a VIP transfer.
+
+**Character silhouettes (all masked):** hostess ducking into a back seat (evening dress, lace-trimmed dust veil over respirator); barker at a cabaret door (tailored suit, painted-smile mask per Madame Kanzaki's house style); Little Sparrow's shoeshine crate abandoned at a service-alley mouth — shoeshine boy mid-errand, never seen standing still.
+
+**Signature items:** lacquered black mask with painted red smile (house uniform); brass pachinko balls; the barkers' laminated member cards; velvet ropes with brass stanchions.
+
+---
+
+## 4. TENJIN MID-CORRIDOR — the corporate canyon
+
+> *Brutalist concrete canyon of trading houses, banks, dispatch offices; sky-elevator Terminal 2 anchors the district's north end. Controller: contested — municipal patrols paid off by corporate security.*
+
+**Signature read:** unbroken monolithic verticality — sheer 90° concrete slabs with zero lateral fire escapes or external pipework, 4-inch vertical bronze expansion seams, the tensioned steel track cables of Terminal 2 plunging into the asphalt. Dark architecture with floor-level upward bronze wash-lights grazing the concrete: two parallel vertical light-sheets flanking the roadway. At 100 m: a bronze-edged slot canyon with cable verticals at its head.
+
+**Building types (vernacular):**
+- **Trading-house slabs** — board-formed concrete with form-tie holes in strict grids, bronze-anodized window bands, ground floors as sealed dust-lock lobbies with revolving amber-glass doors (decorative — nobody walks).
+- **Bank blocks** — heavier massing, rusticated concrete bases, enamel corporate mon plates at cornice height, flag masts with zaibatsu banners snapping in the dust wind.
+- **Dispatch offices** — mid-rise blocks bristling with brass pneumatic tube risers on their facades, tube-station kiosks at the curb.
+
+**Unique landmarks:**
+1. **Sky-Elevator Terminal 2** — the district's north anchor and the city's cathedral: brutalist lift tower, open freight decks on cables, counterweight drums, hazard-orange stripes, faction banners, Solari split-flap departure boards clacking queue numbers, inspection gantries, toll booths with coin-hoppers. The queue of waiting cabs is part of the architecture.
+2. **The Paper Exchange** — a windowless concrete drum wrapped in a single continuous enamel frieze of hand-stenciled Romanized kanji: the district's commodities ticker, painted not lit. Shinji "Slippery" Uno's briefcase handoffs happen in its shadow.
+
+**Street props:** enamel gantry signboards with hand-stenciled kanji (the retro-futurist identity's street-level infrastructure signature), giant soot-stained Solari split-flap panels clacking traffic updates on cantilevered steel gantries, amber hazard beacons on pre-stressed concrete pylons, painted iron intersection mirrors, kōban dust-lock booths at major crossings (waxed-canvas uniformed keeper sealed inside, pneumatic message tube on the flank, bribe-chute slot at bumper height).
+
+**Traffic/vehicles:** Ohtori Sovereigns on exec runs; Tatsumi Haulers with courier cylinders; KMTED pursuit sedans staged at kōban (mechanical roof sirens, push-bars); Inspector Dan's unmarked cruiser — the tell is the missing amber goggle lens glinting on the dash.
+
+**Character silhouettes (all masked):** the masked kōban keeper behind dust-lock glass (peaked cap, respirator clipped to brim); bagman at a drive-up tube pedestal feeding a brass cylinder into the hatch; corporate courier at a guillotine sill collecting a document tray.
+
+**Signature items:** brass pneumatic carrier cylinders with corporate seals; the kōban bribe envelope (fat, stamped, unmarked); enamel "TOLL JURISDICTION" boundary plates where KMTED authority ends.
+
+---
+
+## 5. KOTOBUKI SLUMS & REPAIR ROW — under the expressway
+
+> *Sunken shantytown beneath expressway supports: chop shops, pirate radio, surplus markets; the dust is thickest here. Controller: Iron Wheel Union — the player's natural early ally.*
+
+**Signature read:** a crushing flat horizontal **roof** — the underside of the multi-lane elevated expressway, deck soffit at ~4.5 m clearance, road channel hemmed by massive cylindrical concrete bridge piers in rusted rebar jackets. Intermittent bursts of cold blue-white welding arc light from chop-shop bays cutting through dingy tin-blue murk. At 100 m: a low concrete ceiling with spark-blooms, the only district where the sky is *concrete*.
+
+**Building types (vernacular):**
+- **Chop-shop bays** — corrugated-tin lean-tos wedged between piers, open fronts glowing with work lamps, engine hoists on I-beam trolleys, parts racks floor-to-ceiling.
+- **Sunken shanties** — scavenged-panel huts half-buried in drifted dust (the city digs itself out each morning; swept-dust piles are the district's trim), kawara-tile roofs salvaged onto tin walls, noren dust flaps in district-weave canvas.
+- **Filter-rinse bays** — the recession-proof business: pull-off lanes with overhead air-lance booms (counterbalanced yellow swing-arms with blast-cones), grease-blackened drain troughs, stacked filter canisters like ammunition.
+- **Surplus markets** — open-air stalls under the deck selling unregistered electronics, gray-market fuel drums, relic walls of dead-shop enamel plates and bonnet-bus grilles (the archive instinct).
+
+**Unique landmarks:**
+1. **Mariko "Zero-Gauge" Katsu's train shed** — the abandoned rail shed converted to the district's cathedral garage: its arched roof intact, its doors permanently open, a stripped Raiden Fastback on the alignment rack visible from the street like an altar. Welder's-mask decals mark her territory.
+2. **The Pirate Mast** — a shack-roof antenna farm of lashed-together masts and wire, the district's pirate-radio voice. At shift-change it flies the Iron Wheel Union's banner: a gear with eight spokes, painted in hazard orange.
+
+**Street props:** blown bias-ply retreads stacked as crash barriers, oil-drum stoves (the district's heating), rope-and-tarp cargo rigs, chalk union tallies on pier concrete, filter-canister pyramids.
+
+**Traffic/vehicles:** everything the other districts discard: Raiden Fastbacks on shakedown runs, Goliath 800 flatbeds winching wrecks, kei three-wheelers yielding to everyone per Tonnage Priority. This is where damage gets repaired — paid in paper yen.
+
+**Character silhouettes (all masked):** mechanic under a raised hood (welder's mask pushed up over respirator, coverall with a hundred pockets); rinse-bay attendant at the air-lance boom; an observer leaning on a catwalk railing above a chop shop, mask lenses catching the welding flash.
+
+**Signature items:** the union paper membership card (reputation stamped, not XP); spare cyclone-filter canisters; chalk sticks; the brass union gear-badge.
+
+---
+
+## 6. SHINKAI BASIN — the refinery
+
+> *Sol-88 refining vats, cracking plants, chemical canals lit by flare stacks — the dust source; visibility at its worst. Controller: KPC security, with Kaiun-gumi ties.*
+
+**Signature read:** overhead high-pressure process pipelines spanning the street at varying clearances (some sagging to 3.8 m — the district enforces route planning by pipe), massive spherical cracking vats breaking the pipeline tangle, rhythmic dull percussive flash of rooftop flare stacks. The haze is **sulfur-yellow**, roiling, never black. At 100 m: pipe labyrinth + flare blooms in yellow soup. Worst visibility in the Trench — the dust storm events (visibility to 30 m) read here as the district's normal weather elsewhere.
+
+**Building types (vernacular):**
+- **Cracking plants** — vertical distillation towers wrapped in insulated pipe runs and access ladders, riveted steel, hazard-orange chevron bases.
+- **Sol-88 vat farms** — spherical and cylindrical storage tanks in sulfur-stained steel, connected by pipeline gantries; enamel "SOL-88" plates and KPC mon stencils.
+- **Chemical canal works** — canal-side service roads flanked by treatment sheds; the canals themselves glow faint amber from flare light on chemical film.
+- **KPC security blocks** — windowless concrete cubes with rooftop searchlights on push-rod mounts, razor-wire over dust fences, enamel "RESTRICTED" plates.
+
+**Unique landmarks:**
+1. **The Flare Crown** — the tallest cracking tower, ringed by six flare stacks burning in sequence; the district's lighthouse. Its rhythm is the basin's shift-clock: drivers time runs to the flare cycle.
+2. **Vat 9 "The Kettle"** — the largest spherical vat, its support legs wrapped in Kaiun-gumi tally banners (the syndicate's cut made visible). Whistleblower extractions start in its shadow.
+
+**Street props:** pipeline support gantries with clearance-height enamel plates ("3.8M" in hazard orange), chemical-spill decal zones (real friction values — cooking-oil slicks, wet-cement grab zones, per the hazardous-spill comedy engine), respirator-cartridge vending pedestals, sealed lead-lined drum stacks.
+
+**Traffic/vehicles:** Zaibatsu Heavy Haulers on fuel artery splines (never brake); dust-armored tanker haulers with cyclone intakes and caged headlights; KPC security cruisers (push-bar equipped) running Heat-2 pinning patterns at district borders.
+
+**Character silhouettes (all masked):** KPC security trooper at a checkpoint gantry (sealed suit, mirrored visor); refinery worker on a pipeline catwalk, arms crossed, watching the road; whistleblower at a guillotine sill — the one figure who looks over their shoulder.
+
+**Signature items:** sealed Sol-88 sample flasks (the volatile-mass payload); KPC security key-plates; respirator cartridge cases; the lead-lined smuggler trunk (heavy — changes your drift physics).
+
+---
+
+## 7. THE CABLE-CANOPY CEILING (citywide)
+
+The wire jungle matured: pre-stressed concrete pylons (never wooden poles) carry bundled power lines, phone pairs, and 4-inch canvas-wrapped pneumatic transit tubes strung directly across roadways between buildings, sagging into a semi-solid roof 6 m up, crusted with dust. Heavy cast-iron transformer cans, dead porcelain insulators, and counterweight pulleys hang into the upper third of the windshield view, physically framing and compressing the drivable trench. Light filters through in shafts. This is the Trench's ceiling — and it justifies the low far-plane: you can't see far because there's a roof of wire.
+
+Per-district dialects: Daikoku's canopy is crane-cable and hawser; Kamome's is dripping with ice-melt and noren lines; Chidori's carries lantern wires and sign power-feeds; Tenjin's is all brass pneumatic risers; Kotobuki's is lashed pirate-antenna wire; Shinkai's is high-pressure pipe, not wire at all.
+
+---
+
+## 8. DRIVE-UP INFRASTRUCTURE (citywide — the city serves drivers, not walkers)
+
+The Kuro-Kiri ordinance killed foot travel; the city rebuilt itself around the cab window. Every interaction happens at window height, through glass, brass, and steel — the game's thesis made physical.
+
+1. **Ramen windows** — drive-up noodle stalls: sealed behind dust-pitted laminated glass, canvas-gasketed guillotine hatch on lead counterweights dropping 8 inches on the cook's foot treadle, greased sheet-steel tray sliding forward on ball bearings with lidded broth tins, respirator cartridges, and loose tobacco. Payment: stamped brass coins into a sill slot. No hand contact, no dust ingress.
+2. **Pneumatic tube stations** — cast-iron curbside pedestals with angled brass receiving hatches and turn-wheel locks: drop the manifest cylinder, slam the hatch, pull the steel trip-lever; a vacuum shriek runs up the building-face piping; a vacuum-tube-lit green/red lens reports line pressure. Dispatch orders, bribes, blackmail photos — all physical capsules.
+3. **Filter-rinse air-lance booms** — municipal pull-offs: counterbalanced yellow swing-arms hanging to window height, high-pressure blast-cone and solvent trigger; the driver cracks the storm-vent and blasts fender intakes clean without killing the engine. Pavement below: grease-blackened trough with iron drain gratings choked in orange mud.
+4. **Sol-fuel gravity dispenser towers** — elevated corrugated-iron towers on street meridians: align the intake cowl under the canvas-sheathed fuel sleeve, yank the overhead pull-chain, watch the glass metering cylinder's float bobber drain sulfur-colored Sol-88 by head-pressure while the mechanical liter counter rattles like a typewriter.
+5. **Kōban dust-lock booths** — the Showa policeman sealed: waxed-canvas uniformed keeper behind amber glass, peaked cap with respirator clipped to the brim, pneumatic message tube on the flank. The bribe-chute slot sits at bumper height — the KMTED heat-shed made physical.
+6. **Comms booths** — octagonal pressed-steel kiosks with smoked-amber acrylic glazing, cast-iron rotary phones in olive drab, plumbed to overhead brass tube stations that shoot billing canisters into the sidewalk conduit.
+
+---
+
+## 9. SIGNAGE & INFORMATION SYSTEMS
+
+**Enamel signage (the persistent layer):** vitreous enamel on steel — horo kanban — fades but never rots; sand-blasting *improves* legibility by scouring grime. In a city where fascia boards tear off in the wind and noren are consumables, enamel is the information layer that survives. Quest-relevant signs are always enamel: hand-stenciled Romanized kanji on cantilevered steel gantries, lit by hooded gooseneck incandescent lamps. The 4-depth Showa sediment (fascia, noren, banners, plates) compresses to 2: enamel plates + noren dust flaps.
+
+**Noren as wind UI:** every shop's noren is weighted canvas with the shop mon stenciled in whitewash. In dust storms they hang *inward*, sucked by pressure differential — the street reads the storm by watching the curtains. District canvas weaves differ: a visual dialect for those who know.
+
+**Solari split-flap boards (the moving layer):** giant soot-stained split-flap panels on enamel gantries *clack* mechanically as traffic conditions, auction lots, elevator queue numbers, and toll brackets update. No digital message boards, ever. Reading them while driving is a skill — there is no HUD minimap feed for what the boards know.
+
+**The ROUTE-88 (the driver's layer):** the chunky in-dash CRT punch-card route computer. Accepting a gig plays the *CHUNK-CHUNK* of the card in the brass slot; the phosphor screen traces the route with a visible sweep beam. Planning is gambling with time: gas stops, garage drops, hitchhiker stacks, filter rinses, Quick-Dispatch bonuses — under 60 seconds, or the client's payout decays.
+
+---
+
+## 10. MOCKS
+
+Generated via the gemini-imagegen skill (80s-anime cel, Showa retro-futurist, dust-forward, masked figures, warm umber shadows — no neon soup, no faces, no cool blue/purple):
+
+- `mock-kamome.png` — Kamome wet-market alley: tile-white halls under dust film, drive-up auction windows, kei van at the curb.
+- `mock-chidori.png` — Chidori neon canyon at night: warm blade-sign slashes, tiered cabarets, cab at a drive-up window.
+- `mock-kotobuki.png` — Kotobuki repair lane under the expressway deck: chop shops, filter-rinse bay, masked mechanics.
+- `mock-shinkai.png` — Shinkai refinery haul road: cracking vats, flare stacks, dust-armored hauler in sulfur haze.
+- `mock-tenjin.png` — Tenjin brutalist canyon: Terminal 2 anchoring the north end, cab queue at toll booths, Solari gantry.
+
+(Plus `mock-daikoku.png` if the sixth district mock is commissioned — currently the five priority districts are covered; Daikoku's offshore panel fields are already mocked in the bible v2 set as `v2e-bay-floating-panels.png`.)
+
+---
+
+## 11. OPEN QUESTIONS
+
+1. **Chidori authored night vs. fixed-lighting canon.** The identity plan cuts the day/night cycle (fixed lighting per stratum; time told by shift horns and Solari boards) yet assigns Chidori "night" and Daikoku "dusk" as authored exceptions. Is Chidori's night a separate lighting scene within the Lower City stratum (one more authored variant — acceptable), or does the whole Trench share one amber-murk bake with Chidori's signage doing the work? Affects art scope: one bake vs. two.
+2. **Kotobuki welding-arc light color.** The design consult proposed cobalt/cold blue-white welding bursts as Kotobuki's luminance signature — but the identity DO-list bans cool blue/purple in Lower City shadows. Question: is welding-arc flash an *emissive light source* exception (like vacuum-tube glow and phosphor green — both cool-ish and both canon), or should arc light be re-tuned warm (sodium-white/amber) to keep the ban absolute? Art-direction call needed before Kotobuki's lighting pass.
+3. **Kamome fluorescent strips.** Same class of question: the consult proposed 4000K cool-white fluorescents bouncing off wet tarmac as Kamome's ground-plane signature. The canon palette has no cool white for the Lower City (P1 green/P4 white phosphor only). Warm-white tube lighting would read just as wet — recommend warm, but needs the call.
+4. **No BIBLE DELTA items found.** The extrapolation doc contains no pending "BIBLE DELTA" marks — nothing was folded in from pending canon. (If deltas are added to the extrapolation doc later, they should be re-triaged here.)
+5. **Harbor Tram spur into Kamome.** The bible gives the tram a center-boulevard spline; this chapter dead-ends a spur at the Kamome market gate (canon-adjacent, not canon). Confirm whether the tram network may branch per district or stays one spline.
+6. **The Flare Crown's flare cycle as a timing mechanic.** This chapter proposes drivers timing runs to the flare sequence rhythm. If adopted, it becomes a gameplay system (hazard telegraphing) — needs the systems chapter's sign-off, not just art's.
+7. **Daikoku mock coverage.** Five mocks were commissioned per the brief; Daikoku's street-level (as opposed to offshore panel fields, already mocked in v2e) has no bespoke mock. Commission `mock-daikoku.png` (container canyon, Gate 7, Winch Mast) if the art director wants full six-district coverage.
