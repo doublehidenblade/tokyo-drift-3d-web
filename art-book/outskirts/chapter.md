@@ -165,6 +165,17 @@ The year the deep-sea coal seams were cracked for Sol-88, the water changed colo
 
 `mock-switchback.png` has no impl twin yet — the mountain bands (instanced cutouts / faceted peaks / silhouette cards) are specified in "Production consult" above but not yet rendered; that render is a follow-up, not a blocker.
 
+### Plausibility — what's depicted, why it's that way (2026-10-05)
+
+Per Craig's law: dystopia allowed, unexplained eeriness is a defect, stereotype never. Every figure below was judged in the pixels against the bible (all faces masked; Kuro-Kiri ordinance — unsuited foot travel is a felony; the outskirts are the city's clear-air lungs). Full text in `~/workspace/game-design/art-book/plausibility.md`.
+
+- **`mock-viaduct-sea.png` / `impl-viaduct-sea.png` — PASS.** Coastal viaduct on piers, a tanker rig crossing, skyline across the water. *Reflects:* the Nagisa Outskirts as the city's lungs — the palette breaks to blue-green outside the dust wall; the viaduct is the umbilical carrying fuel and goods. *Why:* the rig is the freight artery's whole reason; no figures because there is nowhere for a person to be on a viaduct except inside a vehicle.
+- **`mock-waystation-dusk.png` — PASS.** Iron Wheel waystation at dusk: chalkboard (wind/axle-limit/radio notes), two masked mechanics by the diesel pump, rigs under the canopy, brazier, union flags. *Reflects:* the outskirts' service node — fuel, information, shelter at the halfway point; the chalkboard is the driver's internet. *Why:* the two mechanics are the station crew (fueling + assisting) — staff at their post; the brazier burns because dusk at altitude is cold and drivers rest here.
+- **`impl-waystation-dusk.png` — PASS.** Waystation in-engine: one masked attendant at the pump with a box truck, brazier, flags. *Why:* one duty crew runs the pump at this hour; the truck is being fueled — the station's entire purpose.
+- **`mock-fishing-harbor.png` — PASS.** Working harbor: moored boats, crates, winches, warehouses, two masked fishermen hauling a line on a boat's stern. *Reflects:* the coast's food economy, independent of the city's dust-choked logistics. *Why:* the two are crew on a working boat — on a vessel, at work, the permitted presence; the quay clutter is the catch-handling chain.
+- **`impl-fishing-harbor.png` — PASS.** Harbor in-engine: quay, sheds, tanks, two small figures by a skiff. *Why:* boat crew at the skiff — same vessel-at-work logic, simplified.
+- **`mock-switchback.png` — PASS.** Mountain switchbacks above the sea: tanker rig descending the hairpins, pines, guardrails. *Reflects:* the outskirts' driving fantasy — the road as the destination; the route the GPS plans around. *Why:* the rig is on the coast freight route (no alternative exists); no figures because a mountain road has no sidewalks and the driver belongs in the cab.
+
 ---
 
 ## OPEN QUESTIONS (pending BIBLE DELTA items)
