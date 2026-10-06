@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+signs built { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 2408 }
+TD185_SIGNS_TABLE {"fails_by_pair":{"->depots":1,"->kotobuki":1,"chidori->depots":65,"chidori->kamome":21,"chidori->kotobuki":25,"shinkai->depots":5,"shinkai->kamome":4},"median_time_vs_best":1.0,"mode":"signs only","ok":3715,"trials":3837}
+TD185_SIGNS_TABLE {"fails_by_pair":{},"median_time_vs_best":1.0,"mode":"signs+map","ok":3837,"trials":3837}
+TD185_TRIP {"arcs":5,"driven_m":477,"from":"asahi_hq","ok":true,"recoveries":0,"route":"銀行通り > 天神大通り > 商社通り","signed_decisions":4,"stuck":0,"time_s":32.6,"to":"kamome"}
+TD185_TRIP {"arcs":10,"driven_m":1103,"from":"kenji_hall","ok":true,"recoveries":0,"route":"市場通り > 河岸通り > 銀行通り > 星通り","signed_decisions":9,"stuck":0,"time_s":66.2,"to":"chidori"}
+TD185_TRIP {"arcs":17,"driven_m":1823,"from":"starlight","ok":true,"recoveries":0,"route":"星通り > 楓通り > 北千鳥通り > 操車場通り","signed_decisions":15,"stuck":0,"time_s":105.2,"to":"kotobuki"}
+TD185_TRIP {"arcs":19,"driven_m":1837,"from":"mariko","ok":true,"recoveries":0,"route":"寿二丁目小路 > 寿西通り > 西門通り > 商社通り > 河岸通り > 産業道路","signed_decisions":18,"stuck":0,"time_s":113.2,"to":"shinkai"}
+TD185_TRIP {"arcs":3,"driven_m":446,"from":"kettle_lab","ok":true,"recoveries":0,"route":"産業道路 > 第二工場通り","signed_decisions":3,"stuck":0,"time_s":28.1,"to":"daikoku"}
+TD185_TRIP {"arcs":18,"driven_m":2053,"from":"gate2","ok":true,"recoveries":0,"route":"第二ゲート通り > コンテナ横丁 > 第三ゲート通り > 埠頭大通り > 検数通り > 臨港通り > 天神大通り","signed_decisions":12,"stuck":0,"time_s":126.9,"to":"depots"}
+TD185_TRIP {"arcs":5,"driven_m":487,"from":"yard_shed","ok":true,"recoveries":0,"route":"貨物ヤード通り > 操車場通り","signed_decisions":4,"stuck":0,"time_s":32.9,"to":"tenjin"}
+TD185_TRIP {"arcs":10,"driven_m":1099,"from":"hotel_lantern","ok":true,"recoveries":0,"route":"運河通り > 楓通り > 第二工場通り","signed_decisions":7,"stuck":0,"time_s":71.1,"to":"daikoku"}
+TD185_TRIP {"arcs":16,"driven_m":1630,"from":"rinse4","ok":true,"recoveries":0,"route":"洗浄横丁 > 市場通り > 河岸通り > 銀行通り > 星通り","signed_decisions":14,"stuck":0,"time_s":97.2,"to":"chidori"}
+TD185_TRIP {"arcs":9,"driven_m":1422,"from":"shaft1_dock","ok":true,"recoveries":0,"route":"第一昇降塔前 > 臨港通り","signed_decisions":7,"stuck":0,"time_s":82.6,"to":"kamome"}
+TD185_TRIP {"arcs":15,"driven_m":1321,"from":"t2_queue","ok":true,"recoveries":0,"route":"第二昇降塔前 > 天神大通り > 操車場通り","signed_decisions":10,"stuck":0,"time_s":88.9,"to":"kotobuki"}
+TD185_TRIP {"arcs":12,"driven_m":1264,"from":"seri_window","ok":true,"recoveries":0,"route":"競り小路 > 魚河岸横丁 > 西門通り > 商社通り > 河岸通り > 産業道路","signed_decisions":9,"stuck":0,"time_s":80.4,"to":"shinkai"}
+TD185_SIGNS {"drive_min":15.42,"failures":0,"km":14.96,"trips":12}
