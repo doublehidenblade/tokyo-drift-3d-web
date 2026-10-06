@@ -1,0 +1,18 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "3:4",
+  "size": [
+    896,
+    1200
+  ],
+  "references": [
+    "../../../../../../../tmp/claude-0/-home-user/3cb65ce9-7798-5252-b53d-1fcae000580e/scratchpad/ref_impl_chidori.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: what the SAME building really looks like as a 3D asset rendered in-engine on a phone, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines on silhouettes, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, ochre-red dust fog swallowing everything past 60 m. No painterly brushwork, no reflections, no bloom halos, no transparency: windows and glass are opaque painted panels; lit windows and signs are flat self-lit colour. Warm only: cherry red, amber, orange. No magenta or cyan.\n\nSubject (three-quarter street view at eye height): a narrow 4-storey Showa multi-tenant bar building 10 m wide in the Chidori pleasure quarter at night. Ground floor of dark oxblood tiles with a deep canopy and a row of glowing red paper lanterns (simple 8-sided cylinders), an open warm-lit doorway with a canvas dust curtain, a small sealed booth at the curb with an amber glass slit. Upper floors in beige tile with recessed sash windows (some lit warm, some with lace curtains), boxy air-conditioner units, a stepped-back top floor with a solid railed terrace. Two box-shaped vertical blade signs projecting from the facade glowing amber and red, one made of stacked tenant panels. Roof: a cylinder water tank painted as a vermilion paper lantern, a stair hut. Dust banked at the base. Empty sidewalk. Lettering minimal and simple.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:04:31Z",
+  "file": "chidori_terrace_implementation_v1_no_text.jpg",
+  "note": "stored as JPEG q92 (converted from the API's PNG)"
+}
