@@ -1,6 +1,6 @@
 Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
 
-signs built { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 2408 }
+signs built { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 3197 }
 TD185_SIGNS_TABLE {"fails_by_pair":{"->depots":1,"->kotobuki":1,"chidori->depots":65,"chidori->kamome":21,"chidori->kotobuki":25,"shinkai->depots":5,"shinkai->kamome":4},"median_time_vs_best":1.0,"mode":"signs only","ok":3715,"trials":3837}
 TD185_SIGNS_TABLE {"fails_by_pair":{},"median_time_vs_best":1.0,"mode":"signs+map","ok":3837,"trials":3837}
 TD185_TRIP {"arcs":5,"driven_m":477,"from":"asahi_hq","ok":true,"recoveries":0,"route":"銀行通り > 天神大通り > 商社通り","signed_decisions":4,"stuck":0,"time_s":32.6,"to":"kamome"}

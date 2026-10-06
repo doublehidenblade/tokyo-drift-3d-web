@@ -5,8 +5,6 @@ Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
 TD185_LEG {"arcs":4,"avg_kmh":50.8,"classes":{"arterial":1,"avenue":2,"street":1},"driven_m":407,"from":"asahi_hq","leg":1,"max_y":-0.11,"min_y":-0.15,"ok":true,"plan_s":43.1,"recoveries":0,"streets":"ginko > tenjin > shosha","stuck":0,"time_s":28.9,"to":"paper_exch"}
   trace t=10 plan=(1372, 690, 6.3) v=13.7 m/s progress=0.10 stuck=0
   trace t=20 plan=(1368, 658, -0.2) v=8.5 m/s progress=0.13 stuck=0
-WARNING: Jolt Physics job system exceeded the maximum number of jobs. This should not happen. Please report this. Waiting for jobs to become available...
-     at: CreateJob (modules/jolt_physics/spaces/jolt_job_system.cpp:123)
   trace t=30 plan=(1367, 506, -0.2) v=18.6 m/s progress=0.23 stuck=0
   trace t=40 plan=(1334, 342, -0.2) v=15.0 m/s progress=0.36 stuck=0
   trace t=50 plan=(1161, 324, -0.2) v=18.6 m/s progress=0.48 stuck=0

@@ -14,8 +14,8 @@ in the PR body).
 
 ## Triptychs — [REFERENCE] art-book mock · [IMPLEMENTATION] art-book mock · in-game
 
-Mocks: tokyo-drift-3d-web `art-book/lower-city/*.png` at commit `c50959b` (the web publisher's run deleted
-`art-book/` from web `main`). **The real-photo panel is missing:** this cloud container's network policy
+Mocks: tokyo-drift-3d-web `art-book/lower-city/*.png` at commit `c50959b` (byte-identical on web `main` since
+the art book was restored there in `b330774`). **The real-photo panel is missing:** this cloud container's network policy
 denies `commons.wikimedia.org`, `upload.wikimedia.org`, `api.openverse.org` and `www.flickr.com`, so no
 real reference photos could be fetched. Fix: allow those domains in the environment's Network access
 (Custom → Allowed domains); a follow-up then adds the photo panels.
@@ -80,19 +80,26 @@ the run's pickup and drop-off circled by the dispatcher.
 
 720×1280: Chidori, Kamome, the job card, the paper map (opens zoomed in portrait).
 
+## The Web export — `web/web-export-strip.jpg` (+ the three frames)
+
+The real Web export (the base game, `ed00d8b`), phone viewport 720×1280 in headless Chromium with
+SwiftShader, driven by `harness/webgl/lower-city-entry.mjs`: the menu's LOWER CITY (key L), the city
+ready (`window.__lowerCityReady`), a run taken from the board (key 1), the paper map (TAB). No script
+error after the key press. This is where the missing-glyph boxes showed (fixed in `ed00d8b`).
+
 ## Tests (logs in `tests/`)
 
 | suite | result |
 |---|---|
-| `tools/test_lower_city_build.gd` | builds in ~1.2 s; probes on the trench floor, the Ring lid and deck, a bridge crown, a dip; Tenjin Odori clear under the Ring's ramps; dressing and atmosphere present; every plan sign built, every glyph present, **no sign post in a carriageway** |
+| `tools/test_lower_city_build.gd` | builds in ~1.2 s; probes on the trench floor, the Ring lid and deck, a bridge crown, a dip; Tenjin Odori clear under the Ring's ramps; dressing and atmosphere present; every plan sign built, every glyph present, **no sign post in a carriageway**; **every script under `res://scripts` still compiles** |
 | `tools/test_lower_city_drive.gd` | CityDriver tour of 21 legs through every district, the Ring, ramps, trench floor, alleys, a bridge: 19.6 km, **0 stuck, 0 recoveries** |
 | `tools/test_lower_city_signs.gd` | a first-timer reading only the built signs: **3837/3837** road→district with the paper map's knowledge, 3715/3837 on signs alone; 12 sign-decided cross-city trips driven **12/12**, 0 stuck, 0 recoveries |
-| `tools/test_lower_city_gig.gd` | 4 gigs end to end: **4/4 on time**, cargo 100 / 100 / 100 / 95 % (run 3 clipped the corner of a Kamome market alley pulling out of the 競り窓口 bay at 12 km/h: one 3 % knock), 49–56% of the limit used, ¥16,120; a deliberate wall crash wrecks the cargo |
+| `tools/test_lower_city_gig.gd` | 4 gigs end to end: **4/4 on time**, cargo 100 / 100 / 100 / 95 % (run 3 clipped the corner of a Kamome market alley pulling out of the 競り窓口 bay at 12 km/h: one 3 % knock), 49–56% of the limit used, ¥16,120; a deliberate wall crash wrecks the cargo; **every character the HUD shows is in the bundled font** (11 checks: offer board, job cards, settlement / wrecked / abandoned chits) |
 
-The four logs come from one run of all four suites in parallel. `drive.log` and `gig.log` each carry one
-`WARNING: Jolt Physics job system exceeded the maximum number of jobs` at load: that only happens with four
-engines sharing this container's cores. `gig-solo.log`, the gig suite run alone, has no warning and gives
-the same numbers.
+The four logs are one parallel run of all four suites on the final code (`ed00d8b`). An earlier parallel
+run printed `WARNING: Jolt Physics job system exceeded the maximum number of jobs` once at load in two
+suites (four engines on this container's four cores); `gig-solo.log` is the gig suite run alone then:
+no warning, the same numbers.
 
 Plan gates (`build_city.py`, the build fails otherwise): no traps; ≥ 3 meaningfully different routes for
 every ordered district pair; sign-following first-timer 3837/3837; every gig pair reachable; every ramp
@@ -113,4 +120,9 @@ xvfb-run -a -s '-screen 0 1280x720x24' .tools/Godot_v4.7.2-stable_linux.x86_64 -
   -s tools/capture_lower_city.gd -- <out> landscape <stations> --hud=off
 xvfb-run ... -s tools/capture_lower_city_gig.gd -- <out> 0
 .tools/Godot_v4.7.2-stable_linux.x86_64 --headless --path godot --fixed-fps 60 -s tools/test_lower_city_<suite>.gd
+# Web export (after --export-debug Web build/web/index.html):
+cd harness/webgl && WEB_ROOT=../../build/web LOWER_ENTRY_OUTPUT=<out>/web node lower-city-entry.mjs
+# the composites in this folder:
+TD185_FONT=<Noto Sans JP Bold TTF> TD185_ART=<web art-book/lower-city @ c50959b> TD185_EV=<captures> \
+  TD185_BEFORE=<first-greybox captures> python3 godot/tools/lower_city/compose_evidence.py
 ```
