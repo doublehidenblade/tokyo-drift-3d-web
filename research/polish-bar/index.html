@@ -1,0 +1,483 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f4f1e9" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#101316" media="(prefers-color-scheme: dark)" />
+  <link rel="icon" href="data:," />
+  <title>Free Release Polish Bar: itch.io + TapTap</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --paper: #f4f1e9;
+      --ink: #171a1b;
+      --muted: #5a5f61;
+      --line: #c9c7be;
+      --panel: #fffcf4;
+      --panel-2: #e9e5da;
+      --red: #cf3f2e;
+      --red-deep: #8b291f;
+      --cyan: #137c84;
+      --cyan-soft: #d8eded;
+      --green: #2d6f49;
+      --amber: #9b6311;
+      --shadow: rgba(45, 35, 20, .11);
+      --display: "Avenir Next", "Trebuchet MS", sans-serif;
+      --body: Charter, "Bitstream Charter", Georgia, serif;
+      --mono: "SFMono-Regular", Consolas, monospace;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #101316;
+        --ink: #f2efe6;
+        --muted: #b4b7b5;
+        --line: #383f40;
+        --panel: #171c1e;
+        --panel-2: #22292b;
+        --red: #ff6a56;
+        --red-deep: #ff9b8c;
+        --cyan: #66c9cf;
+        --cyan-soft: #17373a;
+        --green: #75c894;
+        --amber: #e6b35e;
+        --shadow: rgba(0, 0, 0, .32);
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: var(--body);
+      font-size: 17px;
+      line-height: 1.58;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: inherit; text-underline-offset: 3px; }
+    a:hover { color: var(--red); }
+    button { font: inherit; }
+    .page { width: min(1180px, calc(100% - 40px)); margin: 0 auto; }
+    .mast {
+      padding: 56px 0 34px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.55fr) minmax(270px, .7fr);
+      gap: clamp(32px, 6vw, 88px);
+      align-items: end;
+      border-bottom: 1px solid var(--line);
+    }
+    .mast h1 {
+      margin: 0;
+      max-width: 820px;
+      font: 800 clamp(42px, 7vw, 86px)/.94 var(--display);
+      letter-spacing: -.06em;
+    }
+    .mast h1 em { color: var(--red); font-style: normal; }
+    .mast-note { margin: 0 0 8px; color: var(--muted); font-size: 16px; }
+    .date-stamp { font: 700 12px/1.3 var(--mono); color: var(--cyan); letter-spacing: .04em; }
+    .thesis {
+      padding: 42px 0 46px;
+      display: grid;
+      grid-template-columns: 160px minmax(0, 1fr);
+      gap: 24px;
+      border-bottom: 1px solid var(--line);
+    }
+    .section-no { font: 800 12px/1.2 var(--mono); color: var(--red); padding-top: 8px; }
+    .thesis blockquote { margin: 0; }
+    .thesis .big {
+      margin: 0;
+      max-width: 980px;
+      font: 700 clamp(29px, 4.6vw, 56px)/1.08 var(--display);
+      letter-spacing: -.035em;
+    }
+    .thesis .support { margin: 22px 0 0; max-width: 820px; color: var(--muted); font-size: 18px; }
+    .route {
+      margin: 46px 0 74px;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+    .route-card {
+      position: relative;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      box-shadow: 0 14px 34px var(--shadow);
+      padding: clamp(24px, 3.5vw, 40px);
+      overflow: hidden;
+    }
+    .route-card:first-child { border-top: 7px solid var(--red); }
+    .route-card:last-child { border-top: 7px solid var(--cyan); }
+    .route-card header { display: flex; justify-content: space-between; gap: 20px; align-items: baseline; }
+    .platform { font: 800 clamp(28px, 3vw, 42px)/1 var(--display); letter-spacing: -.04em; }
+    .status { font: 800 12px/1 var(--mono); text-transform: uppercase; letter-spacing: .07em; color: var(--green); }
+    .route-card:last-child .status { color: var(--amber); }
+    .route-card h2 { margin: 26px 0 12px; font: 750 22px/1.2 var(--display); }
+    .route-card p { margin: 0; color: var(--muted); }
+    .target-list { list-style: none; padding: 0; margin: 26px 0 0; }
+    .target-list li {
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      gap: 10px;
+      padding: 10px 0;
+      border-top: 1px solid var(--line);
+    }
+    .target-list b { font-family: var(--display); }
+    .mark { color: var(--red); font: 800 14px/1.8 var(--mono); }
+    .route-card:last-child .mark { color: var(--cyan); }
+    .section { margin: 0 0 78px; }
+    .section-head {
+      display: grid;
+      grid-template-columns: 160px minmax(0, 1fr);
+      gap: 24px;
+      margin-bottom: 24px;
+      align-items: start;
+    }
+    .section-head h2 { margin: 0; font: 800 clamp(30px, 4vw, 50px)/1 var(--display); letter-spacing: -.045em; }
+    .section-head p { grid-column: 2; margin: -10px 0 0; max-width: 720px; color: var(--muted); }
+    .gate-list { border-top: 2px solid var(--ink); }
+    .gate {
+      display: grid;
+      grid-template-columns: 62px minmax(210px, .8fr) minmax(0, 1.5fr) minmax(170px, .65fr);
+      gap: 18px;
+      padding: 18px 0;
+      border-bottom: 1px solid var(--line);
+      align-items: start;
+    }
+    .gate .num { font: 800 13px/1.6 var(--mono); color: var(--red); }
+    .gate h3 { margin: 0; font: 750 17px/1.35 var(--display); }
+    .gate p { margin: 0; color: var(--muted); font-size: 15px; }
+    .test {
+      display: inline-block;
+      font: 700 11px/1.4 var(--mono);
+      color: var(--cyan);
+      border: 1px solid currentColor;
+      padding: 6px 8px;
+      text-align: center;
+    }
+    .rough-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      border-top: 1px solid var(--line);
+      border-left: 1px solid var(--line);
+    }
+    .rough {
+      padding: 22px;
+      min-height: 160px;
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+    .rough b { display: block; font: 750 17px/1.25 var(--display); margin-bottom: 8px; }
+    .rough span { color: var(--muted); font-size: 15px; }
+    .evidence-shell { background: var(--ink); color: var(--paper); padding: clamp(24px, 4vw, 46px); }
+    @media (prefers-color-scheme: dark) {
+      .evidence-shell { background: #e9e5da; color: #171a1b; }
+    }
+    .tabs { display: flex; gap: 8px; margin: 0 0 30px; }
+    .tab {
+      appearance: none;
+      border: 1px solid currentColor;
+      background: transparent;
+      color: inherit;
+      padding: 10px 16px;
+      cursor: pointer;
+      font: 800 13px/1 var(--display);
+    }
+    .tab[aria-selected="true"] { background: var(--red); color: #fff; border-color: var(--red); }
+    .evidence-panel[hidden] { display: none; }
+    .comp-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: rgba(127,127,127,.45); }
+    .comp { background: var(--ink); color: var(--paper); padding: 22px; min-height: 250px; }
+    @media (prefers-color-scheme: dark) {
+      .comp { background: #e9e5da; color: #171a1b; }
+    }
+    .comp .metric { font: 800 13px/1.2 var(--mono); color: var(--red); margin-bottom: 14px; }
+    .comp h3 { margin: 0 0 10px; font: 800 21px/1.1 var(--display); letter-spacing: -.02em; }
+    .comp p { margin: 0 0 14px; opacity: .78; font-size: 15px; }
+    .comp a { font: 750 13px/1.2 var(--display); }
+    .caution { color: var(--amber) !important; }
+    .lesson {
+      margin-top: 28px;
+      border-top: 1px solid rgba(127,127,127,.6);
+      padding-top: 20px;
+      font-size: 16px;
+    }
+    .lesson strong { color: var(--red); font-family: var(--display); }
+    .trap-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+    .trap { background: var(--panel-2); padding: 24px; }
+    .trap h3 { margin: 0 0 12px; font: 800 22px/1.1 var(--display); }
+    .trap ul { margin: 0; padding-left: 20px; }
+    .trap li { margin: 8px 0; }
+    .trap code { font-family: var(--mono); font-size: .9em; color: var(--red-deep); }
+    .sequence { counter-reset: step; border-top: 2px solid var(--ink); }
+    .step {
+      counter-increment: step;
+      display: grid;
+      grid-template-columns: 90px minmax(0, 1fr);
+      gap: 20px;
+      padding: 22px 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .step:before { content: "0" counter(step); font: 800 26px/1 var(--mono); color: var(--red); }
+    .step h3 { margin: 0 0 5px; font: 800 20px/1.15 var(--display); }
+    .step p { margin: 0; color: var(--muted); }
+    .caveat {
+      margin-top: 28px;
+      padding: 18px 20px;
+      border: 1px solid var(--line);
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .sources { padding: 42px 0 70px; border-top: 1px solid var(--line); }
+    .sources h2 { margin: 0 0 20px; font: 800 27px/1 var(--display); }
+    .source-list { columns: 2; column-gap: 46px; margin: 0; padding-left: 18px; }
+    .source-list li { break-inside: avoid; margin: 0 0 10px; font-size: 14px; color: var(--muted); }
+    .source-list a { color: var(--ink); }
+    .research-note { margin-top: 28px; font: 12px/1.5 var(--mono); color: var(--muted); }
+    @media (max-width: 820px) {
+      .page { width: min(100% - 28px, 680px); }
+      .mast { grid-template-columns: 1fr; gap: 24px; padding-top: 36px; }
+      .thesis, .section-head { grid-template-columns: 1fr; gap: 10px; }
+      .section-head p { grid-column: auto; margin-top: 0; }
+      .route { grid-template-columns: 1fr; }
+      .gate { grid-template-columns: 44px 1fr; gap: 10px 14px; }
+      .gate p, .gate .test { grid-column: 2; }
+      .gate .test { justify-self: start; }
+      .rough-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .comp-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .trap-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 520px) {
+      body { font-size: 16px; }
+      .mast h1 { font-size: 47px; }
+      .thesis { padding-top: 30px; }
+      .route { margin-top: 30px; }
+      .route-card header { align-items: flex-start; flex-direction: column; gap: 10px; }
+      .rough-grid, .comp-grid { grid-template-columns: 1fr; }
+      .rough { min-height: 0; }
+      .comp { min-height: 0; }
+      .tabs { width: 100%; }
+      .tab { flex: 1; }
+      .source-list { columns: 1; }
+      .step { grid-template-columns: 58px 1fr; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="mast">
+      <h1>Free release<br><em>polish bar.</em></h1>
+      <div>
+        <p class="mast-note">A field guide for turning Tokyo Drift 3D from a private pre-alpha into a credible public experiment.</p>
+        <div class="date-stamp">RESEARCH SNAPSHOT · 06 OCT 2026</div>
+      </div>
+    </header>
+
+    <section class="thesis" aria-labelledby="verdict">
+      <div class="section-no">00 / VERDICT</div>
+      <blockquote>
+        <p class="big" id="verdict">You do not need a finished game. You need one complete, coherent session that makes a stranger want another run.</p>
+        <p class="support">The evidence supports a rough-but-fun release: an estimated 10–30 minutes of repeatable content, honest “Pre-Alpha Test” labeling, and a driving loop that feels good immediately. itch.io is the first public proving ground; TapTap is the same slice after Android controls, packaging, and Chinese presentation clear their own bar.</p>
+      </blockquote>
+    </section>
+
+    <section class="route" aria-label="Recommended platform release targets">
+      <article class="route-card">
+        <header><div class="platform">itch.io</div><div class="status">Release first</div></header>
+        <h2>Smallest credible web build</h2>
+        <p>The platform tolerates disclosed jank and has no review gate. The promise is a good slice, not a complete campaign.</p>
+        <ul class="target-list">
+          <li><span class="mark">01</span><span><b>1 district + 1 car</b><br>Committed cel-shaded Showa look; no first-impression placeholders.</span></li>
+          <li><span class="mark">02</span><span><b>3–5 delivery or cab gigs</b><br>Accept → drive → complete → payout → repeat.</span></li>
+          <li><span class="mark">03</span><span><b>A little city life</b><br>Ambient traffic and one cartoonish cop-chase trigger.</span></li>
+          <li><span class="mark">04</span><span><b>A functional shell</b><br>Title, pause, restart/quit, and controls on the page.</span></li>
+        </ul>
+      </article>
+      <article class="route-card">
+        <header><div class="platform">TapTap</div><div class="status">Release after mobile pass</div></header>
+        <h2>Same slice, stricter delivery</h2>
+        <p>Use TapTap International’s formal <b>Testing</b> status. Incompleteness is allowed; review, packaging, touch UX, and store assets are not optional.</p>
+        <ul class="target-list">
+          <li><span class="mark">01</span><span><b>Real-phone touch controls</b><br>Steer, throttle, and brake must work for a first-time player.</span></li>
+          <li><span class="mark">02</span><span><b>Stable Android performance</b><br>Target 60 fps on a mid-range phone; verify the actual device.</span></li>
+          <li><span class="mark">03</span><span><b>Chinese + English</b><br>Store text, screenshots, and at least the visible UI strings.</span></li>
+          <li><span class="mark">04</span><span><b>Review-safe APK</b><br>Custom package, versionCode ≥ 1, own keystore, clean asset proof.</span></li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="section" aria-labelledby="gates">
+      <div class="section-head">
+        <div class="section-no">01 / SHIP GATES</div>
+        <h2 id="gates">Nine things that must be green</h2>
+        <p>This is the actual release bar. Extra cars, larger maps, and deeper progression do not compensate for a red item here.</p>
+      </div>
+      <div class="gate-list">
+        <article class="gate"><div class="num">01</div><h3>One stable full session</h3><p>No crash or progression blocker through roughly 15–20 minutes on target hardware.</p><span class="test">15–20 MIN SOAK</span></article>
+        <article class="gate"><div class="num">02</div><h3>Immediate driving feel</h3><p>Steering, throttle, drift, camera, and collision feedback feel intentional in the first minute.</p><span class="test">FIRST 60 SEC</span></article>
+        <article class="gate"><div class="num">03</div><h3>End-to-end gig loop</h3><p>Accept, navigate, finish, see payout or progress, and start again without a dead end.</p><span class="test">3–5 GIGS</span></article>
+        <article class="gate"><div class="num">04</div><h3>One visual language</h3><p>Car, district, effects, and UI all read as the same 1980s-anime game.</p><span class="test">SCREENSHOT PASS</span></article>
+        <article class="gate"><div class="num">05</div><h3>Functional shell</h3><p>Title, play, pause, restart/quit, controls; no dead buttons or fake options.</p><span class="test">COLD START</span></article>
+        <article class="gate"><div class="num">06</div><h3>Usable touch input</h3><p>For TapTap, steering, throttle, and brake are operable without prior instruction.</p><span class="test">REAL PHONE</span></article>
+        <article class="gate"><div class="num">07</div><h3>Platform performance</h3><p>Web loads reasonably and holds up in desktop browser; APK runs stably on a mid-range Android device.</p><span class="test">WEB + APK</span></article>
+        <article class="gate"><div class="num">08</div><h3>Honest scope</h3><p>“Pre-Alpha Test” plus what is in, missing, and next. TapTap status must be “Testing.”</p><span class="test">STORE PAGE</span></article>
+        <article class="gate"><div class="num">09</div><h3>A real feedback door</h3><p>Use itch/TapTap comments, email, or Discord—and actively read and answer it.</p><span class="test">VISIBLE LINK</span></article>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="rough">
+      <div class="section-head">
+        <div class="section-no">02 / SAFE TO CUT</div>
+        <h2 id="rough">What may stay rough</h2>
+        <p>Keep scope disciplined. The first release is an experiment in player behavior and publishing, not the final content promise.</p>
+      </div>
+      <div class="rough-grid">
+        <div class="rough"><b>Content volume</b><span>One compact district, one car, and a handful of gigs are enough.</span></div>
+        <div class="rough"><b>Tutorial</b><span>Listed controls can carry v1; add a mini-tutorial in the first update.</span></div>
+        <div class="rough"><b>Audio depth</b><span>A few licensed SFX and one or two music tracks are acceptable.</span></div>
+        <div class="rough"><b>Persistent progression</b><span>Session-only progress is acceptable when clearly disclosed as a test.</span></div>
+        <div class="rough"><b>Options & peripherals</b><span>Deep graphics options, localization beyond essentials, and web gamepad support can wait.</span></div>
+        <div class="rough"><b>Big systems</b><span>Multiplayer, weather, day/night, and sophisticated pedestrians can wait.</span></div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="evidence">
+      <div class="section-head">
+        <div class="section-no">03 / MARKET EVIDENCE</div>
+        <h2 id="evidence">What actually shipped</h2>
+        <p>Ratings and comments are used as traction proxies on itch.io because download counts are usually hidden. TapTap’s racing examples are the warning: finished content alone does not create discovery.</p>
+      </div>
+      <div class="evidence-shell">
+        <div class="tabs" role="tablist" aria-label="Competitor evidence platform">
+          <button class="tab" id="tab-itch" role="tab" aria-selected="true" aria-controls="panel-itch">itch.io</button>
+          <button class="tab" id="tab-tap" role="tab" aria-selected="false" aria-controls="panel-tap">TapTap</button>
+        </div>
+        <div class="evidence-panel" id="panel-itch" role="tabpanel" aria-labelledby="tab-itch">
+          <div class="comp-grid">
+            <article class="comp"><div class="metric">4.8 ★ · 344 RATINGS · 290 COMMENTS</div><h3>Touhou Fumo Racing</h3><p>“In development”: about 12 racers, 3 tracks, bugs and missing features openly disclosed.</p><a href="https://honkyhood11.itch.io/touhou-fumo-racing" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">4.8 ★ · 153 RATINGS</div><h3>Easy Delivery Co. Demo</h3><p>The closest direct comp: a small delivery-driving demo that added tutorial and physics polish through updates.</p><a href="https://sweaters.itch.io/easydeliveryco" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">4.6 ★ · 327 RATINGS · 171+ COMMENTS</div><h3>driftr</h3><p>A tiny browser loop with concentrated polish; comments focus on balance, bugs, and desired features.</p><a href="https://kindanice.itch.io/driftr" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">5.0 ★ · 50 RATINGS</div><h3>Punk Runner</h3><p>Explicit pre-alpha with one car, one race track, and two explorable areas; missing systems were listed honestly.</p><a href="https://maxparata.itch.io/punkrunner" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">4.8 ★ · 151 RATINGS</div><h3>Turbo OutRun test</h3><p>A browser test whose developer warned it was not fully tested and might crash—players still responded well.</p><a href="https://sk1ds.itch.io/outrun-clone" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">4.8 ★ · 433 RATINGS · 200K+ DOWNLOADS*</div><h3>Nightmare Kart</h3><p>The ceiling, not the minimum: 21 racers, 15 tracks, campaign, bosses, versus, and split-screen.</p><a href="https://b0tster.itch.io/nmkart" target="_blank" rel="noopener">Open game ↗</a></article>
+          </div>
+          <p class="lesson"><strong>Pattern:</strong> coherent style + playable core + honest status earned meaningful feedback before “full game” scope. *200K+ combines Steam and itch downloads and came from the creator via press; it is not an itch-only figure.</p>
+        </div>
+        <div class="evidence-panel" id="panel-tap" role="tabpanel" aria-labelledby="tab-tap" hidden>
+          <div class="comp-grid">
+            <article class="comp"><div class="metric">26 SONGS AT LAUNCH · 9.7 COMMUNITY RATING CITED</div><h3>Phigros</h3><p>Free, no ads or IAP; a volunteer team broke out with one distinctive rhythm mechanic and curated illustrations.</p><a href="https://www.taptap.io/app/165287" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">100M+ GOOGLE PLAY INSTALLS</div><h3>Soul Knight</h3><p>A small indie’s tight pixel-roguelike loop, low-end-device performance, and steady updates scaled enormously.</p><a href="https://www.taptap.io/app/34751/review" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric">2018 TAPTAP GAMER’S CHOICE</div><h3>Muse Dash</h3><p>Polished-but-small anime rhythm runner; a useful aesthetic precedent, though its paid/DLC model is a weaker free comp.</p><a href="https://www.taptap.io/app/183315/review?hreflang=id_ID" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric caution">NO RATING SUMMARY</div><h3>Toon Toon Racing</h3><p>34 cars, 7 tracks, and 5 championships still did not produce enough ratings for a summary.</p><a href="https://www.taptap.io/app/307216" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric caution">NO RATING SUMMARY</div><h3>LOLI RACING</h3><p>38 tracks and 15 characters/karts, yet essentially no visible rating traction.</p><a href="https://m.taptap.io/kh/app/loli-racing-33664969" target="_blank" rel="noopener">Open game ↗</a></article>
+            <article class="comp"><div class="metric caution">NO RATING SUMMARY</div><h3>Ultimate Indie Racing</h3><p>Explicitly early in development, but without visible traction. Scope alone does not solve discovery.</p><a href="https://www.taptap.io/app/33721490" target="_blank" rel="noopener">Open game ↗</a></article>
+          </div>
+          <p class="lesson"><strong>Pattern:</strong> TapTap’s 2026 recommendations emphasize comments, recommendations, and retention. Racing’s browse demand looks weak; the unusual Showa-anime hook and an active first community matter more than adding ten more cars.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="traps">
+      <div class="section-head">
+        <div class="section-no">04 / PLATFORM TRAPS</div>
+        <h2 id="traps">Fail here before the players arrive</h2>
+      </div>
+      <div class="trap-grid">
+        <article class="trap">
+          <h3>itch.io web export</h3>
+          <ul>
+            <li>≤ 1,000 files and ≤ 500 MB extracted total.</li>
+            <li>≤ 200 MB for any single file—including Godot’s <code>index.pck</code>.</li>
+            <li>Compress textures/audio before upload; the total limit can pass while the PCK limit fails.</li>
+            <li>Use “In development,” publish instantly, and keep a devlog cadence.</li>
+          </ul>
+        </article>
+        <article class="trap">
+          <h3>TapTap APK & review</h3>
+          <ul>
+            <li>Custom package name; <code>versionCode</code> cannot be 0.</li>
+            <li>Sign with your own keystore—never a debug/public certificate.</li>
+            <li>Gameplay-matching screenshots, same dimensions, no device UI; promo art needs the logo.</li>
+            <li>Keep proof for original or purchased assets. No ripped anime IP, gore, gambling, sexual, or political content.</li>
+          </ul>
+        </article>
+        <article class="trap">
+          <h3>TapTap Testing path</h3>
+          <ul>
+            <li>The APK must pass review before the status can become “Testing.”</li>
+            <li>Testing may be unlimited, capped, or activation-code based.</li>
+            <li>TapTap asks for a test plan and data-wipe/IAP policy; editors may assign test visibility.</li>
+            <li>Verified-developer review is documented as within 2 business days; game updates within 24 hours.</li>
+          </ul>
+        </article>
+        <article class="trap">
+          <h3>Mainland-China caveat</h3>
+          <ul>
+            <li>Use TapTap International for this free no-IAP test.</li>
+            <li>Current TapTap CN treatment of no-IAP test builds without an ISBN could not be fully verified.</li>
+            <li>One developer publicly paused a CN test pending ISBN; do not generalize more than that precedent proves.</li>
+            <li>Mainland reach and monetization require a separate publishing/compliance plan later.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="sequence">
+      <div class="section-head">
+        <div class="section-no">05 / RELEASE SEQUENCE</div>
+        <h2 id="sequence">Learn in the cheapest order</h2>
+        <p>The point is not just downloads. It is learning whether strangers finish a gig, retry, comment, and return.</p>
+      </div>
+      <div class="sequence">
+        <article class="step"><div><h3>Clear the nine ship gates</h3><p>Protect the core session. Cut features rather than widening the bug surface.</p></div></article>
+        <article class="step"><div><h3>Publish the web Pre-Alpha on itch.io</h3><p>State what is included, missing, and next; list controls and make comments easy to use.</p></div></article>
+        <article class="step"><div><h3>Turn feedback into visible updates</h3><p>Reply, post devlogs, and prioritize friction revealed by actual play—not speculative feature volume.</p></div></article>
+        <article class="step"><div><h3>Do the Android + Chinese pass</h3><p>Real-phone controls, performance, signing, package identity, store assets, and visible localization.</p></div></article>
+        <article class="step"><div><h3>Enter TapTap International Testing</h3><p>Use the sanctioned unfinished-game lane, then earn distribution through comments and retention.</p></div></article>
+      </div>
+      <div class="caveat"><b>Open questions kept open:</b> exact itch.io download counts are hidden for all cited comps except Nightmare Kart’s combined Steam + itch press figure; TapTap does not publish exact editorial featuring criteria; current TapTap CN ISBN enforcement for free no-IAP test builds was only partially verified.</div>
+    </section>
+
+    <footer class="sources">
+      <h2>Primary sources</h2>
+      <ol class="source-list">
+        <li><a href="https://itch.io/games/top-rated/tag-racing" target="_blank" rel="noopener">itch.io top-rated racing browse</a> — ratings read 2026-10-06.</li>
+        <li><a href="https://itch.io/docs/creators/html5" target="_blank" rel="noopener">itch.io HTML5 upload rules</a>.</li>
+        <li><a href="https://developer.taptap.io/docs/store/" target="_blank" rel="noopener">TapTap developer registration</a>.</li>
+        <li><a href="https://developer.taptap.io/docs/store/store-agree/" target="_blank" rel="noopener">TapTap review specifications</a>.</li>
+        <li><a href="https://developer.taptap.io/docs/store/store-test/" target="_blank" rel="noopener">TapTap game testing</a>.</li>
+        <li><a href="https://developer.taptap.io/docs/store/store-update/" target="_blank" rel="noopener">TapTap update review timing</a>.</li>
+        <li><a href="https://www.invenglobal.com/articles/24194/80-of-5002-new-games-on-taptap-in-first-half-of-year-created-with-ai" target="_blank" rel="noopener">TapTap 2026 platform landscape</a>.</li>
+        <li><a href="https://www.taptap.cn/app/220778" target="_blank" rel="noopener">迷雾公式（测试服）</a> — unfinished test precedent, 6.9 / 108 reviews.</li>
+        <li><a href="https://www.taptap.cn/app/826592" target="_blank" rel="noopener">代号：新生（TapTap测试版）</a> — limited test precedent, 8.6 / 551 reviews.</li>
+        <li><a href="https://www.taptap.io/app/182770" target="_blank" rel="noopener">边境军团测试服</a> — single ISBN-pause precedent.</li>
+      </ol>
+      <div class="research-note">FACTS ARE A DATED SNAPSHOT · VERIFIED LIVE + INDEXED SOURCE READS · ESTIMATES LABELED</div>
+    </footer>
+  </main>
+
+  <script>
+    (function () {
+      var tabs = Array.prototype.slice.call(document.querySelectorAll('[role="tab"]'));
+      tabs.forEach(function (tab) {
+        tab.addEventListener('click', function () {
+          tabs.forEach(function (item) {
+            var selected = item === tab;
+            item.setAttribute('aria-selected', selected ? 'true' : 'false');
+            document.getElementById(item.getAttribute('aria-controls')).hidden = !selected;
+          });
+        });
+        tab.addEventListener('keydown', function (event) {
+          if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+          event.preventDefault();
+          var index = tabs.indexOf(tab);
+          var next = event.key === 'ArrowRight' ? (index + 1) % tabs.length : (index - 1 + tabs.length) % tabs.length;
+          tabs[next].focus();
+          tabs[next].click();
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
