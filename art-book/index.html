@@ -23,7 +23,10 @@ img{max-width:100%;height:auto;border-radius:6px;border:1px solid var(--line)}
 .gallery figcaption strong{color:var(--ink);font-family:monospace;font-weight:normal}
 table{border-collapse:collapse;width:100%;font-size:.88em;margin:1em 0}
 th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
-th{background:var(--panel);color:var(--ochre)} .twrap{overflow-x:auto}
+th{background:var(--panel);color:var(--ochre)} .twrap{overflow-x:auto} .twrap table{min-width:680px} .twrap th:first-child,.twrap td:first-child{min-width:105px}
+a{color:var(--ochre)} a:focus-visible,.twrap:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+code{overflow-wrap:anywhere}
+@media(max-width:700px){.twrap::before{content:"Table continues horizontally — scroll to read →";display:block;color:var(--dim);font-size:.8em}}
 blockquote{border-left:3px solid var(--acc);margin:1em 0;padding:.4em 1em;color:var(--dim);font-style:italic}
 code{background:var(--panel);padding:1px 6px;border-radius:4px;font-size:.85em}
 hr{border:0;border-top:1px solid var(--line);margin:2em 0}
@@ -34,7 +37,7 @@ footer{text-align:center;color:var(--dim);font-size:.8em;padding:40px 0}
 <header class="cover">
 <div class="sub">東京ドリフト3D · design research — not implementation</div>
 <h1>KUROGANE BAY<br>黒鉄湾</h1>
-<div class="sub">The complete 2D design art book — six chapters, 28 reference mocks + 19 implementation mocks.<br>
+<div class="sub">The complete 2D design art book — six visual chapters plus a delivery-economy review, 28 reference mocks + 19 implementation mocks.<br>
 Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <strong>[IMPLEMENTATION]</strong> what ships under Godot low-poly + AnimeLook + dust culling.<br>
 "Mad Max Tokyo with a municipal government."</div>
@@ -48,8 +51,9 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><a href='#factions'><strong>IV. Factions</strong><span>Syndicates, KMTED, the proposed American presence, and the civilians who keep the city alive.</span></a></li>
 <li><a href='#world-lore'><strong>V. World Map, Lore & Timeline</strong><span>District layout, the economy as revealed through gigs, and three eras of history.</span></a></li>
 <li><a href='#fleet-gear'><strong>VI. Fleet & Gear</strong><span>Six vehicle classes, upgrade paths, the cargo catalog, and driver gear.</span></a></li>
+<li><a href="#design-review"><strong>VII. Delivery economy — research &amp; review</strong><span>Direction, comparison, staged scope, playtest gates and source pins.</span></a></li>
 </ul>
-<section id='lower-city'><h1>I. The Trench — Lower City</h1><p class='blurb'>The main drivable world: six districts drowning in permanent ochre dust.</p><h3>KUROGANE BAY art book · 80s-anime cel · Showa retro-futurist · dust-forward</h3>
+<section id='lower-city'><h1>I. The Trench — Lower City</h1><p><strong>Source pair (2026-10-06 draft):</strong> <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/lower-city/chapter.md">canonical chapter</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md">world bible</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md">source audit / regeneration rules</a>. The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.</p><p class='blurb'>The main drivable world: six districts drowning in permanent ochre dust.</p><h3>KUROGANE BAY art book · 80s-anime cel · Showa retro-futurist · dust-forward</h3>
 <p><em>Writer: Lower City chapter. Canon sources: <code>gig-city-world-bible.md</code> (v2), <code>gig-city-retrofutur-identity.md</code>, <code>showa-dust-extrapolation.md</code>, plus design consultation digested into this text. This is 2D design only — no implementation. Craig's law honored throughout: comedy emerges from systems; nothing here is a joke.</em></p>
 <p><strong>The Trench</strong> is the main drivable world of Kurogane Bay: the Lower City, drowning in permanent ochre dust, visibility rarely past 100 m. The "sky" is never empty — it is the industrial underbelly of the Upper City: hydraulic conduit bundles, elevator counterweight tracks, truss bridges, dangling cranes, foundation plates blotting out the sun. Humans stay masked, inside, or above. The cab is the citizen's life-support capsule; the street is a machine trench.</p>
 <p><strong>The 100 m rule (from design consultation):</strong> at 100 m visibility in ochre particulate, fine detail is dead. A district is read at a glance only through <strong>macro-massing silhouettes</strong> (what shape fills the ceiling, eye-level channel, and ground plane) and <strong>dominant luminance planes</strong> (where the district's light sits in the vertical stack). Every district section below therefore opens with its <strong>signature read</strong> — the one shape-and-light combination a driver registers before they can read a single sign. Details are for 30 m; silhouette and light are for 100 m.</p>
@@ -184,8 +188,50 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <p><strong>Enamel signage (the persistent layer):</strong> vitreous enamel on steel — horo kanban — fades but never rots; sand-blasting <em>improves</em> legibility by scouring grime. In a city where fascia boards tear off in the wind and noren are consumables, enamel is the information layer that survives. Quest-relevant signs are always enamel: hand-stenciled Romanized kanji on cantilevered steel gantries, lit by hooded gooseneck incandescent lamps. The 4-depth Showa sediment (fascia, noren, banners, plates) compresses to 2: enamel plates + noren dust flaps.</p>
 <p><strong>Noren as wind UI:</strong> every shop's noren is weighted canvas with the shop mon stenciled in whitewash. In dust storms they hang <em>inward</em>, sucked by pressure differential — the street reads the storm by watching the curtains. District canvas weaves differ: a visual dialect for those who know.</p>
 <p><strong>Solari split-flap boards (the moving layer):</strong> giant soot-stained split-flap panels on enamel gantries <em>clack</em> mechanically as traffic conditions, auction lots, elevator queue numbers, and toll brackets update. No digital message boards, ever. Reading them while driving is a skill — there is no HUD minimap feed for what the boards know.</p>
-<p><strong>The ROUTE-88 (the driver's layer):</strong> the chunky in-dash CRT punch-card route computer. Accepting a gig plays the <em>CHUNK-CHUNK</em> of the card in the brass slot; the phosphor screen traces the route with a visible sweep beam. Planning is gambling with time: gas stops, garage drops, hitchhiker stacks, filter rinses, Quick-Dispatch bonuses — under 60 seconds, or the client's payout decays.</p>
+<p><strong>The ROUTE-88 (the driver's layer):</strong> the chunky in-dash CRT punch-card manifest and settlement terminal. Accepting a gig plays the <em>CHUNK-CHUNK</em> of the card in the brass slot; the phosphor screen lists the pickup, destination, load and promised window. A pre-gig briefing marks those places on a paper map; signs and landmarks do the navigation. No moving position dot, computed route line or turn-by-turn GPS. Planning includes gas stops, garage drops, filter rinses and load consolidation. Ordinary jobs allow breathing room; an explicitly labeled Quick-Dispatch premium may reward a tight window. A universal 60-second payout decay is not the baseline.</p>
 <hr>
+<h2>9A. THE WORKING SHIFT — systemic delivery proposal (2026-10-06)</h2>
+<p><strong>Craig's direction:</strong> the driver helps a small economy move, then brings money and resources home to grow an operation. <strong>Recommended slice:</strong> prove that loop inside the existing six-district city with a few businesses and constrained procedural jobs. <a href="#design-review">Research, staging and open decisions</a> separate the request from tuning proposals; nothing below claims implementation.</p>
+<ol>
+<li><strong>Read the need.</strong> At the home garage or a drive-up dispatch window, compare manifests: actual stock, downstream need, payload, loading time, delivery window, known tolls and restrictions. A paper route brief and timestamped split-flap notices reveal route conditions without GPS. Planning pauses the proposed single-player economy; accepting a job reserves its terms.</li>
+<li><strong>Assemble a load.</strong> Choose a vehicle/module, reserve cargo and a receiving bay, and decide whether a second compatible job is worth another stop. Seats, enclosed volume and rated mass are separate constraints. A passenger cannot share a seat with a crate; dangerous cargo cannot share the cabin with a fare.</li>
+<li><strong>Drive the choice.</strong> A heavy load accelerates and brakes differently and burns more fuel; a small cab can exploit narrow permitted alleys and quick loading bays. Choose a known safe detour or a disclosed toll/inspection risk. Traffic, cargo care and optional deadlines create pressure without making every run fragile, urgent and illegal.</li>
+<li><strong>Deliver a consequence.</strong> Unload only in a marked bay. The recipient's stock and production board change: an empty repair shelf fills, a work lamp comes on, or a canteen resumes a batch. The next relevant job follows that change rather than an arbitrary random destination.</li>
+<li><strong>Settle and return.</strong> A receipt separates gross fee, actual costs and net. Deliver any legally awarded parts/materials to garage storage; sell them or reserve them for a known upgrade. Refuel, repair and choose the next shift. A repeat player should plan a different useful manifest without needing new dialogue.</li>
+</ol>
+<h3>Three kinds of work; contraband is a modifier</h3>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Work</th>
+<th>Who owns the load?</th>
+<th>What pays / what can go wrong?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Contract freight</td>
+<td>Customer; sealed manifest, finite stock reserved at acceptance</td>
+<td>A quoted service fee for movement, condition and optional urgency. It cannot be sold or used for garage crafting. Partial delivery pays only under the disclosed contract rule.</td>
+</tr>
+<tr>
+<td>Merchant haul (later)</td>
+<td>Player buys real inventory with working capital</td>
+<td>Buyer demand, finite stock and travel/handling costs determine net resale. It can occupy garage storage but cannot also satisfy a separately paid contract unless explicitly purchased by that customer.</td>
+</tr>
+<tr>
+<td>Passenger fare</td>
+<td>No commodity ownership; reserved seat and destination</td>
+<td>Fare for safe arrival, optional appointment window and comfort. Existing passenger behavior is retained; extensive dialogue is not required for each generated fare.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Contraband</strong> tags an otherwise valid freight/trading job with declared legal exposure, inspection rules and a premium. It is not a magic fourth inventory or free cash source. Known cargo legality, seizure terms and loss limits appear before commitment; no surprise illegal flag after pickup.</p>
+<h3>Heavy consolidation versus fast repeat runs</h3>
+<p><strong>Illustrative proposal, not balance data:</strong> six equal crates and the same 600-yen gross freight fee. A hauler carries all six on a legal wide route: 2 minutes loading/unloading + 6 driving, 160 operating cost → 440 net / 8 minutes = <strong>55 yen/min</strong>. A nimble cab carries two per run: three 1-minute handling + 2-minute drives, two 1-minute empty returns, 120 total cost → 480 net / 11 minutes ≈ <strong>44 yen/min</strong>. Consolidation wins this forgiving bulk window despite greater per-trip cost. With a separate one-crate rush job, the cab's 3-minute cycle meets a 4-minute deadline; the hauler's 8-minute route does not. Quotes must be calibrated to legal loaded travel plus handling, not these illustrative constants.</p>
+<p>The comparison must survive playtests, not just arithmetic. More mass costs acceleration, braking distance, fuel and route access; more trips cost empty returns and handling time but expose less capital per failure. Fragile/perishable loads and passenger comfort are selected modifiers. The offer and garage preview show those tradeoffs before loading; no upgrade makes capacity, speed and maneuverability all improve without cost.</p>
+<h3>Art direction that teaches the loop</h3>
+<p>Reuse the existing enamel destination plates, brass manifests, repair shelves, pallet stacks, drive-up windows and split-flap boards. Add a small set of readable states: <strong>EMPTY / RESERVED / READY</strong>, input/output icons with text, and a receipt linking delivered stock to the next production batch. Show suited workers loading at their permitted posts, never a newly unmasked street crowd. Preserve the dust palette and silhouettes; economic information must still read close to the loading bay. The Upper City remains above the cloud deck and outside this first economy proof.</p>
 <h2>10. MOCKS — TWO LAYERS (Craig 2026-10-05)</h2>
 <p>Every design chapter carries two mock layers: <strong>[REFERENCE]</strong> (aspirational, painterly, art-directed) and <strong>[IMPLEMENTATION]</strong> (what the shipped game actually looks like under low-poly geometry, the AnimeLook shader module, and the 50–80 m dust-visibility wall). If a reference scene can't survive translation, the production-translation notes (§11) say so honestly and describe the closest achievable version.</p>
 <h3>[REFERENCE] — aspirational, painterly</h3>
@@ -258,7 +304,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><strong>Chidori authored night vs. fixed-lighting canon.</strong> The identity plan cuts the day/night cycle (fixed lighting per stratum; time told by shift horns and Solari boards) yet assigns Chidori "night" and Daikoku "dusk" as authored exceptions. Is Chidori's night a separate lighting scene within the Lower City stratum (one more authored variant — acceptable), or does the whole Trench share one amber-murk bake with Chidori's signage doing the work? Affects art scope: one bake vs. two.</li>
 <li><strong>Kotobuki welding-arc light color.</strong> The design consult proposed cobalt/cold blue-white welding bursts as Kotobuki's luminance signature — but the identity DO-list bans cool blue/purple in Lower City shadows. Question: is welding-arc flash an <em>emissive light source</em> exception (like vacuum-tube glow and phosphor green — both cool-ish and both canon), or should arc light be re-tuned warm (sodium-white/amber) to keep the ban absolute? Art-direction call needed before Kotobuki's lighting pass.</li>
 <li><strong>Kamome fluorescent strips.</strong> Same class of question: the consult proposed 4000K cool-white fluorescents bouncing off wet tarmac as Kamome's ground-plane signature. The canon palette has no cool white for the Lower City (P1 green/P4 white phosphor only). Warm-white tube lighting would read just as wet — recommend warm, but needs the call.</li>
-<li><strong>No BIBLE DELTA items found.</strong> The extrapolation doc contains no pending "BIBLE DELTA" marks — nothing was folded in from pending canon. (If deltas are added to the extrapolation doc later, they should be re-triaged here.)</li>
+<li><strong>2026-10-06 delivery-economy delta in review.</strong> Sections 9/9A update navigation and the working loop; the linked research review identifies recommendations awaiting approval. The upstream bible and identity plan are reconciled in the companion central draft; the published extrapolation tail remains incomplete, as recorded in the source audit.</li>
 <li><strong>Harbor Tram spur into Kamome.</strong> The bible gives the tram a center-boulevard spline; this chapter dead-ends a spur at the Kamome market gate (canon-adjacent, not canon). Confirm whether the tram network may branch per district or stays one spline.</li>
 <li><strong>The Flare Crown's flare cycle as a timing mechanic.</strong> This chapter proposes drivers timing runs to the flare sequence rhythm. If adopted, it becomes a gameplay system (hazard telegraphing) — needs the systems chapter's sign-off, not just art's.</li>
 <li><strong>Daikoku mock coverage.</strong> Five mocks were commissioned per the brief; Daikoku's street-level (as opposed to offshore panel fields, already mocked in v2e) has no bespoke mock. Commission <code>mock-daikoku.png</code> (container canyon, Gate 7, Winch Mast) if the art director wants full six-district coverage.</li>
@@ -676,7 +722,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 </ol>
 <hr>
 <p><em>Chapter written 2026-10-05 by the Outskirts artist/writer. Gemini consults (sea-color art direction, coastal design devices) digested above — raw consult output not pasted per chapter convention. Awaiting bible approval; nothing dispatches until Craig approves.</em></p><h2>[REFERENCE] — aspirational target</h2><p class='blurb'>Aspirational, painterly, art-directed — what it should feel like.</p><div class='gallery'><figure><img src='outskirts/mock-fishing-harbor.png' alt='mock-fishing-harbor.png' loading='lazy'><figcaption><strong>mock-fishing-harbor.png</strong> — Working harbor: moored boats, crates, winches, warehouses, two masked fishermen hauling a line on a boat&#x27;s stern. <em>Reflects:</em> the coast&#x27;s food economy, independent of the city&#x27;s dust-choked logistics. <em>Why:</em> the two are crew on a working boat — on a vessel, at work, the permitted presence; the quay clutter is the catch-handling chain.</figcaption></figure><figure><img src='outskirts/mock-switchback.png' alt='mock-switchback.png' loading='lazy'><figcaption><strong>mock-switchback.png</strong> — Mountain switchbacks above the sea: tanker rig descending the hairpins, pines, guardrails. <em>Reflects:</em> the outskirts&#x27; driving fantasy — the road as the destination; the route the GPS plans around. <em>Why:</em> the rig is on the coast freight route (no alternative exists); no figures because a mountain road has no sidewalks and the driver belongs in the cab.</figcaption></figure><figure><img src='outskirts/mock-viaduct-sea.png' alt='mock-viaduct-sea.png' loading='lazy'><figcaption><strong>mock-viaduct-sea.png</strong> — Coastal viaduct on piers, a tanker rig crossing, skyline across the water. <em>Reflects:</em> the Nagisa Outskirts as the city&#x27;s lungs — the palette breaks to blue-green outside the dust wall; the viaduct is the umbilical carrying fuel and goods. <em>Why:</em> the rig is the freight artery&#x27;s whole reason; no figures because there is nowhere for a person to be on a viaduct except inside a vehicle.</figcaption></figure><figure><img src='outskirts/mock-waystation-dusk.png' alt='mock-waystation-dusk.png' loading='lazy'><figcaption><strong>mock-waystation-dusk.png</strong> — Iron Wheel waystation at dusk: chalkboard (wind/axle-limit/radio notes), two masked mechanics by the diesel pump, rigs under the canopy, brazier, union flags. <em>Reflects:</em> the outskirts&#x27; service node — fuel, information, shelter at the halfway point; the chalkboard is the driver&#x27;s internet. <em>Why:</em> the two mechanics are the station crew (fueling + assisting) — staff at their post; the brazier burns because dusk at altitude is cold and drivers rest here.</figcaption></figure></div><h2>[IMPLEMENTATION] — shipped-game look</h2><p class='blurb'>Low-poly Godot + AnimeLook shader + real dust-culling constraints — what the final 3D will actually look like.</p><div class='gallery'><figure><img src='outskirts/impl-fishing-harbor.png' alt='impl-fishing-harbor.png' loading='lazy'><figcaption><strong>impl-fishing-harbor.png</strong> — Harbor in-engine: quay, sheds, tanks, two small figures by a skiff. Why: boat crew at the skiff — same vessel-at-work logic, simplified.</figcaption></figure><figure><img src='outskirts/impl-viaduct-sea.png' alt='impl-viaduct-sea.png' loading='lazy'><figcaption><strong>impl-viaduct-sea.png</strong> — Coastal viaduct on piers, a tanker rig crossing, skyline across the water. <em>Reflects:</em> the Nagisa Outskirts as the city&#x27;s lungs — the palette breaks to blue-green outside the dust wall; the viaduct is the umbilical carrying fuel and goods. <em>Why:</em> the rig is the freight artery&#x27;s whole reason; no figures because there is nowhere for a person to be on a viaduct except inside a vehicle.</figcaption></figure><figure><img src='outskirts/impl-waystation-dusk.png' alt='impl-waystation-dusk.png' loading='lazy'><figcaption><strong>impl-waystation-dusk.png</strong> — Waystation in-engine: one masked attendant at the pump with a box truck, brazier, flags. Why: one duty crew runs the pump at this hour; the truck is being fueled — the station&#x27;s entire purpose.</figcaption></figure></div><p class='top'><a href='#top'>↑ back to contents</a></p></section>
-<section id='factions'><h1>IV. Factions</h1><p class='blurb'>Syndicates, KMTED, the proposed American presence, and the civilians who keep the city alive.</p><h3>KUROGANE BAY / Tokyo Drift 3D gig-driver game</h3>
+<section id='factions'><h1>IV. Factions</h1><p><strong>Source pair (2026-10-06 draft):</strong> <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/factions/chapter.md">canonical chapter</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md">world bible</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md">source audit / regeneration rules</a>. The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.</p><p class='blurb'>Syndicates, KMTED, the proposed American presence, and the civilians who keep the city alive.</p><h3>KUROGANE BAY / Tokyo Drift 3D gig-driver game</h3>
 <p><em>World law first: no faction is "the mafia." Each has a civilian economic origin — dockers, cabaret owners, fishmongers, drivers. Wars are over </em><em>drivable logistics chokepoints</em><em> (customs gates, cold-chain, elevator terminals, panel fields), never abstract turf. Every faction's street presence must read at </em><em>100 m visibility</em><em> — banner colors, vehicle liveries, checkpoint architecture. Character law: </em><em>no unmasked faces, ever.</em><em> Tone law: the world takes itself 100% seriously — comedy emerges from systems only; nothing in this chapter is a punchline.</em></p>
 <p><strong>Reading key (per faction):</strong> LOOK (colors, insignia, mask/uniform design) · VEHICLES (livery) · TURF (where they read on the street) · THE WHEELMAN (how they hire, threaten, or tolerate the player).</p>
 <p><strong>Mock layers (Craig 2026-10-05):</strong> every scene carries two mock layers — <strong>[REFERENCE]</strong> (aspirational, painterly, art-directed) and <strong>[IMPLEMENTATION]</strong> (what the shipped Godot game actually renders under the AnimeLook module: flat-shaded low-poly, ink outlines, 2-band cel shading, warm umber shadows, dust fog). Each scene's implementation note records what survived production translation, what was cut, and honest flags where the reference cannot survive.</p>
@@ -684,6 +730,40 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <p><strong>A note on method.</strong> At 100 m through dust you cannot read a badge — you read <strong>silhouette geometry, luminance contrast, and material motion.</strong> Every faction below was designed to be identified by those three channels before you ever read its insignia. (Gemini design consultation digested throughout; consult notes in <code>consult/gig-city/factions-design/</code>.)</p>
 </blockquote>
 <hr>
+<h2>Delivery pressure — fairness and scope proposal (2026-10-06)</h2>
+<p>Faction motives and visual identities below remain authored worldbuilding. For the economy proof, use a stable ownership map and one additional pressure type at a time. Existing police/traffic tasks continue under their current owners; this chapter does not replace or reopen them. <a href="#design-review">Phase gates and open decisions</a>.</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Pressure</th>
+<th>Read before taking the risk</th>
+<th>Fair consequence and phase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time</td>
+<td>Ordinary window versus optional rush premium; legal loaded travel + handling allowance</td>
+<td>Late fee is bounded and printed. No universal rush timer.</td>
+</tr>
+<tr>
+<td>Police / inspections</td>
+<td>Posted checkpoints, cargo legality, inspection/toll band and alternative route</td>
+<td>Legal work remains viable. Confiscation/fines affect the declared load once; integrate accepted arrest behavior and recovery rules. Existing pursuits are not removed.</td>
+</tr>
+<tr>
+<td>Rivals</td>
+<td>Board shows a competitor's reserved job or scheduled delivery</td>
+<td>Compete for unreserved jobs first; never steal the player's accepted reservation. Chasing/ramming needs a later explicit feature gate.</td>
+</tr>
+<tr>
+<td>Bandits</td>
+<td>Radio warning, marked dangerous corridor, known safe detour and hazard premium</td>
+<td>Start with a bounded warned roadblock event if chosen. No random unavoidable ambush or spawning on the player's bumper; combat is later.</td>
+</tr>
+</tbody>
+</table></div>
+<p>Do not stack every pressure on the first shift. Introduce a rule on a low-stakes job before combining it with another. A changed blockade must retain an escape/detour or allow a no-penalty return. Faction reputation shows who is affected, by how much and for how long on the receipt; the city should not silently punish unrelated jobs.</p>
 <h2>1. KAIUN-GUMI — 海運組 · The Ocean Transport Syndicate</h2>
 <p><strong>Production translation.</strong> What survived: the sodium-orange coverall blocks, the glowing T-bar chest band (authored as an emissive/unshaded component — the most fog-proof ID channel per the consult), the square box-hood silhouettes, the hook banner as a big orange field. What was cut: crane-hook stencils on uniforms (dead at 100 m — a 4×4-pixel gray smudge; decals are fill-rate poison on mobile TBDR), canvas wrinkles (coveralls become rigid low-poly cylinders). Honest flag: the hook emblem itself is only legible under ~40 m — at 100 m the read is the banner's orange field and the gooseneck lamp pools, not the stencil. Faction readability: VERIFIED at 100 m.</p>
 <p><strong>Origin.</strong> Demobilized naval logistics crews and dockers who cleared harbor wreckage after the war; the brute-force masters of the waterfront. (Echoes the real Yamaguchi-gumi's 1915 dock-labor origins — energy, not history.)</p>
@@ -705,7 +785,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <p><strong>LOOK — grounded, triangular, wet.</strong> Low-slung and stable: stiff vulcanized rubber maekake aprons over padded thermal jumpsuits, <strong>white knee-high rubber boots</strong> — the highest-contrast element on the street, flashing against dark wet pavement at distance. <strong>Color discipline:</strong> stark marine-white and deep indigo-dyed hemp; the guild <em>kamon</em> (the crane) stenciled massive in whitewash across the apron belly for frontal identification. Fish blood and scale are <em>part of the uniform</em> — a clean Tsuru-kai enforcer is one who hasn't worked today, and nobody trusts one. <strong>Masks:</strong> marine salvage rebreathers and clear vinyl spray-hoods with external copper scrubbers — the copper tanks on the cheeks are their tell. <strong>Insignia:</strong> the crane kamon, brush-painted on every vertical surface in the ward in the morning and washed off the rivals' walls by noon.</p>
 <p><strong>VEHICLES — flat-front work trucks.</strong> Cab-over box trucks and refrigerated vans in indigo with white crane-roundel doors, vertical calligraphic <em>nobori</em> banners tied to the mirrors streaming behind them at speed — <strong>material motion as ID</strong>: no other faction trails cloth at 80 km/h. Fortifications on wheels: blue plastic fish-crate walls bound with hemp rope stacked on flatbeds. Their ice trucks run the dawn routes — catch them at 4 AM and the whole ward smells of the sea for a block.</p>
 <p><strong>TURF — Kamome Wholesale Ward, North Rail Depots.</strong> The wet-pavement labyrinth: seafood halls, cold storage, auction stalls, dust caked on every awning. Checkpoint architecture: interlocking fish crates and brine barrels bound with hemp rope, auction-hall gantries, the cold-chain gates — the war with Kaiun-gumi is fought <em>at the gates of the cold-storage customs</em>, and you read it on the street as crate barricades vs. container walls. The ward's morning soundtrack is the tuna auction chant under the hazard lamps; by 7 AM the streets are washed down and the Tsuru-kai aprons are hung out to dry — a hundred indigo flags marking claimed doorways.</p>
-<p><strong>THE WHEELMAN — hired as cold-chain infrastructure.</strong> Tsuru-kai gigs are timers with teeth: perishables on a clock (Kenji the Fish-King's million-yen tuna to Haibara before rigor mortis), restaurant resupply, cash-bag escorts before sunrise. They pay in <em>produce and credit</em>, not just yen: a driver in good standing eats from the auction floor and gets first call on the dawn runs. <strong>"Abacus" Kenjiro Sato</strong> (merchant apron, canvas dust hood, brass abacus — carried, not a gun) destroys rivals through debt, supply starvation, and razor-wire ambushes on supply avenues. He hires drivers the way he hires everything: on margin. Be late with his fish and the abacus beads click — and your next three gigs across the whole city quietly pay 10% less until the ledger balances. No threats. Arithmetic.</p>
+<p><strong>THE WHEELMAN — hired as cold-chain infrastructure.</strong> Tsuru-kai gigs are timers with teeth: perishables on a clock (Kenji the Fish-King's million-yen tuna to Haibara before rigor mortis), restaurant resupply, cash-bag escorts before sunrise. They pay in <em>produce and credit</em>, not just yen: a driver in good standing eats from the auction floor and gets first call on the dawn runs. <strong>"Abacus" Kenjiro Sato</strong> (merchant apron, canvas dust hood, brass abacus — carried, not a gun) destroys rivals through debt, supply starvation, and razor-wire ambushes on supply avenues. He hires drivers the way he hires everything: on margin. Be late with his fish and the abacus beads click — the settlement prints a bounded deduction and any temporary Tsuru-kai standing change, with its expiry; unrelated city contracts keep their accepted terms. No threats. Arithmetic.</p>
 <p><strong>Production translation (no mock this round — see §10).</strong> The consult's verdict: the non-negotiable read is the stark white boot blocks (ground-level value contrast in fog) plus tall, rigid nobori banner cards on the trucks — and the cheapest cuts are the crane kamon on the apron belly and the copper scrubber canisters (boxy geometry at LOD0 only, culled by LOD2). Trap warning: the reference's streaming banners must NOT become cloth sim — rigid opaque low-poly cards with baked vertex-shader sway (<code>sin(TIME*freq + VERTEX.y)</code>), no bones, no alpha-cut edges (alpha kills TBDR tile performance). Honest flag: with no implementation mock commissioned, Tsuru-kai's 100 m read is consult-verified on paper, not proven in pixels — flagged for the next mock round (§9 #2).</p>
 <hr>
 <h2>4. IRON WHEEL UNION — 鉄輪連合 · The Tetsurin Alliance</h2>
@@ -913,7 +993,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><strong><code>mock-american-depot.png</code> — PASS.</strong> Three soldiers in fatigues and respirators among olive-drab jeeps, Quonset huts behind a fence, PX stall. <em>Reflects:</em> PROPOSED American army-camp presence — the bible's sanctioned context for English markings; surplus hardware leaking into the civilian economy. <em>Why:</em> depot staff on duty inside a fenced military installation (controlled ground, not a public street); the PX stall is the depot's retail leak. Plausible if the faction is canonized — that verdict is §9's, not this section's.</li>
 </ul>
 <p><strong>Not yet commissioned:</strong> Tsuru-kai implementation mock (Kamome dawn-auction piece, per §9 #2); Kanzaki implementation mock (highest-risk translation, unproven in-engine); Americans implementation layer (PROPOSED — on hold pending Craig's verdict).</p><h2>[REFERENCE] — aspirational target</h2><p class='blurb'>Aspirational, painterly, art-directed — what it should feel like.</p><div class='gallery'><figure><img src='factions/mock-american-depot.png' alt='mock-american-depot.png' loading='lazy'><figcaption><strong>mock-american-depot.png</strong> — Three soldiers in fatigues and respirators among olive-drab jeeps, Quonset huts behind a fence, PX stall. <em>Reflects:</em> PROPOSED American army-camp presence — the bible&#x27;s sanctioned context for English markings; surplus hardware leaking into the civilian economy. <em>Why:</em> depot staff on duty inside a fenced military installation (controlled ground, not a public street); the PX stall is the depot&#x27;s retail leak.</figcaption></figure><figure><img src='factions/mock-ironwheel-garage.png' alt='mock-ironwheel-garage.png' loading='lazy'><figcaption><strong>mock-ironwheel-garage.png</strong> — Five masked mechanics around a kei van under the expressway: one welding, one holding, others fitting and supervising; tire walls, union banner. <em>Reflects:</em> the Iron Wheel Union — the mechanics&#x27; syndicate keeping the Dust Tithe economy running. <em>Why:</em> full crew mid-job in their enclosed hall; the tire walls are consumable stock; the banner marks union territory.</figcaption></figure><figure><img src='factions/mock-kaiun-checkpoint.png' alt='mock-kaiun-checkpoint.png' loading='lazy'><figcaption><strong>mock-kaiun-checkpoint.png</strong> — Two Kaiun enforcers in work gear and respirators flanking a checkpoint under a &quot;DOCKERS&#x27; SYNDICATE — CHECKPOINT —&quot; banner, container stacks both sides. <em>Reflects:</em> the Kaiun-gumi tax trade at a chokepoint — banner, two enforcers, a gate. <em>Why:</em> they man the checkpoint (fixed post, the permitted on-foot exception); the banner announces whose toll this is.</figcaption></figure><figure><img src='factions/mock-kanzaki-mask.png' alt='mock-kanzaki-mask.png' loading='lazy'><figcaption><strong>mock-kanzaki-mask.png</strong> — Madame Kanzaki in her velvet office above the Starlight Lounge: lacquered mask with painted red smile, gown, cigarette in a long holder. <em>Reflects:</em> the authored night has an author — the Gokuraku-kai&#x27;s Chidori boss; the mask is character law elevated to status symbol. <em>Why:</em> she overlooks her floor from her office (blurred club behind her); the holder lets her smoke through the mask&#x27;s filter slot — the detail that proves it&#x27;s a respirator first, ornament second.</figcaption></figure><figure><img src='factions/mock-kmted-cruiser.png' alt='mock-kmted-cruiser.png' loading='lazy'><figcaption><strong>mock-kmted-cruiser.png</strong> — KMTED cruiser on a factory road, two masked officers inside, the Meter Maid on her scooter writing a ticket. <em>Reflects:</em> the traffic authority metering the drive-up economy; officers stay in the vehicle (cab is sovereign ground, even for police). <em>Why:</em> patrol is vehicular; the Meter Maid tickets vehicle-to-vehicle, never dismounting into traffic.</figcaption></figure></div><h2>[IMPLEMENTATION] — shipped-game look</h2><p class='blurb'>Low-poly Godot + AnimeLook shader + real dust-culling constraints — what the final 3D will actually look like.</p><div class='gallery'><figure><img src='factions/impl-ironwheel-garage.png' alt='impl-ironwheel-garage.png' loading='lazy'><figcaption><strong>impl-ironwheel-garage.png</strong> — Three union mechanics around a panel van on a scissor lift, union banner, tire stacks, steam. Why: crew on a lift job in-engine; same enclosed-bay logic. (Chapter&#x27;s mis-sided chevron flag stands — not a plausibility issue.)</figcaption></figure><figure><img src='factions/impl-kaiun-checkpoint.png' alt='impl-kaiun-checkpoint.png' loading='lazy'><figcaption><strong>impl-kaiun-checkpoint.png</strong> — Two enforcers in orange coveralls and box-hoods at a steel gantry between container walls, hook-mark banner, lamps lit. Why: same checkpoint logic in-engine — fixed post, round-the-clock lamps, territory marked.</figcaption></figure><figure><img src='factions/impl-kmted-cruiser.png' alt='impl-kmted-cruiser.png' loading='lazy'><figcaption><strong>impl-kmted-cruiser.png</strong> — Cruiser at a kōban booth at night, officer at the booth, Meter Maid with raised ticket book, light bar glowing. Why: the booth is the officer&#x27;s fixed post; the raised arm is the ticketing gesture — her whole reason to exist in the fiction; the light bar means a stop is in progress.</figcaption></figure></div><p class='top'><a href='#top'>↑ back to contents</a></p></section>
-<section id='world-lore'><h1>V. World Map, Lore & Timeline</h1><p class='blurb'>District layout, the economy as revealed through gigs, and three eras of history.</p><h3>The city as the gigs reveal it</h3>
+<section id='world-lore'><h1>V. World Map, Lore & Timeline</h1><p><strong>Source pair (2026-10-06 draft):</strong> <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/world-lore/chapter.md">canonical chapter</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md">world bible</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md">source audit / regeneration rules</a>. The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.</p><p class='blurb'>District layout, the economy as revealed through gigs, and three eras of history.</p><h3>The city as the gigs reveal it</h3>
 <p><em>Canon: <code>~/workspace/game-design/gig-city-world-bible.md</code> (v2). This chapter is the story the player learns from behind the wheel — never a codex, never a lecture. History law applies: nothing here is historically accurate; it is post-war in energy and retro-futurist in fact. Nobody may correct it against real history.</em></p>
 <p><em>Two mock layers per scene: </em><em>[REFERENCE]</em><em> is the aspirational painterly art direction; </em><em>[IMPLEMENTATION]</em><em> is what the final 3D actually renders under our real technology — Godot low-poly geometry, the AnimeLook shader module (flat color fields, ink outlines, cel-shading bands, washed-out texture noise), dust-culling fog, masked characters, no faces ever. Where a scene can't be built in-engine at all (the world map is a diagram, not a place), it stays reference-only — said explicitly, never silently.</em></p>
 <p><strong>Production translation — REFERENCE ONLY, no implementation layer.</strong> This image is a diagram, not a place. In-game the driver never sees an abstract cross-section camera — the strata exist only through the windshield, so a 3D implementation mock would burn budget on a viewpoint the shipped game never renders. The reference layer stands as the art-book diagram, unchanged. The closest it ever gets to the engine is a flat, unlit 2D graphic on the dash monitor (a folded tourist-pamphlet texture at 512×512), which is a UI prop, not a scene.</p>
@@ -1019,25 +1099,61 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><strong>Nagisa:</strong> unaligned — Iron Wheel waystation, fishermen, mountain crews</li>
 </ul>
 <h3>The endgame war map</h3>
-<h2>Faction war phases move blockades and change <strong>elevator terminal control</strong> — the terminals are the city's tollbooths, and holding one means taxing every crate, fare, and filter that crosses the dust layer. The war map is legible from the driver's seat: a terminal under new control changes its banners, its queue bribes, its inspection strictness, and the ROUTE-88's toll brackets before any dispatcher tells you why. The endgame is not a boss fight; it is the week all three terminals change hands at once.</h2>
+<p><strong>Later-phase ambition, not the local-economy MVP:</strong> faction war phases could move blockades and change <strong>elevator terminal control</strong>. New banners, posted tolls and inspection notices would explain consequences from the driver's seat. For the slice, faction ownership remains authored and stable; a small number of scheduled, warned disruptions supplies route variation. A citywide terminal war needs a separate balance and recovery review before becoming an endgame promise.</p>
 <h2>B. LORE — The City as the Gigs Reveal It</h2>
 <p><em>Nothing in this section is told to the player. Everything is learned from the passenger seat, the payout chit, and the road. The world takes itself seriously; the absurdity arrives when high stakes collide with a Tuesday shift.</em></p>
 <h3>How the player learns the economy: the settlement chit</h3>
-<p>Every gig ends the same way: the ROUTE-88's brass slot spits a printed settlement chit, and the deductions are itemized before the net. The player does not read the economy in a codex — the economy <em>taxes</em> them, line by line:</p>
+<p>The ROUTE-88 prints a receipt with <strong>gross earned, condition/late adjustment, costs already paid, costs still due, and net</strong>. Sol-88 excise belongs to the fuel purchase; the Dust Tithe belongs to actual filter/rinse service; roadbed access tariffs belong to the gates used. Itemize their attribution to the trip without deducting them twice at delivery. Estimates before acceptance and actual costs afterward explain the difference. KPC owns the fuel, dust wears the car, Minami taxes the road: lore remains in the paperwork.</p>
+<h3>Local production — recommended bounded model</h3>
+<p><strong>Scope proposal:</strong> six business nodes inside the existing map, four goods, two recipes. Decorative businesses remain decorative; no simulation of every resident, worker, vehicle or faction balance sheet. The six-node proof uses two three-node chains:</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Chain</th>
+<th>Producer → converter → consumer</th>
+<th>Visible cause and effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repairs</td>
+<td>Daikoku salvage yard: scrap → Kotobuki machine shop: repair parts → Tenjin service depot</td>
+<td>Deliver scrap, see a queued batch start; after its production time, a parts-delivery offer appears. The depot consumes parts on its bounded service schedule.</td>
+</tr>
+<tr>
+<td>Food</td>
+<td>Kamome wholesaler: ingredients → Chidori canteen kitchen: meal crates → Daikoku shift canteen</td>
+<td>An input shortage halts kitchen output; delivery restores one batch; the shift canteen consumes meals at scheduled intervals.</td>
+</tr>
+</tbody>
+</table></div>
+<p>For the first recipe sheet, propose 2 scrap → 1 repair-parts crate in 6 ticks and 2 ingredient crates → 1 meal crate in 3 ticks. Recipe units are containers, not equal physical mass; outputs/byproducts must never create tradable material from nothing. Each node has finite input/output storage, batch capacity and a receiving limit. Later electronics or filter manufacture is an optional third chain, not another launch dependency.</p>
+<p>Raw stock enters through <strong>explicit, capped port/wholesale import schedules</strong>. End consumers remove goods on bounded schedules and replenish a capped purchasing budget from an external customer-demand allowance. These are declared economy sources/sinks, not invisible rescue spawns. Fuel, repairs, rents and taxes are cash sinks. NPC fulfillment is an abstract, scheduled stock transfer with a visible arrival notice; do not simulate every truck. Leave a measured fraction of demand for the player, rather than letting instant NPC arbitrage erase the job board. <a href="#design-review">Bannerlord inspiration and source limits</a>.</p>
+<h3>Tick, job and transaction contract</h3>
+<p><strong>Proposed clock:</strong> a fixed 10-second simulation tick, independent of render rate. Pause freezes economy, deadlines and spoilage together; no offline progression in the slice. Save the seed, tick index, event order, inventory, reservations, quotes, jobs, cash and upgrade state. On resume, process only uncommitted ticks; no catch-up jackpot. Tick order is stable: due imports/consumption → completed production → eligible new batches → unreserved deficits/offers. Player pickup/delivery events join the same ordered ledger with unique IDs.</p>
+<p>Procedural jobs are generated from <strong>unreserved deficits</strong> against available source stock and reachable legal receiving bays. A job records source, destination, quantity, mass/slots, owner, condition rule, quote expiry, loading allowance, due time, payout cap and risk band. Filter impossible routes, incompatible cargo and over-capacity loads before offering them. Offer variety is a seeded choice among feasible needs; a cooldown suppresses identical repeated manifests. No infinite timer-based job faucet divorced from inventory.</p>
+<p>Acceptance atomically reserves source stock, destination capacity and fee budget. Pickup transfers reserved stock into customer-owned cargo. Delivery atomically transfers accepted units, records condition and pays once; replaying a signal cannot pay again. Cancellation/expiry releases reservations once. Pre-pickup withdrawal has no reward; picked-up returns go back to source with no reward or material conversion. Only one legal ownership state exists for each lot: source, reserved, aboard, delivered, returned, consumed or written off.</p>
+<h3>Prices, fees and the small-city boundary</h3>
+<p>Local hauling earns mainly a <strong>service fee</strong> for distance, handling, access and optional urgency/risk. It does not require one street selling the same box for five times its neighbor's price. Prototype merchant prices later as a modest, disclosed stock band (initial hypothesis: 0.9–1.1 × common reference price), finite quotes, transport costs and a buy/sell spread. Lock accepted contract fees; timestamp unaccepted quotes. Bulk purchases/sales move the available stock and the next quote. Cap destination demand so endless dumping stops paying.</p>
+<p>This is a deliberately open, bounded economy, not a claim of complete macroeconomic realism. Regional/intercity price differences only arrive with actual separated suppliers, distance, shipping schedules, border/toll/access costs and finite demand. Keep a legal ordinary-job floor and reserve high margins for visible constraints. If the price model demands implausible local gaps to feel fun, improve the delivery decisions before increasing the multipliers.</p>
+<h3>Failure, recovery and exploit boundaries</h3>
 <ul>
-<li><strong>Gross fare</strong> — what the client paid.</li>
-<li><strong>Sol-88 excise</strong> — KPC's per-liter cut, printed as a government stamp. When faction wars spike the fuel price, this line grows and the player feels the war in their pocket before any dispatcher mentions it.</li>
-<li><strong>Dust Tithe</strong> — the filter-rinse levy, the radiator-scrub fee, the sealed-bearing surcharge. Every Lower City mile accrues it; Kotobuki's rinse bays are where you pay it in cash instead of performance.</li>
-<li><strong>Roadbed access tariff</strong> — Minami's tolls, per district crossed, per stratum changed. The elevator toll is its own line, and it is always the largest.</li>
+<li><strong>Late/damaged freight:</strong> disclose a bounded reduction or rejection threshold. Valid partial deliveries consume and pay only the accepted units. Spoiled/seized/destroyed stock is written off once. The remaining obligation closes or returns under the printed contract; no repeated failure fee.</li>
+<li><strong>Fair disruptions:</strong> publish checkpoint/toll bands before acceptance. A closure after pickup must leave a viable detour plus deadline relief, or allow penalty-free return. No unavoidable ambush at a blind turn or attack during a loading/menu state. If pursuit becomes inescapable, the failure must still lead to recovery, not bankruptcy without options.</li>
+<li><strong>Bust/tow:</strong> integrate with the existing police/arrest work through its eventual accepted interface. Proposed cap on loss, a receipt and return to a known safe bay prevent stacked fees; the exact respawn remains that task's decision. No remote teleport preserving a valuable delivery reward.</li>
+<li><strong>Zero-cash recovery:</strong> provide a non-transferable basic loaner or repair/fuel allowance for one legal recovery contract. It cannot be sold, stored, crafted, cashed out or repeatedly claimed while an allowance is active. The basic job covers its costs and leaves positive net; no exponential debt, permanent loss of the only working vehicle or mandatory contraband.</li>
+<li><strong>No resource loops:</strong> customer freight cannot fund upgrades; legal salvage has a unique origin and bounded award. Crafted output plus resale cannot exceed inputs plus paid work through a repeatable instant loop. Buying, returning, refunding, duplicate settlement, save/reload, upgrade removal and renting/canceling parking all need ledger checks. Prices round consistently in integer currency.</li>
+<li><strong>No induced-shortage jackpot:</strong> destroying goods or hoarding inputs cannot raise the payout of one's existing reservation; reward bands are capped. Hold/reservation expiry and capped NPC imports keep one blocked chain from freezing every legal job. Recovery work remains available independently.</li>
 </ul>
-<p>A driver who never reads a word of lore still learns the city's power structure from these four lines: KPC owns the fuel, the dust owns the car, Minami owns the road. The settlement chit is the city's autobiography, printed after every job.</p>
+<h3>Authored anchors, procedural consequences</h3>
+<p>Keep the district histories, faction motives, recurring dispatchers and a few short introductions/milestone scenes. Propose one reusable manifest template per job family, a small curated bank of radio lines, and business-specific supply/risk constraints. The seven money flows below are <strong>worldbuilding and optional anchor vignettes</strong>, not seven mandatory branching campaigns or bespoke mechanics for every generated job. Generated work recombines approved places, goods and rules; it never invents new lore or requires runtime story generation. Review the templates, contradictory combinations and state transitions, then sample seeded shifts.</p>
 <h3>The seven money flows, as jobs</h3>
 <p><strong>1. The Harbor Siphon.</strong> <em>Who hires you:</em> a burner terminal at Daikoku Gate 5 texts a one-line offer that only appears when your tank drops below a quarter — the dispatch algorithm can smell desperation. <em>What you move:</em> unregistered cargo from a midnight van to a Kotobuki chop shop, gravity-fed Sol-88 straight into a hidden auxiliary tank. <em>What you learn:</em> the car goes tail-heavy and the exhaust smokes black; KPC's official ledgers write off the missing fuel as "seabed leakage," and the siphon crews are the leak. The harbor doesn't get robbed. It gets <em>reconciled</em>.</p>
 <p><strong>2. The Synthetic Bloodline.</strong> <em>Who hires you:</em> Mariko "Zero-Gauge" Katsu, who needs gray-market distillate for a speed trial and doesn't ask where you got it. <em>What you move:</em> siphoned Sol-88 in jerrycans — volatile, sloshing, and chemically wrong. <em>What you learn:</em> the engine knocks, the throttle lags, backfires draw KMTED patrols, and the fouling clogs your filter twice as fast (the Dust Tithe again). The monopoly isn't just enforced by KPC security. It's enforced by chemistry — the city's engines were built around Sol-88's burn rate, and everything else is a confession.</p>
 <p><strong>3. The Morning Wholesale Squeeze.</strong> <em>Who hires you:</em> Kenji the Fish-King, 4:40 AM, a 220-kilo bluefin that must reach the Grand Bay Hotel before the press breakfast — or a Tsuru-kai dispatcher with six crates of company-store produce and a route through a picket line. <em>What you move:</em> perishables on a melting clock; the ice kills your rear traction as it thaws. <em>What you learn:</em> Tsuru-kai doesn't sell food, it sells <em>permission to eat</em> — the auction, the synthetic-ice monopoly, the merchant loans are one machine, and the blockade at the cold-storage customs gate is the Kaiun-gumi trying to starve it. Cross the picket line and the payout clears; dump the cargo to the strikers and the payout dies — but a new dispatcher, one who never uses a name, starts offering you untracked work.</p>
 <p><strong>4. The Neon Wash.</strong> <em>Who hires you:</em> Taro "Clean Towel" Inaba, or a Gokuraku bagman who never introduces himself. <em>What you move:</em> nothing, at first — you drive loops through Chidori with a silent passenger while a mechanical cash-counter clicks in the back seat, and at every third loop the passenger feeds a brick of harbor cash into your meter as an "overpaid fare." <em>What you learn:</em> there is no wire transfer in Kurogane Bay, so dirty money gets laundered one cab ride at a time, and your car is the washing machine. Madame Kanzaki's intelligence network runs on the same principle: cab drivers hear everything, because passengers confess to the rear-view mirror.</p>
 <p><strong>5. The Paper Chase.</strong> <em>Who hires you:</em> Shinji "Slippery" Uno, three gold watches, sweating through a paper mask. <em>What you move:</em> bearer bond certificates and blackmail photographs in a briefcase that may not pass through corporate scanner grids — Tenjin's arteries are laced with them. <em>What you learn:</em> paper is the only true wealth left, because the paper can't be scanned, seized, or traced — only <em>driven</em>. You learn the drainage canals and service alleys the way other drivers learn shortcuts, because the main roads belong to the scanners. When the corporate recovery trucks come, they don't shoot. They pit-maneuver you into a contract default. Bureaucracy, with push-bars.</p>
-<p><strong>6. The Vertical Arbitrage.</strong> <em>Who hires you:</em> "Highline" Adaeze Okafor — or rather, the queue outside Terminal 2, which is its own employer. <em>What you move:</em> Lower City goods sealed for the Upper market (3× after decontamination), Upper City tech bound for Kotobuki (filters, compensators, sealed trunks — 5× below). <em>What you learn:</em> the elevator toll is priced with surgical precision — always <em>just</em> cheaper than the cost of the alternative. The alternative is the broken industrial lift in Kotobuki (30% mechanical failure, or a syndicate ambush) or the lead-lined smuggler trunk (decon-proof, but the mass changes your drift physics for the worse). Every driver does this math at the terminal gate, every day. The arbitrage isn't a secret. It's the tollbooth.</p>
+<p><strong>6. The Vertical Freight Gate (later phase).</strong> <em>Who hires you:</em> “Highline” Adaeze Okafor, or a licensed trader at Terminal 2. <em>What you move:</em> sealed Lower City supplies up; approved specialist parts down. <em>What you learn:</em> decontamination, queue time and access permits explain freight fees. The earlier 3×/5× local-price promise and blanket 30% lift-failure roll are retired tuning assumptions. Merchant margins, if introduced, come from finite demand and actual access/travel costs; any hazardous industrial lift needs a visible condition warning and a viable alternative. Upper City lore and its position above the cloud deck remain unchanged. Larger arbitrage belongs to later separated depot/intercity markets, not an automatic elevator money loop.</p>
 <p><strong>7. The Dust Tithe.</strong> <em>Who hires you:</em> your own engine. <em>What you move:</em> yourself, to a rinse bay, before the filter chokes. <em>What you learn:</em> the filter gauge is the city's slowest countdown — boost dies as it saturates, and the rinse costs money or minutes, always both. Kotobuki's rinse bays are the most recession-proof business in Kurogane Bay because the dust is the one tax nobody can dodge, bribe, or outrun. The bay attendants stamp your union card like priests stamping a pilgrim's passport.</p>
 <h3>The three tycoons, as the work introduces them</h3>
 <p>The player never meets the tycoons. The player meets their <em>paperwork</em> — and their fares.</p>
@@ -1121,7 +1237,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><strong><code>mock-worldmap.png</code> — PASS.</strong> The world map: Upper City on its elevator platform above the dust, Sky Elevator shafts, Daikoku Piers, Kamome, Tenjin, Shinkai Basin refineries, Panel Fields, Mt. Kurogane, Nagisa Coast. <em>Reflects:</em> the whole bible in one image — three strata, the districts, the dust layer as the literal divider between worlds; the map the GPS plans on. <em>Why:</em> every district shown because the map's job is orientation; the dust band sits between platform and ground because that is the city's founding geography; no figures because it is a cartographic document.</li>
 </ul>
 <p><em>End of chapter. BIBLE DELTA pending — no implementation tasks until Craig approves the bible.</em></p><h2>[REFERENCE] — aspirational target</h2><p class='blurb'>Aspirational, painterly, art-directed — what it should feel like.</p><div class='gallery'><figure><img src='world-lore/mock-dust-tithe.png' alt='mock-dust-tithe.png' loading='lazy'><figcaption><strong>mock-dust-tithe.png</strong> — Rinse station under the expressway: masked attendant scrubbing a sedan&#x27;s windshield, second masked figure at the booth window, barrels, shacks. <em>Reflects:</em> the Dust Tithe made literal — the recurring rinse cost every vehicle pays to keep moving; the booth is the transaction point. <em>Why:</em> the attendant scrubs because dust blinds windshields (survival, not luxury); the second figure takes payment (cash/Sol-88); the barrels are the water stock — water is the tithe&#x27;s currency.</figcaption></figure><figure><img src='world-lore/mock-elevator-build.png' alt='mock-elevator-build.png' loading='lazy'><figcaption><strong>mock-elevator-build.png</strong> — Sky-elevator tower under construction: concrete core, red bracing, cranes hoisting, worker figures on the ground, scaffolds, and balconies. <em>Reflects:</em> the city&#x27;s vertical ambition being built — the elevators are how the Aerium grows. <em>Why:</em> construction crew at their stations — ground (materials), scaffolds (assembly), balconies (supervision).</figcaption></figure><figure><img src='world-lore/mock-sea-night.png' alt='mock-sea-night.png' loading='lazy'><figcaption><strong>mock-sea-night.png</strong> — Night at sea: two figures in a small boat (one standing in coat and cap, one seated in hooded oilskin with respirator) facing offshore refinery platforms with burning flares. <em>Reflects:</em> the Shinkai basin&#x27;s offshore face — industry&#x27;s signature burning around the clock; the character law reaching even the sea. <em>Why:</em> a night boat crew — fishers run night shifts when the sea air clears; on a vessel, at work, the permitted presence; the flares are the landmark they work around.</figcaption></figure><figure><img src='world-lore/mock-worldmap.png' alt='mock-worldmap.png' loading='lazy'><figcaption><strong>mock-worldmap.png</strong> — The world map: Upper City on its elevator platform above the dust, Sky Elevator shafts, Daikoku Piers, Kamome, Tenjin, Shinkai Basin refineries, Panel Fields, Mt. Kurogane, Nagisa Coast. <em>Reflects:</em> the whole bible in one image — three strata, the districts, the dust layer as the literal divider between worlds; the map the GPS plans on. <em>Why:</em> every district shown because the map&#x27;s job is orientation; the dust band sits between platform and ground because that is the city&#x27;s founding geography; no figures because it is a cartographic document.</figcaption></figure></div><h2>[IMPLEMENTATION] — shipped-game look</h2><p class='blurb'>Low-poly Godot + AnimeLook shader + real dust-culling constraints — what the final 3D will actually look like.</p><div class='gallery'><figure><img src='world-lore/impl-dust-tithe.png' alt='impl-dust-tithe.png' loading='lazy'><figcaption><strong>impl-dust-tithe.png</strong> — &quot;WASH &amp; GO!&quot; rinse bay in-engine: masked attendant pressure-washing a taxi under a canopy. Why: a working cab pays the tithe daily; one attendant, one job, no bystanders.</figcaption></figure><figure><img src='world-lore/impl-elevator-build.png' alt='impl-elevator-build.png' loading='lazy'><figcaption><strong>impl-elevator-build.png</strong> — Tower in-engine: simplified shaft, red bracing, two cranes, ground-crew figures. Why: site staff at the material-handling level; the cranes are the assembly method.</figcaption></figure><figure><img src='world-lore/impl-sea-night.png' alt='impl-sea-night.png' loading='lazy'><figcaption><strong>impl-sea-night.png</strong> — Night sea in-engine: two figures in a boat, four flare platforms, stylized wave bands. Why: same crew logic; the seated figure&#x27;s respirator is the character law; stylized waves because the sea is a shader surface at game fidelity.</figcaption></figure></div><p class='top'><a href='#top'>↑ back to contents</a></p></section>
-<section id='fleet-gear'><h1>VI. Fleet & Gear</h1><p class='blurb'>Six vehicle classes, upgrade paths, the cargo catalog, and driver gear.</p><h3>KUROGANE BAY Art Book — Chapter: the vehicles, the upgrades, the cargo, the kit</h3>
+<section id='fleet-gear'><h1>VI. Fleet & Gear</h1><p><strong>Source pair (2026-10-06 draft):</strong> <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/fleet-gear/chapter.md">canonical chapter</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md">world bible</a> · <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md">source audit / regeneration rules</a>. The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.</p><p class='blurb'>Six vehicle classes, upgrade paths, the cargo catalog, and driver gear.</p><h3>KUROGANE BAY Art Book — Chapter: the vehicles, the upgrades, the cargo, the kit</h3>
 <p><em>Status: draft for bible approval. Canon sources: <code>gig-city-world-bible.md</code> §7/§9/§12, <code>gig-city-retrofutur-identity.md</code> §1/§4/§8, <code>showa-dust-extrapolation.md</code> §5.2/§5.8. Research: 3 Gemini consult rounds (upgrade-tier legibility; cargo telegraphing; low-poly production translation) — digested below, not quoted.</em></p>
 <p><strong>Mock layers:</strong> every mock in this chapter carries a layer tag. <strong>[REFERENCE]</strong> = aspirational, painterly, art-directed — the dream. <strong>[IMPLEMENTATION]</strong> = what the final 3D actually looks like under our real technology: Godot low-poly geometry, the AnimeLook shader module (flat color fields, ink outlines, 2-band cel shading, washed-out texture noise), traffic cars ~2k tris and hero cars still low-poly, fixed lighting, upgrade tiers that must read at 50 m in dust. The de-risk question for every IMPLEMENTATION mock: does the visual progression survive low-poly, or only the reference promise?</p>
 <p><strong>Design laws governing this chapter:</strong>
@@ -1130,6 +1246,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 - Original designs, no real-car copies. The greenhouse (A/B/C-pillar profile) and wheel centerlines of each chassis are never hidden by upgrades — player ownership must survive all 5 tiers.
 - Every face is masked; every cab carries dust protection. The cab is sovereign ground: the wheelman never leaves the wheel.</p>
 <hr>
+<p><strong>2026-10-06 scope proposal:</strong> the six chassis and five visual upgrade tiers below are the long-term art vocabulary, not the first playable economy's shopping list. Start with the existing vehicle and two distinct load/module configurations; add a second chassis only after route and handling tests show a useful niche. All unlock/stat numbers in the historical class descriptions are tuning proposals. <a href="#design-review">Research and phase gates</a> govern scope; no existing Forge vehicle work is canceled.</p>
 <h2>A. THE 6 VEHICLE CLASSES</h2>
 <h3>A1. Hinode Carrier — the starter beater cab</h3>
 <p><strong>[REFERENCE]</strong>
@@ -1251,6 +1368,47 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 <li><strong>Dust armor</strong> (sealed bearings, gasketed panels — less degradation in Shinkai): rubber bead along every panel gap; sealed bearing caps on the axles; mesh screens over the grille and intakes; checker-plate belly pan; extended mud flaps with stenciled kanji. <em>The armor accumulates: beads, caps, screens, plates — each tier adds one more layer of sealed intent.</em></li>
 </ul>
 <hr>
+<h3>B6. HOME GARAGE — money, materials and a reason to return</h3>
+<p><strong>Craig's direction:</strong> resources brought home fund improvements, better handling/speed/capacity, later vehicles and parking. <strong>Recommended rules:</strong> one protected home bay, limited owned-stock storage, a repair bench and a manifest shelf. Storage transfers are atomic; only player-owned goods and explicitly awarded legal salvage enter upgrade recipes. Customer freight stays sealed even when parked overnight.</p>
+<p>Start with two recognizable material inputs — scrap and repair parts — plus cash. Every recipe shows exact inputs and benefit; shops offer a cash substitute at posted prices so a rare drop never gates basic progress. A proposed rack upgrade might cost 2 scrap + 1 parts crate + labor cash; selling those materials instead is an immediate liquidity choice. Avoid random component tiers and hidden recipes. Reconcile crafting yields and buyback values against the economy ledger before tuning rewards.</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What changes at home</th>
+<th>Tradeoff / scope gate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Starter bench and storage</td>
+<td>Repair, fuel/filters, secured small cargo, one useful rack or handling upgrade</td>
+<td>Ordinary work remains profitable with the starter. Cash spent upgrading cannot also cover the next fuel bill; display a working-reserve estimate.</td>
+</tr>
+<tr>
+<td>Specialist module and second vehicle</td>
+<td>Choose cargo rack, protective lining, cold box, or responsive light chassis</td>
+<td>Modules consume mass/space and have operating costs. Faster handling stays useful in alleys; a larger van consolidates bulk but loses access/turning/braking flexibility. Cooling trades capacity and fuel for shelf life.</td>
+</tr>
+<tr>
+<td>Rented parking bays</td>
+<td>Keep a second configuration ready; later store more owned stock</td>
+<td>Rent is quoted per shift, not offline real time. Missed rent suspends extra-bay use under a disclosed grace rule; stored goods and the starter are not silently deleted. No hidden infinite storage.</td>
+</tr>
+<tr>
+<td>Abstract hired dispatch (later)</td>
+<td>Assign one bounded route, driver, vehicle and load with a ledger</td>
+<td>Pay wages, upkeep, fuel and parking from real proceeds. Never earn while paused; no goods teleporting between two simultaneous jobs. This is not yet a physical convoy.</td>
+</tr>
+<tr>
+<td>Following trucks/fleet (last)</td>
+<td>A visible convoy with grouping, separation and stuck recovery</td>
+<td>Requires dedicated navigation, traffic, stop/parking and save tests. Do not make follower AI a dependency for the first garage upgrade.</td>
+</tr>
+</tbody>
+</table></div>
+<p>Dust filters slow wear rather than ending service forever; propose diminishing returns and a minimum service cost, subject to balance review. Armor reduces specific impact loss but adds mass; racks do not increase engine output. Handling upgrades improve a declared response/braking band, not immunity to loaded inertia. Preserve the small-car niche. T1–T5 silhouette studies remain available for later art work; fewer mechanical levels can ship first.</p>
+<p>The garage should show the operation growing through existing props: one bench, labeled parts shelves, a painted bay number and later a rental placard. The player returns to see the resources they chose to keep. New garage art is a later request; this documentation update commissions none.</p>
 <h2>C. CARGO ITEMS — the physical payload catalog</h2>
 <p><strong>The telegraphing doctrine</strong> (from Gemini design consult, canon-filtered): every item's <em>form</em> tells you its <em>handling rules</em> before you touch the throttle. Ground 70% of each item in period-accurate 1970s utility (corrugated tin, Showa typography, hemp knots, oxidized steel); the remaining 30% is the <em>game tell</em>, scaled up — one oversized analog gauge, one violently swinging sight-glass, one absurdly heavy weld bracket. Exactly <strong>one</strong> animated tell per item. Never a plain wooden crate: perishable boxes are slatted, heavy boxes get cast-steel corner boots, fragile boxes hang inside gimbal rings.</p>
 <p><strong>Lashing grammar</strong> (trunk economy — everything external, everything visible):
@@ -1258,6 +1416,7 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 - <strong>Steel chain</strong> — zero stretch, for dense cargo only. Chains spark against sheet metal under load — the audio-visual warning that an anchor point is about to rip out.
 - <strong>Canvas tarp</strong> — milspec olive, ratchet-cinched: weatherproof, suppresses shifting. A loose, fluttering tarp costs you top speed in drag.
 - <strong>Leather straps + brass buckles</strong> — paper cargo. Precise, quiet, expensive-looking. If it's buckled in brass, it cannot get wet, full stop.</p>
+<p><strong>Mechanical staging (proposal):</strong> ordinary robust crates are the baseline; use discrete load slots, a mass value and a simple condition meter first. Add one specialist modifier at a time. The C1–C8 props remain authored visual targets, not eight required simulations. Independent rigid bodies, slosh/detonation, RPM medical cooling and pneumatic interception are later feasibility work. Keep deadline pressure optional on ordinary freight. Passengers consume seats and use comfort/appointment constraints; contraband applies an inspection tag. The same load ledger must support all of them.</p>
 <h3>C1. Fragile egg-run (G-force &amp; bump thresholds)</h3>
 <div class='twrap'><table>
 <thead>
@@ -1434,13 +1593,13 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 </ul>
 <h3>D2. The working tools</h3>
 <ul>
-<li><strong>ROUTE-88 punch cards</strong> — brass-edged card stock, punched for each accepted gig. Fed into the dash slot with the <em>CHUNK-CHUNK</em>; the phosphor CRT traces the route with a visible sweep beam. Drivers carry a card wallet; a veteran's wallet is thick as a novel.</li>
+<li><strong>ROUTE-88 punch cards</strong> — brass-edged manifest cards for each accepted gig. Fed into the dash slot with the <em>CHUNK-CHUNK</em>; the CRT displays stops, payload, the agreed window and settlement, never a live route trace. The briefing, paper map, road signs and landmark memory guide the driver. Card-wallet thickness remains a veteran's visual signature; cards are not a mandatory paid consumable in the proposed slice.</li>
 <li><strong>Coin tray</strong> — red felt, dash-mounted: coins, delivery chits, cigarette butts, toll tokens. The tray's contents are the driver's autobiography.</li>
 <li><strong>Split-drum taximeter</strong> — mechanical, brass plates flipping with each fare increment. It is also the driver's lie detector: the drums don't stop for anyone.</li>
 <li><strong>Dash-mounted oscillating fan</strong> — a 12V exposed-blade metal fan clamped to the A-pillar, sweeping the cabin with dust-scented air. It doesn't cool anything; it <em>moves</em> the air, which is the next best thing.</li>
 </ul>
 <h3>D3. The cab interior as confessional booth</h3>
-<p>The <em>Night on Earth</em> rule: the cab is the one sealed, private room in a city with no privacy. The dashboard suite — green vector CRT, split-drum taximeter, oscillating fan, coin tray, lace seat covers, the pneumatic door lever — frames every passenger conversation like a confessional screen. Passengers say things in the back of a cab they'd never say anywhere else: the sweating exec's double life, the oyabun's daughter's date, the whistleblower's evidence. The driver hears everything, judges nothing, and the ROUTE-88 keeps the route. <strong>The interior is a storytelling machine built from stamped steel and bakelite</strong> — no dialogue is scripted here; the <em>situation</em> (who's in the back seat, what's in the trunk, how much heat is outside) does the work.</p>
+<p>The <em>Night on Earth</em> rule: the cab is the one sealed, private room in a city with no privacy. The dashboard suite — green vector CRT, split-drum taximeter, oscillating fan, coin tray, lace seat covers, the pneumatic door lever — frames every passenger conversation like a confessional screen. Passengers say things in the back of a cab they'd never say anywhere else: the sweating exec's double life, the oyabun's daughter's date, the whistleblower's evidence. The driver hears everything, judges nothing, and the ROUTE-88 keeps the manifest. <strong>The interior is a storytelling machine built from stamped steel and bakelite</strong> — use a few authored introductions and milestone conversations; on ordinary repeat jobs, the <em>situation</em> (who's in the back seat, what's in the trunk, how much heat is outside) carries the variation.</p>
 <hr>
 <h2>E. PRODUCTION TRANSLATION — the implementation layer</h2>
 <p><em>(From the low-poly Gemini tech consult, canon-filtered. The ruling in one line: at 50 m in dust, silhouette-chunk size &gt;&gt;&gt; contrasting paint values &gt;&gt;&gt; cel shadow bands &gt;&gt;&gt; fine detail (dead). Anything smaller than ~0.25 m world-space drops below a pixel on 1080p and is never worth tris.)</em></p>
@@ -1504,4 +1663,206 @@ Two layers per chapter: <strong>[REFERENCE]</strong> aspirational target ·
 </ul><h2>[REFERENCE] — aspirational target</h2><p class='blurb'>Aspirational, painterly, art-directed — what it should feel like.</p><div class='gallery'><figure><img src='fleet-gear/mock-cargo-lashing.png' alt='mock-cargo-lashing.png' loading='lazy'><figcaption><strong>mock-cargo-lashing.png</strong> — Roof-rack cargo still life and in-engine prop set: lashed baskets, stenciled crates, canisters, rope knots. <em>Reflects:</em> cargo is the game&#x27;s verb — this is the prop bible for &quot;loaded.&quot; <em>Why:</em> everything is lashed because the city&#x27;s roads shake loads apart; mixed cargo because a gig driver takes whatever pays.</figcaption></figure><figure><img src='fleet-gear/mock-driver-gear.png' alt='mock-driver-gear.png' loading='lazy'><figcaption><strong>mock-driver-gear.png</strong> — Flat-lay of the wheelman&#x27;s kit: respirator, goggles, gloves, peaked cap, fare meter, route punch-cards, fare tokens, fan, tire iron. <em>Reflects:</em> the character law made personal — mask and goggles as survival uniform; the meter and punch-cards are the cash/Sol-88 economy in objects. <em>Why:</em> the kit IS the portrait — the driver is whoever wears it; the respirator is centered because it&#x27;s the single most important object in the city.</figcaption></figure><figure><img src='fleet-gear/mock-goliath-800.png' alt='mock-goliath-800.png' loading='lazy'><figcaption><strong>mock-goliath-800.png</strong> — Heavy crane-truck, annotated concept sheet and in-engine version. <em>Reflects:</em> the heavy-industry end of the fleet — the machine that loads what the haulers carry at Daikoku. <em>Why:</em> callouts fix assemblies for the art team; the harbor backdrop is its workplace.</figcaption></figure><figure><img src='fleet-gear/mock-hinode-carrier.png' alt='mock-hinode-carrier.png' loading='lazy'><figcaption><strong>mock-hinode-carrier.png</strong> — The starter cab: two-tone sedan, roof rack with luggage, VACANT sign, hood spotlight, era-correct boxy proportions. <em>Reflects:</em> the player&#x27;s sovereign ground — home, office, armor; the drive-up economy&#x27;s handshake (VACANT sign); the spotlight is the dust-visibility answer. <em>Why:</em> the wheelman is the player — the cab is presented empty like a class-select screen; the luggage rides the rack because the cab carries its life with it.</figcaption></figure><figure><img src='fleet-gear/mock-ohtori-sovereign.png' alt='mock-ohtori-sovereign.png' loading='lazy'><figcaption><strong>mock-ohtori-sovereign.png</strong> — Executive limousine, armored, studio spec-sheet profile. <em>Reflects:</em> the Upper Aerium&#x27;s answer to the cab — armored because even the rich cross the Trench to reach their elevators. <em>Why:</em> machine document; proportions fixed, no scene staged.</figcaption></figure></div><h2>[IMPLEMENTATION] — shipped-game look</h2><p class='blurb'>Low-poly Godot + AnimeLook shader + real dust-culling constraints — what the final 3D will actually look like.</p><div class='gallery'><figure><img src='fleet-gear/impl-cargo-lashing.png' alt='impl-cargo-lashing.png' loading='lazy'><figcaption><strong>impl-cargo-lashing.png</strong> — Roof-rack cargo still life and in-engine prop set: lashed baskets, stenciled crates, canisters, rope knots. <em>Reflects:</em> cargo is the game&#x27;s verb — this is the prop bible for &quot;loaded.&quot; <em>Why:</em> everything is lashed because the city&#x27;s roads shake loads apart; mixed cargo because a gig driver takes whatever pays.</figcaption></figure><figure><img src='fleet-gear/impl-goliath-800.png' alt='impl-goliath-800.png' loading='lazy'><figcaption><strong>impl-goliath-800.png</strong> — Heavy crane-truck, annotated concept sheet and in-engine version. <em>Reflects:</em> the heavy-industry end of the fleet — the machine that loads what the haulers carry at Daikoku. <em>Why:</em> callouts fix assemblies for the art team; the harbor backdrop is its workplace.</figcaption></figure><figure><img src='fleet-gear/impl-hinode-carrier.png' alt='impl-hinode-carrier.png' loading='lazy'><figcaption><strong>impl-hinode-carrier.png</strong> — The starter cab: two-tone sedan, roof rack with luggage, VACANT sign, hood spotlight, era-correct boxy proportions. <em>Reflects:</em> the player&#x27;s sovereign ground — home, office, armor; the drive-up economy&#x27;s handshake (VACANT sign); the spotlight is the dust-visibility answer. <em>Why:</em> the wheelman is the player — the cab is presented empty like a class-select screen; the luggage rides the rack because the cab carries its life with it.</figcaption></figure></div><p class='top'><a href='#top'>↑ back to contents</a></p></section>
 <footer>Kurogane Bay art book · 2D design only · canon: gig-city-world-bible.md v2 ·
 open questions in each chapter await Craig's review</footer>
+<section id="design-review"><h1>Lower City delivery economy — research and review record</h1>
+<p>Status: <strong>draft design proposal, 2026-10-06; not implemented or accepted</strong>. Owner: Codex delegated design-document worker; web branch <code>docs/lower-city-systemic-economy</code>, canonical branch <code>docs/lower-city-systemic-source-reconciliation</code>. This record and the revised chapter sections form one review unit. No game tasks are reassigned or closed.</p>
+<h2>Craig's direction and the recommendation boundary</h2>
+<p><strong>Confirmed direction from the current request:</strong> recognize Cloudpunk as a direct reference; distinguish Kurogane Bay through its Showa retro-futurism and more systemic replayability; procedural work generated by supply and demand; raw goods reaching downstream businesses, passengers and contraband; time/police/bandit/rival pressure; meaningful large loads versus fast repeated runs; bring money and resources home for vehicle/garage growth, eventually trucks/fleet and rented parking. Intercity arbitrage comes later; enormous price gaps within this small city are not the premise. Reduce the burden of authoring and reviewing branching stories while retaining authored worldbuilding.</p>
+<p><strong>Recommendations for review, not new user mandates:</strong> a bounded deterministic economy, two production chains first, three at most before expansion, one new pressure layer at a time, forgiving ordinary jobs beside premium timed work, discrete cargo slots plus mass, a small recipe set, and abstract fleet dispatch before physical followers. All quantities, bands, timings and acceptance targets below are provisional tuning hypotheses. No claim that adding simulation guarantees replayability or commercial differentiation.</p>
+<p><strong>Preserved canon:</strong> the six Lower City districts, original masked cast, warm ochre dust and analog Showa machines, Upper City above the clouds, Kuro-Kiri restrictions on unsuited outdoor travel with suited workers at their posts permitted. The wheelman remains in the cab. Navigation remains a pre-job briefing, signs, landmarks and paper map; ROUTE-88 is a manifest/settlement terminal, not live GPS. Existing art is retained; no new generated art or provider calls.</p>
+<h2>Direct-reference comparison and evidence</h2>
+<p>The comparison is about documented emphasis, not a claim that competitors have no other systems. Sources accessed/researched 2026-10-06; dated statements retain their dates. Craig's “cozy” reading is a tonal preference, not a verified universal description of Cloudpunk.</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Reference</th>
+<th>Supported finding</th>
+<th>What Lower City should learn or differentiate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cloudpunk base game</td>
+<td>Official store describes Rania's first night, story-led exploration, characters and decisions, with a hovercar and on-foot vertical city exploration. [S1]</td>
+<td>Delivery work is already a direct sci-fi reference. Borrow atmosphere and a readable working city; test repeatable load/route/business consequences as our emphasis. Ground vehicles, Showa signage and staying at the wheel reinforce identity.</td>
+</tr>
+<tr>
+<td>Cloudpunk upkeep</td>
+<td>Official achievements explicitly cover refueling, repairs, vehicle upgrades and time-sensitive deliveries. [S2]</td>
+<td>Fuel, vehicle damage, repair, upgrades and some timed deliveries are shared mechanics, not differentiation claims. Traffic is part of Craig's observation; this review does not establish its exact simulation rules.</td>
+</tr>
+<tr>
+<td>Cloudpunk cargo/combat</td>
+<td>In a November 2019 pre-release reply, an identified developer excluded payload size/weight and freight protection from the intended loop and said there was no combat. [S3]</td>
+<td>Cargo-dependent handling is a defensible design comparison with that dated scope. This is not an exhaustive audit of later patches. Police/checkpoint fiction does not establish the presence or absence of a systemic wanted/pursuit model; leave that unverified.</td>
+</tr>
+<tr>
+<td>City of Ghosts DLC</td>
+<td>The separate 2021 campaign advertises street races and HOVA customization. [S4]</td>
+<td>Do not claim Cloudpunk lacks races or customization. Do not conflate the separate Nivalis business-sim project with this base game or DLC.</td>
+</tr>
+<tr>
+<td>Mount &amp; Blade II: Bannerlord</td>
+<td>Historical developer blogs describe village output, town processing and supply/demand prices; a later caravan adjustment limits rapid NPC distribution of regional goods. [S5–S7]</td>
+<td>Borrow production-to-market causality and caravan risk. Model local deliveries before regional merchant play. NPC realism must leave a service gap for the player; these sources are inspiration, not a current formula specification.</td>
+</tr>
+<tr>
+<td>Star Trucker</td>
+<td>Official store links freight and salvage trading with upkeep, fuel, parts, route planning, garages and smuggling. [S8]</td>
+<td>Upkeep can support trip planning but is not a unique hook. Avoid turning every job into a maintenance emergency.</td>
+</tr>
+<tr>
+<td>Euro Truck Simulator 2</td>
+<td>Official press sheet describes delivery work growing into garages, drivers and a fleet. [S9]</td>
+<td>A garage/company ladder is established genre grammar. Hired-driver management is not evidence for physically following convoys.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Positioning hypothesis:</strong> “Read what the city needs, assemble a worthwhile load, choose a route and its risks, then bring home the means to improve your operation.” A quieter ordinary shift and a tense voluntary premium job can coexist. Prove the choices are interesting with dialogue disabled before increasing story volume.</p>
+<h2>Roadmap: reuse the current city</h2>
+<p>This is a scope recommendation, not authorization to implement or cancel another worker's work. <code>td-185</code> already supplies the city/sign/map/gig foundation; traffic and cops have separate current tasks. Preserve implemented passenger/cargo behavior and police integration. The phases below describe additional economy work and its gates, not a replacement city or a reset of shipped progress.</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Bounded addition</th>
+<th>Gate before expanding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 — preserve the foundation</td>
+<td>Inventory current gig, save, damage, traffic and arrest behavior on the accepted game head. Exercise the existing map and signs.</td>
+<td>Document actual interfaces and remaining defects with owners; don't import design promises as implemented facts.</td>
+</tr>
+<tr>
+<td>1 — local economy proof</td>
+<td>In the existing city use 6 businesses, 4 goods, 2 recipes, one starter vehicle plus two load/module configurations, contract freight and existing passenger jobs. Fixed ticks, short manifests, receipts, garage storage/one upgrade, two-stop batching. No whole-population or off-map simulation.</td>
+<td>Stock/settlement invariants and ordinary-job recovery pass; players can explain a downstream consequence and choose between heavy and light runs.</td>
+</tr>
+<tr>
+<td>2 — varied shifts</td>
+<td>Optional third chain, owned trading stock, a second vehicle, comfort/perishable/contraband modifiers and one legible pressure layer at a time. Reuse existing police work subject to its acceptance; rivals first compete for unreserved work, bandits first use warned road events.</td>
+<td>No repeatable money/resource loop; both vehicle niches survive; risk is understood before commitment.</td>
+</tr>
+<tr>
+<td>3 — distant depot trade</td>
+<td>A constrained Nagisa/terminal market with a shipping schedule, real travel cost and finite imports; only then a separate intercity market, after map and handling gates. Rented parking and bounded abstract driver dispatch.</td>
+<td>Longer routes earn margins through separation, time and access; wages/upkeep/parking remain legible and player driving remains worthwhile.</td>
+</tr>
+<tr>
+<td>4 — optional expansion</td>
+<td>Physical following trucks, convoy recovery/formation AI, additional cities, faction territory simulation, full vehicle combat.</td>
+<td>Separate feasibility and fun reviews for pathfinding, blocked junctions, save consistency, performance and combat. None is needed to prove Phase 1.</td>
+</tr>
+</tbody>
+</table></div>
+<p>A solo developer using AI still owns balance, persistence, asset rights, route QA and readable feedback. Deterministic tables and authored constraints reduce debugging/review surface; unlimited procedural text, many-agent economies and combat multiply it. No runtime generative dialogue or paid generation is required by this design.</p>
+<h2>Proposed playtest gates</h2>
+<p>These are <strong>future tests</strong>, not results of this documentation PR. Start with five first-time players, two 25-minute shifts each, at least three fixed economy seeds; log offers, decisions, cargo, route time, settlements and balances. Small-sample gates are formative, not statistical proof.</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Concrete pass target / failure response</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Can players read the economy?</td>
+<td>At least 4/5 explain one input → output → customer relationship and identify a visible stock change after delivery without an explanation from the tester. If not, simplify the chain/UI.</td>
+</tr>
+<tr>
+<td>Can they navigate?</td>
+<td>At least 4/5 complete two ordinary jobs using briefing, signs and paper map without tester help or GPS; record wrong turns and illegible signs against the existing road plan.</td>
+</tr>
+<tr>
+<td>Are load choices meaningful?</td>
+<td>Across heavy consolidated and light urgent scenarios, each strategy wins net earnings per minute in at least one authored benchmark; at least 4/5 explain the tradeoff. Neither vehicle/configuration dominates every tested demand state.</td>
+</tr>
+<tr>
+<td>Is work fair and recoverable?</td>
+<td>At least 80% of ordinary contracts completed by shift two; at least 4/5 identify deadline, condition risk and likely net costs before acceptance. From zero cash plus a disabled vehicle, every test seed permits recovery and a paid basic job within 10 minutes, with positive net afterward.</td>
+</tr>
+<tr>
+<td>Does progression feel attainable?</td>
+<td>First useful upgrade after 3–6 ordinary successful jobs in reference tuning; after fitting it, players identify its benefit and cost/limitation. Keep baseline work viable without the upgrade.</td>
+</tr>
+<tr>
+<td>Does replay survive less story?</td>
+<td>At least 4/5 encounter a different useful manifest or route on shift two, and 3/5 voluntarily select another job during an optional five-minute extension with dialogue disabled. Repetition or confusion triggers redesign before more content.</td>
+</tr>
+<tr>
+<td>Is accounting safe?</td>
+<td>A proposed 1,000-shift seeded soak has no negative stock, duplicate job settlement, unbounded queues or unrecoverable economy. Save/reload and duplicate-event tests preserve ledger hashes at the same tick. Test cancel/return/resell/repair/refund/garage crafting and NPC/player simultaneous claims explicitly.</td>
+</tr>
+<tr>
+<td>Does time remain predictable?</td>
+<td>Same seed + action/tick log produces identical ledger; pause/save/scene changes do not advance simulation secretly. Test a tick boundary during pickup and delivery. Measure budget on target hardware before adding businesses; this PR makes no performance claim.</td>
+</tr>
+</tbody>
+</table></div>
+<h2>Remaining decisions for Craig</h2>
+<ol>
+<li><strong>Pressure:</strong> how relaxed should ordinary work be, and which premium-job risk leads after existing police fixes settle: inspections, rival bookings, or warned bandit roadblocks? Recommendation: keep a safe legal baseline and tune inspections first.</li>
+<li><strong>Ownership:</strong> permit player-owned commodity trading in Phase 2, or keep all MVP cargo as service contracts? Recommendation: contracts first so a driver cannot lose all working capital on the first run.</li>
+<li><strong>Garage rewards:</strong> cash plus optional legal salvage, or explicit materials on selected contracts? Recommendation: two material inputs with shop substitutes; no mandatory random-part grind.</li>
+<li><strong>Clock and failure:</strong> accept a paused planning screen, 10-second economy ticks and bounded fees/recovery service? These are proposed rules, not retroactive changes to the active arrest task.</li>
+<li><strong>Fleet end state:</strong> is managing hired drivers sufficient initially, or is seeing following trucks essential to the fantasy? Recommendation: rent bays/abstract dispatch first; do not promise physical convoys in the slice.</li>
+<li><strong>Legacy ambitions:</strong> keep the war-map endgame, six chassis/five art tiers and specialist cargo as future art direction, pending separate gates? This update recommends staging rather than deleting them.</li>
+</ol>
+<h2>Sources</h2>
+<ul>
+<li><strong>S1 — <a href="https://store.steampowered.com/app/746850/Cloudpunk/?l=english">Cloudpunk official store</a></strong>. Base game released 2020-04-23; story/exploration/vehicle and on-foot scope.</li>
+<li><strong>S2 — <a href="https://steamcommunity.com/stats/746850/achievements">Cloudpunk official achievements</a></strong>. Refueling, repair and upgrade achievements establish those mechanics, not their balance or depth.</li>
+<li><strong>S3 — <a href="https://steamcommunity.com/app/746850/discussions/0/2803982773084924432/">Cloudpunk developer discussion</a></strong>. November 2019 pre-release reply on payload and combat scope; dated evidence only.</li>
+<li><strong>S4 — <a href="https://store.steampowered.com/app/1536370/Cloudpunk__City_of_Ghosts/">City of Ghosts official DLC store</a></strong>. 2021-05-25 campaign, racing and customization.</li>
+<li><strong>S5 — <a href="https://www.taleworlds.com/en/Games/Bannerlord/Blog/59">Bannerlord developer blog 59</a></strong> and <strong>S6 — <a href="https://www.taleworlds.com/en/Games/Bannerlord/Blog/107">developer blog 107</a></strong>. Historical production/economy design, researched by the parent task; this environment's direct web fetch returned 403, so no independent reread is claimed here.</li>
+<li><strong>S7 — <a href="https://www.taleworlds.com/en/News/587">Bannerlord v1.3.4 news</a></strong>. Parent research identifies caravan distribution adjustment; same 403 reread limitation. No exact current price formula inferred.</li>
+<li><strong>S8 — <a href="https://store.steampowered.com/app/2380050/Star_Trucker/">Star Trucker official store</a></strong>. Hauling/trading/upkeep/route and garage loop.</li>
+<li><strong>S9 — <a href="https://www.scssoft.com/press/sheet?lang=en&amp;p=euro_truck_simulator_2">ETS2 official SCS press sheet</a></strong>. Deliveries, company, garages and hired-driver fleet.</li>
+</ul>
+<h2>Change summary and provenance</h2>
+<ul>
+<li>Revised Lower City §9 and new §9A: analog dispatch without GPS, complete shift loop, job ownership, load/time/risk choices and visible business feedback.</li>
+<li>Revised World Lore §B and vertical-arbitrage vignette: bounded stock/production/contract economy, deterministic ticks, finite prices, accounting, recovery and a smaller authored-content budget. Kept lore and named cast.</li>
+<li>Added Fleet §B6 and scoped §C: garage materials/cash choices, specialization and staged fleet; specialist cargo and art tiers remain ambitions. Revised route-card language and deferred blanket vehicle gating.</li>
+<li>Revised Factions: explicit risk/fairness contract and visible local reputation consequences replace an unexplained citywide penalty.</li>
+<li>Reconciled the three upstream design documents and the central chapter copies in a companion draft; recorded publication gaps and a text-only mirror contract.</li>
+<li>Updated the matching HTML sections and added this linked review spread. Existing mocks are direction references; this PR does not validate their historical “implementation” claims.</li>
+</ul>
+<p>Audited source pins (2026-10-06):</p>
+<div class="twrap" tabindex="0" role="region" aria-label="Scrollable design table"><table>
+<thead>
+<tr>
+<th>Repository/source</th>
+<th>Commit / observation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>tokyo-drift-3d-web</code> main baseline</td>
+<td><code>2e8c63e3030247fc90e0eea273867181bd5d1098</code>; latest artbook change <code>77c86fed8b8ea21f1a8eebc8fe84cb2bfb7c14bc</code></td>
+</tr>
+<tr>
+<td><code>tokyo-drift-3d</code> main inspected</td>
+<td><code>f00e84802347f697b52970d9b6421e39cebb32a5</code>; <code>godot/docs/city-design/lower-city/CITY_PLAN.md</code>, <code>analysis.md</code>, <code>godot/docs/tasks/td-185.md</code>, <code>godot/GAME_DESIGN.md</code>, AGENTS/README/CHECKPOINT and publish workflow read</td>
+</tr>
+<tr>
+<td><code>game-dev-central</code> initial audit main</td>
+<td><code>90eddbca4a5b52a9bfd29df03cd61ef9ad40fc05</code>; COORDINATOR, boards/workers/log, SYSTEM and standing rules read. Registry/log are stale observations, not proof of worker liveness.</td>
+</tr>
+<tr>
+<td>Active Lower City work preserved</td>
+<td>game PR #407, <code>ccr-7a504622-gmq51e</code> at <code>ea3b07575c3244359c6673c817c0c8a0e9bcd9c6</code>; web mirror branch at <code>30b3c4575a3834d63356e6b950913862bfbcb6fc</code></td>
+</tr>
+<tr>
+<td>Active Forge work preserved</td>
+<td>game PR #416, <code>ccr-4570dae0-xgbjgu</code> at <code>9fd40751a54d27e5d2efd12939bfba3d98e8e00a</code>; corresponding web branch contains QA assets only at audit time</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Source resolution, 2026-10-06:</strong> the upstream files are now published in <code>game-dev-central/game-design/</code>, audited at <code>3bdf1181b003e38ec9602f0d2ae03e8fb9ea6f01</code>. The companion draft reconciles the <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md">world bible</a>, <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-retrofutur-identity.md">identity plan</a>, <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/showa-dust-extrapolation.md">readable extrapolation</a> and four chapter sources with this design revision. <a href="https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md">Canonical source map and audit</a> records the sync contract. These links deliberately select the draft branch; neither PR is merged. No new AGENTS or <code>.agents/skills</code> files were present; the newly published task-team-system instructions were read. Current user scope limits the work to design drafts and overrides their older merge/publication provisions.</p>
+<p><strong>Verified limits of the publication report:</strong> 112 <code>game-design/</code> files plus 11 <code>project-management/task-team-system/</code> files total 123; not 123 game-design files. The six chapter Markdown sources are present; central has no artbook <code>index.html</code> or renderer. Five chapter sources matched the web baseline exactly; Lower City's newer suited-worker correction is now retained in both mirrors. All 47 same-path PNGs differ by Git blob hash, so images remain untouched in each repository; no automatic full-directory mirror is authorized. The published extrapolation ends mid-sentence in §5.9 with a literal truncation marker (original blob <code>6ad994c348da6ef2401787bc30471f112cb52f8e</code>); its available history does not restore the tail. The report's VM-local 1:1 claim cannot be independently checked from this environment.</p>
+<p><strong>Regeneration rule:</strong> use the reconciled central source revision together with this web draft, not main's older mechanics or an unversioned local cache. Keep the four chapter files and this review byte-identical, refresh their HTML sections, and verify before publication. The truncated source tail still needs the actual complete original; do not reconstruct it or overwrite unrelated images/consult history. The root game design document describes the historical racer and remains outside this revision's scope.</p>
+<p>The web README's generic “do not edit” mirror warning is narrower in the current publisher: game source <code>publish-web.yml</code> explicitly excludes <code>art-book/</code> and <code>qa/</code> from rsync deletion. This PR changes only the artbook on its own branch; root game export, deployment metadata, active workers, central boards and watchdog/inspector remain untouched. User authorization is for a draft PR only: no merge, deployment or Actions dispatch.</p><p class="top"><a href="#top">↑ back to contents</a></p></section>
 </main></body></html>
