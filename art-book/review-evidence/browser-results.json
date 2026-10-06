@@ -1,0 +1,26 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "images": 47,
+    "localLinks": [],
+    "tablesOutsideScroll": 0,
+    "errors": [],
+    "brokenFiles": []
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "images": 47,
+    "localLinks": [],
+    "tablesOutsideScroll": 0,
+    "errors": [],
+    "brokenFiles": []
+  }
+]
