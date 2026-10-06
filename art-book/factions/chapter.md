@@ -1,6 +1,8 @@
 # FACTIONS — Art Book Chapter
 ### KUROGANE BAY / Tokyo Drift 3D gig-driver game
 
+**Source pair (2026-10-06 draft):** [canonical chapter](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/factions/chapter.md) · [world bible](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md) · [source audit / regeneration rules](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md). The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.
+
 *World law first: no faction is "the mafia." Each has a civilian economic origin — dockers, cabaret owners, fishmongers, drivers. Wars are over **drivable logistics chokepoints** (customs gates, cold-chain, elevator terminals, panel fields), never abstract turf. Every faction's street presence must read at **100 m visibility** — banner colors, vehicle liveries, checkpoint architecture. Character law: **no unmasked faces, ever.** Tone law: the world takes itself 100% seriously — comedy emerges from systems only; nothing in this chapter is a punchline.*
 
 **Reading key (per faction):** LOOK (colors, insignia, mask/uniform design) · VEHICLES (livery) · TURF (where they read on the street) · THE WHEELMAN (how they hire, threaten, or tolerate the player).

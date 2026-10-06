@@ -8,7 +8,7 @@ const url=process.env.ARTBOOK_URL || 'http://127.0.0.1:8765/art-book/';
 (async()=>{
  const b=await chromium.launch({executablePath:process.env.CHROMIUM_PATH || '/usr/bin/chromium',headless:true,args:['--no-sandbox']});
  let results=[];
- const targets=[['cover',null],['loop','9A. THE WORKING SHIFT'],['economy','Local production — recommended'],['ticks','Tick, job and transaction'],['garage','B6. HOME GARAGE'],['research','Direct-reference comparison'],['roadmap','Roadmap: reuse'],['tests','Proposed playtest gates']];
+ const targets=[['cover',null],['loop','9A. THE WORKING SHIFT'],['economy','Local production — recommended'],['ticks','Tick, job and transaction'],['garage','B6. HOME GARAGE'],['research','Direct-reference comparison'],['roadmap','Roadmap: reuse'],['tests','Proposed playtest gates'],['provenance','Change summary and provenance']];
  for(const [name,width,height] of [['desktop',1440,1000],['mobile',390,844]]){
   const p=await b.newPage({viewport:{width,height}});const errors=[];p.on('pageerror',e=>errors.push(e.message));
   await p.route('**/art-book/',r=>r.fulfill({contentType:'text/html',body:baseline}));
@@ -17,6 +17,10 @@ const url=process.env.ARTBOOK_URL || 'http://127.0.0.1:8765/art-book/';
   await p.unroute('**/art-book/');await p.reload({waitUntil:'networkidle'});
   for(const [label,heading] of targets){
    if(heading)await p.getByRole('heading').filter({hasText:heading}).first().evaluate(e=>e.scrollIntoView());else await p.evaluate(()=>scrollTo(0,0));
+   await p.screenshot({path:`${out}/after-${name}-${label}.png`});
+  }
+  for(const [label,text] of [['source-pair','Source pair (2026-10-06 draft):'],['source-resolution','Source resolution, 2026-10-06:']]){
+   await p.locator('p').filter({hasText:text}).first().evaluate(e=>e.scrollIntoView());
    await p.screenshot({path:`${out}/after-${name}-${label}.png`});
   }
   const audit=await p.evaluate(()=>{

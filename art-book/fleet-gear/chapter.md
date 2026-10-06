@@ -1,6 +1,8 @@
 # FLEET & GEAR
 ### KUROGANE BAY Art Book — Chapter: the vehicles, the upgrades, the cargo, the kit
 
+**Source pair (2026-10-06 draft):** [canonical chapter](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/art-book/fleet-gear/chapter.md) · [world bible](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/gig-city-world-bible.md) · [source audit / regeneration rules](https://github.com/doublehidenblade/game-dev-central/blob/docs/lower-city-systemic-source-reconciliation/game-design/README.md). The linked draft and this copy must be reconciled together; current main does not yet include these proposed mechanics.
+
 *Status: draft for bible approval. Canon sources: `gig-city-world-bible.md` §7/§9/§12, `gig-city-retrofutur-identity.md` §1/§4/§8, `showa-dust-extrapolation.md` §5.2/§5.8. Research: 3 Gemini consult rounds (upgrade-tier legibility; cargo telegraphing; low-poly production translation) — digested below, not quoted.*
 
 **Mock layers:** every mock in this chapter carries a layer tag. **[REFERENCE]** = aspirational, painterly, art-directed — the dream. **[IMPLEMENTATION]** = what the final 3D actually looks like under our real technology: Godot low-poly geometry, the AnimeLook shader module (flat color fields, ink outlines, 2-band cel shading, washed-out texture noise), traffic cars ~2k tris and hero cars still low-poly, fixed lighting, upgrade tiers that must read at 50 m in dust. The de-risk question for every IMPLEMENTATION mock: does the visual progression survive low-poly, or only the reference promise?
