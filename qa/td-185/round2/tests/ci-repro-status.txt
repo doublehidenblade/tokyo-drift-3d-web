@@ -1,0 +1,38 @@
+import exit 0
+import error lines 0
+web export exit 0
+web export error lines 0
+shuto export exit 0
+shuto export error lines 0
+build/shuto-web:
+total 133772
+drwxr-xr-x 2 root root     4096 Oct  6 17:18 .
+drwxr-xr-x 4 root root     4096 Oct  6 17:15 ..
+-rw-r--r-- 1 root root       41 Oct  6 17:18 build-sha.txt
+-rw-r--r-- 1 root root     1085 Oct  6 17:18 index.apple-touch-icon.png
+-rw-r--r-- 1 root root     2973 Oct  6 17:18 index.audio.position.worklet.js
+-rw-r--r-- 1 root root     7298 Oct  6 17:18 index.audio.worklet.js
+-rw-r--r-- 1 root root   131217 Oct  6 17:18 index.html
+-rw-r--r-- 1 root root      932 Oct  6 17:18 index.icon.png
+-rw-r--r-- 1 root root   315645 Oct  6 17:18 index.js
+-rw-r--r-- 1 root root 98563332 Oct  6 17:18 index.pck
+-rw-r--r-- 1 root root    21443 Oct  6 17:18 index.png
+-rw-r--r-- 1 root root 37902138 Oct  6 17:18 index.wasm
+
+build/web:
+total 135192
+drwxr-xr-x 2 root root      4096 Oct  6 17:18 .
+drwxr-xr-x 4 root root      4096 Oct  6 17:15 ..
+-rw-r--r-- 1 root root        41 Oct  6 17:18 build-sha.txt
+-rw-r--r-- 1 root root      1085 Oct  6 17:18 index.apple-touch-icon.png
+-rw-r--r-- 1 root root      2973 Oct  6 17:18 index.audio.position.worklet.js
+-rw-r--r-- 1 root root      7298 Oct  6 17:18 index.audio.worklet.js
+-rw-r--r-- 1 root root    131218 Oct  6 17:18 index.html
+-rw-r--r-- 1 root root       932 Oct  6 17:18 index.icon.png
+-rw-r--r-- 1 root root    315645 Oct  6 17:17 index.js
+-rw-r--r-- 1 root root 100017988 Oct  6 17:17 index.pck
+-rw-r--r-- 1 root root     21443 Oct  6 17:18 index.png
+-rw-r--r-- 1 root root  37902138 Oct  6 17:18 index.wasm
+entry.mjs exit 0
+shuto-entry.mjs exit 0
+lower-city-entry.mjs exit 0

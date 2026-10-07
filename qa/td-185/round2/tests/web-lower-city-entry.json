@@ -1,0 +1,20 @@
+{
+  "errors": [],
+  "warnings": [],
+  "touch": [
+    "the city pads ◀ ▶ ▲ ▼, the offer board and MAP are up",
+    "offer0 is on screen",
+    "a tap on the first offer takes the run",
+    "map is on screen",
+    "a tap on MAP opens the paper map and pauses",
+    "close is on screen",
+    "a tap on × 閉じる closes it and resumes",
+    "gas is on screen",
+    "right is on screen",
+    "two thumbs: ▲ and ▶ held together (throttle 1, steer 1)",
+    "holding ▲ drives the car",
+    "lifting both thumbs releases the pedals"
+  ],
+  "status": "passed",
+  "readyMs": 8834
+}
