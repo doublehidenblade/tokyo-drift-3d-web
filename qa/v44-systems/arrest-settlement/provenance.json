@@ -1,0 +1,95 @@
+{
+  "source": "fdacbb0f1035a7a5b56f1893c9255050a238fc5f",
+  "before": "a8bf23bfc080879d639e7ffa511d40f11ac16325",
+  "combined": {
+    "source": "99e9e02091134204ad60288c9b1a0acc24404b08",
+    "tree": "38a44759f3c91ae644f49717b2f36ba1b1c6e15a",
+    "systems": "fdacbb0f1035a7a5b56f1893c9255050a238fc5f",
+    "fuel": "ddaf35ffa337bf315647303fd6d2513a91510bb6"
+  },
+  "purpose": "Public project QA media only, no game publication",
+  "method": "Real natural pursuit/arrest in Lower City, native Godot4.7.2 at844x390 and390x844. No physical-phone/browser claim.",
+  "limits": "Mainc14ded07 regression is excluded. Owner expanded minimap/GAS interception and small labels unchanged. Earlier rejected bootstrap captures are not mirrored.",
+  "files": [
+    {
+      "path": "before/landscape/arrest.png",
+      "size": 121370,
+      "sha256": "a04cea87310cd512d915f1a1405fc220f89548324c6371177b20315e22d5b227"
+    },
+    {
+      "path": "before/landscape/settlement.png",
+      "size": 127700,
+      "sha256": "cfad2479563f218a4db56b71e2c39b6fb4df3ea2feb687e4b790b44d5d3b75f7"
+    },
+    {
+      "path": "before/portrait/arrest.png",
+      "size": 202962,
+      "sha256": "d8c60727cae9902ddc1b99ee8e93730c3ac54225e1a7b57ac1d7640f302ab8fe"
+    },
+    {
+      "path": "before/portrait/settlement.png",
+      "size": 165743,
+      "sha256": "034ea37141a368c6e39dbd26d3b84e205e6c4fa93ec799ea2d1ac3f425925dd4"
+    },
+    {
+      "path": "after/landscape/arrest.png",
+      "size": 122841,
+      "sha256": "b6774c2ca2b3d7e4db31dc291038b788495d3e1b43515102815d508cb962eda5"
+    },
+    {
+      "path": "after/landscape/settlement.png",
+      "size": 129682,
+      "sha256": "727b585cc6cbeb79aef6010d9c8366c88e0f39c9c13bc9a685f58bd664649a19"
+    },
+    {
+      "path": "after/landscape/restored.png",
+      "size": 135961,
+      "sha256": "7b6c736a57c8c01f42dbc6972fb1d457fd17fefaa7e39c16ba73086e5f445020"
+    },
+    {
+      "path": "after/landscape/natural-arrest.mp4",
+      "size": 448791,
+      "sha256": "369b88f92c7a1008600f50b9d5933a2cdbe1edf581002a47ec4a67396c395548"
+    },
+    {
+      "path": "after/portrait/arrest.png",
+      "size": 201134,
+      "sha256": "fe231665b823bf5142191d6782804404482347f72d4938be828ce52a2b2743bd"
+    },
+    {
+      "path": "after/portrait/settlement.png",
+      "size": 165743,
+      "sha256": "034ea37141a368c6e39dbd26d3b84e205e6c4fa93ec799ea2d1ac3f425925dd4"
+    },
+    {
+      "path": "after/portrait/restored.png",
+      "size": 100555,
+      "sha256": "63b878468fc49045058db57f1585ee4b5637b9ecea3d60163117e4b9837f4506"
+    },
+    {
+      "path": "after/portrait/natural-arrest.mp4",
+      "size": 685941,
+      "sha256": "7b96fdf0842a12125aa5b79b3d50b3c7bcb59f89ab1f493d34304a78e4247cc2"
+    },
+    {
+      "path": "combined/landscape/arrest.png",
+      "size": 128726,
+      "sha256": "bf4ebb0159d2449d067307ef1ef0f5d3d3136b57953cdb934f554645e0647e97"
+    },
+    {
+      "path": "combined/landscape/settlement.png",
+      "size": 123234,
+      "sha256": "fe685bb042f1f7435efbd169e672cddedfe4cbeb7d17b6839dbaac853b1e9e58"
+    },
+    {
+      "path": "combined/portrait/arrest.png",
+      "size": 199238,
+      "sha256": "a1717690b6b2c7d40ebc618843e217f8a50f1dc43bca5bacdd605c2d181bda2a"
+    },
+    {
+      "path": "combined/portrait/settlement.png",
+      "size": 159762,
+      "sha256": "b7410f106b96bac538c715a52dd53dbcc0aa0090b1c3a3ac94e82a7ecaea7645"
+    }
+  ]
+}
