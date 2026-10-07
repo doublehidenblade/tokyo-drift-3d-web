@@ -1,0 +1,60 @@
+{
+  "source_head": "825a1db85618e13e3a54de7fcb0ba310df6d734f",
+  "before_source_head": "70a750ba11fbb83f672ebda060e0d50cc4676798",
+  "godot": "4.7.2.stable.official.ed1daf0bf",
+  "browser": "151.0.7922.34",
+  "file_sha256": {
+    "godot/scripts/lower_city/fuel_hud.gd": "a128980d93a99904431ce861c022c8f23dbf2b40e855ab2d0016ec7625c0c05b",
+    "godot/tools/test_td206_modal.gd": "ac6b5729e44d1acfe79d52b3a276853ace219350effaae9603668009f4f7437e",
+    "harness/webgl/td206-modal.mjs": "2bcc92c7643659b370b8e5e74af71a8d5575bde60b393bcaf13b5b6e21eaca28",
+    "harness/webgl/td206-fuel.mjs": "00c36e0013a891b9bcad3f750b5ffa20bf7527614d84c9a23adb2e36ca918c9c",
+    "harness/webgl/td206-boot-errors.mjs": "1b98ce90e035dcaac641ca9077a93a229b5a146a2fcc80b99921db8d271140e4"
+  },
+  "pck_sha256": "17a7cee17dbdde88bef0b3daf43e5a6f86be63825a91758f52200b1684896381",
+  "tests": {
+    "fuel_native": {
+      "passed": 62,
+      "failed": 0,
+      "log": "../modal-edge-head.log"
+    },
+    "modal_native": {
+      "passed": 31,
+      "failed": 0,
+      "log": "../modal-native-head.log"
+    },
+    "modal_browser": {
+      "passed": 35,
+      "failed": 0,
+      "result": "after/result.json"
+    },
+    "economy_browser": {
+      "passed": 10,
+      "failed": 0,
+      "result": "economy-web/result.json"
+    },
+    "negative_control": {
+      "failed": 4,
+      "passed": 1,
+      "result": "before/result.json"
+    }
+  },
+  "asset_errors": {
+    "reviewer_reported": 52,
+    "local_modal_one_boot": 28,
+    "local_economy_two_boots": 56,
+    "baseline_one_boot": 28,
+    "lower_city_entry_errors": 0,
+    "classification": "asset-error-comparison.json"
+  },
+  "unchanged_ownership": [
+    "PaperMap and map/guide sources",
+    "PauseMenu",
+    "gig/health authorities",
+    "PR446 reset/LOS/HUD"
+  ],
+  "remaining_limits": [
+    "Natural chassis-wreck producer absent; owner integration still required.",
+    "Combined PR446 integration not tested.",
+    "Physical phone verdict remains pending."
+  ]
+}

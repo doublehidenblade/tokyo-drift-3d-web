@@ -1,0 +1,351 @@
+{
+  "source": "70a750ba11fbb83f672ebda060e0d50cc4676798",
+  "status": "failed",
+  "checks": [
+    {
+      "name": "Escape cannot leave an active fuel modal running",
+      "ok": false
+    },
+    {
+      "name": "Tab cannot open map under an active quote",
+      "ok": false
+    },
+    {
+      "name": "Tab then Cancel never leaves map open with simulation running",
+      "ok": false
+    },
+    {
+      "name": "Cancel resumes only the fuel-owned pause and never pays",
+      "ok": false
+    },
+    {
+      "name": "no Lower City runtime errors",
+      "ok": true
+    }
+  ],
+  "failures": [
+    "Escape cannot leave an active fuel modal running",
+    "Tab cannot open map under an active quote",
+    "Tab then Cancel never leaves map open with simulation running",
+    "Cancel resumes only the fuel-owned pause and never pays"
+  ],
+  "states": [
+    {
+      "name": "escape",
+      "fuel": {
+        "balance_yen": 5000,
+        "capacity_km": 7.5,
+        "cause": "",
+        "detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥5000 to ¥3000\nRange 7.50 to 7.50 km\nNo charge until you confirm.",
+        "distance_semantics": "actual 3D vehicle travel in metres; explicit transports excluded",
+        "low_range": false,
+        "modal": true,
+        "paused": false,
+        "rects": {
+          "action": [
+            372,
+            207.979476928711,
+            260,
+            43.9956512451172
+          ],
+          "cancel": [
+            159.80744934082,
+            273.8125,
+            524.385131835938,
+            44.4166564941406
+          ],
+          "confirm": [
+            159.80744934082,
+            219.645843505859,
+            524.385131835938,
+            44.4166564941406
+          ]
+        },
+        "remaining_km": 7.5,
+        "status": "FUEL 7.50 km · ¥5000",
+        "traveled_m": 0,
+        "vehicle_id": "starter_coupe"
+      },
+      "city": {
+        "map": false,
+        "paused": false,
+        "phase": "idle",
+        "rects": {
+          "brake": [
+            725.9,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "gas": [
+            725.9,
+            180.9,
+            102.9,
+            92.1
+          ],
+          "left": [
+            15.2,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "map": [
+            719.4,
+            59.6,
+            108.3,
+            45.5
+          ],
+          "offer0": [
+            9.8,
+            39,
+            317.4,
+            57.4
+          ],
+          "offer1": [
+            9.8,
+            100.8,
+            317.4,
+            57.4
+          ],
+          "offer2": [
+            9.8,
+            162.5,
+            317.4,
+            57.4
+          ],
+          "right": [
+            127.8,
+            282.8,
+            102.9,
+            92.1
+          ]
+        },
+        "speed": 0,
+        "steer": 0,
+        "throttle": 0
+      }
+    },
+    {
+      "name": "tab-during-quote",
+      "fuel": {
+        "balance_yen": 5000,
+        "capacity_km": 7.5,
+        "cause": "",
+        "detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥5000 to ¥3000\nRange 7.50 to 7.50 km\nNo charge until you confirm.",
+        "distance_semantics": "actual 3D vehicle travel in metres; explicit transports excluded",
+        "low_range": false,
+        "modal": true,
+        "paused": true,
+        "rects": {
+          "action": [
+            372,
+            207.979476928711,
+            260,
+            43.9956512451172
+          ],
+          "cancel": [
+            159.80744934082,
+            273.8125,
+            524.385131835938,
+            44.4166564941406
+          ],
+          "confirm": [
+            159.80744934082,
+            219.645843505859,
+            524.385131835938,
+            44.4166564941406
+          ]
+        },
+        "remaining_km": 7.5,
+        "status": "FUEL 7.50 km · ¥5000",
+        "traveled_m": 0,
+        "vehicle_id": "starter_coupe"
+      },
+      "city": {
+        "map": true,
+        "paused": true,
+        "phase": "idle",
+        "rects": {
+          "brake": [
+            725.9,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "close": [
+            329.9,
+            319.6,
+            184.2,
+            48.8
+          ],
+          "gas": [
+            725.9,
+            180.9,
+            102.9,
+            92.1
+          ],
+          "left": [
+            15.2,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "map": [
+            719.4,
+            59.6,
+            108.3,
+            45.5
+          ],
+          "offer0": [
+            9.8,
+            39,
+            317.4,
+            57.4
+          ],
+          "offer1": [
+            9.8,
+            100.8,
+            317.4,
+            57.4
+          ],
+          "offer2": [
+            9.8,
+            162.5,
+            317.4,
+            57.4
+          ],
+          "right": [
+            127.8,
+            282.8,
+            102.9,
+            92.1
+          ]
+        },
+        "speed": 0,
+        "steer": 0,
+        "throttle": 0
+      }
+    },
+    {
+      "name": "tab-then-cancel",
+      "fuel": {
+        "balance_yen": 5000,
+        "capacity_km": 7.5,
+        "cause": "",
+        "detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥5000 to ¥3000\nRange 7.50 to 7.50 km\nNo charge until you confirm.",
+        "distance_semantics": "actual 3D vehicle travel in metres; explicit transports excluded",
+        "low_range": false,
+        "modal": false,
+        "paused": false,
+        "rects": {
+          "action": [
+            372,
+            207.979476928711,
+            260,
+            43.9956512451172
+          ]
+        },
+        "remaining_km": 7.5,
+        "status": "FUEL 7.50 km · ¥5000",
+        "traveled_m": 0,
+        "vehicle_id": "starter_coupe"
+      },
+      "city": {
+        "map": true,
+        "paused": false,
+        "phase": "idle",
+        "rects": {
+          "brake": [
+            725.9,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "close": [
+            329.9,
+            319.6,
+            184.2,
+            48.8
+          ],
+          "gas": [
+            725.9,
+            180.9,
+            102.9,
+            92.1
+          ],
+          "left": [
+            15.2,
+            282.8,
+            102.9,
+            92.1
+          ],
+          "map": [
+            719.4,
+            59.6,
+            108.3,
+            45.5
+          ],
+          "offer0": [
+            9.8,
+            39,
+            317.4,
+            57.4
+          ],
+          "offer1": [
+            9.8,
+            100.8,
+            317.4,
+            57.4
+          ],
+          "offer2": [
+            9.8,
+            162.5,
+            317.4,
+            57.4
+          ],
+          "right": [
+            127.8,
+            282.8,
+            102.9,
+            92.1
+          ]
+        },
+        "speed": 0,
+        "steer": 0,
+        "throttle": 0
+      }
+    }
+  ],
+  "bootErrors": [
+    "ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+    "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+    "ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+    "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+    "ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+    "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+    "ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+    "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+    "ERROR: Failed to load image. Error 7",
+    "ERROR: No loader found for resource: res://assets/td-119/tokyo_tower_deck_tex.png (expected type: Texture2D)",
+    "ERROR: No loader found for resource: res://assets/td-119/tokyo_tower_deck_tex_em.png (expected type: Texture2D)"
+  ],
+  "entryErrors": [],
+  "browser": "151.0.7922.34"
+}

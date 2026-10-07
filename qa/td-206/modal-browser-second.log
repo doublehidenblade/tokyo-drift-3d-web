@@ -1,0 +1,36 @@
+TD206_MODAL PASS Escape cannot leave an active fuel modal running
+TD206_MODAL PASS Tab cannot open map under an active quote
+TD206_MODAL PASS Tab then Cancel never leaves map open with simulation running
+TD206_MODAL PASS Cancel resumes only the fuel-owned pause and never pays
+TD206_MODAL PASS repeated service/map keys preserve exclusive modal
+TD206_MODAL PASS gameplay physics stays frozen behind quote
+TD206_MODAL PASS touch behind quote cannot toggle shared pause
+TD206_MODAL PASS Escape cancels quote exactly once
+TD206_MODAL PASS repeated service/map keys preserve exclusive modal
+TD206_MODAL PASS gameplay physics stays frozen behind quote
+TD206_MODAL PASS touch behind quote cannot toggle shared pause
+TD206_MODAL PASS Escape cancels quote exactly once
+TD206_MODAL PASS ordinary pause still works after fuel cancel
+TD206_MODAL PASS fuel yields controls to an existing pause sheet
+TD206_MODAL PASS ordinary touch Resume remains available
+TD206_MODAL PASS ordinary map still opens and pauses
+TD206_MODAL PASS fuel yields controls to an existing map pause
+TD206_MODAL PASS original map close resumes normally
+TD206_MODAL PASS browser Back never unpauses behind an active modal
+TD206_MODAL PASS repeated service/map keys preserve exclusive modal
+TD206_MODAL PASS gameplay physics stays frozen behind quote
+TD206_MODAL PASS touch behind quote cannot toggle shared pause
+TD206_MODAL PASS Escape cancels quote exactly once
+TD206_MODAL PASS repeated service/map keys preserve exclusive modal
+TD206_MODAL PASS gameplay physics stays frozen behind quote
+TD206_MODAL PASS touch behind quote cannot toggle shared pause
+TD206_MODAL PASS Escape cancels quote exactly once
+TD206_MODAL PASS ordinary pause still works after fuel cancel
+TD206_MODAL PASS fuel yields controls to an existing pause sheet
+TD206_MODAL PASS ordinary touch Resume remains available
+TD206_MODAL PASS ordinary map still opens and pauses
+TD206_MODAL PASS fuel yields controls to an existing map pause
+TD206_MODAL PASS original map close resumes normally
+TD206_MODAL PASS browser Back never unpauses behind an active modal
+TD206_MODAL PASS no Lower City runtime errors
+{"status":"passed","checks":35,"failures":[],"bootErrors":28,"entryErrors":0}

@@ -1,0 +1,6 @@
+TD206_MODAL FAIL Escape cannot leave an active fuel modal running
+TD206_MODAL FAIL Tab cannot open map under an active quote
+TD206_MODAL FAIL Tab then Cancel never leaves map open with simulation running
+TD206_MODAL FAIL Cancel resumes only the fuel-owned pause and never pays
+TD206_MODAL PASS no Lower City runtime errors
+{"status":"failed","checks":5,"failures":["Escape cannot leave an active fuel modal running","Tab cannot open map under an active quote","Tab then Cancel never leaves map open with simulation running","Cancel resumes only the fuel-owned pause and never pays"],"bootErrors":28,"entryErrors":0}

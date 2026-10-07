@@ -1,0 +1,69 @@
+{
+  "reviewer_reported_pre_entry_errors": 52,
+  "reviewer_environment": "separate executor; exact raw log not available locally",
+  "retained_prior_worker_run": {
+    "source": "effc7e6",
+    "menu_boots": 2,
+    "raw_pre_entry_errors": 56,
+    "entry_errors": 0
+  },
+  "same_environment_baseline": {
+    "source": "389d4a839c1c5974a335b4d063566a20a77b4dd1",
+    "menu_boots": 1,
+    "raw_pre_entry_errors": 28,
+    "entry_errors": 0
+  },
+  "reviewed_source_reproduction": {
+    "source": "70a750ba11fbb83f672ebda060e0d50cc4676798",
+    "menu_boots": 1,
+    "raw_pre_entry_errors": 28,
+    "entry_errors": 0
+  },
+  "identical_per_boot_raw_error_multiset": true,
+  "categories_per_boot": {
+    "pole_glb": {
+      "raw_count": 8,
+      "messages": [
+        "ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+        "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+        "ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+        "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+        "ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+        "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+        "ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+        "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb"
+      ]
+    },
+    "showa_image": {
+      "raw_count": 18,
+      "messages": [
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+        "ERROR: Failed to load image. Error 7",
+        "ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+        "ERROR: Failed to load image. Error 7"
+      ]
+    },
+    "td119_texture": {
+      "raw_count": 2,
+      "messages": [
+        "ERROR: No loader found for resource: res://assets/td-119/tokyo_tower_deck_tex.png (expected type: Texture2D)",
+        "ERROR: No loader found for resource: res://assets/td-119/tokyo_tower_deck_tex_em.png (expected type: Texture2D)"
+      ]
+    }
+  },
+  "interpretation": "Counts are per recorded run, not a universal baseline count. Baseline and reviewed source reproduce identical raw messages locally. The reviewer reported 52; the retained worker two-boot run contains 56. Do not relabel either count or infer missing reviewer messages. No asset changes were made."
+}
