@@ -1,0 +1,137 @@
+{
+  "tested_source": "762c7252198129c0ea71bf21de2b97e7fb6bc552",
+  "baseline": "58516c0dcdbadbbc360b051015ba215057995911",
+  "engine": "Godot 4.7.2",
+  "capture": "actual Lower City; native chase camera; unaltered PNG and encoded silent video; no physical phone claim",
+  "scope": "QA evidence only. No site game files changed. Main Pages branch unchanged.",
+  "files": {
+    "before/traffic-under.png": {
+      "bytes": 279480,
+      "sha256": "9b487e91a60038a82002a60974a682f1e5ebdcc520d9f2276bfe6d16579d60e8"
+    },
+    "before/cop-approach.png": {
+      "bytes": 239032,
+      "sha256": "47c7323809757e19359765304000044748aa943a8eb3d0e5e01eeaec1fc8cc28"
+    },
+    "before/cop-overlap.png": {
+      "bytes": 252711,
+      "sha256": "e0143d4dc23cf0e735314ed8ea3baa388e0b931163514814cbc83da05f46b528"
+    },
+    "before/traffic-approach.png": {
+      "bytes": 239116,
+      "sha256": "5f239a4868abd690f1bd9265960a75e52e7b7fac8fad8d081f26e0072735b3e2"
+    },
+    "after/cop-contact.png": {
+      "bytes": 289923,
+      "sha256": "a7e856b3f6c213f58db104b4eb1af8d0cea8dcf0a9918b13b2148bf205e03272"
+    },
+    "after/wanted-cleared.png": {
+      "bytes": 280533,
+      "sha256": "4950fecff7bd6471434a8d615a8a18094a26a792d02e9650b02774eae6484e27"
+    },
+    "after/wanted-2.png": {
+      "bytes": 223497,
+      "sha256": "78599231955e83dfe12235998dc0b1c09a7535063c0f2effff54ad3db7a188f1"
+    },
+    "after/wanted-3.png": {
+      "bytes": 256492,
+      "sha256": "9b6ef31e9021abf070076d67f29c2c745a20d62d7949a34bed76fe05d74c750b"
+    },
+    "after/hud-landscape.png": {
+      "bytes": 148690,
+      "sha256": "885b4b6a878b1cca598d914ec4bd0a2b48a1ecbda5f7a6645462c3927b0e5f75"
+    },
+    "after/hud-portrait.png": {
+      "bytes": 116422,
+      "sha256": "192cf296f74c0db44b8a0b911079e196de4eebb24e5b1192ca34b9020088a361"
+    },
+    "after/cop-approach.png": {
+      "bytes": 254160,
+      "sha256": "48e703ac2e1f7649405729d5621e5e91e9118f2f4ccb20b91ed527c8686324e7"
+    },
+    "after/moving-contact.png": {
+      "bytes": 253497,
+      "sha256": "6b918e3a69fe7cb1946f3ea19cb009c91f92eb0bd4c9608b773a3cacc066b428"
+    },
+    "after/held-throttle-stop.png": {
+      "bytes": 318755,
+      "sha256": "116c12e95bd8a0e75fe47da7d21d1762a652ada7ab7ecac5a5735797b5ff584b"
+    },
+    "after/busted-gig-failure.png": {
+      "bytes": 304038,
+      "sha256": "38c9621d90aa9051dd9fd144401668a0d6cf80087f4b5f42663628bed65229ce"
+    },
+    "after/wanted-1.png": {
+      "bytes": 239605,
+      "sha256": "29fc012ed566ff87d7d5e5660293472fe4c0efbdaab07f66e81e844c5c3f9c39"
+    },
+    "after/sidewalk-walkers.png": {
+      "bytes": 250409,
+      "sha256": "5cb57ffadf97c54652fc1b4079a1b1ef3dd556829129041937f45979416167c6"
+    },
+    "after/traffic-approach.png": {
+      "bytes": 253452,
+      "sha256": "cae6655b1f8ed4bb8b23a51ecec5edd966fd84bc333d77598a0286512c8ca6be"
+    },
+    "after/trench-pursuit.png": {
+      "bytes": 297244,
+      "sha256": "737d3ad3027dce88bd0341822d41b69e1987b580b4d9651ec9bc2a3f02e9dd81"
+    },
+    "after/released-start-bay.png": {
+      "bytes": 226226,
+      "sha256": "09669b80e353ca42ae323725ffe64a9f8f35b58f62f9cff5ab972e351ae27419"
+    },
+    "after/traffic-contact.png": {
+      "bytes": 271100,
+      "sha256": "6c0b80a1b8bbc53171d36dd94f6250e37befccdbaec225091f2d29c047799b65"
+    },
+    "after/continuous-drive.png": {
+      "bytes": 241189,
+      "sha256": "2729831eb910243cd7a8b26e4fb166cbfe46199d2b4edc56ffd47c39619d65d6"
+    },
+    "videos/cop-after.mp4": {
+      "bytes": 305854,
+      "sha256": "194f928cdd3d13015f6b3411aa420e9c43072ab676e654c8e4589d41ff134f8a"
+    },
+    "videos/cop-before.mp4": {
+      "bytes": 327521,
+      "sha256": "48aeae6bca07cb6c514a65865850a1972e220d22a150a0dacc972250ba8bf8cc"
+    },
+    "videos/evade.mp4": {
+      "bytes": 1320290,
+      "sha256": "64c702a6d84b36ac469b1a7c60b49d7025919d09816657806a051586a36a8e20"
+    },
+    "videos/moving-after.mp4": {
+      "bytes": 343056,
+      "sha256": "5290b173baece51f1ed3c635027093b9f5e837eb4cb8f15d2ba67c274b777362"
+    },
+    "videos/traffic-after.mp4": {
+      "bytes": 267725,
+      "sha256": "7ca344cabec7a6ad1ba96cb1fe24484b5673e70347f5813f3785f5a351e6e360"
+    },
+    "videos/trench.mp4": {
+      "bytes": 1258511,
+      "sha256": "fb55d2fdd473d317ee589f9a14cb1279db6b00b22f28b2fbd42f82998c156b92"
+    },
+    "videos/pursuit.mp4": {
+      "bytes": 1139519,
+      "sha256": "9faa668627472cac8cd7f00ffb7251917aa8fdc2756bf02779f233bf9e6d84a5"
+    },
+    "videos/held.mp4": {
+      "bytes": 518164,
+      "sha256": "16cafa583c5bc12bbc2044b0cea57174facdbe4dbc6661f5f1e50be62b45861a"
+    },
+    "videos/drive-180s.mp4": {
+      "bytes": 9169822,
+      "sha256": "f5797061a99aa5c7980ccac4716406a3e8844f64f3a3a0c816197523e90b4b67"
+    },
+    "videos/traffic-before.mp4": {
+      "bytes": 326233,
+      "sha256": "792f86b97fbe157f486ef8b8ed22dc7c242a2c7364b367a637bb96767b2306f0"
+    },
+    "iterations/parallel-capture-notice.png": {
+      "bytes": 271096,
+      "sha256": "074109b9b328e4499d3795e679b2e037376b4357b33f59f5e654e4bcea6d9315"
+    }
+  }
+}
