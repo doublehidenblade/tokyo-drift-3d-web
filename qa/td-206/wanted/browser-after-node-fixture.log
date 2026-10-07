@@ -1,0 +1,31 @@
+TD206_WANTED_WEB viewport [ 844, 390 ]
+TD206_WANTED_WEB capture landscape-idle
+TD206_WANTED_WEB capture landscape-vehicle-low-range
+TD206_WANTED_WEB capture landscape-pedestrian-low-balance
+TD206_WANTED_WEB capture landscape-busted
+TD206_WANTED_WEB capture landscape-cleared
+TD206_WANTED_WEB capture landscape-gig-active
+TD206_WANTED_WEB capture landscape-gig-pickup
+TD206_WANTED_WEB capture landscape-gig-settled
+TD206_WANTED_WEB capture landscape-fill-quote
+TD206_WANTED_WEB capture landscape-insufficient-fill
+TD206_WANTED_WEB capture landscape-tow-quote
+TD206_WANTED_WEB capture landscape-salvage-quote
+TD206_WANTED_WEB capture landscape-insufficient-home
+TD206_WANTED_WEB capture landscape-run-over
+TD206_WANTED_WEB viewport [ 390, 844 ]
+TD206_WANTED_WEB capture portrait-idle
+TD206_WANTED_WEB capture portrait-vehicle-low-range
+TD206_WANTED_WEB capture portrait-pedestrian-low-balance
+TD206_WANTED_WEB capture portrait-busted
+TD206_WANTED_WEB capture portrait-cleared
+TD206_WANTED_WEB capture portrait-gig-active
+TD206_WANTED_WEB capture portrait-gig-pickup
+TD206_WANTED_WEB capture portrait-gig-settled
+TD206_WANTED_WEB capture portrait-fill-quote
+TD206_WANTED_WEB capture portrait-insufficient-fill
+TD206_WANTED_WEB capture portrait-tow-quote
+TD206_WANTED_WEB capture portrait-salvage-quote
+TD206_WANTED_WEB capture portrait-insufficient-home
+TD206_WANTED_WEB capture portrait-run-over
+{"status":"passed","checks":496,"failures":0,"errors":[],"screenshots":28}

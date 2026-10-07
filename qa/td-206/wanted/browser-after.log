@@ -1,0 +1,14 @@
+node:internal/fs/promises:916
+  return await PromisePrototypeThen(
+         ^
+
+Error: ENOENT: no such file or directory, mkdir '/godot'
+    at async mkdir (node:internal/fs/promises:916:10)
+    at async file:///workspace/tokyo-drift-3d/harness/webgl/td206-wanted-layout.mjs:8:1 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'mkdir',
+  path: '/godot'
+}
+
+Node.js v24.19.0

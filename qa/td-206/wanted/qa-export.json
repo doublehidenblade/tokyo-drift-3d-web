@@ -1,0 +1,19 @@
+{
+  "combined_commit": "be4ba060e8508c459c7c963c70ce1acd90022fbc",
+  "combined_tree": "8ea7c38fb156ba9b0c3565100c487efa9f1c671f",
+  "fuel_hud_sha256": "381c4cfdbbbce98764b084d48177385f5110f8408f0164700bb3362fa4d4ae19",
+  "fixture_sha256": "f5fdf248d0b07e3ad9888b495a2566604a87062de4823420b77e15f78fecb973",
+  "wrapper_sha256": "d53551fbe321ab8aca2ebb325ed8c4fdd8e759d13339aaecfd0fb616bcc4994f",
+  "project_entry_restored": true,
+  "qa_only": true,
+  "export_sha256": {
+    "index.pck": "ac72bd6d7db60e5bc7962456cb3a54f642706b321b24146c5d89f9a73dd8baac",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "layout.html": "de114b7068763f4b610cbe59cc889f4ac959abb4cd310ec4af910fabf7a801f7"
+  },
+  "matches_tested_export": {
+    "index.pck": true,
+    "index.wasm": true,
+    "layout.html": true
+  }
+}

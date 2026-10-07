@@ -1,0 +1,1342 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+SCRIPT ERROR: Parse Error: Preload file "res://assets/td-168/sento.glb" has no resource loaders (unrecognized file extension).
+          at: GDScript::reload (res://scripts/slice/slice_world.gd:15)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Parse Error: Preload file "res://assets/td-168/koban_concrete.glb" has no resource loaders (unrecognized file extension).
+          at: GDScript::reload (res://scripts/slice/slice_world.gd:16)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Parse Error: Preload file "res://assets/td-168/koban_brick.glb" has no resource loaders (unrecognized file extension).
+          at: GDScript::reload (res://scripts/slice/slice_world.gd:17)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Parse Error: Preload file "res://assets/td-168/jizo_hokora.glb" has no resource loaders (unrecognized file extension).
+          at: GDScript::reload (res://scripts/slice/slice_world.gd:18)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Parse Error: Preload file "res://assets/td-168/jizo_shed.glb" has no resource loaders (unrecognized file extension).
+          at: GDScript::reload (res://scripts/slice/slice_world.gd:19)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/slice/civilian_traffic.gd:0)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/slice/anime_look.gd:0)
+          GDScript backtrace (most recent call first):
+              [0] run (res://tools/test_td206_wanted_layout.gd:73)
+ERROR: Failed to load script "res://scripts/slice/anime_look.gd" with error "Compilation failed".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+   GDScript backtrace (most recent call first):
+       [0] run (res://tools/test_td206_wanted_layout.gd:73)
+ERROR: No loader found for resource: res://models/props/td174/gas_forecourt_pad.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_fascia_red.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:23)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:23)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_kiosk.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_forecourt_pad.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_fascia_blue.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:23)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:23)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_column.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+ERROR: No loader found for resource: res://models/props/td174/gas_kiosk.glb (expected type: unknown)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://tools/test_td206_wanted_layout.gd:74)
+SCRIPT ERROR: Attempt to call function 'instantiate' in base 'null instance' on a null instance.
+          at: FuelStation._part (res://scripts/lower_city/fuel_station.gd:60)
+          GDScript backtrace (most recent call first):
+              [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+              [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+              [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+              [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+              [4] run (res://tools/test_td206_wanted_layout.gd:74)
+TD206_WANTED PASS landscape-idle _panel inside viewport
+TD206_WANTED FAIL landscape-idle _panel clears wanted
+TD206_WANTED PASS landscape-idle _panel clears pause
+TD206_WANTED PASS landscape-idle _panel clears pad_left
+TD206_WANTED PASS landscape-idle _panel clears pad_right
+TD206_WANTED PASS landscape-idle _panel clears pad_gas
+TD206_WANTED PASS landscape-idle _panel clears pad_brake
+TD206_WANTED PASS landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-idle _panel clears gig_board
+TD206_WANTED PASS landscape-idle action inside viewport
+TD206_WANTED FAIL landscape-idle action clears wanted
+TD206_WANTED PASS landscape-idle action clears pause
+TD206_WANTED PASS landscape-idle action clears pad_left
+TD206_WANTED PASS landscape-idle action clears pad_right
+TD206_WANTED PASS landscape-idle action clears pad_gas
+TD206_WANTED PASS landscape-idle action clears pad_brake
+TD206_WANTED PASS landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-idle action clears gig_board
+TD206_WANTED PASS landscape-idle action at least44px
+TD206_WANTED PASS landscape-idle range text at least17.5px
+TD206_WANTED PASS landscape-idle modal pause consistent
+TD206_WANTED PASS landscape-vehicle-low-range _panel inside viewport
+TD206_WANTED FAIL landscape-vehicle-low-range _panel clears wanted
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears pause
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears pad_left
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears pad_right
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears pad_gas
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears pad_brake
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-vehicle-low-range _panel clears gig_board
+TD206_WANTED PASS landscape-vehicle-low-range action inside viewport
+TD206_WANTED FAIL landscape-vehicle-low-range action clears wanted
+TD206_WANTED PASS landscape-vehicle-low-range action clears pause
+TD206_WANTED PASS landscape-vehicle-low-range action clears pad_left
+TD206_WANTED PASS landscape-vehicle-low-range action clears pad_right
+TD206_WANTED PASS landscape-vehicle-low-range action clears pad_gas
+TD206_WANTED PASS landscape-vehicle-low-range action clears pad_brake
+TD206_WANTED PASS landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-vehicle-low-range action clears gig_board
+TD206_WANTED PASS landscape-vehicle-low-range action at least44px
+TD206_WANTED PASS landscape-vehicle-low-range range text at least17.5px
+TD206_WANTED PASS landscape-vehicle-low-range modal pause consistent
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel inside viewport
+TD206_WANTED FAIL landscape-pedestrian-low-balance _panel clears wanted
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears pause
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears pad_left
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears pad_right
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears pad_gas
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears pad_brake
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-pedestrian-low-balance _panel clears gig_board
+TD206_WANTED PASS landscape-pedestrian-low-balance action inside viewport
+TD206_WANTED FAIL landscape-pedestrian-low-balance action clears wanted
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears pause
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears pad_left
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears pad_right
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears pad_gas
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears pad_brake
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-pedestrian-low-balance action clears gig_board
+TD206_WANTED PASS landscape-pedestrian-low-balance action at least44px
+TD206_WANTED PASS landscape-pedestrian-low-balance range text at least17.5px
+TD206_WANTED PASS landscape-pedestrian-low-balance modal pause consistent
+TD206_WANTED PASS landscape-busted _panel inside viewport
+TD206_WANTED FAIL landscape-busted _panel clears wanted
+TD206_WANTED PASS landscape-busted _panel clears pause
+TD206_WANTED PASS landscape-busted _panel clears pad_left
+TD206_WANTED PASS landscape-busted _panel clears pad_right
+TD206_WANTED PASS landscape-busted _panel clears pad_gas
+TD206_WANTED PASS landscape-busted _panel clears pad_brake
+TD206_WANTED PASS landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-busted _panel clears gig_board
+TD206_WANTED PASS landscape-busted action inside viewport
+TD206_WANTED FAIL landscape-busted action clears wanted
+TD206_WANTED PASS landscape-busted action clears pause
+TD206_WANTED PASS landscape-busted action clears pad_left
+TD206_WANTED PASS landscape-busted action clears pad_right
+TD206_WANTED PASS landscape-busted action clears pad_gas
+TD206_WANTED PASS landscape-busted action clears pad_brake
+TD206_WANTED PASS landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-busted action clears gig_board
+TD206_WANTED PASS landscape-busted action at least44px
+TD206_WANTED PASS landscape-busted range text at least17.5px
+TD206_WANTED PASS landscape-busted modal pause consistent
+TD206_WANTED PASS landscape-cleared _panel inside viewport
+TD206_WANTED FAIL landscape-cleared _panel clears wanted
+TD206_WANTED PASS landscape-cleared _panel clears pause
+TD206_WANTED PASS landscape-cleared _panel clears pad_left
+TD206_WANTED PASS landscape-cleared _panel clears pad_right
+TD206_WANTED PASS landscape-cleared _panel clears pad_gas
+TD206_WANTED PASS landscape-cleared _panel clears pad_brake
+TD206_WANTED PASS landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-cleared _panel clears gig_board
+TD206_WANTED PASS landscape-cleared action inside viewport
+TD206_WANTED FAIL landscape-cleared action clears wanted
+TD206_WANTED PASS landscape-cleared action clears pause
+TD206_WANTED PASS landscape-cleared action clears pad_left
+TD206_WANTED PASS landscape-cleared action clears pad_right
+TD206_WANTED PASS landscape-cleared action clears pad_gas
+TD206_WANTED PASS landscape-cleared action clears pad_brake
+TD206_WANTED PASS landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-cleared action clears gig_board
+TD206_WANTED PASS landscape-cleared action at least44px
+TD206_WANTED PASS landscape-cleared range text at least17.5px
+TD206_WANTED PASS landscape-cleared modal pause consistent
+TD206_WANTED PASS landscape-fill-quote _panel inside viewport
+TD206_WANTED FAIL landscape-fill-quote _panel clears wanted
+TD206_WANTED PASS landscape-fill-quote _panel clears pause
+TD206_WANTED PASS landscape-fill-quote _panel clears pad_left
+TD206_WANTED PASS landscape-fill-quote _panel clears pad_right
+TD206_WANTED PASS landscape-fill-quote _panel clears pad_gas
+TD206_WANTED PASS landscape-fill-quote _panel clears pad_brake
+TD206_WANTED PASS landscape-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-fill-quote _panel clears gig_board
+TD206_WANTED PASS landscape-fill-quote action inside viewport
+TD206_WANTED FAIL landscape-fill-quote action clears wanted
+TD206_WANTED PASS landscape-fill-quote action clears pause
+TD206_WANTED PASS landscape-fill-quote action clears pad_left
+TD206_WANTED PASS landscape-fill-quote action clears pad_right
+TD206_WANTED PASS landscape-fill-quote action clears pad_gas
+TD206_WANTED PASS landscape-fill-quote action clears pad_brake
+TD206_WANTED PASS landscape-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-fill-quote action clears gig_board
+TD206_WANTED PASS landscape-fill-quote action at least44px
+TD206_WANTED PASS landscape-fill-quote modal inside viewport
+TD206_WANTED FAIL landscape-fill-quote quote clears Wanted
+TD206_WANTED PASS landscape-fill-quote confirm_button inside viewport
+TD206_WANTED PASS landscape-fill-quote confirm_button at least44px
+TD206_WANTED PASS landscape-fill-quote cancel_button inside viewport
+TD206_WANTED PASS landscape-fill-quote cancel_button at least44px
+TD206_WANTED PASS landscape-fill-quote range text at least17.5px
+TD206_WANTED PASS landscape-fill-quote modal pause consistent
+TD206_WANTED PASS landscape-insufficient-fill _panel inside viewport
+TD206_WANTED FAIL landscape-insufficient-fill _panel clears wanted
+TD206_WANTED PASS landscape-insufficient-fill _panel clears pause
+TD206_WANTED PASS landscape-insufficient-fill _panel clears pad_left
+TD206_WANTED PASS landscape-insufficient-fill _panel clears pad_right
+TD206_WANTED PASS landscape-insufficient-fill _panel clears pad_gas
+TD206_WANTED PASS landscape-insufficient-fill _panel clears pad_brake
+TD206_WANTED PASS landscape-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-insufficient-fill _panel clears gig_board
+TD206_WANTED PASS landscape-insufficient-fill action inside viewport
+TD206_WANTED FAIL landscape-insufficient-fill action clears wanted
+TD206_WANTED PASS landscape-insufficient-fill action clears pause
+TD206_WANTED PASS landscape-insufficient-fill action clears pad_left
+TD206_WANTED PASS landscape-insufficient-fill action clears pad_right
+TD206_WANTED PASS landscape-insufficient-fill action clears pad_gas
+TD206_WANTED PASS landscape-insufficient-fill action clears pad_brake
+TD206_WANTED PASS landscape-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-insufficient-fill action clears gig_board
+TD206_WANTED PASS landscape-insufficient-fill action at least44px
+TD206_WANTED PASS landscape-insufficient-fill modal inside viewport
+TD206_WANTED FAIL landscape-insufficient-fill quote clears Wanted
+TD206_WANTED PASS landscape-insufficient-fill confirm_button inside viewport
+TD206_WANTED PASS landscape-insufficient-fill confirm_button at least44px
+TD206_WANTED PASS landscape-insufficient-fill cancel_button inside viewport
+TD206_WANTED PASS landscape-insufficient-fill cancel_button at least44px
+TD206_WANTED PASS landscape-insufficient-fill range text at least17.5px
+TD206_WANTED PASS landscape-insufficient-fill modal pause consistent
+TD206_WANTED PASS landscape-tow-quote _panel inside viewport
+TD206_WANTED FAIL landscape-tow-quote _panel clears wanted
+TD206_WANTED PASS landscape-tow-quote _panel clears pause
+TD206_WANTED PASS landscape-tow-quote _panel clears pad_left
+TD206_WANTED PASS landscape-tow-quote _panel clears pad_right
+TD206_WANTED PASS landscape-tow-quote _panel clears pad_gas
+TD206_WANTED PASS landscape-tow-quote _panel clears pad_brake
+TD206_WANTED PASS landscape-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-tow-quote _panel clears gig_board
+TD206_WANTED PASS landscape-tow-quote action inside viewport
+TD206_WANTED FAIL landscape-tow-quote action clears wanted
+TD206_WANTED PASS landscape-tow-quote action clears pause
+TD206_WANTED PASS landscape-tow-quote action clears pad_left
+TD206_WANTED PASS landscape-tow-quote action clears pad_right
+TD206_WANTED PASS landscape-tow-quote action clears pad_gas
+TD206_WANTED PASS landscape-tow-quote action clears pad_brake
+TD206_WANTED PASS landscape-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-tow-quote action clears gig_board
+TD206_WANTED PASS landscape-tow-quote action at least44px
+TD206_WANTED PASS landscape-tow-quote modal inside viewport
+TD206_WANTED FAIL landscape-tow-quote quote clears Wanted
+TD206_WANTED PASS landscape-tow-quote confirm_button inside viewport
+TD206_WANTED PASS landscape-tow-quote confirm_button at least44px
+TD206_WANTED PASS landscape-tow-quote cancel_button inside viewport
+TD206_WANTED PASS landscape-tow-quote cancel_button at least44px
+TD206_WANTED PASS landscape-tow-quote range text at least17.5px
+TD206_WANTED PASS landscape-tow-quote modal pause consistent
+TD206_WANTED PASS landscape-salvage-quote _panel inside viewport
+TD206_WANTED FAIL landscape-salvage-quote _panel clears wanted
+TD206_WANTED PASS landscape-salvage-quote _panel clears pause
+TD206_WANTED PASS landscape-salvage-quote _panel clears pad_left
+TD206_WANTED PASS landscape-salvage-quote _panel clears pad_right
+TD206_WANTED PASS landscape-salvage-quote _panel clears pad_gas
+TD206_WANTED PASS landscape-salvage-quote _panel clears pad_brake
+TD206_WANTED PASS landscape-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-salvage-quote _panel clears gig_board
+TD206_WANTED PASS landscape-salvage-quote action inside viewport
+TD206_WANTED FAIL landscape-salvage-quote action clears wanted
+TD206_WANTED PASS landscape-salvage-quote action clears pause
+TD206_WANTED PASS landscape-salvage-quote action clears pad_left
+TD206_WANTED PASS landscape-salvage-quote action clears pad_right
+TD206_WANTED PASS landscape-salvage-quote action clears pad_gas
+TD206_WANTED PASS landscape-salvage-quote action clears pad_brake
+TD206_WANTED PASS landscape-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-salvage-quote action clears gig_board
+TD206_WANTED PASS landscape-salvage-quote action at least44px
+TD206_WANTED PASS landscape-salvage-quote modal inside viewport
+TD206_WANTED FAIL landscape-salvage-quote quote clears Wanted
+TD206_WANTED PASS landscape-salvage-quote confirm_button inside viewport
+TD206_WANTED PASS landscape-salvage-quote confirm_button at least44px
+TD206_WANTED PASS landscape-salvage-quote cancel_button inside viewport
+TD206_WANTED PASS landscape-salvage-quote cancel_button at least44px
+TD206_WANTED PASS landscape-salvage-quote range text at least17.5px
+TD206_WANTED PASS landscape-salvage-quote modal pause consistent
+TD206_WANTED PASS landscape-run-over _panel inside viewport
+TD206_WANTED FAIL landscape-run-over _panel clears wanted
+TD206_WANTED PASS landscape-run-over _panel clears pause
+TD206_WANTED PASS landscape-run-over _panel clears pad_left
+TD206_WANTED PASS landscape-run-over _panel clears pad_right
+TD206_WANTED PASS landscape-run-over _panel clears pad_gas
+TD206_WANTED PASS landscape-run-over _panel clears pad_brake
+TD206_WANTED PASS landscape-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-run-over _panel clears gig_board
+TD206_WANTED PASS landscape-run-over action inside viewport
+TD206_WANTED FAIL landscape-run-over action clears wanted
+TD206_WANTED PASS landscape-run-over action clears pause
+TD206_WANTED PASS landscape-run-over action clears pad_left
+TD206_WANTED PASS landscape-run-over action clears pad_right
+TD206_WANTED PASS landscape-run-over action clears pad_gas
+TD206_WANTED PASS landscape-run-over action clears pad_brake
+TD206_WANTED PASS landscape-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS landscape-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS landscape-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS landscape-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS landscape-run-over action clears gig_board
+TD206_WANTED PASS landscape-run-over action at least44px
+TD206_WANTED PASS landscape-run-over modal inside viewport
+TD206_WANTED FAIL landscape-run-over quote clears Wanted
+TD206_WANTED PASS landscape-run-over restart_button inside viewport
+TD206_WANTED PASS landscape-run-over restart_button at least44px
+TD206_WANTED PASS landscape-run-over range text at least17.5px
+TD206_WANTED PASS landscape-run-over modal pause consistent
+TD206_WANTED PASS portrait-idle _panel inside viewport
+TD206_WANTED PASS portrait-idle _panel clears wanted
+TD206_WANTED PASS portrait-idle _panel clears pause
+TD206_WANTED PASS portrait-idle _panel clears pad_left
+TD206_WANTED PASS portrait-idle _panel clears pad_right
+TD206_WANTED PASS portrait-idle _panel clears pad_gas
+TD206_WANTED PASS portrait-idle _panel clears pad_brake
+TD206_WANTED PASS portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-idle _panel clears gig_board
+TD206_WANTED PASS portrait-idle action inside viewport
+TD206_WANTED PASS portrait-idle action clears wanted
+TD206_WANTED PASS portrait-idle action clears pause
+TD206_WANTED PASS portrait-idle action clears pad_left
+TD206_WANTED PASS portrait-idle action clears pad_right
+TD206_WANTED PASS portrait-idle action clears pad_gas
+TD206_WANTED PASS portrait-idle action clears pad_brake
+TD206_WANTED PASS portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-idle action clears gig_board
+TD206_WANTED PASS portrait-idle action at least44px
+TD206_WANTED PASS portrait-idle range text at least17.5px
+TD206_WANTED PASS portrait-idle modal pause consistent
+TD206_WANTED PASS portrait-vehicle-low-range _panel inside viewport
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears wanted
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears pause
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears pad_left
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears pad_right
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears pad_gas
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears pad_brake
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-vehicle-low-range _panel clears gig_board
+TD206_WANTED PASS portrait-vehicle-low-range action inside viewport
+TD206_WANTED PASS portrait-vehicle-low-range action clears wanted
+TD206_WANTED PASS portrait-vehicle-low-range action clears pause
+TD206_WANTED PASS portrait-vehicle-low-range action clears pad_left
+TD206_WANTED PASS portrait-vehicle-low-range action clears pad_right
+TD206_WANTED PASS portrait-vehicle-low-range action clears pad_gas
+TD206_WANTED PASS portrait-vehicle-low-range action clears pad_brake
+TD206_WANTED PASS portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-vehicle-low-range action clears gig_board
+TD206_WANTED PASS portrait-vehicle-low-range action at least44px
+TD206_WANTED PASS portrait-vehicle-low-range range text at least17.5px
+TD206_WANTED PASS portrait-vehicle-low-range modal pause consistent
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel inside viewport
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears wanted
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears pause
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears pad_left
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears pad_right
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears pad_gas
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears pad_brake
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-pedestrian-low-balance _panel clears gig_board
+TD206_WANTED PASS portrait-pedestrian-low-balance action inside viewport
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears wanted
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears pause
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears pad_left
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears pad_right
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears pad_gas
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears pad_brake
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-pedestrian-low-balance action clears gig_board
+TD206_WANTED PASS portrait-pedestrian-low-balance action at least44px
+TD206_WANTED PASS portrait-pedestrian-low-balance range text at least17.5px
+TD206_WANTED PASS portrait-pedestrian-low-balance modal pause consistent
+TD206_WANTED PASS portrait-busted _panel inside viewport
+TD206_WANTED PASS portrait-busted _panel clears wanted
+TD206_WANTED PASS portrait-busted _panel clears pause
+TD206_WANTED PASS portrait-busted _panel clears pad_left
+TD206_WANTED PASS portrait-busted _panel clears pad_right
+TD206_WANTED PASS portrait-busted _panel clears pad_gas
+TD206_WANTED PASS portrait-busted _panel clears pad_brake
+TD206_WANTED PASS portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-busted _panel clears gig_board
+TD206_WANTED PASS portrait-busted action inside viewport
+TD206_WANTED PASS portrait-busted action clears wanted
+TD206_WANTED PASS portrait-busted action clears pause
+TD206_WANTED PASS portrait-busted action clears pad_left
+TD206_WANTED PASS portrait-busted action clears pad_right
+TD206_WANTED PASS portrait-busted action clears pad_gas
+TD206_WANTED PASS portrait-busted action clears pad_brake
+TD206_WANTED PASS portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-busted action clears gig_board
+TD206_WANTED PASS portrait-busted action at least44px
+TD206_WANTED PASS portrait-busted range text at least17.5px
+TD206_WANTED PASS portrait-busted modal pause consistent
+TD206_WANTED PASS portrait-cleared _panel inside viewport
+TD206_WANTED PASS portrait-cleared _panel clears wanted
+TD206_WANTED PASS portrait-cleared _panel clears pause
+TD206_WANTED PASS portrait-cleared _panel clears pad_left
+TD206_WANTED PASS portrait-cleared _panel clears pad_right
+TD206_WANTED PASS portrait-cleared _panel clears pad_gas
+TD206_WANTED PASS portrait-cleared _panel clears pad_brake
+TD206_WANTED PASS portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-cleared _panel clears gig_board
+TD206_WANTED PASS portrait-cleared action inside viewport
+TD206_WANTED PASS portrait-cleared action clears wanted
+TD206_WANTED PASS portrait-cleared action clears pause
+TD206_WANTED PASS portrait-cleared action clears pad_left
+TD206_WANTED PASS portrait-cleared action clears pad_right
+TD206_WANTED PASS portrait-cleared action clears pad_gas
+TD206_WANTED PASS portrait-cleared action clears pad_brake
+TD206_WANTED PASS portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-cleared action clears gig_board
+TD206_WANTED PASS portrait-cleared action at least44px
+TD206_WANTED PASS portrait-cleared range text at least17.5px
+TD206_WANTED PASS portrait-cleared modal pause consistent
+TD206_WANTED PASS portrait-fill-quote _panel inside viewport
+TD206_WANTED PASS portrait-fill-quote _panel clears wanted
+TD206_WANTED PASS portrait-fill-quote _panel clears pause
+TD206_WANTED PASS portrait-fill-quote _panel clears pad_left
+TD206_WANTED PASS portrait-fill-quote _panel clears pad_right
+TD206_WANTED PASS portrait-fill-quote _panel clears pad_gas
+TD206_WANTED PASS portrait-fill-quote _panel clears pad_brake
+TD206_WANTED PASS portrait-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-fill-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-fill-quote _panel clears gig_board
+TD206_WANTED PASS portrait-fill-quote action inside viewport
+TD206_WANTED PASS portrait-fill-quote action clears wanted
+TD206_WANTED PASS portrait-fill-quote action clears pause
+TD206_WANTED PASS portrait-fill-quote action clears pad_left
+TD206_WANTED PASS portrait-fill-quote action clears pad_right
+TD206_WANTED PASS portrait-fill-quote action clears pad_gas
+TD206_WANTED PASS portrait-fill-quote action clears pad_brake
+TD206_WANTED PASS portrait-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-fill-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-fill-quote action clears gig_board
+TD206_WANTED PASS portrait-fill-quote action at least44px
+TD206_WANTED PASS portrait-fill-quote modal inside viewport
+TD206_WANTED FAIL portrait-fill-quote quote clears Wanted
+TD206_WANTED PASS portrait-fill-quote confirm_button inside viewport
+TD206_WANTED PASS portrait-fill-quote confirm_button at least44px
+TD206_WANTED PASS portrait-fill-quote cancel_button inside viewport
+TD206_WANTED PASS portrait-fill-quote cancel_button at least44px
+TD206_WANTED PASS portrait-fill-quote range text at least17.5px
+TD206_WANTED PASS portrait-fill-quote modal pause consistent
+TD206_WANTED PASS portrait-insufficient-fill _panel inside viewport
+TD206_WANTED PASS portrait-insufficient-fill _panel clears wanted
+TD206_WANTED PASS portrait-insufficient-fill _panel clears pause
+TD206_WANTED PASS portrait-insufficient-fill _panel clears pad_left
+TD206_WANTED PASS portrait-insufficient-fill _panel clears pad_right
+TD206_WANTED PASS portrait-insufficient-fill _panel clears pad_gas
+TD206_WANTED PASS portrait-insufficient-fill _panel clears pad_brake
+TD206_WANTED PASS portrait-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-insufficient-fill _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-insufficient-fill _panel clears gig_board
+TD206_WANTED PASS portrait-insufficient-fill action inside viewport
+TD206_WANTED PASS portrait-insufficient-fill action clears wanted
+TD206_WANTED PASS portrait-insufficient-fill action clears pause
+TD206_WANTED PASS portrait-insufficient-fill action clears pad_left
+TD206_WANTED PASS portrait-insufficient-fill action clears pad_right
+TD206_WANTED PASS portrait-insufficient-fill action clears pad_gas
+TD206_WANTED PASS portrait-insufficient-fill action clears pad_brake
+TD206_WANTED PASS portrait-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-insufficient-fill action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-insufficient-fill action clears gig_board
+TD206_WANTED PASS portrait-insufficient-fill action at least44px
+TD206_WANTED PASS portrait-insufficient-fill modal inside viewport
+TD206_WANTED FAIL portrait-insufficient-fill quote clears Wanted
+TD206_WANTED PASS portrait-insufficient-fill confirm_button inside viewport
+TD206_WANTED PASS portrait-insufficient-fill confirm_button at least44px
+TD206_WANTED PASS portrait-insufficient-fill cancel_button inside viewport
+TD206_WANTED PASS portrait-insufficient-fill cancel_button at least44px
+TD206_WANTED PASS portrait-insufficient-fill range text at least17.5px
+TD206_WANTED PASS portrait-insufficient-fill modal pause consistent
+TD206_WANTED PASS portrait-tow-quote _panel inside viewport
+TD206_WANTED PASS portrait-tow-quote _panel clears wanted
+TD206_WANTED PASS portrait-tow-quote _panel clears pause
+TD206_WANTED PASS portrait-tow-quote _panel clears pad_left
+TD206_WANTED PASS portrait-tow-quote _panel clears pad_right
+TD206_WANTED PASS portrait-tow-quote _panel clears pad_gas
+TD206_WANTED PASS portrait-tow-quote _panel clears pad_brake
+TD206_WANTED PASS portrait-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-tow-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-tow-quote _panel clears gig_board
+TD206_WANTED PASS portrait-tow-quote action inside viewport
+TD206_WANTED PASS portrait-tow-quote action clears wanted
+TD206_WANTED PASS portrait-tow-quote action clears pause
+TD206_WANTED PASS portrait-tow-quote action clears pad_left
+TD206_WANTED PASS portrait-tow-quote action clears pad_right
+TD206_WANTED PASS portrait-tow-quote action clears pad_gas
+TD206_WANTED PASS portrait-tow-quote action clears pad_brake
+TD206_WANTED PASS portrait-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-tow-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-tow-quote action clears gig_board
+TD206_WANTED PASS portrait-tow-quote action at least44px
+TD206_WANTED PASS portrait-tow-quote modal inside viewport
+TD206_WANTED FAIL portrait-tow-quote quote clears Wanted
+TD206_WANTED PASS portrait-tow-quote confirm_button inside viewport
+TD206_WANTED PASS portrait-tow-quote confirm_button at least44px
+TD206_WANTED PASS portrait-tow-quote cancel_button inside viewport
+TD206_WANTED PASS portrait-tow-quote cancel_button at least44px
+TD206_WANTED PASS portrait-tow-quote range text at least17.5px
+TD206_WANTED PASS portrait-tow-quote modal pause consistent
+TD206_WANTED PASS portrait-salvage-quote _panel inside viewport
+TD206_WANTED PASS portrait-salvage-quote _panel clears wanted
+TD206_WANTED PASS portrait-salvage-quote _panel clears pause
+TD206_WANTED PASS portrait-salvage-quote _panel clears pad_left
+TD206_WANTED PASS portrait-salvage-quote _panel clears pad_right
+TD206_WANTED PASS portrait-salvage-quote _panel clears pad_gas
+TD206_WANTED PASS portrait-salvage-quote _panel clears pad_brake
+TD206_WANTED PASS portrait-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-salvage-quote _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-salvage-quote _panel clears gig_board
+TD206_WANTED PASS portrait-salvage-quote action inside viewport
+TD206_WANTED PASS portrait-salvage-quote action clears wanted
+TD206_WANTED PASS portrait-salvage-quote action clears pause
+TD206_WANTED PASS portrait-salvage-quote action clears pad_left
+TD206_WANTED PASS portrait-salvage-quote action clears pad_right
+TD206_WANTED PASS portrait-salvage-quote action clears pad_gas
+TD206_WANTED PASS portrait-salvage-quote action clears pad_brake
+TD206_WANTED PASS portrait-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-salvage-quote action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-salvage-quote action clears gig_board
+TD206_WANTED PASS portrait-salvage-quote action at least44px
+TD206_WANTED PASS portrait-salvage-quote modal inside viewport
+TD206_WANTED FAIL portrait-salvage-quote quote clears Wanted
+TD206_WANTED PASS portrait-salvage-quote confirm_button inside viewport
+TD206_WANTED PASS portrait-salvage-quote confirm_button at least44px
+TD206_WANTED PASS portrait-salvage-quote cancel_button inside viewport
+TD206_WANTED PASS portrait-salvage-quote cancel_button at least44px
+TD206_WANTED PASS portrait-salvage-quote range text at least17.5px
+TD206_WANTED PASS portrait-salvage-quote modal pause consistent
+TD206_WANTED PASS portrait-run-over _panel inside viewport
+TD206_WANTED PASS portrait-run-over _panel clears wanted
+TD206_WANTED PASS portrait-run-over _panel clears pause
+TD206_WANTED PASS portrait-run-over _panel clears pad_left
+TD206_WANTED PASS portrait-run-over _panel clears pad_right
+TD206_WANTED PASS portrait-run-over _panel clears pad_gas
+TD206_WANTED PASS portrait-run-over _panel clears pad_brake
+TD206_WANTED PASS portrait-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-run-over _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-run-over _panel clears gig_board
+TD206_WANTED PASS portrait-run-over action inside viewport
+TD206_WANTED PASS portrait-run-over action clears wanted
+TD206_WANTED PASS portrait-run-over action clears pause
+TD206_WANTED PASS portrait-run-over action clears pad_left
+TD206_WANTED PASS portrait-run-over action clears pad_right
+TD206_WANTED PASS portrait-run-over action clears pad_gas
+TD206_WANTED PASS portrait-run-over action clears pad_brake
+TD206_WANTED PASS portrait-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33
+TD206_WANTED PASS portrait-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39
+TD206_WANTED PASS portrait-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45
+TD206_WANTED PASS portrait-run-over action clears gig_/root/LowerCity/GigHud/@Control@7/Map
+TD206_WANTED PASS portrait-run-over action clears gig_board
+TD206_WANTED PASS portrait-run-over action at least44px
+TD206_WANTED PASS portrait-run-over modal inside viewport
+TD206_WANTED PASS portrait-run-over quote clears Wanted
+TD206_WANTED PASS portrait-run-over restart_button inside viewport
+TD206_WANTED PASS portrait-run-over restart_button at least44px
+TD206_WANTED PASS portrait-run-over range text at least17.5px
+TD206_WANTED PASS portrait-run-over modal pause consistent
+TD206_WANTED_RESULT checks=596 failures=29
+ERROR: Texture with GL ID of 59: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 60: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

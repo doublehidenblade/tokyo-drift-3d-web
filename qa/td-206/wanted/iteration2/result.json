@@ -1,0 +1,4575 @@
+{
+	"checks": [
+		{
+			"ok": true,
+			"why": "landscape-idle _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-idle modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-vehicle-low-range modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-pedestrian-low-balance modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-busted modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-cleared modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-active modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears gig_/root/LowerCity/GigHud/@Control@7/Interact"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears gig_/root/LowerCity/GigHud/@Control@7/Interact"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-pickup modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled _panel clears gig_chit"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action clears gig_chit"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-gig-settled modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fill-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-fill modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-tow-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-salvage-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home restart_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home restart_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-insufficient-home modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over restart_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over restart_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "landscape-run-over modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-idle modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-vehicle-low-range modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-pedestrian-low-balance modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-busted modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared _panel clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action clears gig_board"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-cleared modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-active modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears gig_/root/LowerCity/GigHud/@Control@7/Interact"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears gig_/root/LowerCity/GigHud/@Control@7/Interact"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-pickup modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled _panel clears gig_chit"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears gig_/root/LowerCity/GigHud/@Control@7/Map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action clears gig_chit"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled action at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-gig-settled modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fill-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-fill modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-tow-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-salvage-quote modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home confirm_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home confirm_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home cancel_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home cancel_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home restart_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home restart_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-insufficient-home modal pause consistent"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over quote clears Wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over restart_button inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over restart_button at least44px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over range text at least17.5px"
+		},
+		{
+			"ok": true,
+			"why": "portrait-run-over modal pause consistent"
+		}
+	],
+	"combined_tree": "474760cf42b249b7636ee73edff5f7f489132264",
+	"dot_source": "ad531cc69720512984f2e9686b1ec42dbf357d7e",
+	"failures": 0,
+	"fuel_source": "03eab22-plus-layout-candidate2",
+	"native_only": true,
+	"states": [
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-idle",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 7.50 km · ¥5000",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 0,
+			"wanted_notice": ""
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-vehicle-low-range",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥5000",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 1,
+			"wanted_notice": "車両に衝突 / VEHICLE HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-pedestrian-low-balance",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-busted",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 3,
+			"wanted_notice": "逮捕 / BUSTED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-cleared",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@33": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@39": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@45": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-gig-active",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					157.083343505859
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-gig-pickup",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					372.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					372.0,
+					61.9938812255859,
+					260.0,
+					43.9956512451172
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Interact": [
+					313.655975341797,
+					287.083343505859,
+					216.688079833984,
+					75.8333435058594
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					157.083343505859
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "landscape-gig-settled",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					292.0,
+					284.010437011719,
+					260.0,
+					49.9950561523438
+				],
+				"fuelaction": [
+					292.0,
+					338.005126953125,
+					260.0,
+					43.9956665039062
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_chit": [
+					275.735565185547,
+					54.1666679382324,
+					292.528839111328,
+					151.66667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					103.489784240723
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "FULL FILL\nFlat full-fill rate, even for a partial tank.\n\nPay ¥1200 · balance ¥5000 to ¥3800\nRange 1.80 to 7.50 km\nNo charge until you confirm.",
+			"id": "landscape-fill-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					16.0,
+					218.040100097656,
+					414.415924072266,
+					44.4166564941406
+				],
+				"fuelconfirm_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					262.456756591797
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 1.80 km · ¥5000",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "FULL FILL\nFlat full-fill rate, even for a partial tank.\n\nPay ¥1200 · balance ¥500 to ¥-700\nRange 1.80 to 7.50 km\nNo charge until you confirm.",
+			"id": "landscape-insufficient-fill",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					16.0,
+					218.040100097656,
+					414.415924072266,
+					44.4166564941406
+				],
+				"fuelconfirm_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					262.456756591797
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "TOW TO A STATION + FULL FILL\nService ¥1800 + fuel ¥1200. Active gig ends.\n\nPay ¥3000 · balance ¥5000 to ¥2000\nRange 0.00 to 7.50 km\nNo charge until you confirm.",
+			"id": "landscape-tow-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					16.0,
+					218.040100097656,
+					414.415924072266,
+					44.4166564941406
+				],
+				"fuelconfirm_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					262.456756591797
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 0.00 km · ¥5000",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥5000 to ¥3000\nRange 2.00 to 2.00 km\nNo charge until you confirm.",
+			"id": "landscape-salvage-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					16.0,
+					218.040100097656,
+					414.415924072266,
+					44.4166564941406
+				],
+				"fuelconfirm_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					262.456756591797
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 2.00 km · ¥5000",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥100 to ¥-1900\nRange 2.00 to 2.00 km\nNo charge until you confirm.",
+			"id": "landscape-insufficient-home",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					16.0,
+					218.040100097656,
+					202.061614990234,
+					44.4166564941406
+				],
+				"fuelconfirm_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					262.456756591797
+				],
+				"fuelrestart_button": [
+					227.812576293945,
+					218.040100097656,
+					202.603317260742,
+					44.4166564941406
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 2.00 km · ¥100",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RUN OVER\nEmpty tank: refuel / tow is unaffordable.\n\nBalance ¥100 · range 0.00 km\nStart a fresh run with ¥5000 and 7.5 km.\nFresh run resets cash, gigs and fuel.",
+			"id": "landscape-run-over",
+			"paused": true,
+			"rects": {
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					430.415893554688,
+					208.290100097656
+				],
+				"fuelrestart_button": [
+					16.0,
+					163.873428344727,
+					414.415924072266,
+					44.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					9.75096321105957,
+					39.0,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					9.75096321105957,
+					100.75,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					9.75096321105957,
+					162.5,
+					316.364562988281,
+					57.4166717529297
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"gig_board": [
+					9.75096321105957,
+					9.75,
+					316.364562988281,
+					210.16667175293
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"status": "FUEL 0.00 km · ¥100",
+			"viewport": [
+				844,
+				390
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-idle",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 7.50 km · ¥5000",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 0,
+			"wanted_notice": ""
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-vehicle-low-range",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥5000",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 1,
+			"wanted_notice": "車両に衝突 / VEHICLE HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-pedestrian-low-balance",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-busted",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 3,
+			"wanted_notice": "逮捕 / BUSTED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-cleared",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@337": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@343": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@349": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-gig-active",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					88.3610076904297
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-gig-pickup",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Interact": [
+					134.0625,
+					786.108276367188,
+					121.875,
+					42.6570434570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					88.3610076904297
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "",
+			"id": "portrait-gig-settled",
+			"paused": false,
+			"rects": {
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_chit": [
+					112.734375,
+					342.77978515625,
+					164.53125,
+					85.3140869140625
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					103.501922607422
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 0,
+			"wanted_notice": "逃走成功 / WANTED CLEARED"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "FULL FILL\nFlat full-fill rate, even for a partial tank.\n\nPay ¥1200 · balance ¥5000 to ¥3800\nRange 1.80 to 7.50 km\nNo charge until you confirm.",
+			"id": "portrait-fill-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					19.95703125,
+					523.134704589844,
+					350.0859375,
+					44.1804809570312
+				],
+				"fuelconfirm_button": [
+					19.95703125,
+					468.899322509766,
+					350.0859375,
+					44.1805114746094
+				],
+				"fuelmodal": [
+					11.95703125,
+					316.474639892578,
+					366.0859375,
+					258.840728759766
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 1.80 km · ¥5000",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "FULL FILL\nFlat full-fill rate, even for a partial tank.\n\nPay ¥1200 · balance ¥500 to ¥-700\nRange 1.80 to 7.50 km\nNo charge until you confirm.",
+			"id": "portrait-insufficient-fill",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					19.95703125,
+					523.134704589844,
+					350.0859375,
+					44.1804809570312
+				],
+				"fuelconfirm_button": [
+					19.95703125,
+					468.899322509766,
+					350.0859375,
+					44.1805114746094
+				],
+				"fuelmodal": [
+					11.95703125,
+					316.474639892578,
+					366.0859375,
+					258.840728759766
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 1.80 km · ¥500",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "TOW TO A STATION + FULL FILL\nService ¥1800 + fuel ¥1200. Active gig ends.\n\nPay ¥3000 · balance ¥5000 to ¥2000\nRange 0.00 to 7.50 km\nNo charge until you confirm.",
+			"id": "portrait-tow-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					19.95703125,
+					523.134704589844,
+					350.0859375,
+					44.1804809570312
+				],
+				"fuelconfirm_button": [
+					19.95703125,
+					468.899322509766,
+					350.0859375,
+					44.1805114746094
+				],
+				"fuelmodal": [
+					11.95703125,
+					316.474639892578,
+					366.0859375,
+					258.840728759766
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 0.00 km · ¥5000",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥5000 to ¥3000\nRange 2.00 to 2.00 km\nNo charge until you confirm.",
+			"id": "portrait-salvage-quote",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					19.95703125,
+					523.134704589844,
+					350.0859375,
+					44.1804809570312
+				],
+				"fuelconfirm_button": [
+					19.95703125,
+					468.899322509766,
+					350.0859375,
+					44.1805114746094
+				],
+				"fuelmodal": [
+					11.95703125,
+					316.474639892578,
+					366.0859375,
+					258.840728759766
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 2.00 km · ¥5000",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RECOVER HOME\nService ¥2000 + fuel ¥0. Active gig ends.\n\nPay ¥2000 · balance ¥100 to ¥-1900\nRange 2.00 to 2.00 km\nNo charge until you confirm.",
+			"id": "portrait-insufficient-home",
+			"paused": true,
+			"rects": {
+				"fuelcancel_button": [
+					19.95703125,
+					523.134704589844,
+					350.0859375,
+					44.1804809570312
+				],
+				"fuelconfirm_button": [
+					19.95703125,
+					468.899322509766,
+					350.0859375,
+					44.1805114746094
+				],
+				"fuelmodal": [
+					11.95703125,
+					316.474639892578,
+					366.0859375,
+					313.076141357422
+				],
+				"fuelrestart_button": [
+					19.95703125,
+					577.3701171875,
+					350.0859375,
+					44.1804809570312
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 2.00 km · ¥100",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"detail": "RUN OVER\nEmpty tank: refuel / tow is unaffordable.\n\nBalance ¥100 · range 0.00 km\nStart a fresh run with ¥5000 and 7.5 km.\nFresh run resets cash, gigs and fuel.",
+			"id": "portrait-run-over",
+			"paused": true,
+			"rects": {
+				"fuelmodal": [
+					11.95703125,
+					319.697326660156,
+					366.0859375,
+					204.605346679688
+				],
+				"fuelrestart_button": [
+					19.95703125,
+					472.122039794922,
+					350.0859375,
+					44.1805114746094
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@385": [
+					5.484375,
+					21.9379062652588,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@391": [
+					5.484375,
+					56.672924041748,
+					177.9375,
+					32.2974739074707
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/@VBoxContainer@22/@Button@397": [
+					5.484375,
+					91.4079360961914,
+					177.9375,
+					32.297477722168
+				],
+				"gig_/root/LowerCity/GigHud/@Control@7/Map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"gig_board": [
+					5.484375,
+					5.4844765663147,
+					177.9375,
+					118.220932006836
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"status": "FUEL 0.00 km · ¥100",
+			"viewport": [
+				390,
+				844
+			],
+			"wanted_level": 2,
+			"wanted_notice": "歩行者に接触 / PEDESTRIAN HIT"
+		}
+	]
+}

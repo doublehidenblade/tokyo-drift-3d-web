@@ -1,0 +1,69 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+TD206_CHECK PASS 1 km consumes 1 km at 30 Hz
+TD206_CHECK PASS idle has no drain at 30 Hz
+TD206_CHECK PASS explicit teleport excluded at 30 Hz
+TD206_CHECK PASS unannounced reset rejected at 30 Hz
+TD206_CHECK PASS 1 km consumes 1 km at 60 Hz
+TD206_CHECK PASS idle has no drain at 60 Hz
+TD206_CHECK PASS explicit teleport excluded at 60 Hz
+TD206_CHECK PASS unannounced reset rejected at 60 Hz
+TD206_CHECK PASS 1 km consumes 1 km at 120 Hz
+TD206_CHECK PASS idle has no drain at 120 Hz
+TD206_CHECK PASS explicit teleport excluded at 120 Hz
+TD206_CHECK PASS unannounced reset rejected at 120 Hz
+TD206_CHECK PASS fresh run has sufficient starting cash
+TD206_CHECK PASS two stations in active Lower City
+TD206_CHECK PASS quay_west supported clear bay and drive-away corridor
+TD206_CHECK PASS quay_west actual station recognizes current vehicle
+TD206_CHECK PASS full tank no charge
+TD206_CHECK PASS partial tank quote discloses flat fill and balance
+TD206_CHECK PASS partial fill paid exactly once
+TD206_CHECK PASS repeated confirmation cannot double debit
+TD206_CHECK PASS insufficient funds no debit/fuel
+TD206_CHECK PASS changed wallet invalidates quote
+TD206_CHECK PASS empty tank at station pays only fill
+TD206_CHECK PASS quay_east supported clear bay and drive-away corridor
+ERROR: Parameter "material" is null.
+   at: material_get_instance_shader_parameters (servers/rendering/dummy/storage/material_storage.cpp:264)
+TD206_CHECK PASS quay_east actual station recognizes current vehicle
+TD206_CHECK PASS full tank no charge
+TD206_CHECK PASS partial tank quote discloses flat fill and balance
+TD206_CHECK PASS partial fill paid exactly once
+TD206_CHECK PASS repeated confirmation cannot double debit
+TD206_CHECK PASS insufficient funds no debit/fuel
+TD206_CHECK PASS changed wallet invalidates quote
+TD206_CHECK PASS empty tank at station pays only fill
+TD206_CHECK PASS quay_west real car drives in and stops at pumps
+TD206_CHECK PASS quay_west drive-in refuel succeeds
+TD206_CHECK PASS quay_west drives back onto road without collision/reset
+TD206_STATION_DRIVE quay_west position=(709.9619, 0.5, -29.91791) stuck=0
+TD206_CHECK PASS quay_east real car drives in and stops at pumps
+TD206_CHECK PASS quay_east drive-in refuel succeeds
+TD206_CHECK PASS quay_east drives back onto road without collision/reset
+TD206_STATION_DRIVE quay_east position=(1895.959, 0.5, -29.91788) stuck=0
+TD206_CHECK PASS read-only range snapshot cannot mutate tank
+TD206_CHECK PASS low-range warning is visible before empty
+TD206_CHECK PASS automatic placement is not paid tow or distance travel
+TD206_CHECK PASS empty engine: held forward/reverse/nitro cannot drive
+TD206_CHECK PASS empty car coasts with drag instead of snapping to zero
+TD206_CHECK PASS empty car retains normal braking
+TD206_CHECK PASS occupied tow bays reject atomically with no payment/fill
+TD206_CHECK PASS premium tow quote includes disclosed full fill
+TD206_CHECK PASS paid empty tow reaches real station and restores range
+TD206_CHECK PASS tow emitted one settlement
+TD206_CHECK PASS cargo failure does not mark car wrecked
+TD206_CHECK PASS chassis interface blocks powered driving
+TD206_CHECK PASS paid salvage clears event once
+TD206_CHECK PASS replayed resolved wreck event cannot trigger another salvage charge
+TD206_CHECK PASS salvage returns safely near home
+TD206_CHECK PASS paid service unavailable during automatic arrest
+TD206_CHECK PASS arrest fixture has an active accepted gig
+TD206_CHECK PASS automatic arrest settles active gig once and emits no paid-recovery receipt
+TD206_CHECK PASS actual automatic arrest reset leaves cash and fuel unchanged
+TD206_CHECK PASS unaffordable optional home recovery offers fresh-run escape without a free tow
+TD206_CHECK PASS unaffordable wreck shows explicit game over
+TD206_CHECK PASS unaffordable empty fuel has distinct game-over cause
+TD206_CHECK PASS actual fresh-run scene resets run ledger and fuel without file deletion
+TD206_CHECK PASS reload has no pending transaction to replay (run-scoped, no persistence)
+TD206_RESULT {"checks":62,"failures":0,"settlements":8}

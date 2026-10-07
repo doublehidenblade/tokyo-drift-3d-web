@@ -1,0 +1,1010 @@
+[
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-fill-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-tow-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-salvage-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-insufficient-home",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "landscape-run-over",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-fill-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-tow-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-salvage-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-insufficient-home",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "native",
+    "state": "portrait-run-over",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-fill-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-fill",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-tow-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-salvage-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-insufficient-home",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "landscape-run-over",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-fill-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-fill",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-tow-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-salvage-quote",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-insufficient-home",
+    "obstacle": "wanted",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "gig_/root/LowerCity/GigHud/@Control@7/Map",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "pad_brake",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "pad_gas",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "pad_left",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "pad_right",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "pause",
+    "clear": true
+  },
+  {
+    "source": "browser",
+    "state": "portrait-run-over",
+    "obstacle": "wanted",
+    "clear": true
+  }
+]

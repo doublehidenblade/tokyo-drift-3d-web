@@ -1,6 +1,8 @@
 # td-206 fuel / paid recovery — review package
 
-**Latest correction:** [P2 modal/pause fix and final-source results](modal/README.md), runtime `825a1db`. 62 fuel + 31 modal native checks, 35 modal + 10 economy Web checks passed. The older feature/camera evidence below remains tied to its stated source. The independent reviewer reported 52 pre-entry errors; local run-specific counts and unchanged-baseline classification are recorded in the correction package.
+**Latest correction:** [FuelHud clears Wanted in the pinned combined build](wanted/README.md): fuel694750e + dotad531cc6;496 native/496 browser layout checks,62 fuel/31 native modal/35 browser modal regressions pass. This is not current-main acceptance; parent will align new map/health/final446 heads. Natural wreck hookup and phone verdict remain.
+
+**Prior correction:** [P2 modal/pause fix and final-source results](modal/README.md), runtime `825a1db`. 62 fuel + 31 modal native checks, 35 modal + 10 economy Web checks passed. The older feature/camera evidence below remains tied to its stated source. The independent reviewer reported 52 pre-entry errors; local run-specific counts and unchanged-baseline classification are recorded in the correction package.
 
 Draft source PR: https://github.com/doublehidenblade/tokyo-drift-3d/pull/457 . Central reservation: https://github.com/doublehidenblade/game-dev-central/pull/330 . No merge, Actions or publication.
 
