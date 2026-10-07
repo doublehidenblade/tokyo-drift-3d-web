@@ -1,0 +1,31 @@
+{
+  "source": "dc7d88af9e84ce53b6b056a6d509be9035ad41c2",
+  "base": "4ecd2089c1b292c11c70b7e9701f77df39cca044",
+  "prior_failed": "0622a4766eb194d4c535508a7ca12ebb0cd9fe99",
+  "engine": "Godot 4.7.2 native",
+  "physics_hz": 60,
+  "video_fps": 5,
+  "runtime_checks": "75/75",
+  "files": [
+    {
+      "path": "combined-0622a47/drive-away.png",
+      "size": 242398,
+      "sha256": "bc053cfef9cd61ddb4ce77c6639a7f575071304c4673e1d1d389c2d40a84a4a5"
+    },
+    {
+      "path": "combined-0622a47/return.mp4",
+      "size": 1017295,
+      "sha256": "311913e7d045cb33186ceb63d184b4fcb1b9d5a3aa9116e1aa9e667eeb3d42e1"
+    },
+    {
+      "path": "combined-dc7d88a/drive-away.png",
+      "size": 277302,
+      "sha256": "abfa8e9ecf49e5a728c824501812396a70a7bc9a97a1b0fdb3756c526c7589bf"
+    },
+    {
+      "path": "combined-dc7d88a/return.mp4",
+      "size": 932141,
+      "sha256": "73114130c5b75518224cbac76b27a9e654ce7353d69dcbeb0616d8ea8914874f"
+    }
+  ]
+}
