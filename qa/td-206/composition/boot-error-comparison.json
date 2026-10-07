@@ -1,0 +1,14 @@
+{
+  "baseline_source": "389d4a839c1c5974a335b4d063566a20a77b4dd1",
+  "baseline_events_per_boot": 28,
+  "modal_boots": 1,
+  "modal_events": 28,
+  "modal_matches_baseline": true,
+  "economy_boots": 2,
+  "economy_events": 56,
+  "economy_matches_double_baseline": true,
+  "lower_city_errors": {
+    "modal": [],
+    "economy": []
+  }
+}

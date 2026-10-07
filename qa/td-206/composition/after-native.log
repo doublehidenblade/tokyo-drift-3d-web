@@ -1,0 +1,782 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+TD206_COMPOSITION PASS landscape dispatch target exists
+TD206_COMPOSITION PASS landscape dispatch target exists
+TD206_COMPOSITION PASS landscape dispatch exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape-dispatch-fuel remaining range remains visible
+TD206_COMPOSITION PASS landscape-dispatch-fuel service action remains available
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel inside viewport
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears dispatch
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears map
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears minimap
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears wanted
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears pause
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears pad_left
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears pad_right
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-dispatch-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-dispatch-fuel action inside viewport
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears dispatch
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears map
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears minimap
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears mini_collapse
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears wanted
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears pause
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears pad_left
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears pad_right
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears pad_gas
+TD206_COMPOSITION PASS landscape-dispatch-fuel action clears pad_brake
+TD206_COMPOSITION PASS landscape dispatch same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape dispatch never opens a fuel quote
+TD206_COMPOSITION PASS landscape offer target exists
+TD206_COMPOSITION PASS landscape offer target exists
+TD206_COMPOSITION PASS landscape offer exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape offer same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape offer never opens a fuel quote
+TD206_COMPOSITION PASS landscape take_detail target exists
+TD206_COMPOSITION PASS landscape take_detail target exists
+TD206_COMPOSITION PASS landscape take_detail exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape take_detail same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape take_detail never opens a fuel quote
+TD206_COMPOSITION PASS landscape menu_close target exists
+TD206_COMPOSITION PASS landscape menu_close target exists
+TD206_COMPOSITION PASS landscape menu_close exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape menu_close same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape menu_close never opens a fuel quote
+TD206_COMPOSITION PASS landscape tracking target exists
+TD206_COMPOSITION PASS landscape tracking target exists
+TD206_COMPOSITION PASS landscape tracking exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape tracking same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape tracking never opens a fuel quote
+TD206_COMPOSITION PASS landscape retry target exists
+TD206_COMPOSITION PASS landscape retry target exists
+TD206_COMPOSITION PASS landscape retry exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape-retry-fuel remaining range remains visible
+TD206_COMPOSITION PASS landscape-retry-fuel service action remains available
+TD206_COMPOSITION PASS landscape-retry-fuel _panel inside viewport
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears dispatch
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears map
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears settlement
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears minimap
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears wanted
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears pause
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears pad_left
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears pad_right
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears menu_button_配車 NEW
+TD206_COMPOSITION PASS landscape-retry-fuel _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape-retry-fuel action inside viewport
+TD206_COMPOSITION PASS landscape-retry-fuel action clears dispatch
+TD206_COMPOSITION PASS landscape-retry-fuel action clears map
+TD206_COMPOSITION PASS landscape-retry-fuel action clears settlement
+TD206_COMPOSITION PASS landscape-retry-fuel action clears minimap
+TD206_COMPOSITION PASS landscape-retry-fuel action clears mini_collapse
+TD206_COMPOSITION PASS landscape-retry-fuel action clears wanted
+TD206_COMPOSITION PASS landscape-retry-fuel action clears pause
+TD206_COMPOSITION PASS landscape-retry-fuel action clears pad_left
+TD206_COMPOSITION PASS landscape-retry-fuel action clears pad_right
+TD206_COMPOSITION PASS landscape-retry-fuel action clears pad_gas
+TD206_COMPOSITION PASS landscape-retry-fuel action clears pad_brake
+TD206_COMPOSITION PASS landscape-retry-fuel action clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS landscape-retry-fuel action clears menu_button_配車 NEW
+TD206_COMPOSITION PASS landscape-retry-fuel action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape retry same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape retry never opens a fuel quote
+TD206_COMPOSITION PASS landscape new target exists
+TD206_COMPOSITION PASS landscape new target exists
+TD206_COMPOSITION PASS landscape new exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape new same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape new never opens a fuel quote
+TD206_COMPOSITION PASS landscape close_fail target exists
+TD206_COMPOSITION PASS landscape close_fail target exists
+TD206_COMPOSITION PASS landscape close_fail exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape close_fail same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape close_fail never opens a fuel quote
+TD206_COMPOSITION PASS landscape take_next target exists
+TD206_COMPOSITION PASS landscape take_next target exists
+TD206_COMPOSITION PASS landscape take_next exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape-take_next-fuel remaining range remains visible
+TD206_COMPOSITION PASS landscape-take_next-fuel service action remains available
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel inside viewport
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears dispatch
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears map
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears settlement
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears minimap
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears wanted
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears pause
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears pad_left
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears pad_right
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears menu_button_受ける TAKE IT
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears menu_button_配車 ALL
+TD206_COMPOSITION PASS landscape-take_next-fuel _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape-take_next-fuel action inside viewport
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears dispatch
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears map
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears settlement
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears minimap
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears mini_collapse
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears wanted
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears pause
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears pad_left
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears pad_right
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears pad_gas
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears pad_brake
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears menu_button_受ける TAKE IT
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears menu_button_配車 ALL
+TD206_COMPOSITION PASS landscape-take_next-fuel action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape take_next same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape take_next never opens a fuel quote
+TD206_COMPOSITION PASS landscape all target exists
+TD206_COMPOSITION PASS landscape all target exists
+TD206_COMPOSITION PASS landscape all exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape all same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape all never opens a fuel quote
+TD206_COMPOSITION PASS landscape close_success target exists
+TD206_COMPOSITION PASS landscape close_success target exists
+TD206_COMPOSITION PASS landscape close_success exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape close_success same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape close_success never opens a fuel quote
+TD206_COMPOSITION PASS landscape collapse target exists
+TD206_COMPOSITION PASS landscape collapse target exists
+TD206_COMPOSITION PASS landscape collapse exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape collapse same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape collapse never opens a fuel quote
+TD206_COMPOSITION PASS landscape expand target exists
+TD206_COMPOSITION PASS landscape expand target exists
+TD206_COMPOSITION PASS landscape expand exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape expand same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape expand never opens a fuel quote
+TD206_COMPOSITION PASS landscape mini_map target exists
+TD206_COMPOSITION PASS landscape mini_map target exists
+TD206_COMPOSITION PASS landscape mini_map exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape mini_map same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape mini_map never opens a fuel quote
+TD206_COMPOSITION PASS landscape map target exists
+TD206_COMPOSITION PASS landscape map target exists
+TD206_COMPOSITION PASS landscape map exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape map same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape map never opens a fuel quote
+TD206_COMPOSITION PASS landscape map_close target exists
+TD206_COMPOSITION PASS landscape map_close target exists
+TD206_COMPOSITION PASS landscape map_close exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape map_close same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape map_close never opens a fuel quote
+TD206_COMPOSITION PASS landscape pause target exists
+TD206_COMPOSITION PASS landscape pause target exists
+TD206_COMPOSITION PASS landscape pause exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape pause same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape pause never opens a fuel quote
+TD206_COMPOSITION PASS landscape resume target exists
+TD206_COMPOSITION PASS landscape resume target exists
+TD206_COMPOSITION PASS landscape resume exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape resume same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape resume never opens a fuel quote
+TD206_COMPOSITION PASS landscape load target exists
+TD206_COMPOSITION PASS landscape load target exists
+TD206_COMPOSITION PASS landscape load exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS landscape-load-fuel remaining range remains visible
+TD206_COMPOSITION PASS landscape-load-fuel service action remains available
+TD206_COMPOSITION PASS landscape-load-fuel _panel inside viewport
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears dispatch
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears gig_card
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears gig_load
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears map
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears minimap
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears wanted
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears pause
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears pad_left
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears pad_right
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-load-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-load-fuel action inside viewport
+TD206_COMPOSITION PASS landscape-load-fuel action clears dispatch
+TD206_COMPOSITION PASS landscape-load-fuel action clears gig_card
+TD206_COMPOSITION PASS landscape-load-fuel action clears gig_load
+TD206_COMPOSITION PASS landscape-load-fuel action clears map
+TD206_COMPOSITION PASS landscape-load-fuel action clears minimap
+TD206_COMPOSITION PASS landscape-load-fuel action clears mini_collapse
+TD206_COMPOSITION PASS landscape-load-fuel action clears wanted
+TD206_COMPOSITION PASS landscape-load-fuel action clears pause
+TD206_COMPOSITION PASS landscape-load-fuel action clears pad_left
+TD206_COMPOSITION PASS landscape-load-fuel action clears pad_right
+TD206_COMPOSITION PASS landscape-load-fuel action clears pad_gas
+TD206_COMPOSITION PASS landscape-load-fuel action clears pad_brake
+TD206_COMPOSITION PASS landscape load same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS landscape load never opens a fuel quote
+TD206_COMPOSITION PASS landscape-health-45 remaining range remains visible
+TD206_COMPOSITION PASS landscape-health-45 service action remains available
+TD206_COMPOSITION PASS landscape-health-45 _panel inside viewport
+TD206_COMPOSITION PASS landscape-health-45 _panel clears dispatch
+TD206_COMPOSITION PASS landscape-health-45 _panel clears gig_card
+TD206_COMPOSITION PASS landscape-health-45 _panel clears map
+TD206_COMPOSITION PASS landscape-health-45 _panel clears minimap
+TD206_COMPOSITION PASS landscape-health-45 _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-45 _panel clears wanted
+TD206_COMPOSITION PASS landscape-health-45 _panel clears pause
+TD206_COMPOSITION PASS landscape-health-45 _panel clears pad_left
+TD206_COMPOSITION PASS landscape-health-45 _panel clears pad_right
+TD206_COMPOSITION PASS landscape-health-45 _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-health-45 _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-health-45 action inside viewport
+TD206_COMPOSITION PASS landscape-health-45 action clears dispatch
+TD206_COMPOSITION PASS landscape-health-45 action clears gig_card
+TD206_COMPOSITION PASS landscape-health-45 action clears map
+TD206_COMPOSITION PASS landscape-health-45 action clears minimap
+TD206_COMPOSITION PASS landscape-health-45 action clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-45 action clears wanted
+TD206_COMPOSITION PASS landscape-health-45 action clears pause
+TD206_COMPOSITION PASS landscape-health-45 action clears pad_left
+TD206_COMPOSITION PASS landscape-health-45 action clears pad_right
+TD206_COMPOSITION PASS landscape-health-45 action clears pad_gas
+TD206_COMPOSITION PASS landscape-health-45 action clears pad_brake
+TD206_COMPOSITION PASS landscape-health-10 remaining range remains visible
+TD206_COMPOSITION PASS landscape-health-10 service action remains available
+TD206_COMPOSITION PASS landscape-health-10 _panel inside viewport
+TD206_COMPOSITION PASS landscape-health-10 _panel clears dispatch
+TD206_COMPOSITION PASS landscape-health-10 _panel clears gig_card
+TD206_COMPOSITION PASS landscape-health-10 _panel clears map
+TD206_COMPOSITION PASS landscape-health-10 _panel clears minimap
+TD206_COMPOSITION PASS landscape-health-10 _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-10 _panel clears wanted
+TD206_COMPOSITION PASS landscape-health-10 _panel clears pause
+TD206_COMPOSITION PASS landscape-health-10 _panel clears pad_left
+TD206_COMPOSITION PASS landscape-health-10 _panel clears pad_right
+TD206_COMPOSITION PASS landscape-health-10 _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-health-10 _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-health-10 action inside viewport
+TD206_COMPOSITION PASS landscape-health-10 action clears dispatch
+TD206_COMPOSITION PASS landscape-health-10 action clears gig_card
+TD206_COMPOSITION PASS landscape-health-10 action clears map
+TD206_COMPOSITION PASS landscape-health-10 action clears minimap
+TD206_COMPOSITION PASS landscape-health-10 action clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-10 action clears wanted
+TD206_COMPOSITION PASS landscape-health-10 action clears pause
+TD206_COMPOSITION PASS landscape-health-10 action clears pad_left
+TD206_COMPOSITION PASS landscape-health-10 action clears pad_right
+TD206_COMPOSITION PASS landscape-health-10 action clears pad_gas
+TD206_COMPOSITION PASS landscape-health-10 action clears pad_brake
+TD206_COMPOSITION PASS landscape-health-100 remaining range remains visible
+TD206_COMPOSITION PASS landscape-health-100 service action remains available
+TD206_COMPOSITION PASS landscape-health-100 _panel inside viewport
+TD206_COMPOSITION PASS landscape-health-100 _panel clears dispatch
+TD206_COMPOSITION PASS landscape-health-100 _panel clears gig_card
+TD206_COMPOSITION PASS landscape-health-100 _panel clears map
+TD206_COMPOSITION PASS landscape-health-100 _panel clears minimap
+TD206_COMPOSITION PASS landscape-health-100 _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-100 _panel clears wanted
+TD206_COMPOSITION PASS landscape-health-100 _panel clears pause
+TD206_COMPOSITION PASS landscape-health-100 _panel clears pad_left
+TD206_COMPOSITION PASS landscape-health-100 _panel clears pad_right
+TD206_COMPOSITION PASS landscape-health-100 _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-health-100 _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-health-100 action inside viewport
+TD206_COMPOSITION PASS landscape-health-100 action clears dispatch
+TD206_COMPOSITION PASS landscape-health-100 action clears gig_card
+TD206_COMPOSITION PASS landscape-health-100 action clears map
+TD206_COMPOSITION PASS landscape-health-100 action clears minimap
+TD206_COMPOSITION PASS landscape-health-100 action clears mini_collapse
+TD206_COMPOSITION PASS landscape-health-100 action clears wanted
+TD206_COMPOSITION PASS landscape-health-100 action clears pause
+TD206_COMPOSITION PASS landscape-health-100 action clears pad_left
+TD206_COMPOSITION PASS landscape-health-100 action clears pad_right
+TD206_COMPOSITION PASS landscape-health-100 action clears pad_gas
+TD206_COMPOSITION PASS landscape-health-100 action clears pad_brake
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared remaining range remains visible
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared service action remains available
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel inside viewport
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears dispatch
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears map
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears mini_expand
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears wanted
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears pause
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears pad_left
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears pad_right
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action inside viewport
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears dispatch
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears map
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears mini_expand
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears wanted
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears pause
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears pad_left
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears pad_right
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears pad_gas
+TD206_COMPOSITION PASS landscape-mini-collapsed-cleared action clears pad_brake
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted remaining range remains visible
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted service action remains available
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel inside viewport
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears dispatch
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears map
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears minimap
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears wanted
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears pause
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears pad_left
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears pad_right
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action inside viewport
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears dispatch
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears map
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears minimap
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears mini_collapse
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears wanted
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears pause
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears pad_left
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears pad_right
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears pad_gas
+TD206_COMPOSITION PASS landscape-mini-expanded-wanted action clears pad_brake
+TD206_COMPOSITION PASS landscape arrest presentation owns the screen without Fuel
+TD206_COMPOSITION PASS landscape arrest releases without a fuel charge
+TD206_COMPOSITION PASS landscape-arrest-released remaining range remains visible
+TD206_COMPOSITION PASS landscape-arrest-released service action remains available
+TD206_COMPOSITION PASS landscape-arrest-released _panel inside viewport
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears dispatch
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears map
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears settlement
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears minimap
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears mini_collapse
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears wanted
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears pause
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears pad_left
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears pad_right
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears pad_gas
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears pad_brake
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears menu_button_配車 NEW
+TD206_COMPOSITION PASS landscape-arrest-released _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape-arrest-released action inside viewport
+TD206_COMPOSITION PASS landscape-arrest-released action clears dispatch
+TD206_COMPOSITION PASS landscape-arrest-released action clears map
+TD206_COMPOSITION PASS landscape-arrest-released action clears settlement
+TD206_COMPOSITION PASS landscape-arrest-released action clears minimap
+TD206_COMPOSITION PASS landscape-arrest-released action clears mini_collapse
+TD206_COMPOSITION PASS landscape-arrest-released action clears wanted
+TD206_COMPOSITION PASS landscape-arrest-released action clears pause
+TD206_COMPOSITION PASS landscape-arrest-released action clears pad_left
+TD206_COMPOSITION PASS landscape-arrest-released action clears pad_right
+TD206_COMPOSITION PASS landscape-arrest-released action clears pad_gas
+TD206_COMPOSITION PASS landscape-arrest-released action clears pad_brake
+TD206_COMPOSITION PASS landscape-arrest-released action clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS landscape-arrest-released action clears menu_button_配車 NEW
+TD206_COMPOSITION PASS landscape-arrest-released action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS landscape late legitimate control over _panel gets the tap before Fuel layout
+TD206_COMPOSITION PASS landscape late legitimate control over action gets the tap before Fuel layout
+TD206_COMPOSITION PASS landscape fuel modal opens
+TD206_COMPOSITION PASS landscape-fuel-quote modal inside viewport
+TD206_COMPOSITION PASS landscape modal contains menu/map keys
+TD206_COMPOSITION PASS landscape cancel resumes once without payment
+TD206_COMPOSITION PASS landscape fuel modal opens
+TD206_COMPOSITION PASS landscape modal contains menu/map keys
+TD206_COMPOSITION PASS landscape cancel resumes once without payment
+TD206_COMPOSITION PASS landscape fuel modal opens
+TD206_COMPOSITION PASS landscape modal contains menu/map keys
+TD206_COMPOSITION PASS landscape cancel resumes once without payment
+TD206_COMPOSITION PASS landscape closing fuel never releases GigMenu pause
+TD206_COMPOSITION PASS landscape left input unchanged by Fuel
+TD206_COMPOSITION PASS landscape right input unchanged by Fuel
+TD206_COMPOSITION PASS landscape gas input unchanged by Fuel
+TD206_COMPOSITION PASS landscape brake input unchanged by Fuel
+TD206_COMPOSITION PASS portrait dispatch target exists
+TD206_COMPOSITION PASS portrait dispatch target exists
+TD206_COMPOSITION PASS portrait dispatch exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait-dispatch-fuel remaining range remains visible
+TD206_COMPOSITION PASS portrait-dispatch-fuel service action remains available
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel inside viewport
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears dispatch
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears map
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears minimap
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears wanted
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears pause
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears pad_left
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears pad_right
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-dispatch-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-dispatch-fuel action inside viewport
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears dispatch
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears map
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears minimap
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears mini_collapse
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears wanted
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears pause
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears pad_left
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears pad_right
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears pad_gas
+TD206_COMPOSITION PASS portrait-dispatch-fuel action clears pad_brake
+TD206_COMPOSITION PASS portrait dispatch same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait dispatch never opens a fuel quote
+TD206_COMPOSITION PASS portrait offer target exists
+TD206_COMPOSITION PASS portrait offer target exists
+TD206_COMPOSITION PASS portrait offer exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait offer same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait offer never opens a fuel quote
+TD206_COMPOSITION PASS portrait take_detail target exists
+TD206_COMPOSITION PASS portrait take_detail target exists
+TD206_COMPOSITION PASS portrait take_detail exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait take_detail same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait take_detail never opens a fuel quote
+TD206_COMPOSITION PASS portrait menu_close target exists
+TD206_COMPOSITION PASS portrait menu_close target exists
+TD206_COMPOSITION PASS portrait menu_close exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait menu_close same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait menu_close never opens a fuel quote
+TD206_COMPOSITION PASS portrait tracking target exists
+TD206_COMPOSITION PASS portrait tracking target exists
+TD206_COMPOSITION PASS portrait tracking exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait tracking same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait tracking never opens a fuel quote
+TD206_COMPOSITION PASS portrait retry target exists
+TD206_COMPOSITION PASS portrait retry target exists
+TD206_COMPOSITION PASS portrait retry exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait-retry-fuel remaining range remains visible
+TD206_COMPOSITION PASS portrait-retry-fuel service action remains available
+TD206_COMPOSITION PASS portrait-retry-fuel _panel inside viewport
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears dispatch
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears map
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears settlement
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears minimap
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears wanted
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears pause
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears pad_left
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears pad_right
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears menu_button_配車 NEW
+TD206_COMPOSITION PASS portrait-retry-fuel _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait-retry-fuel action inside viewport
+TD206_COMPOSITION PASS portrait-retry-fuel action clears dispatch
+TD206_COMPOSITION PASS portrait-retry-fuel action clears map
+TD206_COMPOSITION PASS portrait-retry-fuel action clears settlement
+TD206_COMPOSITION PASS portrait-retry-fuel action clears minimap
+TD206_COMPOSITION PASS portrait-retry-fuel action clears mini_collapse
+TD206_COMPOSITION PASS portrait-retry-fuel action clears wanted
+TD206_COMPOSITION PASS portrait-retry-fuel action clears pause
+TD206_COMPOSITION PASS portrait-retry-fuel action clears pad_left
+TD206_COMPOSITION PASS portrait-retry-fuel action clears pad_right
+TD206_COMPOSITION PASS portrait-retry-fuel action clears pad_gas
+TD206_COMPOSITION PASS portrait-retry-fuel action clears pad_brake
+TD206_COMPOSITION PASS portrait-retry-fuel action clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS portrait-retry-fuel action clears menu_button_配車 NEW
+TD206_COMPOSITION PASS portrait-retry-fuel action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait retry same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait retry never opens a fuel quote
+TD206_COMPOSITION PASS portrait new target exists
+TD206_COMPOSITION PASS portrait new target exists
+TD206_COMPOSITION PASS portrait new exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait new same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait new never opens a fuel quote
+TD206_COMPOSITION PASS portrait close_fail target exists
+TD206_COMPOSITION PASS portrait close_fail target exists
+TD206_COMPOSITION PASS portrait close_fail exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait close_fail same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait close_fail never opens a fuel quote
+TD206_COMPOSITION PASS portrait take_next target exists
+TD206_COMPOSITION PASS portrait take_next target exists
+TD206_COMPOSITION PASS portrait take_next exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait-take_next-fuel remaining range remains visible
+TD206_COMPOSITION PASS portrait-take_next-fuel service action remains available
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel inside viewport
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears dispatch
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears map
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears settlement
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears minimap
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears wanted
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears pause
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears pad_left
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears pad_right
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears menu_button_受ける TAKE IT
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears menu_button_配車 ALL
+TD206_COMPOSITION PASS portrait-take_next-fuel _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait-take_next-fuel action inside viewport
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears dispatch
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears map
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears settlement
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears minimap
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears mini_collapse
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears wanted
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears pause
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears pad_left
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears pad_right
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears pad_gas
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears pad_brake
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears menu_button_受ける TAKE IT
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears menu_button_配車 ALL
+TD206_COMPOSITION PASS portrait-take_next-fuel action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait take_next same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait take_next never opens a fuel quote
+TD206_COMPOSITION PASS portrait all target exists
+TD206_COMPOSITION PASS portrait all target exists
+TD206_COMPOSITION PASS portrait all exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait all same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait all never opens a fuel quote
+TD206_COMPOSITION PASS portrait close_success target exists
+TD206_COMPOSITION PASS portrait close_success target exists
+TD206_COMPOSITION PASS portrait close_success exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait close_success same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait close_success never opens a fuel quote
+TD206_COMPOSITION PASS portrait collapse target exists
+TD206_COMPOSITION PASS portrait collapse target exists
+TD206_COMPOSITION PASS portrait collapse exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait collapse same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait collapse never opens a fuel quote
+TD206_COMPOSITION PASS portrait expand target exists
+TD206_COMPOSITION PASS portrait expand target exists
+TD206_COMPOSITION PASS portrait expand exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait expand same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait expand never opens a fuel quote
+TD206_COMPOSITION PASS portrait mini_map target exists
+TD206_COMPOSITION PASS portrait mini_map target exists
+TD206_COMPOSITION PASS portrait mini_map exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait mini_map same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait mini_map never opens a fuel quote
+TD206_COMPOSITION PASS portrait map target exists
+TD206_COMPOSITION PASS portrait map target exists
+TD206_COMPOSITION PASS portrait map exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait map same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait map never opens a fuel quote
+TD206_COMPOSITION PASS portrait map_close target exists
+TD206_COMPOSITION PASS portrait map_close target exists
+TD206_COMPOSITION PASS portrait map_close exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait map_close same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait map_close never opens a fuel quote
+TD206_COMPOSITION PASS portrait pause target exists
+TD206_COMPOSITION PASS portrait pause target exists
+TD206_COMPOSITION PASS portrait pause exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait pause same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait pause never opens a fuel quote
+TD206_COMPOSITION PASS portrait resume target exists
+TD206_COMPOSITION PASS portrait resume target exists
+TD206_COMPOSITION PASS portrait resume exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait resume same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait resume never opens a fuel quote
+TD206_COMPOSITION PASS portrait load target exists
+TD206_COMPOSITION PASS portrait load target exists
+TD206_COMPOSITION PASS portrait load exact baseline coordinate remains in owner target
+TD206_COMPOSITION PASS portrait-load-fuel remaining range remains visible
+TD206_COMPOSITION PASS portrait-load-fuel service action remains available
+TD206_COMPOSITION PASS portrait-load-fuel _panel inside viewport
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears dispatch
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears gig_card
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears gig_load
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears map
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears minimap
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears wanted
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears pause
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears pad_left
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears pad_right
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-load-fuel _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-load-fuel action inside viewport
+TD206_COMPOSITION PASS portrait-load-fuel action clears dispatch
+TD206_COMPOSITION PASS portrait-load-fuel action clears gig_card
+TD206_COMPOSITION PASS portrait-load-fuel action clears gig_load
+TD206_COMPOSITION PASS portrait-load-fuel action clears map
+TD206_COMPOSITION PASS portrait-load-fuel action clears minimap
+TD206_COMPOSITION PASS portrait-load-fuel action clears mini_collapse
+TD206_COMPOSITION PASS portrait-load-fuel action clears wanted
+TD206_COMPOSITION PASS portrait-load-fuel action clears pause
+TD206_COMPOSITION PASS portrait-load-fuel action clears pad_left
+TD206_COMPOSITION PASS portrait-load-fuel action clears pad_right
+TD206_COMPOSITION PASS portrait-load-fuel action clears pad_gas
+TD206_COMPOSITION PASS portrait-load-fuel action clears pad_brake
+TD206_COMPOSITION PASS portrait load same-coordinate tap works with and without Fuel
+TD206_COMPOSITION PASS portrait load never opens a fuel quote
+TD206_COMPOSITION PASS portrait-health-45 remaining range remains visible
+TD206_COMPOSITION PASS portrait-health-45 service action remains available
+TD206_COMPOSITION PASS portrait-health-45 _panel inside viewport
+TD206_COMPOSITION PASS portrait-health-45 _panel clears dispatch
+TD206_COMPOSITION PASS portrait-health-45 _panel clears gig_card
+TD206_COMPOSITION PASS portrait-health-45 _panel clears map
+TD206_COMPOSITION PASS portrait-health-45 _panel clears minimap
+TD206_COMPOSITION PASS portrait-health-45 _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-45 _panel clears wanted
+TD206_COMPOSITION PASS portrait-health-45 _panel clears pause
+TD206_COMPOSITION PASS portrait-health-45 _panel clears pad_left
+TD206_COMPOSITION PASS portrait-health-45 _panel clears pad_right
+TD206_COMPOSITION PASS portrait-health-45 _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-health-45 _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-health-45 action inside viewport
+TD206_COMPOSITION PASS portrait-health-45 action clears dispatch
+TD206_COMPOSITION PASS portrait-health-45 action clears gig_card
+TD206_COMPOSITION PASS portrait-health-45 action clears map
+TD206_COMPOSITION PASS portrait-health-45 action clears minimap
+TD206_COMPOSITION PASS portrait-health-45 action clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-45 action clears wanted
+TD206_COMPOSITION PASS portrait-health-45 action clears pause
+TD206_COMPOSITION PASS portrait-health-45 action clears pad_left
+TD206_COMPOSITION PASS portrait-health-45 action clears pad_right
+TD206_COMPOSITION PASS portrait-health-45 action clears pad_gas
+TD206_COMPOSITION PASS portrait-health-45 action clears pad_brake
+TD206_COMPOSITION PASS portrait-health-10 remaining range remains visible
+TD206_COMPOSITION PASS portrait-health-10 service action remains available
+TD206_COMPOSITION PASS portrait-health-10 _panel inside viewport
+TD206_COMPOSITION PASS portrait-health-10 _panel clears dispatch
+TD206_COMPOSITION PASS portrait-health-10 _panel clears gig_card
+TD206_COMPOSITION PASS portrait-health-10 _panel clears map
+TD206_COMPOSITION PASS portrait-health-10 _panel clears minimap
+TD206_COMPOSITION PASS portrait-health-10 _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-10 _panel clears wanted
+TD206_COMPOSITION PASS portrait-health-10 _panel clears pause
+TD206_COMPOSITION PASS portrait-health-10 _panel clears pad_left
+TD206_COMPOSITION PASS portrait-health-10 _panel clears pad_right
+TD206_COMPOSITION PASS portrait-health-10 _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-health-10 _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-health-10 action inside viewport
+TD206_COMPOSITION PASS portrait-health-10 action clears dispatch
+TD206_COMPOSITION PASS portrait-health-10 action clears gig_card
+TD206_COMPOSITION PASS portrait-health-10 action clears map
+TD206_COMPOSITION PASS portrait-health-10 action clears minimap
+TD206_COMPOSITION PASS portrait-health-10 action clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-10 action clears wanted
+TD206_COMPOSITION PASS portrait-health-10 action clears pause
+TD206_COMPOSITION PASS portrait-health-10 action clears pad_left
+TD206_COMPOSITION PASS portrait-health-10 action clears pad_right
+TD206_COMPOSITION PASS portrait-health-10 action clears pad_gas
+TD206_COMPOSITION PASS portrait-health-10 action clears pad_brake
+TD206_COMPOSITION PASS portrait-health-100 remaining range remains visible
+TD206_COMPOSITION PASS portrait-health-100 service action remains available
+TD206_COMPOSITION PASS portrait-health-100 _panel inside viewport
+TD206_COMPOSITION PASS portrait-health-100 _panel clears dispatch
+TD206_COMPOSITION PASS portrait-health-100 _panel clears gig_card
+TD206_COMPOSITION PASS portrait-health-100 _panel clears map
+TD206_COMPOSITION PASS portrait-health-100 _panel clears minimap
+TD206_COMPOSITION PASS portrait-health-100 _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-100 _panel clears wanted
+TD206_COMPOSITION PASS portrait-health-100 _panel clears pause
+TD206_COMPOSITION PASS portrait-health-100 _panel clears pad_left
+TD206_COMPOSITION PASS portrait-health-100 _panel clears pad_right
+TD206_COMPOSITION PASS portrait-health-100 _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-health-100 _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-health-100 action inside viewport
+TD206_COMPOSITION PASS portrait-health-100 action clears dispatch
+TD206_COMPOSITION PASS portrait-health-100 action clears gig_card
+TD206_COMPOSITION PASS portrait-health-100 action clears map
+TD206_COMPOSITION PASS portrait-health-100 action clears minimap
+TD206_COMPOSITION PASS portrait-health-100 action clears mini_collapse
+TD206_COMPOSITION PASS portrait-health-100 action clears wanted
+TD206_COMPOSITION PASS portrait-health-100 action clears pause
+TD206_COMPOSITION PASS portrait-health-100 action clears pad_left
+TD206_COMPOSITION PASS portrait-health-100 action clears pad_right
+TD206_COMPOSITION PASS portrait-health-100 action clears pad_gas
+TD206_COMPOSITION PASS portrait-health-100 action clears pad_brake
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared remaining range remains visible
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared service action remains available
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel inside viewport
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears dispatch
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears map
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears mini_expand
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears wanted
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears pause
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears pad_left
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears pad_right
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action inside viewport
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears dispatch
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears map
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears mini_expand
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears wanted
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears pause
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears pad_left
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears pad_right
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears pad_gas
+TD206_COMPOSITION PASS portrait-mini-collapsed-cleared action clears pad_brake
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted remaining range remains visible
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted service action remains available
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel inside viewport
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears dispatch
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears map
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears minimap
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears wanted
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears pause
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears pad_left
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears pad_right
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action inside viewport
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears dispatch
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears map
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears minimap
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears mini_collapse
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears wanted
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears pause
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears pad_left
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears pad_right
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears pad_gas
+TD206_COMPOSITION PASS portrait-mini-expanded-wanted action clears pad_brake
+TD206_COMPOSITION PASS portrait arrest presentation owns the screen without Fuel
+TD206_COMPOSITION PASS portrait arrest releases without a fuel charge
+TD206_COMPOSITION PASS portrait-arrest-released remaining range remains visible
+TD206_COMPOSITION PASS portrait-arrest-released service action remains available
+TD206_COMPOSITION PASS portrait-arrest-released _panel inside viewport
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears dispatch
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears map
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears settlement
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears minimap
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears mini_collapse
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears wanted
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears pause
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears pad_left
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears pad_right
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears pad_gas
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears pad_brake
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears menu_button_配車 NEW
+TD206_COMPOSITION PASS portrait-arrest-released _panel clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait-arrest-released action inside viewport
+TD206_COMPOSITION PASS portrait-arrest-released action clears dispatch
+TD206_COMPOSITION PASS portrait-arrest-released action clears map
+TD206_COMPOSITION PASS portrait-arrest-released action clears settlement
+TD206_COMPOSITION PASS portrait-arrest-released action clears minimap
+TD206_COMPOSITION PASS portrait-arrest-released action clears mini_collapse
+TD206_COMPOSITION PASS portrait-arrest-released action clears wanted
+TD206_COMPOSITION PASS portrait-arrest-released action clears pause
+TD206_COMPOSITION PASS portrait-arrest-released action clears pad_left
+TD206_COMPOSITION PASS portrait-arrest-released action clears pad_right
+TD206_COMPOSITION PASS portrait-arrest-released action clears pad_gas
+TD206_COMPOSITION PASS portrait-arrest-released action clears pad_brake
+TD206_COMPOSITION PASS portrait-arrest-released action clears menu_button_リトライ RETRY
+TD206_COMPOSITION PASS portrait-arrest-released action clears menu_button_配車 NEW
+TD206_COMPOSITION PASS portrait-arrest-released action clears menu_button_閉じる CLOSE
+TD206_COMPOSITION PASS portrait late legitimate control over _panel gets the tap before Fuel layout
+TD206_COMPOSITION PASS portrait late legitimate control over action gets the tap before Fuel layout
+TD206_COMPOSITION PASS portrait fuel modal opens
+TD206_COMPOSITION PASS portrait-fuel-quote modal inside viewport
+TD206_COMPOSITION PASS portrait modal contains menu/map keys
+TD206_COMPOSITION PASS portrait cancel resumes once without payment
+TD206_COMPOSITION PASS portrait fuel modal opens
+TD206_COMPOSITION PASS portrait modal contains menu/map keys
+TD206_COMPOSITION PASS portrait cancel resumes once without payment
+TD206_COMPOSITION PASS portrait fuel modal opens
+TD206_COMPOSITION PASS portrait modal contains menu/map keys
+TD206_COMPOSITION PASS portrait cancel resumes once without payment
+TD206_COMPOSITION PASS portrait closing fuel never releases GigMenu pause
+TD206_COMPOSITION PASS portrait left input unchanged by Fuel
+TD206_COMPOSITION PASS portrait right input unchanged by Fuel
+TD206_COMPOSITION PASS portrait gas input unchanged by Fuel
+TD206_COMPOSITION PASS portrait brake input unchanged by Fuel
+TD206_COMPOSITION_RESULT {"checks":772,"failures":0,"taps":76}
+ERROR: Texture with GL ID of 118: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 119: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

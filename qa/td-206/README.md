@@ -1,6 +1,8 @@
 # td-206 fuel / paid recovery — review package
 
-**Latest correction:** [FuelHud clears Wanted in the pinned combined build](wanted/README.md): fuel694750e + dotad531cc6;496 native/496 browser layout checks,62 fuel/31 native modal/35 browser modal regressions pass. This is not current-main acceptance; parent will align new map/health/final446 heads. Natural wreck hookup and phone verdict remain.
+**Latest correction:** [Restored-main FuelHud control reservations](composition/README.md): runtime a8d28f0 + main9d4a884 + dot64ccf66. 772 native/772 browser assertions and62/31/35/10 regressions pass; raw browser runner records2 independently reproduced baseline DamageBar renderer errors. Measured two-gig/refill loop and packed FuelJSON/Forge exclusion verified. Baseline GAS, cold-import, natural-wreck and physical-phone limits remain.
+
+**Historical Wanted correction:** [FuelHud clears Wanted in the pinned combined build](wanted/README.md): fuel694750e + dotad531cc6;496 native/496 browser layout checks,62 fuel/31 native modal/35 browser modal regressions pass. This is not current-main acceptance; parent will align new map/health/final446 heads. Natural wreck hookup and phone verdict remain.
 
 **Prior correction:** [P2 modal/pause fix and final-source results](modal/README.md), runtime `825a1db`. 62 fuel + 31 modal native checks, 35 modal + 10 economy Web checks passed. The older feature/camera evidence below remains tied to its stated source. The independent reviewer reported 52 pre-entry errors; local run-specific counts and unchanged-baseline classification are recorded in the correction package.
 

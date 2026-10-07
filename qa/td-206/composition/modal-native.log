@@ -1,0 +1,45 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+TD206_MODAL PASS C opens an owned paused quote
+TD206_MODAL PASS modal captures platform Back and pointer surface
+TD206_MODAL PASS actual gameplay ticks freeze behind modal
+TD206_MODAL PASS Tab/M/C/E cannot open another layer or replace a quote
+TD206_MODAL PASS Escape / Back cancels without toggling another pause owner
+TD206_MODAL PASS key cancellation has no debit and clears pending quote
+TD206_MODAL PASS platform Back policy restored after modal
+TD206_MODAL PASS C opens an owned paused quote
+TD206_MODAL PASS modal captures platform Back and pointer surface
+TD206_MODAL PASS actual gameplay ticks freeze behind modal
+TD206_MODAL PASS Tab/M/C/E cannot open another layer or replace a quote
+TD206_MODAL PASS Escape / Back cancels without toggling another pause owner
+TD206_MODAL PASS key cancellation has no debit and clears pending quote
+TD206_MODAL PASS platform Back policy restored after modal
+TD206_MODAL PASS ui_cancel dismisses a quote once
+TD206_MODAL PASS platform Back notification safely cancels and restores quit policy
+TD206_MODAL PASS repeated modal open keeps original pause ownership
+TD206_MODAL PASS repeated close is idempotent and never pays
+TD206_MODAL PASS ordinary pause sheet still opens
+TD206_MODAL PASS fuel cannot steal existing pause sheet or unpause on an idle close
+TD206_MODAL PASS ordinary pause sheet still resumes
+TD206_MODAL PASS ordinary map still opens and owns pause
+TD206_MODAL PASS fuel cannot steal existing map pause
+TD206_MODAL PASS original map close resumes normally
+TD206_MODAL PASS external resume cannot advance simulation behind active modal
+TD206_MODAL PASS fuel close preserves a separately opened map owner
+TD206_MODAL PASS map owner can close itself normally
+TD206_MODAL PASS modal cannot release a pause it inherited
+TD206_MODAL PASS actual empty/unaffordable event opens terminal modal
+TD206_MODAL PASS terminal modal survives Escape/Back/Tab without resuming
+TD206_MODAL PASS fresh run releases modal and Back ownership
+TD206_MODAL_RESULT {"checks":31,"failures":0}
+ERROR: Texture with GL ID of 118: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 119: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 130: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 131: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

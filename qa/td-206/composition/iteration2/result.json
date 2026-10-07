@@ -1,0 +1,7646 @@
+{
+	"baseline": [
+		{
+			"id": "landscape-dispatch",
+			"worked": true
+		},
+		{
+			"id": "landscape-offer",
+			"worked": true
+		},
+		{
+			"id": "landscape-take_detail",
+			"worked": true
+		},
+		{
+			"id": "landscape-menu_close",
+			"worked": true
+		},
+		{
+			"id": "landscape-tracking",
+			"worked": true
+		},
+		{
+			"id": "landscape-retry",
+			"worked": true
+		},
+		{
+			"id": "landscape-new",
+			"worked": true
+		},
+		{
+			"id": "landscape-close_fail",
+			"worked": true
+		},
+		{
+			"id": "landscape-take_next",
+			"worked": true
+		},
+		{
+			"id": "landscape-all",
+			"worked": true
+		},
+		{
+			"id": "landscape-close_success",
+			"worked": true
+		},
+		{
+			"id": "landscape-collapse",
+			"worked": true
+		},
+		{
+			"id": "landscape-expand",
+			"worked": true
+		},
+		{
+			"id": "landscape-mini_map",
+			"worked": true
+		},
+		{
+			"id": "landscape-map",
+			"worked": true
+		},
+		{
+			"id": "landscape-map_close",
+			"worked": true
+		},
+		{
+			"id": "landscape-pause",
+			"worked": true
+		},
+		{
+			"id": "landscape-resume",
+			"worked": true
+		},
+		{
+			"id": "landscape-load",
+			"worked": true
+		},
+		{
+			"fuel_shown": false,
+			"id": "landscape-left-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "landscape-left-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "landscape-left",
+			"with": [
+				-1.0,
+				0.0
+			],
+			"without": [
+				-1.0,
+				0.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "landscape-right-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "landscape-right-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "landscape-right",
+			"with": [
+				1.0,
+				0.0
+			],
+			"without": [
+				1.0,
+				0.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "landscape-gas-release",
+			"map_open": true,
+			"paused": true
+		},
+		{
+			"fuel_shown": true,
+			"id": "landscape-gas-release",
+			"map_open": true,
+			"paused": true
+		},
+		{
+			"id": "landscape-gas",
+			"with": [
+				0.0,
+				1.0
+			],
+			"without": [
+				0.0,
+				1.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "landscape-brake-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "landscape-brake-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "landscape-brake",
+			"with": [
+				0.0,
+				-1.0
+			],
+			"without": [
+				0.0,
+				-1.0
+			]
+		},
+		{
+			"id": "portrait-dispatch",
+			"worked": true
+		},
+		{
+			"id": "portrait-offer",
+			"worked": true
+		},
+		{
+			"id": "portrait-take_detail",
+			"worked": true
+		},
+		{
+			"id": "portrait-menu_close",
+			"worked": true
+		},
+		{
+			"id": "portrait-tracking",
+			"worked": true
+		},
+		{
+			"id": "portrait-retry",
+			"worked": true
+		},
+		{
+			"id": "portrait-new",
+			"worked": true
+		},
+		{
+			"id": "portrait-close_fail",
+			"worked": true
+		},
+		{
+			"id": "portrait-take_next",
+			"worked": true
+		},
+		{
+			"id": "portrait-all",
+			"worked": true
+		},
+		{
+			"id": "portrait-close_success",
+			"worked": true
+		},
+		{
+			"id": "portrait-collapse",
+			"worked": true
+		},
+		{
+			"id": "portrait-expand",
+			"worked": true
+		},
+		{
+			"id": "portrait-mini_map",
+			"worked": true
+		},
+		{
+			"id": "portrait-map",
+			"worked": true
+		},
+		{
+			"id": "portrait-map_close",
+			"worked": true
+		},
+		{
+			"id": "portrait-pause",
+			"worked": true
+		},
+		{
+			"id": "portrait-resume",
+			"worked": true
+		},
+		{
+			"id": "portrait-load",
+			"worked": true
+		},
+		{
+			"fuel_shown": false,
+			"id": "portrait-left-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "portrait-left-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "portrait-left",
+			"with": [
+				-1.0,
+				0.0
+			],
+			"without": [
+				-1.0,
+				0.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "portrait-right-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "portrait-right-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "portrait-right",
+			"with": [
+				1.0,
+				0.0
+			],
+			"without": [
+				1.0,
+				0.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "portrait-gas-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "portrait-gas-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "portrait-gas",
+			"with": [
+				0.0,
+				1.0
+			],
+			"without": [
+				0.0,
+				1.0
+			]
+		},
+		{
+			"fuel_shown": false,
+			"id": "portrait-brake-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"fuel_shown": true,
+			"id": "portrait-brake-release",
+			"map_open": false,
+			"paused": false
+		},
+		{
+			"id": "portrait-brake",
+			"with": [
+				0.0,
+				-1.0
+			],
+			"without": [
+				0.0,
+				-1.0
+			]
+		}
+	],
+	"checks": [
+		{
+			"ok": true,
+			"why": "landscape dispatch target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape dispatch target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape dispatch exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-dispatch-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape dispatch same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape dispatch never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape offer target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape offer target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape offer exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape offer same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape offer never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_detail target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_detail target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_detail exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_detail same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_detail never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape menu_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape menu_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape menu_close exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape menu_close same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape menu_close never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape tracking target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape tracking target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape tracking exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape tracking same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape tracking never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape retry target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape retry target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape retry exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "landscape-retry-fuel action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape retry same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape retry never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape new target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape new target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape new exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape new same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape new never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_fail target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_fail target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_fail exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_fail same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_fail never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_next target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_next target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_next exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears menu_button_受ける TAKE IT"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears menu_button_配車 ALL"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears menu_button_受ける TAKE IT"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears menu_button_配車 ALL"
+		},
+		{
+			"ok": true,
+			"why": "landscape-take_next-fuel action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_next same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape take_next never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape all target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape all target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape all exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape all same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape all never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_success target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_success target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_success exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_success same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape close_success never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape collapse target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape collapse target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape collapse exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape collapse same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape collapse never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape expand target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape expand target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape expand exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape expand same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape expand never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape mini_map target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape mini_map target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape mini_map exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape mini_map same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape mini_map never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape map target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape map target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape map exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape map same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape map never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape map_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape map_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape map_close exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape map_close same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape map_close never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape pause target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape pause target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape pause exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape pause same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape pause never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape resume target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape resume target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape resume exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape resume same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape resume never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape load target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape load target exists"
+		},
+		{
+			"ok": true,
+			"why": "landscape load exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears gig_load"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears gig_load"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-load-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape load same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape load never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-45 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-10 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-health-100 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears mini_expand"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears mini_expand"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-collapsed-cleared action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-mini-expanded-wanted action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape arrest presentation owns the screen without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape arrest releases without a fuel charge"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears map"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "landscape-arrest-released action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "landscape late legitimate control over _panel gets the tap before Fuel layout"
+		},
+		{
+			"ok": true,
+			"why": "landscape late legitimate control over action gets the tap before Fuel layout"
+		},
+		{
+			"ok": true,
+			"why": "landscape fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "landscape-fuel-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "landscape modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "landscape cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "landscape fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "landscape modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "landscape cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "landscape fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "landscape modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "landscape cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "landscape closing fuel never releases GigMenu pause"
+		},
+		{
+			"ok": true,
+			"why": "landscape left input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape right input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape gas input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "landscape brake input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait dispatch target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait dispatch target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait dispatch exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-dispatch-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait dispatch same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait dispatch never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait offer target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait offer target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait offer exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait offer same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait offer never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_detail target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_detail target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_detail exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_detail same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_detail never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait menu_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait menu_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait menu_close exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait menu_close same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait menu_close never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait tracking target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait tracking target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait tracking exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait tracking same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait tracking never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait retry target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait retry target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait retry exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "portrait-retry-fuel action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait retry same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait retry never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait new target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait new target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait new exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait new same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait new never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_fail target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_fail target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_fail exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_fail same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_fail never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_next target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_next target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_next exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears menu_button_受ける TAKE IT"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears menu_button_配車 ALL"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears menu_button_受ける TAKE IT"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears menu_button_配車 ALL"
+		},
+		{
+			"ok": true,
+			"why": "portrait-take_next-fuel action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_next same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait take_next never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait all target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait all target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait all exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait all same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait all never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_success target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_success target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_success exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_success same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait close_success never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait collapse target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait collapse target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait collapse exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait collapse same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait collapse never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait expand target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait expand target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait expand exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait expand same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait expand never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait mini_map target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait mini_map target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait mini_map exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait mini_map same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait mini_map never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait map target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait map target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait map exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait map same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait map never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait map_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait map_close target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait map_close exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait map_close same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait map_close never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait pause target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait pause target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait pause exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait pause same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait pause never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait resume target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait resume target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait resume exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait resume same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait resume never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait load target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait load target exists"
+		},
+		{
+			"ok": true,
+			"why": "portrait load exact baseline coordinate remains in owner target"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears gig_load"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears gig_load"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-load-fuel action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait load same-coordinate tap works with and without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait load never opens a fuel quote"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-45 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-10 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears gig_card"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-health-100 action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears mini_expand"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears mini_expand"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-collapsed-cleared action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-mini-expanded-wanted action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait arrest presentation owns the screen without Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait arrest releases without a fuel charge"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released remaining range remains visible"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released service action remains available"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released _panel clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears dispatch"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears map"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears settlement"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears minimap"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears mini_collapse"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears wanted"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears pad_left"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears pad_right"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears pad_gas"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears pad_brake"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears menu_button_リトライ RETRY"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears menu_button_配車 NEW"
+		},
+		{
+			"ok": true,
+			"why": "portrait-arrest-released action clears menu_button_閉じる CLOSE"
+		},
+		{
+			"ok": true,
+			"why": "portrait late legitimate control over _panel gets the tap before Fuel layout"
+		},
+		{
+			"ok": true,
+			"why": "portrait late legitimate control over action gets the tap before Fuel layout"
+		},
+		{
+			"ok": true,
+			"why": "portrait fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "portrait-fuel-quote modal inside viewport"
+		},
+		{
+			"ok": true,
+			"why": "portrait modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "portrait cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "portrait fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "portrait modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "portrait cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "portrait fuel modal opens"
+		},
+		{
+			"ok": true,
+			"why": "portrait modal contains menu/map keys"
+		},
+		{
+			"ok": true,
+			"why": "portrait cancel resumes once without payment"
+		},
+		{
+			"ok": true,
+			"why": "portrait closing fuel never releases GigMenu pause"
+		},
+		{
+			"ok": true,
+			"why": "portrait left input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait right input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait gas input unchanged by Fuel"
+		},
+		{
+			"ok": true,
+			"why": "portrait brake input unchanged by Fuel"
+		}
+	],
+	"dot": "64ccf666847499c076edaffcebf2ca303f462a8f",
+	"failures": 0,
+	"source": "6657b15-plus-reservations2",
+	"states": [
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "landscape-dispatch-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-dispatch-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					8.0,
+					139.986190795898,
+					260.0,
+					49.9950714111328
+				],
+				"fuelaction": [
+					8.0,
+					193.980865478516,
+					260.0,
+					43.9956512451172
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "landscape-offer-no-fuel",
+			"modal": false,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu": [
+					226.980743408203,
+					43.3333358764648,
+					390.038543701172,
+					303.333343505859
+				],
+				"menu_button_": [
+					236.731704711914,
+					250.250015258789,
+					370.53662109375,
+					69.3333282470703
+				],
+				"menu_button_× 閉じる": [
+					550.3876953125,
+					50.9166679382324,
+					56.880615234375,
+					21.1250038146973
+				],
+				"menu_button_配車 AVAILABLE": [
+					236.731704711914,
+					76.375,
+					93.7175750732422,
+					22.2083358764648
+				],
+				"menu_button_配送中 TRACKING": [
+					336.949920654297,
+					76.375,
+					100.759948730469,
+					22.2083358764648
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-offer-fuel",
+			"modal": false,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu": [
+					226.980743408203,
+					43.3333358764648,
+					390.038543701172,
+					303.333343505859
+				],
+				"menu_button_": [
+					236.731704711914,
+					250.250015258789,
+					370.53662109375,
+					69.3333282470703
+				],
+				"menu_button_× 閉じる": [
+					550.3876953125,
+					50.9166679382324,
+					56.880615234375,
+					21.1250038146973
+				],
+				"menu_button_配車 AVAILABLE": [
+					236.731704711914,
+					76.375,
+					93.7175750732422,
+					22.2083358764648
+				],
+				"menu_button_配送中 TRACKING": [
+					336.949920654297,
+					76.375,
+					100.759948730469,
+					22.2083358764648
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "landscape-retry-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_リトライ RETRY": [
+					280.069305419922,
+					165.75,
+					98.0513610839844,
+					21.125
+				],
+				"menu_button_配車 NEW": [
+					384.621307373047,
+					165.75,
+					51.4634094238281,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					190.125,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				],
+				"wanted": [
+					0.0,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-retry-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					292.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					8.0,
+					7.99921035766602,
+					260.0,
+					43.9956550598145
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_リトライ RETRY": [
+					280.069305419922,
+					165.75,
+					98.0513610839844,
+					21.125
+				],
+				"menu_button_配車 NEW": [
+					384.621307373047,
+					165.75,
+					51.4634094238281,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					190.125,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				],
+				"wanted": [
+					0.0,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "landscape-take_next-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_受ける TAKE IT": [
+					280.069305419922,
+					188.5,
+					91.5506896972656,
+					21.125
+				],
+				"menu_button_配車 ALL": [
+					378.120666503906,
+					188.5,
+					46.0462036132812,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					212.875015258789,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				],
+				"wanted": [
+					0.0,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-take_next-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					292.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					8.0,
+					7.99921035766602,
+					260.0,
+					43.9956550598145
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_受ける TAKE IT": [
+					280.069305419922,
+					188.5,
+					91.5506896972656,
+					21.125
+				],
+				"menu_button_配車 ALL": [
+					378.120666503906,
+					188.5,
+					46.0462036132812,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					212.875015258789,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				],
+				"wanted": [
+					0.0,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "landscape-load-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					208.0
+				],
+				"gig_load": [
+					313.655975341797,
+					287.083343505859,
+					216.688079833984,
+					75.8333435058594
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-load-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					329.614898681641,
+					7.99921035766602,
+					260.000030517578,
+					49.9950637817383
+				],
+				"fuelaction": [
+					329.614898681641,
+					61.9938812255859,
+					260.000030517578,
+					43.9956512451172
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					208.0
+				],
+				"gig_load": [
+					313.655975341797,
+					287.083343505859,
+					216.688079833984,
+					75.8333435058594
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-health-45",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					329.614898681641,
+					7.99921035766602,
+					260.000030517578,
+					49.9950637817383
+				],
+				"fuelaction": [
+					329.614898681641,
+					61.9938812255859,
+					260.000030517578,
+					43.9956512451172
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					208.0
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-health-10",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					329.614898681641,
+					7.99921035766602,
+					260.000030517578,
+					49.9950637817383
+				],
+				"fuelaction": [
+					329.614898681641,
+					61.9938812255859,
+					260.000030517578,
+					43.9956512451172
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					208.0
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-health-100",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					329.614898681641,
+					7.99921035766602,
+					260.000030517578,
+					49.9950637817383
+				],
+				"fuelaction": [
+					329.614898681641,
+					61.9938812255859,
+					260.000030517578,
+					43.9956512451172
+				],
+				"gig_card": [
+					9.75096321105957,
+					9.75,
+					309.863922119141,
+					208.0
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-mini-collapsed-cleared",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					8.0,
+					139.986190795898,
+					260.0,
+					49.9950714111328
+				],
+				"fuelaction": [
+					8.0,
+					193.980865478516,
+					260.0,
+					43.9956512451172
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_expand": [
+					761.658508300781,
+					113.750007629395,
+					71.507080078125,
+					34.6666641235352
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					454.070587158203,
+					117.000007629395,
+					260.999969482422,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-mini-expanded-wanted",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					8.0,
+					139.986190795898,
+					260.0,
+					49.9950714111328
+				],
+				"fuelaction": [
+					8.0,
+					193.980865478516,
+					260.0,
+					43.9956512451172
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-arrest",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"arrest_sub": [
+					0.0,
+					65.0,
+					844.0,
+					390.0
+				],
+				"arrest_title": [
+					0.0,
+					0.0,
+					844.0,
+					390.0
+				],
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_リトライ RETRY": [
+					280.069305419922,
+					165.75,
+					98.0513610839844,
+					21.125
+				],
+				"menu_button_配車 NEW": [
+					384.621307373047,
+					165.75,
+					51.4634094238281,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					190.125,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-arrest-released",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuel_panel": [
+					292.0,
+					7.99921035766602,
+					260.0,
+					49.9950637817383
+				],
+				"fuelaction": [
+					8.0,
+					7.99921035766602,
+					260.0,
+					43.9956550598145
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"menu_button_リトライ RETRY": [
+					280.069305419922,
+					165.75,
+					98.0513610839844,
+					21.125
+				],
+				"menu_button_配車 NEW": [
+					384.621307373047,
+					165.75,
+					51.4634094238281,
+					21.125
+				],
+				"menu_button_閉じる CLOSE": [
+					280.069305419922,
+					190.125,
+					283.861358642578,
+					16.7916717529297
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"settlement": [
+					270.318359375,
+					92.0833358764648,
+					303.36328125,
+					205.833343505859
+				],
+				"wanted": [
+					0.0,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "landscape-fuel-quote",
+			"modal": true,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					605.643127441406,
+					59.5833358764648,
+					113.76123046875,
+					45.5
+				],
+				"fuelmodal": [
+					8.0,
+					7.99921035766602,
+					355.658508300781,
+					262.456756591797
+				],
+				"map": [
+					719.404357910156,
+					59.5833358764648,
+					108.344055175781,
+					45.5
+				],
+				"mini_collapse": [
+					651.147644042969,
+					98.5833358764648,
+					30.3363037109375,
+					30.3333358764648
+				],
+				"minimap": [
+					655.481384277344,
+					113.750007629395,
+					177.684204101562,
+					171.166687011719
+				],
+				"pad_brake": [
+					725.905029296875,
+					282.75,
+					102.926818847656,
+					92.0833435058594
+				],
+				"pad_gas": [
+					725.905029296875,
+					180.91667175293,
+					102.926818847656,
+					92.0833282470703
+				],
+				"pad_left": [
+					15.1681642532349,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pad_right": [
+					127.84595489502,
+					282.75,
+					102.926826477051,
+					92.0833435058594
+				],
+				"pause": [
+					686.901123046875,
+					10.8333339691162,
+					75.8408203125,
+					34.6666641235352
+				],
+				"wanted": [
+					379.313232421875,
+					117.000007629395,
+					261.0,
+					129.737213134766
+				]
+			},
+			"viewport": [
+				844,
+				390
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "portrait-dispatch-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-dispatch-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "portrait-offer-no-fuel",
+			"modal": false,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu": [
+					85.3125,
+					336.685913085938,
+					219.375,
+					170.628173828125
+				],
+				"menu_button_": [
+					90.796875,
+					453.078674316406,
+					208.40625,
+					39.000732421875
+				],
+				"menu_button_× 閉じる": [
+					267.2109375,
+					340.951629638672,
+					31.9921875,
+					11.8830261230469
+				],
+				"menu_button_配車 AVAILABLE": [
+					90.796875,
+					355.272186279297,
+					52.7109375,
+					12.492431640625
+				],
+				"menu_button_配送中 TRACKING": [
+					147.1640625,
+					355.272186279297,
+					56.671875,
+					12.492431640625
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-offer-fuel",
+			"modal": false,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu": [
+					85.3125,
+					336.685913085938,
+					219.375,
+					170.628173828125
+				],
+				"menu_button_": [
+					90.796875,
+					453.078674316406,
+					208.40625,
+					39.000732421875
+				],
+				"menu_button_× 閉じる": [
+					267.2109375,
+					340.951629638672,
+					31.9921875,
+					11.8830261230469
+				],
+				"menu_button_配車 AVAILABLE": [
+					90.796875,
+					355.272186279297,
+					52.7109375,
+					12.492431640625
+				],
+				"menu_button_配送中 TRACKING": [
+					147.1640625,
+					355.272186279297,
+					56.671875,
+					12.492431640625
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "portrait-retry-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_リトライ RETRY": [
+					115.171875,
+					405.546569824219,
+					55.1484375,
+					11.8830261230469
+				],
+				"menu_button_配車 NEW": [
+					173.9765625,
+					405.546569824219,
+					28.9453125,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					419.257751464844,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-retry-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_リトライ RETRY": [
+					115.171875,
+					405.546569824219,
+					55.1484375,
+					11.8830261230469
+				],
+				"menu_button_配車 NEW": [
+					173.9765625,
+					405.546569824219,
+					28.9453125,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					419.257751464844,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "portrait-take_next-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_受ける TAKE IT": [
+					115.171875,
+					418.343658447266,
+					51.4921875,
+					11.8830261230469
+				],
+				"menu_button_配車 ALL": [
+					170.3203125,
+					418.343658447266,
+					25.8984375,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					432.054870605469,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-take_next-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_受ける TAKE IT": [
+					115.171875,
+					418.343658447266,
+					51.4921875,
+					11.8830261230469
+				],
+				"menu_button_配車 ALL": [
+					170.3203125,
+					418.343658447266,
+					25.8984375,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					432.054870605469,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": false,
+			"id": "portrait-load-no-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					117.002166748047
+				],
+				"gig_load": [
+					134.0625,
+					786.108276367188,
+					121.875,
+					42.6570434570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-load-fuel",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					117.002166748047
+				],
+				"gig_load": [
+					134.0625,
+					786.108276367188,
+					121.875,
+					42.6570434570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-health-45",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					117.002166748047
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-health-10",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					117.002166748047
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-health-100",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"gig_card": [
+					5.484375,
+					5.4844765663147,
+					174.28125,
+					117.002166748047
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-mini-collapsed-cleared",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_expand": [
+					343.6875,
+					63.9855575561523,
+					40.21875,
+					19.500358581543
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-mini-expanded-wanted",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-arrest",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"arrest_sub": [
+					0.0,
+					36.563175201416,
+					390.0,
+					844.0
+				],
+				"arrest_title": [
+					0.0,
+					0.0,
+					390.0,
+					844.0
+				],
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_リトライ RETRY": [
+					115.171875,
+					405.546569824219,
+					55.1484375,
+					11.8830261230469
+				],
+				"menu_button_配車 NEW": [
+					173.9765625,
+					405.546569824219,
+					28.9453125,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					419.257751464844,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-arrest-released",
+			"modal": false,
+			"paused": false,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuel_panel": [
+					25.0,
+					594.010986328125,
+					340.0,
+					62.0011596679688
+				],
+				"fuelaction": [
+					25.0,
+					662.012268066406,
+					340.0,
+					44.0007934570312
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"menu_button_リトライ RETRY": [
+					115.171875,
+					405.546569824219,
+					55.1484375,
+					11.8830261230469
+				],
+				"menu_button_配車 NEW": [
+					173.9765625,
+					405.546569824219,
+					28.9453125,
+					11.8830261230469
+				],
+				"menu_button_閉じる CLOSE": [
+					115.171875,
+					419.257751464844,
+					159.65625,
+					9.44549560546875
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"settlement": [
+					109.6875,
+					364.108306884766,
+					170.625,
+					115.783386230469
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		},
+		{
+			"camera": "[X: (-0.884918, 0.0, -0.465746), Y: (-0.0853, 0.983086, 0.16207), Z: (0.457869, 0.183147, -0.86995), O: (1867.0, 6.0, -39.7)]",
+			"fuel_visible": true,
+			"id": "portrait-fuel-quote",
+			"modal": true,
+			"paused": true,
+			"rects": {
+				"dispatch": [
+					255.9375,
+					33.516242980957,
+					63.984375,
+					25.5942230224609
+				],
+				"fuelmodal": [
+					11.95703125,
+					453.281799316406,
+					366.0859375,
+					258.840759277344
+				],
+				"map": [
+					319.921875,
+					33.516242980957,
+					60.9375,
+					25.5942230224609
+				],
+				"mini_collapse": [
+					281.53125,
+					55.4541511535645,
+					17.0625,
+					17.062816619873
+				],
+				"minimap": [
+					283.96875,
+					63.9855575561523,
+					99.9375,
+					96.2830276489258
+				],
+				"pad_brake": [
+					323.578125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_gas": [
+					323.578125,
+					726.388427734375,
+					57.890625,
+					51.7978515625
+				],
+				"pad_left": [
+					8.53125,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pad_right": [
+					71.90625,
+					783.670715332031,
+					57.890625,
+					51.7978515625
+				],
+				"pause": [
+					301.640625,
+					6.09386253356934,
+					42.65625,
+					19.5003604888916
+				],
+				"wanted": [
+					123.515617370605,
+					176.722015380859,
+					261.0,
+					129.752410888672
+				]
+			},
+			"viewport": [
+				390,
+				844
+			]
+		}
+	],
+	"taps": [
+		{
+			"at": [
+				662.523742675781,
+				82.3333358764648
+			],
+			"fuel_shown": false,
+			"id": "dispatch",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				662.523742675781,
+				82.3333358764648
+			],
+			"fuel_shown": true,
+			"id": "dispatch",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				137.583343505859
+			],
+			"fuel_shown": false,
+			"id": "offer",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				137.583343505859
+			],
+			"fuel_shown": true,
+			"id": "offer",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				310.405639648438,
+				326.354187011719
+			],
+			"fuel_shown": false,
+			"id": "take_detail",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				310.405639648438,
+				326.354187011719
+			],
+			"fuel_shown": true,
+			"id": "take_detail",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				578.828002929688,
+				61.4791717529297
+			],
+			"fuel_shown": false,
+			"id": "menu_close",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				578.828002929688,
+				61.4791717529297
+			],
+			"fuel_shown": true,
+			"id": "menu_close",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				387.329895019531,
+				87.4791717529297
+			],
+			"fuel_shown": false,
+			"id": "tracking",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				387.329895019531,
+				87.4791717529297
+			],
+			"fuel_shown": true,
+			"id": "tracking",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				329.094970703125,
+				176.3125
+			],
+			"fuel_shown": false,
+			"id": "retry",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				329.094970703125,
+				176.3125
+			],
+			"fuel_shown": true,
+			"id": "retry",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				410.35302734375,
+				176.3125
+			],
+			"fuel_shown": false,
+			"id": "new",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				410.35302734375,
+				176.3125
+			],
+			"fuel_shown": true,
+			"id": "new",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				198.520843505859
+			],
+			"fuel_shown": false,
+			"id": "close_fail",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				198.520843505859
+			],
+			"fuel_shown": true,
+			"id": "close_fail",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				325.844665527344,
+				199.0625
+			],
+			"fuel_shown": false,
+			"id": "take_next",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				325.844665527344,
+				199.0625
+			],
+			"fuel_shown": true,
+			"id": "take_next",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				401.143768310547,
+				199.0625
+			],
+			"fuel_shown": false,
+			"id": "all",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				401.143768310547,
+				199.0625
+			],
+			"fuel_shown": true,
+			"id": "all",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				221.270843505859
+			],
+			"fuel_shown": false,
+			"id": "close_success",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				221.270843505859
+			],
+			"fuel_shown": true,
+			"id": "close_success",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				666.315795898438,
+				113.75
+			],
+			"fuel_shown": false,
+			"id": "collapse",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				666.315795898438,
+				113.75
+			],
+			"fuel_shown": true,
+			"id": "collapse",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				797.412048339844,
+				131.083343505859
+			],
+			"fuel_shown": false,
+			"id": "expand",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				797.412048339844,
+				131.083343505859
+			],
+			"fuel_shown": true,
+			"id": "expand",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				744.323486328125,
+				199.333343505859
+			],
+			"fuel_shown": false,
+			"id": "mini_map",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				744.323486328125,
+				199.333343505859
+			],
+			"fuel_shown": true,
+			"id": "mini_map",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				773.576416015625,
+				82.3333358764648
+			],
+			"fuel_shown": false,
+			"id": "map",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				773.576416015625,
+				82.3333358764648
+			],
+			"fuel_shown": true,
+			"id": "map",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				343.958343505859
+			],
+			"fuel_shown": false,
+			"id": "map_close",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				343.958343505859
+			],
+			"fuel_shown": true,
+			"id": "map_close",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				724.821533203125,
+				28.1666660308838
+			],
+			"fuel_shown": false,
+			"id": "pause",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				724.821533203125,
+				28.1666660308838
+			],
+			"fuel_shown": true,
+			"id": "pause",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				157.685180664062
+			],
+			"fuel_shown": false,
+			"id": "resume",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				157.685180664062
+			],
+			"fuel_shown": true,
+			"id": "resume",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				325.0
+			],
+			"fuel_shown": false,
+			"id": "load",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				422.0,
+				325.0
+			],
+			"fuel_shown": true,
+			"id": "load",
+			"orientation": "landscape",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				287.9296875,
+				46.3133544921875
+			],
+			"fuel_shown": false,
+			"id": "dispatch",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				287.9296875,
+				46.3133544921875
+			],
+			"fuel_shown": true,
+			"id": "dispatch",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				389.702514648438
+			],
+			"fuel_shown": false,
+			"id": "offer",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				389.702514648438
+			],
+			"fuel_shown": true,
+			"id": "offer",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				132.234375,
+				495.888061523438
+			],
+			"fuel_shown": false,
+			"id": "take_detail",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				132.234375,
+				495.888061523438
+			],
+			"fuel_shown": true,
+			"id": "take_detail",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				283.20703125,
+				346.893127441406
+			],
+			"fuel_shown": false,
+			"id": "menu_close",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				283.20703125,
+				346.893127441406
+			],
+			"fuel_shown": true,
+			"id": "menu_close",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				175.5,
+				361.518402099609
+			],
+			"fuel_shown": false,
+			"id": "tracking",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				175.5,
+				361.518402099609
+			],
+			"fuel_shown": true,
+			"id": "tracking",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				142.74609375,
+				411.488098144531
+			],
+			"fuel_shown": false,
+			"id": "retry",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				142.74609375,
+				411.488098144531
+			],
+			"fuel_shown": true,
+			"id": "retry",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				188.44921875,
+				411.488098144531
+			],
+			"fuel_shown": false,
+			"id": "new",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				188.44921875,
+				411.488098144531
+			],
+			"fuel_shown": true,
+			"id": "new",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				423.980499267578
+			],
+			"fuel_shown": false,
+			"id": "close_fail",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				423.980499267578
+			],
+			"fuel_shown": true,
+			"id": "close_fail",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				140.91796875,
+				424.28515625
+			],
+			"fuel_shown": false,
+			"id": "take_next",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				140.91796875,
+				424.28515625
+			],
+			"fuel_shown": true,
+			"id": "take_next",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				183.26953125,
+				424.28515625
+			],
+			"fuel_shown": false,
+			"id": "all",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				183.26953125,
+				424.28515625
+			],
+			"fuel_shown": true,
+			"id": "all",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				436.777618408203
+			],
+			"fuel_shown": false,
+			"id": "close_success",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				436.777618408203
+			],
+			"fuel_shown": true,
+			"id": "close_success",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				290.0625,
+				63.9855575561523
+			],
+			"fuel_shown": false,
+			"id": "collapse",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				290.0625,
+				63.9855575561523
+			],
+			"fuel_shown": true,
+			"id": "collapse",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				363.796875,
+				73.7357330322266
+			],
+			"fuel_shown": false,
+			"id": "expand",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				363.796875,
+				73.7357330322266
+			],
+			"fuel_shown": true,
+			"id": "expand",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				333.9375,
+				112.127075195312
+			],
+			"fuel_shown": false,
+			"id": "mini_map",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				333.9375,
+				112.127075195312
+			],
+			"fuel_shown": true,
+			"id": "mini_map",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				350.390625,
+				46.3133544921875
+			],
+			"fuel_shown": false,
+			"id": "map",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				350.390625,
+				46.3133544921875
+			],
+			"fuel_shown": true,
+			"id": "map",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				818.10107421875
+			],
+			"fuel_shown": false,
+			"id": "map_close",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				818.10107421875
+			],
+			"fuel_shown": true,
+			"id": "map_close",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				322.96875,
+				15.8440427780151
+			],
+			"fuel_shown": false,
+			"id": "pause",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				322.96875,
+				15.8440427780151
+			],
+			"fuel_shown": true,
+			"id": "pause",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				89.1725387573242
+			],
+			"fuel_shown": false,
+			"id": "resume",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				89.1725387573242
+			],
+			"fuel_shown": true,
+			"id": "resume",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				807.436767578125
+			],
+			"fuel_shown": false,
+			"id": "load",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		},
+		{
+			"at": [
+				195.0,
+				807.436767578125
+			],
+			"fuel_shown": true,
+			"id": "load",
+			"orientation": "portrait",
+			"unexpected_fuel_modal": false,
+			"worked": true
+		}
+	],
+	"tree": "e336694423b8de188864bb8cd441e8eae6964218"
+}

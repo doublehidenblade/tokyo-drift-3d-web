@@ -1,0 +1,12 @@
+{
+  "fuel_source": "a8d28f00236a5bf5ad229b897b89425cbd01f75b",
+  "dot_source": "64ccf666847499c076edaffcebf2ca303f462a8f",
+  "combined_tree": "20ce38798ff625f87e9287dba2516d96e9ebf5c3",
+  "status": "failed",
+  "errors": [
+    "Error: Timed out waiting for the actual LowerCity composition fixture"
+  ],
+  "screenshots": [],
+  "physical_phone": false,
+  "browser": "151.0.7922.34"
+}

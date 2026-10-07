@@ -1,0 +1,9 @@
+{
+	"forge_import_paths_checked": 119,
+	"forge_import_paths_present": [],
+	"forge_source_directory_present": false,
+	"fuel_json_present": true,
+	"passes": true,
+	"project_entry": "res://scenes/qa/td206_layout.tscn",
+	"stations": 2
+}

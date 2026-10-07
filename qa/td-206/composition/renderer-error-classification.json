@@ -1,0 +1,24 @@
+{
+  "composition_runner_status": "failed",
+  "assertions_passed": 772,
+  "assertion_failures": 0,
+  "renderer_errors": [
+    "ERROR: Invalid polygon data, triangulation failed.",
+    "ERROR: Invalid polygon data, triangulation failed."
+  ],
+  "classification": "Existing DamageBar/StripedBar degenerate stripe reproduces with no Fuel or LowerCity instantiated. Raw runner failure is retained; no error-free combined browser claim.",
+  "isolated_log": "polygon-baseline.log",
+  "source": "godot/scripts/ui/damage_bar.gd:171",
+  "last_owner_change": "090a10779a7a35bd57b1395a6f0db36108217e7e",
+  "reproduction": {
+    "bar_size": [
+      528,
+      30
+    ],
+    "health": 100,
+    "phase": 44.69,
+    "stripe": 9,
+    "fuel_present": false
+  },
+  "owner_source_unchanged_from_restored_main": true
+}

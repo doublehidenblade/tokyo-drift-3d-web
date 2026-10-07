@@ -1,0 +1,39 @@
+TD206_COMPOSITION_WEB capture landscape-dispatch-no-fuel
+TD206_COMPOSITION_WEB capture landscape-dispatch-fuel
+TD206_COMPOSITION_WEB capture landscape-offer-no-fuel
+TD206_COMPOSITION_WEB capture landscape-offer-fuel
+TD206_COMPOSITION_WEB capture landscape-retry-no-fuel
+TD206_COMPOSITION_WEB capture landscape-retry-fuel
+TD206_COMPOSITION_WEB capture landscape-take_next-no-fuel
+TD206_COMPOSITION_WEB capture landscape-take_next-fuel
+ERROR: Invalid polygon data, triangulation failed.
+ERROR: Invalid polygon data, triangulation failed.
+TD206_COMPOSITION_WEB capture landscape-load-no-fuel
+TD206_COMPOSITION_WEB capture landscape-load-fuel
+TD206_COMPOSITION_WEB capture landscape-health-45
+TD206_COMPOSITION_WEB capture landscape-health-10
+TD206_COMPOSITION_WEB capture landscape-health-100
+TD206_COMPOSITION_WEB capture landscape-mini-collapsed-cleared
+TD206_COMPOSITION_WEB capture landscape-mini-expanded-wanted
+TD206_COMPOSITION_WEB capture landscape-arrest
+TD206_COMPOSITION_WEB capture landscape-arrest-released
+TD206_COMPOSITION_WEB capture landscape-fuel-quote
+TD206_COMPOSITION_WEB capture portrait-dispatch-no-fuel
+TD206_COMPOSITION_WEB capture portrait-dispatch-fuel
+TD206_COMPOSITION_WEB capture portrait-offer-no-fuel
+TD206_COMPOSITION_WEB capture portrait-offer-fuel
+TD206_COMPOSITION_WEB capture portrait-retry-no-fuel
+TD206_COMPOSITION_WEB capture portrait-retry-fuel
+TD206_COMPOSITION_WEB capture portrait-take_next-no-fuel
+TD206_COMPOSITION_WEB capture portrait-take_next-fuel
+TD206_COMPOSITION_WEB capture portrait-load-no-fuel
+TD206_COMPOSITION_WEB capture portrait-load-fuel
+TD206_COMPOSITION_WEB capture portrait-health-45
+TD206_COMPOSITION_WEB capture portrait-health-10
+TD206_COMPOSITION_WEB capture portrait-health-100
+TD206_COMPOSITION_WEB capture portrait-mini-collapsed-cleared
+TD206_COMPOSITION_WEB capture portrait-mini-expanded-wanted
+TD206_COMPOSITION_WEB capture portrait-arrest
+TD206_COMPOSITION_WEB capture portrait-arrest-released
+TD206_COMPOSITION_WEB capture portrait-fuel-quote
+{"status":"failed","checks":772,"failures":0,"errors":["ERROR: Invalid polygon data, triangulation failed.","ERROR: Invalid polygon data, triangulation failed."],"screenshots":36}

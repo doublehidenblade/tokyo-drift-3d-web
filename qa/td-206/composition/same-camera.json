@@ -1,0 +1,182 @@
+[
+  {
+    "id": "landscape-dispatch-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-dispatch-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-offer-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-offer-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-retry-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-retry-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-take_next-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-take_next-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-load-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-load-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-health-45",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-health-10",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-health-100",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-mini-collapsed-cleared",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-mini-expanded-wanted",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-arrest",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-arrest-released",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "landscape-fuel-quote",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-dispatch-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-dispatch-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-offer-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-offer-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-retry-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-retry-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-take_next-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-take_next-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-load-no-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-load-fuel",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-health-45",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-health-10",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-health-100",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-mini-collapsed-cleared",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-mini-expanded-wanted",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-arrest",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-arrest-released",
+    "viewport_match": true,
+    "camera_match": true
+  },
+  {
+    "id": "portrait-fuel-quote",
+    "viewport_match": true,
+    "camera_match": true
+  }
+]

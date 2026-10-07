@@ -1,0 +1,37 @@
+[
+  {
+    "path": "godot/scripts/lower_city/gig_hud.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "7ebbe82a13c742bc230912581129597156854b546eae8bbf06ad13322aa24d02"
+  },
+  {
+    "path": "godot/scripts/lower_city/gig_menu.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "aad97d1fab5ac88a2d79a493d63cc3373202e2e7a39fbcba65aad54ecfb030f8"
+  },
+  {
+    "path": "godot/scripts/lower_city/map_sheet.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "8a5e6f46b5d66c134df8e3d81265c1542b513cc0483ed77cbb52387faaccdfc5"
+  },
+  {
+    "path": "godot/scripts/lower_city/minimap.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "ddbefec80bca21b93b39352b4d92d121589b12d4750434bb16dd7e4af55006ba"
+  },
+  {
+    "path": "godot/scripts/lower_city/paper_map.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "83317d34b758314d697aeabb3c88bab2e0e38478576be61153a86f24b3683ca8"
+  },
+  {
+    "path": "godot/scripts/ui/damage_bar.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "1ad824ecdc9df9fff1797e6cb573fef6fc7f109461a0620ba3f876d4dabe1d21"
+  },
+  {
+    "path": "godot/scripts/ui/striped_bar.gd",
+    "unchanged_from_restored_main": true,
+    "sha256": "a95e184a21e99452292c4fdf206ebb234b950f66f4d174addf2b93ddf1ce5a5a"
+  }
+]

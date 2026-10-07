@@ -1,0 +1,12 @@
+{
+  "fuel_source": "a8d28f00236a5bf5ad229b897b89425cbd01f75b",
+  "dot_source": "64ccf666847499c076edaffcebf2ca303f462a8f",
+  "combined_tree": "20ce38798ff625f87e9287dba2516d96e9ebf5c3",
+  "main_scene": "res://scenes/main_menu.tscn",
+  "local_only": true,
+  "sha256": {
+    "index.pck": "02793bfffad090286d288b17c1304c1c08e88a90cda366b040bab682050d76aa",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.html": "b88a9e1e1a2219b8eb273ce4df838ea3252c0a2a878d4c1e765463c62eae8012"
+  }
+}

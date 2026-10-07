@@ -1,0 +1,38 @@
+{
+  "fuel_source": "a8d28f00236a5bf5ad229b897b89425cbd01f75b",
+  "dot_source": "64ccf666847499c076edaffcebf2ca303f462a8f",
+  "combined_tree": "20ce38798ff625f87e9287dba2516d96e9ebf5c3",
+  "status": "failed",
+  "errors": [
+    "Error: Timed out waiting for the actual LowerCity composition fixture"
+  ],
+  "screenshots": [
+    "landscape-dispatch-no-fuel",
+    "landscape-dispatch-fuel",
+    "landscape-offer-no-fuel",
+    "landscape-offer-fuel",
+    "landscape-retry-no-fuel",
+    "landscape-retry-fuel",
+    "landscape-take_next-no-fuel",
+    "landscape-take_next-fuel",
+    "landscape-load-no-fuel",
+    "landscape-load-fuel",
+    "landscape-health-45",
+    "landscape-health-10",
+    "landscape-health-100",
+    "landscape-mini-collapsed-cleared",
+    "landscape-mini-expanded-wanted",
+    "landscape-arrest",
+    "landscape-arrest-released",
+    "landscape-fuel-quote",
+    "portrait-dispatch-no-fuel",
+    "portrait-dispatch-fuel",
+    "portrait-offer-no-fuel",
+    "portrait-offer-fuel",
+    "portrait-retry-no-fuel",
+    "portrait-retry-fuel",
+    "portrait-take_next-no-fuel"
+  ],
+  "physical_phone": false,
+  "browser": "151.0.7922.34"
+}

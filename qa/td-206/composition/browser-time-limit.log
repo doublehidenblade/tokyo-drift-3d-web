@@ -1,0 +1,26 @@
+TD206_COMPOSITION_WEB capture landscape-dispatch-no-fuel
+TD206_COMPOSITION_WEB capture landscape-dispatch-fuel
+TD206_COMPOSITION_WEB capture landscape-offer-no-fuel
+TD206_COMPOSITION_WEB capture landscape-offer-fuel
+TD206_COMPOSITION_WEB capture landscape-retry-no-fuel
+TD206_COMPOSITION_WEB capture landscape-retry-fuel
+TD206_COMPOSITION_WEB capture landscape-take_next-no-fuel
+TD206_COMPOSITION_WEB capture landscape-take_next-fuel
+TD206_COMPOSITION_WEB capture landscape-load-no-fuel
+TD206_COMPOSITION_WEB capture landscape-load-fuel
+TD206_COMPOSITION_WEB capture landscape-health-45
+TD206_COMPOSITION_WEB capture landscape-health-10
+TD206_COMPOSITION_WEB capture landscape-health-100
+TD206_COMPOSITION_WEB capture landscape-mini-collapsed-cleared
+TD206_COMPOSITION_WEB capture landscape-mini-expanded-wanted
+TD206_COMPOSITION_WEB capture landscape-arrest
+TD206_COMPOSITION_WEB capture landscape-arrest-released
+TD206_COMPOSITION_WEB capture landscape-fuel-quote
+TD206_COMPOSITION_WEB capture portrait-dispatch-no-fuel
+TD206_COMPOSITION_WEB capture portrait-dispatch-fuel
+TD206_COMPOSITION_WEB capture portrait-offer-no-fuel
+TD206_COMPOSITION_WEB capture portrait-offer-fuel
+TD206_COMPOSITION_WEB capture portrait-retry-no-fuel
+TD206_COMPOSITION_WEB capture portrait-retry-fuel
+TD206_COMPOSITION_WEB capture portrait-take_next-no-fuel
+{"status":"failed","errors":["Error: Timed out waiting for the actual LowerCity composition fixture"],"screenshots":25}

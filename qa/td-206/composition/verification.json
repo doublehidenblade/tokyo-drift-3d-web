@@ -1,0 +1,138 @@
+{
+  "status": "in_review",
+  "fuel_runtime_source": "a8d28f00236a5bf5ad229b897b89425cbd01f75b",
+  "restored_main": "9d4a88490c41f86e8d34e1c2c6f142838de20c73",
+  "dot_source": "64ccf666847499c076edaffcebf2ca303f462a8f",
+  "combined_commit": "56c2958b06a842b53061dcbef76b6744ab607590",
+  "combined_tree": "20ce38798ff625f87e9287dba2516d96e9ebf5c3",
+  "before_combined_commit": "71d8047682361a079c6c506bbc0529ab0b59ed28",
+  "before_combined_tree": "e336694423b8de188864bb8cd441e8eae6964218",
+  "reviewer_tree_on_separate_executor": "289ebc2eef5d7bf64c8bb92da7461cf6ee170a1e",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "browser": "151.0.7922.34",
+  "browser_renderer": "ANGLE SwiftShader",
+  "viewport_pixels": [
+    [
+      844,
+      390
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "physical_phone": false,
+  "source_sha256": {
+    "godot/scripts/lower_city/fuel_hud.gd": "0f000ae08cc84d85b78887de23fa64391e501fb84968a5c959d329f10ad294a9",
+    "godot/scripts/lower_city/fuel_hud_reservations.gd": "56c6f8e6526e97742b6e6a21f95b22d3fe413a7e71498d00a4fbb03e6df4f536",
+    "godot/tools/test_td206_composition.gd": "77ea41f7f1ce3fed906c5b8b43c2e307b83bf408f9571bcf7ccc3e136af309f0",
+    "godot/tools/test_td206.gd": "04f35348dda3132f0cd6e66f29e4398f14b87a75593715735049173e7b33486b",
+    "godot/tools/test_td206_modal.gd": "ac6b5729e44d1acfe79d52b3a276853ace219350effaae9603668009f4f7437e",
+    "godot/tools/test_td206_route.gd": "bb6c558f2965f95ebab173ee85794452d3e1643962b0de09ec99657d3edeb703",
+    "godot/tools/export_td206_wanted_qa.py": "b6ed211bd0aca81cb361717383c2a253ead5238757e9173e8969907cced26f19",
+    "godot/tools/audit_td206_export.gd": "413d18bdda345487a0631031a8e34e664fa651cf66bd563b1703e7b0259c72e0",
+    "godot/tools/probe_td206_polygon_baseline.gd": "af5a6896102853ab8b5866e22edcd3f114372708258d8f7ddf05a79b4dff063a",
+    "harness/webgl/td206-composition.mjs": "07563397a03add27fc5b824d7714ddc35776aa368272c502f3b982396d1cfb6f",
+    "harness/webgl/td206-modal.mjs": "2bcc92c7643659b370b8e5e74af71a8d5575bde60b393bcaf13b5b6e21eaca28",
+    "harness/webgl/td206-fuel.mjs": "69fec686bcb7a33cf3b571a86db1a6452e3d51f11dc39a469464079b77db7e77",
+    "godot/export_presets.cfg": "a3ce78a0436be113df034ac1cb6714155e3c114b48a7e37b263a1117eba6612e"
+  },
+  "results": {
+    "native_before": {
+      "checks": 836,
+      "failures": 52
+    },
+    "native_after": {
+      "checks": 772,
+      "failures": 0,
+      "ab_taps": 76
+    },
+    "browser": {
+      "raw_status": "failed",
+      "checks": 772,
+      "failures": 0,
+      "ab_taps": 76,
+      "total_cdp_taps": 86,
+      "captures": 36,
+      "renderer_errors": 2
+    },
+    "same_camera_pairs": 36,
+    "fuel_regression": {
+      "checks": 62,
+      "failures": 0,
+      "settlements": 8
+    },
+    "modal_native": {
+      "checks": 31,
+      "failures": 0
+    },
+    "modal_browser": {
+      "checks": 35,
+      "failures": 0,
+      "lower_city_errors": 0
+    },
+    "economy_browser": {
+      "checks": 10,
+      "failures": 0,
+      "lower_city_errors": 0
+    },
+    "two_gig_route": {
+      "completed": 2,
+      "failures": 0,
+      "hud_glyph_checks": 5,
+      "refill": {
+        "balance_yen": 11370,
+        "id": 1,
+        "kind": "fill",
+        "ok": true,
+        "paid_yen": 1200,
+        "range_km": 7.5
+      },
+      "remaining_at_pump_km": 1.19111219518444,
+      "station_leg_m": 264.213565377868,
+      "stuck_events": 0,
+      "two_gig_m": 6044.73983317509
+    },
+    "fixture_pack_audit": {
+      "forge_import_paths_checked": 119,
+      "forge_import_paths_present": [],
+      "forge_source_directory_present": false,
+      "fuel_json_present": true,
+      "passes": true,
+      "project_entry": "res://scenes/qa/td206_layout.tscn",
+      "stations": 2
+    },
+    "game_pack_audit": {
+      "forge_import_paths_checked": 119,
+      "forge_import_paths_present": [],
+      "forge_source_directory_present": false,
+      "fuel_json_present": true,
+      "passes": true,
+      "project_entry": "res://scenes/main_menu.tscn",
+      "stations": 2
+    }
+  },
+  "limits": [
+    "Landscape minimap/GAS release opens PaperMap with Fuel hidden or shown; unchanged baseline.",
+    "Combined browser has two renderer errors; unchanged DamageBar stripe error reproduced in isolation without Fuel.",
+    "Full source import passed with inherited valid cache; cold CSV importer reliability remains unverified.",
+    "Natural chassis-wreck producer remains an owner interface dependency; BODY is informational.",
+    "Physical-phone and real-device performance acceptance remains open."
+  ],
+  "personally_inspected": [
+    "before-final/landscape-retry-fuel.png",
+    "after/landscape-retry-fuel.png",
+    "after/landscape-take_next-fuel.png",
+    "after/landscape-health-10.png",
+    "after/portrait-dispatch-fuel.png",
+    "after/landscape-fuel-quote.png",
+    "after/portrait-fuel-quote.png",
+    "web-time-limit/landscape-retry-fuel.png",
+    "web-time-limit/portrait-offer-fuel.png",
+    "web-after/landscape-retry-fuel.png",
+    "web-after/portrait-fuel-quote.png",
+    "economy-web/landscape-gig-detail.png",
+    "economy-web/landscape-confirm.png"
+  ],
+  "runtime_no_further_changes": true
+}
