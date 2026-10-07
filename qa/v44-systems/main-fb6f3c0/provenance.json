@@ -1,0 +1,31 @@
+{
+  "source": "9505a7e0f4c72899fc31447def5b6f04afc183cc",
+  "main": "fb6f3c0ddcbb998460723fa3f954a9bf758df159",
+  "before": "46a2f72",
+  "owner_probe": "50a48fd",
+  "scope": "QA media only; no game deployment",
+  "files": [
+    "before/landscape/arrest.png",
+    "before/landscape/settlement.png",
+    "before/portrait/arrest.png",
+    "before/portrait/settlement.png",
+    "after/landscape/arrest.png",
+    "after/landscape/settlement.png",
+    "after/landscape/restored.png",
+    "after/landscape/natural-arrest.mp4",
+    "after/portrait/arrest.png",
+    "after/portrait/settlement.png",
+    "after/portrait/restored.png",
+    "after/portrait/natural-arrest.mp4",
+    "hud/landscape-to_dropoff-expanded.png",
+    "hud/landscape-menu-tracking.png",
+    "hud/landscape-menu-failure.png",
+    "hud/landscape-menu-success.png",
+    "hud/portrait-to_dropoff-expanded.png",
+    "hud/portrait-menu-tracking.png",
+    "hud/portrait-menu-failure.png",
+    "hud/portrait-menu-success.png",
+    "owner-baseline/844x390-collapsed-false.png",
+    "owner-integration/844x390-collapsed-false.png"
+  ]
+}
