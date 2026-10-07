@@ -1,0 +1,82 @@
+{
+  "source": "d1bceb18a6f9b786f1462101fdf1f3d6bad84fd2",
+  "main": "cc87554141db7a6ee2d35e7a4704f715a754ff46",
+  "evidence_kind": "native Godot4.7.2 Lower City HUD fixtures and separate real natural-arrest replay; no physical-phone/browser claim",
+  "scope": "QA media only; no game publication",
+  "known_failures": [
+    "Landscape expanded owner minimap captures GAS; large map opens and pauses",
+    "Small-screen wanted/settlement/arrest text overlap; owner glyph/label limitations unchanged"
+  ],
+  "files": [
+    {
+      "path": "hud/landscape-idle-collapsed.png",
+      "size": 146975,
+      "sha256": "49d94052c4f8be528f5eaccc43e4e60661b2cd7bc46a719a10c95b004da44bc0"
+    },
+    {
+      "path": "hud/landscape-idle-expanded.png",
+      "size": 136729,
+      "sha256": "5e58e63797cf6cb7355e336d8eff4c179a3c82a516de35dc2e72e874b04e3f44"
+    },
+    {
+      "path": "hud/landscape-owner-gas-opens-map.png",
+      "size": 81797,
+      "sha256": "e7a140489e80783a9a5481ee7c048dc265294b716ab0ae4794e5459a0d3e484c"
+    },
+    {
+      "path": "hud/landscape-to_dropoff-collapsed.png",
+      "size": 151612,
+      "sha256": "f14d9444596cfda3699b464f8603518197dc4a7274c9db197fa5b4e3240a6dee"
+    },
+    {
+      "path": "hud/landscape-to_dropoff-expanded.png",
+      "size": 142321,
+      "sha256": "58ca165879081d361df161edda83613047e4f25791cc4f082cec4414840d42ea"
+    },
+    {
+      "path": "hud/portrait-idle-collapsed.png",
+      "size": 156461,
+      "sha256": "18484c35e1e07bb2b33b97d6c82d7f2e08593b9e64e5133ccf61d18b4f843d9c"
+    },
+    {
+      "path": "hud/portrait-idle-expanded.png",
+      "size": 159366,
+      "sha256": "24555c1ce06b68173ec798063ced42314a5f7ce62d9a9b097ba4b6b00cd033d4"
+    },
+    {
+      "path": "hud/portrait-to_dropoff-collapsed.png",
+      "size": 147908,
+      "sha256": "695366755850ddc63592890dd8236d3c1932012db869da6775852d7d14ecf62d"
+    },
+    {
+      "path": "hud/portrait-to_dropoff-expanded.png",
+      "size": 147288,
+      "sha256": "ef8d27c2a3e0c57a167366ca808fbf9c2a7be2b6a5b5e039f2a22114d4a5f687"
+    },
+    {
+      "path": "return/drive-away.png",
+      "size": 132260,
+      "sha256": "70020cd42b1d4db31311b1104c2c180f5fcab22948e70a7eca7ea584058ad8c3"
+    },
+    {
+      "path": "return/event-03-busted.png",
+      "size": 115939,
+      "sha256": "db027199ce2ed723ee87937a3e3ff47c810c476143103ecd2c3595389eadbf07"
+    },
+    {
+      "path": "return/event-04-reset-request.png",
+      "size": 138510,
+      "sha256": "288bb103119cb9d5fb0254d1a3c3e95ab1abce783238b7a032f9a1b34ed33e13"
+    },
+    {
+      "path": "return/natural-return.mp4",
+      "size": 434151,
+      "sha256": "03ab7bd2e91025cfbb0af6a7f13d4eefc377078a8ec861fe870a1a737fbc4e9b"
+    },
+    {
+      "path": "return/released.png",
+      "size": 121788,
+      "sha256": "d933e2dbed711f43ffa97f3b7429d70fbee09306f8d0070651c88412480e76d7"
+    }
+  ]
+}
