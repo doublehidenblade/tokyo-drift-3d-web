@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+TD185_GIG {"cargo":"fresh fish on ice","cargo_left":1.0,"drive_s":143.6,"fare":4410,"from":"starlight","hits":0,"km":2.51,"late":false,"limit_s":255.0,"ok":true,"run":0,"share_of_limit":0.56,"time_used_s":142.1,"to":"gate2","total_yen":4900}
+TD185_GIG {"cargo":"sealed documents","cargo_left":1.0,"drive_s":89.2,"fare":2400,"from":"asahi_hq","hits":0,"km":1.54,"late":false,"limit_s":160.0,"ok":true,"run":1,"share_of_limit":0.55,"time_used_s":87.7,"to":"gate7","total_yen":2670}
+TD185_GIGS {"balance_yen":12570,"completed":2,"distance_m":6044.73983317509,"earned_yen":7570,"failures":0,"hud_glyph_checks":6,"remaining_km":1.4553210550564,"runs":2}

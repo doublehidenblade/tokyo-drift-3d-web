@@ -1,0 +1,419 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Cannot open file 'res://.godot/imported/kicker-cjk.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] kicker_font (res://scripts/ui/ui_kit.gd:36)
+       [1] make_kicker (res://scripts/ui/ui_kit.gd:44)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:67)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/kicker-cjk.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] kicker_font (res://scripts/ui/ui_kit.gd:36)
+       [1] make_kicker (res://scripts/ui/ui_kit.gd:44)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:67)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/kicker-cjk.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] kicker_font (res://scripts/ui/ui_kit.gd:36)
+       [1] make_kicker (res://scripts/ui/ui_kit.gd:44)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:67)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] make_display (res://scripts/ui/ui_kit.gd:64)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:68)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] make_display (res://scripts/ui/ui_kit.gd:64)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:68)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] make_display (res://scripts/ui/ui_kit.gd:64)
+       [2] _build_pause_sheet (res://scripts/kit/pause_menu.gd:68)
+       [3] _ready (res://scripts/kit/pause_menu.gd:25)
+       [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [5] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:37)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:38)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _sign (res://scripts/lower_city/fuel_station.gd:91)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:39)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:54)
+       [4] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:38)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:38)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:38)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:38)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:40)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:40)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:40)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:40)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:42)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:42)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:42)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:42)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:54)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:54)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:54)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _label (res://scripts/lower_city/fuel_hud.gd:84)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:54)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:58)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:58)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:58)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:58)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:61)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:61)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:61)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:61)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:64)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:64)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:64)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Required object "rp_font" is null.
+   at: add_theme_font_override (scene/gui/control.cpp:4018)
+   GDScript backtrace (most recent call first):
+       [0] _button (res://scripts/lower_city/fuel_hud.gd:94)
+       [1] _ready (res://scripts/lower_city/fuel_hud.gd:64)
+       [2] _ready (res://scripts/lower_city/lower_city.gd:57)
+       [3] run (res://tools/test_td206_route.gd:34)
+ERROR: Cannot open file 'res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata'.
+   at: load (core/io/resource_format_binary.cpp:1156)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] _draw (res://scripts/ui/skew_button.gd:38)
+ERROR: Failed loading resource: res://.godot/imported/display-latin.ttf-00000000000000000000000000000000.fontdata.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] _draw (res://scripts/ui/skew_button.gd:38)
+ERROR: Failed loading resource: res://fonts/display-latin.ttf.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] display_font (res://scripts/ui/ui_kit.gd:29)
+       [1] _draw (res://scripts/ui/skew_button.gd:38)
+  cargo hit 34.1% -> 65.9% at plan (1802.0, 764.5, -0.15) v=9.7 recoveries=0
+  cargo hit 18.2% -> 47.6% at plan (1802.0, 706.7, 0.25) v=4.0 recoveries=0
+  cargo hit 42.5% -> 5.2% at plan (1561.0, 165.2, -0.15) v=8.3 recoveries=0
+TD185_GIG {"cargo":"fresh fish on ice","cargo_left":0.05,"drive_s":283.3,"fare":4410,"from":"starlight","hits":3,"km":2.51,"late":true,"limit_s":255.0,"ok":true,"run":0,"share_of_limit":1.1,"time_used_s":281.7,"to":"gate2","total_yen":160}
+FAIL: run 0: a clean run must deliver on time with the cargo intact ({ "ok": true, "reason": "", "fare": 4410, "timing": 0.69, "condition": 0.05, "total": 160, "time_used": 281.7, "limit": 255.0, "late": true, "hits": 3 })
+FAIL: run 0: a clean run should use 45-85% of the limit, not 110%
+TD185_GIG {"cargo":"sealed documents","cargo_left":1.0,"drive_s":89.2,"fare":2400,"from":"asahi_hq","hits":0,"km":1.54,"late":false,"limit_s":160.0,"ok":true,"run":1,"share_of_limit":0.55,"time_used_s":87.7,"to":"gate7","total_yen":2670}
+TD185_GIGS {"completed":2,"distance_m":6053.96928767546,"earned_yen":2830,"failures":2,"hud_glyph_checks":6,"runs":2}

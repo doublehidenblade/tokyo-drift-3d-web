@@ -1,0 +1,14 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+TD206_SHOT quay_west-wide camera=[X: (-0.668965, 0.0, -0.743294), Y: (-0.135797, 0.983169, 0.122217), Z: (0.730784, 0.182696, -0.657706), O: (691.0, 7.0, -31.5)]
+TD206_SHOT quay_west-approach camera=[X: (-0.884918, 0.0, 0.465746), Y: (0.021668, 0.998917, 0.04117), Z: (-0.465242, 0.046524, -0.88396), O: (661.0, 3.0, -32.5)]
+TD206_SHOT quay_east-wide camera=[X: (-0.668965, 0.0, -0.743294), Y: (-0.135797, 0.983169, 0.122217), Z: (0.730784, 0.182696, -0.657706), O: (1877.0, 7.0, -31.5)]
+TD206_SHOT quay_east-approach camera=[X: (-0.884918, 0.0, 0.465746), Y: (0.021668, 0.998917, 0.04117), Z: (-0.465242, 0.046524, -0.88396), O: (1847.0, 3.0, -32.5)]
+TD206_CAPTURE source=a56a247 out=res://qa/td-206/after
+ERROR: Texture with GL ID of 151: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 152: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

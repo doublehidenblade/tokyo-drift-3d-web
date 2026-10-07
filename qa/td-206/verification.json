@@ -1,0 +1,72 @@
+{
+  "runtime_source_head": "effc7e6d4a90a030e74e847c6664d1355892d62d",
+  "baseline_source_head": "389d4a839c1c5974a335b4d063566a20a77b4dd1",
+  "godot": "4.7.2.stable.official.ed1daf0bf",
+  "engine_sha256": "8d106cbe6144c2dc7e881d61d2429c1a8a76e6b22ef48bd5e48dcf934953f71e",
+  "runtime_files": {
+    "godot/data/fuel/starter_coupe.tres": "b2b14262c4ea699c6d219e18c9c288e0dbc1315e16f2593818490f52943d47f8",
+    "godot/data/fuel/stations.json": "2112bb609d6f4a02339cc400f870b729709f6cf5f745a71e1133633fe95c79db",
+    "godot/export_presets.cfg": "ef2b04e4eee7f4ca5144afd534c4c02db399f2a6aac717fb275de7dd7d413346",
+    "godot/fonts/display-latin.ttf.import": "09474fad257c9c0960f75189fc32182097e2824acae3c60b1e875183511a6a0a",
+    "godot/fonts/kicker-cjk.ttf.import": "49e915911e728d8d28e229c3c73e342229529a2dab51498c3090703657263f45",
+    "godot/scripts/lower_city/fuel_hud.gd": "6a01ded4518988ab3558e8173d9ff80c1728459a64b7a1e10e119c9bb0d04536",
+    "godot/scripts/lower_city/fuel_hud.gd.uid": "9a0b0c0d9c39fd977946961d789a4d0d7539b867ea905ed829b6e7274bf3585d",
+    "godot/scripts/lower_city/fuel_profile.gd": "306e90dfe2cdcdf655da93e3da0dbf602310e9f906f76f072773ddae861ff3e0",
+    "godot/scripts/lower_city/fuel_profile.gd.uid": "2f68500d6f6ece8c344afad1c1f2f357eb7494d2e6dce9dc7c42496728354bbd",
+    "godot/scripts/lower_city/fuel_service.gd": "bdff5392415142563386b0e6bf3521e1929c7a352a52b1c33ec32c26dc75257e",
+    "godot/scripts/lower_city/fuel_service.gd.uid": "27517b58de576e86c8b25143be98ad5620d7f0fcb0dbab74bf7a16b7e39e43f1",
+    "godot/scripts/lower_city/fuel_station.gd": "f199c16b68a0dd9a9b6f6c304e5b968ac46b08f4d2f26a88dae7cc025a6cc50f",
+    "godot/scripts/lower_city/fuel_station.gd.uid": "fa7a8166065036e45ecabb7f2cd2d6632e52070b9dbffeef03e87d42e74ddbf1",
+    "godot/scripts/lower_city/fuel_tank.gd": "a1a733eedd063b8570119a1a8e1bb2cd7c2865e48568cfaa39f814d842e34fa9",
+    "godot/scripts/lower_city/fuel_tank.gd.uid": "4a10b7b6c97880e7e1da3c8a4dfabb56c2baa7783e35cd10a272824deb1a8d33",
+    "godot/scripts/lower_city/gig_dispatch.gd": "2930727bc1626156b97b26908b8a375ffbc3e48a26d0f95e5617702b1c75447e",
+    "godot/scripts/lower_city/lower_city.gd": "0fdeecb8fe5ec6e9b83beaa5409d69f4d86e1e814e93ebb2a3022a7847886172",
+    "godot/scripts/vehicle.gd": "516dee7de8f238d3155dad78d823dd3e3702fe1492c33f4ef34336f0a259c1b6"
+  },
+  "capture_harness_sha256": "0f81280d762ad55e26d3b5d5b9fa542e1dc754db95caf9a4ef8e3c51057815c5",
+  "still_fixture": {
+    "traffic_count": 0,
+    "parked_count": 0,
+    "HUD_visible": false,
+    "resolution": [
+      1280,
+      720
+    ],
+    "paired_camera_matrices_equal": true
+  },
+  "web": {
+    "source_head": "effc7e6d4a90a030e74e847c6664d1355892d62d",
+    "pck_sha256": "030bf0bcba7fe54fc5b394f00c05e396897d5bfb5e2caeb327a774317c4a5f70",
+    "browser": "151.0.7922.34",
+    "touch_emulated": true,
+    "physical_phone_acceptance": false,
+    "checks": 10,
+    "entry_errors": [],
+    "pre_entry_boot_error_count": 56
+  },
+  "tests": {
+    "edge": {
+      "checks": 62,
+      "failures": 0,
+      "log": "edge-head-final.log"
+    },
+    "route": {
+      "failures": 0,
+      "two_gig_m": 6044.73983317509,
+      "station_leg_m": 264.213565377868,
+      "reserve_km": 1.19111219518444,
+      "log": "route-head-final.log"
+    },
+    "HUD": {
+      "failures": 0,
+      "log": "hud-head-final.log"
+    }
+  },
+  "limits": [
+    "No natural chassis-wreck producer exists on baseline; health-owner hookup remains.",
+    "No run persistence exists; reload intentionally starts a fresh run.",
+    "No physical phone or performance acceptance.",
+    "Baseline and after native GLES shutdown leak two textures; final route logs a Jolt worker-queue warning under concurrent local tests.",
+    "Tokyo Bay menu boot asset errors predate Lower City entry and are preserved in Web result."
+  ]
+}

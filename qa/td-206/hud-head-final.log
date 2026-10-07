@@ -1,0 +1,132 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape clears GigHud @Button@33
+TD206_LAYOUT PASS landscape clears GigHud @Button@39
+TD206_LAYOUT PASS landscape clears GigHud @Button@45
+TD206_LAYOUT PASS landscape clears GigHud Map
+TD206_LAYOUT PASS landscape range text >=17.5 actual viewport pixels
+TD206_LAYOUT PASS bundled glyph U+0046 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0055 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0045 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+004C in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0020 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0031 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+002E in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0038 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0030 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+006B in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+006D in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+00B7 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+00A5 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0035 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+004F in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0057 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0052 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0041 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+004E in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0047 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+2014 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0076 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0069 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0073 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0074 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0061 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0070 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0075 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0065 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0066 in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+006C in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+005B in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+005D in landscape-low-range
+TD206_LAYOUT PASS bundled glyph U+0032 in landscape-low-range
+TD206_UI_SHOT landscape-low-range size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS landscape E opens paused payment confirmation
+TD206_LAYOUT PASS landscape confirmation inside viewport
+TD206_LAYOUT PASS landscape confirmation target >=44 actual viewport pixels
+TD206_LAYOUT PASS bundled glyph U+0049 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+002D in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0072 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+002C in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+006E in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+006F in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0050 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0079 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0062 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0063 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0033 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0067 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0037 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0068 in landscape-confirm
+TD206_LAYOUT PASS bundled glyph U+0043 in landscape-confirm
+TD206_UI_SHOT landscape-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS bundled glyph U+0064 in landscape-paid
+TD206_UI_SHOT landscape-paid size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS portrait fuel clears Left
+TD206_LAYOUT PASS portrait fuel clears Left
+TD206_LAYOUT PASS portrait fuel clears Right
+TD206_LAYOUT PASS portrait fuel clears Right
+TD206_LAYOUT PASS portrait fuel clears Gas
+TD206_LAYOUT PASS portrait fuel clears Gas
+TD206_LAYOUT PASS portrait fuel clears Brake
+TD206_LAYOUT PASS portrait fuel clears Brake
+TD206_LAYOUT PASS portrait clears GigHud @Button@33
+TD206_LAYOUT PASS portrait clears GigHud @Button@39
+TD206_LAYOUT PASS portrait clears GigHud @Button@45
+TD206_LAYOUT PASS portrait clears GigHud Map
+TD206_LAYOUT PASS portrait range text >=17.5 actual viewport pixels
+TD206_UI_SHOT portrait-low-range size=(390, 844) logical=(1280.0, 2770.0)
+TD206_LAYOUT PASS portrait E opens paused payment confirmation
+TD206_LAYOUT PASS portrait confirmation inside viewport
+TD206_LAYOUT PASS portrait confirmation target >=44 actual viewport pixels
+TD206_UI_SHOT portrait-confirm size=(390, 844) logical=(1280.0, 2770.0)
+TD206_UI_SHOT portrait-paid size=(390, 844) logical=(1280.0, 2770.0)
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape clears GigHud @Button@33
+TD206_LAYOUT PASS landscape clears GigHud @Button@39
+TD206_LAYOUT PASS landscape clears GigHud @Button@45
+TD206_LAYOUT PASS landscape clears GigHud Map
+TD206_LAYOUT PASS landscape range text >=17.5 actual viewport pixels
+TD206_UI_SHOT landscape-low-range size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS landscape E opens paused payment confirmation
+TD206_LAYOUT PASS landscape confirmation inside viewport
+TD206_LAYOUT PASS landscape confirmation target >=44 actual viewport pixels
+TD206_UI_SHOT landscape-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT landscape-paid size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS bundled glyph U+0054 in empty-tow-confirm
+TD206_LAYOUT PASS bundled glyph U+0077 in empty-tow-confirm
+TD206_LAYOUT PASS bundled glyph U+002B in empty-tow-confirm
+TD206_LAYOUT PASS bundled glyph U+0053 in empty-tow-confirm
+TD206_UI_SHOT empty-tow-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS bundled glyph U+0056 in wreck-salvage-confirm
+TD206_LAYOUT PASS bundled glyph U+0048 in wreck-salvage-confirm
+TD206_LAYOUT PASS bundled glyph U+004D in wreck-salvage-confirm
+TD206_UI_SHOT wreck-salvage-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS bundled glyph U+003A in wreck-game-over
+TD206_LAYOUT PASS bundled glyph U+0042 in wreck-game-over
+TD206_UI_SHOT wreck-game-over size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS bundled glyph U+002F in fuel-game-over
+TD206_UI_SHOT fuel-game-over size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS distinct empty-fuel reason shown
+TD206_LAYOUT_RESULT failures=0
+ERROR: Texture with GL ID of 118: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 119: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

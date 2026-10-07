@@ -1,0 +1,139 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/traffic/city_traffic.gd:318)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/cop_manager.gd:72)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/lower_city/lower_city.gd:0)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://tools/test_td206_route.gd:0)
+ERROR: Failed to load script "res://tools/test_td206_route.gd" with error "Compilation failed".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+WARNING: 'res://models/cars/tripo/tripo-coupe.glb': In external resource #0, invalid UID: 'uid://0mspabm80uno' - using text path instead: 'res://models/cars/tripo/tripo-coupe_coupe_color.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+         [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [2] run (res://tools/test_td206_route.gd:34)
+WARNING: 'res://models/cars/tripo/tripo-coupe.glb': In external resource #1, invalid UID: 'uid://cdo1xv20h5hgt' - using text path instead: 'res://models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+         [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [2] run (res://tools/test_td206_route.gd:34)
+WARNING: 'res://models/cars/tripo/tripo-coupe.glb': In external resource #2, invalid UID: 'uid://dyu6iobldrraq' - using text path instead: 'res://models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+         [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_coupe_color.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Can't load dependency: 'res://models/cars/tripo/tripo-coupe_coupe_color.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://.godot/imported/tripo-coupe.glb-daa7f7eb3a9f24938893fdba3f48cb45.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: Failed loading resource: res://models/cars/tripo/tripo-coupe.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+ERROR: res://scenes/tripo_car_coupe.tscn:23 - Parse Error: [ext_resource] referenced non-existent resource at: res://models/cars/tripo/tripo-coupe.glb.
+   at: _printerr (scene/resources/resource_format_text.cpp:41)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_car (res://scripts/lower_city/lower_city.gd:96)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:42)
+       [2] run (res://tools/test_td206_route.gd:34)
+WARNING: Node './Body' was modified from inside an instance, but it has vanished.
+     at: instantiate (scene/resources/packed_scene.cpp:312)
+     GDScript backtrace (most recent call first):
+         [0] _ready (res://scripts/vehicle.gd:119)
+         [1] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [2] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [3] run (res://tools/test_td206_route.gd:34)
+WARNING: Parent path './Body' for node 'HeadlightL' has vanished when instantiating: 'res://scenes/tripo_car_coupe.tscn'.
+     at: instantiate (scene/resources/packed_scene.cpp:213)
+     GDScript backtrace (most recent call first):
+         [0] _ready (res://scripts/vehicle.gd:119)
+         [1] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [2] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [3] run (res://tools/test_td206_route.gd:34)
+WARNING: Parent path './Body' for node 'HeadlightR' has vanished when instantiating: 'res://scenes/tripo_car_coupe.tscn'.
+     at: instantiate (scene/resources/packed_scene.cpp:213)
+     GDScript backtrace (most recent call first):
+         [0] _ready (res://scripts/vehicle.gd:119)
+         [1] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [2] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [3] run (res://tools/test_td206_route.gd:34)
+WARNING: TripoCarModel: Body node missing
+     at: push_warning (core/variant/variant_utility.cpp:1033)
+     GDScript backtrace (most recent call first):
+         [0] _build_wheels (res://scripts/tripo_car_model.gd:151)
+         [1] _ready (res://scripts/tripo_car_model.gd:101)
+         [2] _ready (res://scripts/vehicle.gd:120)
+         [3] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [5] run (res://tools/test_td206_route.gd:34)
+WARNING: TripoCarModel: headlight missing: HeadlightL
+     at: push_warning (core/variant/variant_utility.cpp:1033)
+     GDScript backtrace (most recent call first):
+         [0] _tune_headlights (res://scripts/tripo_car_model.gd:261)
+         [1] _ready (res://scripts/tripo_car_model.gd:102)
+         [2] _ready (res://scripts/vehicle.gd:120)
+         [3] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [5] run (res://tools/test_td206_route.gd:34)
+WARNING: TripoCarModel: headlight missing: HeadlightR
+     at: push_warning (core/variant/variant_utility.cpp:1033)
+     GDScript backtrace (most recent call first):
+         [0] _tune_headlights (res://scripts/tripo_car_model.gd:261)
+         [1] _ready (res://scripts/tripo_car_model.gd:102)
+         [2] _ready (res://scripts/vehicle.gd:120)
+         [3] _spawn_car (res://scripts/lower_city/lower_city.gd:101)
+         [4] _ready (res://scripts/lower_city/lower_city.gd:42)
+         [5] run (res://tools/test_td206_route.gd:34)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_traffic (res://scripts/lower_city/lower_city.gd:162)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:162)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:46)
+              [2] run (res://tools/test_td206_route.gd:34)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_cops (res://scripts/lower_city/lower_city.gd:182)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:182)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:47)
+              [2] run (res://tools/test_td206_route.gd:34)
+WARNING: Jolt Physics job system exceeded the maximum number of jobs. This should not happen. Please report this. Waiting for jobs to become available...
+     at: CreateJob (modules/jolt_physics/spaces/jolt_job_system.cpp:123)
+TD185_GIG {"cargo":"fresh fish on ice","cargo_left":1.0,"drive_s":143.6,"fare":4410,"from":"starlight","hits":0,"km":2.51,"late":false,"limit_s":255.0,"ok":true,"run":0,"share_of_limit":0.56,"time_used_s":142.1,"to":"gate2","total_yen":4900}
+TD185_GIG {"cargo":"sealed documents","cargo_left":1.0,"drive_s":89.2,"fare":2400,"from":"asahi_hq","hits":0,"km":1.54,"late":false,"limit_s":160.0,"ok":true,"run":1,"share_of_limit":0.55,"time_used_s":87.7,"to":"gate7","total_yen":2670}
+TD185_GIGS {"completed":2,"distance_m":6044.73983317509,"earned_yen":7570,"failures":0,"hud_glyph_checks":6,"runs":2}
+WARNING: 2 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)

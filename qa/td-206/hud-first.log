@@ -1,0 +1,363 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape clears GigHud @Button@33
+TD206_LAYOUT PASS landscape clears GigHud @Button@39
+TD206_LAYOUT FAIL landscape clears GigHud @Button@45
+TD206_LAYOUT PASS landscape clears GigHud Map
+TD206_UI_SHOT landscape-low-range size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS landscape E opens paused payment confirmation
+TD206_LAYOUT PASS landscape confirmation inside viewport
+TD206_LAYOUT PASS landscape confirmation has large touch target
+TD206_UI_SHOT landscape-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT landscape-paid size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS portrait fuel clears Left
+TD206_LAYOUT PASS portrait fuel clears Left
+TD206_LAYOUT PASS portrait fuel clears Right
+TD206_LAYOUT PASS portrait fuel clears Right
+TD206_LAYOUT PASS portrait fuel clears Gas
+TD206_LAYOUT PASS portrait fuel clears Gas
+TD206_LAYOUT PASS portrait fuel clears Brake
+TD206_LAYOUT PASS portrait fuel clears Brake
+TD206_LAYOUT PASS portrait clears GigHud @Button@33
+TD206_LAYOUT PASS portrait clears GigHud @Button@39
+TD206_LAYOUT PASS portrait clears GigHud @Button@45
+TD206_LAYOUT PASS portrait clears GigHud Map
+TD206_UI_SHOT portrait-low-range size=(390, 844) logical=(1280.0, 2770.0)
+TD206_LAYOUT PASS portrait E opens paused payment confirmation
+TD206_LAYOUT PASS portrait confirmation inside viewport
+TD206_LAYOUT PASS portrait confirmation has large touch target
+TD206_UI_SHOT portrait-confirm size=(390, 844) logical=(1280.0, 2770.0)
+TD206_UI_SHOT portrait-paid size=(390, 844) logical=(1280.0, 2770.0)
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Left
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Right
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Gas
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape fuel clears Brake
+TD206_LAYOUT PASS landscape clears GigHud @Button@33
+TD206_LAYOUT PASS landscape clears GigHud @Button@39
+TD206_LAYOUT FAIL landscape clears GigHud @Button@45
+TD206_LAYOUT PASS landscape clears GigHud Map
+TD206_UI_SHOT landscape-low-range size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS landscape E opens paused payment confirmation
+TD206_LAYOUT PASS landscape confirmation inside viewport
+TD206_LAYOUT PASS landscape confirmation has large touch target
+TD206_UI_SHOT landscape-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT landscape-paid size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT empty-tow-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT wreck-salvage-confirm size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT wreck-game-over size=(844, 390) logical=(1558.0, 720.0)
+TD206_UI_SHOT fuel-game-over size=(844, 390) logical=(1558.0, 720.0)
+TD206_LAYOUT PASS distinct empty-fuel reason shown
+TD206_LAYOUT PASS bundled glyph U+0046
+TD206_LAYOUT PASS bundled glyph U+0055
+TD206_LAYOUT PASS bundled glyph U+0045
+TD206_LAYOUT PASS bundled glyph U+004C
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006B
+TD206_LAYOUT PASS bundled glyph U+006D
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0031
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0050
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0031
+TD206_LAYOUT PASS bundled glyph U+0032
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00B7
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0062
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0033
+TD206_LAYOUT PASS bundled glyph U+0038
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0054
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0077
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+002B
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+005B
+TD206_LAYOUT PASS bundled glyph U+0043
+TD206_LAYOUT PASS bundled glyph U+005D
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00B7
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0033
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0052
+TD206_LAYOUT PASS bundled glyph U+0055
+TD206_LAYOUT PASS bundled glyph U+004E
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+004F
+TD206_LAYOUT PASS bundled glyph U+0056
+TD206_LAYOUT PASS bundled glyph U+0045
+TD206_LAYOUT PASS bundled glyph U+0052
+TD206_LAYOUT PASS bundled glyph U+0045
+TD206_LAYOUT PASS bundled glyph U+006D
+TD206_LAYOUT PASS bundled glyph U+0070
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0079
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+006B
+TD206_LAYOUT PASS bundled glyph U+003A
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+002F
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0077
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0062
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0042
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0031
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00B7
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0067
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006B
+TD206_LAYOUT PASS bundled glyph U+006D
+TD206_LAYOUT PASS bundled glyph U+0053
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0077
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0035
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0037
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0035
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006B
+TD206_LAYOUT PASS bundled glyph U+006D
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0054
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0079
+TD206_LAYOUT PASS bundled glyph U+003B
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0064
+TD206_LAYOUT PASS bundled glyph U+002E
+TD206_LAYOUT PASS bundled glyph U+0043
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0069
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+006D
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00B7
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0070
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0079
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+00A5
+TD206_LAYOUT PASS bundled glyph U+0032
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0030
+TD206_LAYOUT PASS bundled glyph U+0043
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+006C
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+2014
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT PASS bundled glyph U+006F
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0063
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0067
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0053
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0074
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0061
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0066
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0065
+TD206_LAYOUT PASS bundled glyph U+0073
+TD206_LAYOUT PASS bundled glyph U+0068
+TD206_LAYOUT PASS bundled glyph U+0020
+TD206_LAYOUT PASS bundled glyph U+0072
+TD206_LAYOUT PASS bundled glyph U+0075
+TD206_LAYOUT PASS bundled glyph U+006E
+TD206_LAYOUT_RESULT failures=2
+ERROR: Texture with GL ID of 117: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)
+ERROR: Texture with GL ID of 118: leaked 349524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:82)

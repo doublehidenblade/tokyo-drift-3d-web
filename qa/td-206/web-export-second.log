@@ -1,0 +1,1351 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Unable to open Android 'build-tools' directory.
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started Packing (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/hero_portrait.png-65682f347fb956462e6e73791f9e2b34.ctex[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/backdrop/hero_portrait.png.import[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/hero_portrait_loading.webp-a4aa47dab5b746ae1768eace0659e356.ctex[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/backdrop/hero_portrait_loading.webp.import[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/skyline_panorama.png-b3005a54653da3c9e76c9e0c482f16b4.ctex[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/backdrop/skyline_panorama.png.import[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/colormap.png-e29cdb91e601b67df1d3b9bf160decec.ctex[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/Textures/colormap.png.import[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/construction-barrier.glb-534c4ccb11dee9500b9306df460447c5.scn[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/construction-barrier.glb.import[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/construction-cone.glb-dbc6d156f0a7a4a13cade303e63ec718.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/construction-cone.glb.import[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/road-sign-warning.glb-529fe1f236c80c028bb10427bc83eecf.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/road-sign-warning.glb.import[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/road-straight-barrier-half.glb-9156a44bef7986bafe192f2eba58e10e.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/road-straight-barrier-half.glb.import[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/road-straight-barrier.glb-d7e70522b07843ca543c5b0d749dda7f.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/road-straight-barrier.glb.import[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sign-highway.glb-581bcf323cafab731ee9578da7ea0489.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/sign-highway.glb.import[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/traffic-light.glb-6465d65e499c1ad348fc1818939e6553.scn[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://assets/packs/kenney_city_kit_roads/traffic-light.glb.import[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Asphalt033_2K-PNG_AmbientOcclusion.png-830dfe5676b189c6474a68c53eb8d0a1.ctex[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_AmbientOcclusion.png.import[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Asphalt033_2K-PNG_Color.png-bbbb0154baf6b6c941f3d2633c904d7a.ctex[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Color.png.import[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Asphalt033_2K-PNG_Displacement.png-4d7bf2213075b982e07bd50fe1324543.ctex[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Displacement.png.import[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Asphalt033_2K-PNG_NormalGL.png-985875d9e0edcc700c81e160eea4b006.ctex[39m[0m
+[   3% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_NormalGL.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Asphalt033_2K-PNG_Roughness.png-d00b40512fda8c5505529885f04fa829.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Roughness.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Concrete034_2K-PNG_Color.png-1b360446b705423296e88d3079acc68e.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Color.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Concrete034_2K-PNG_Displacement.png-0ba82393e61e000151aac856161bba26.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Displacement.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Concrete034_2K-PNG_NormalGL.png-5c9e8842af15f72a42543d130ba59e5f.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_NormalGL.png.import[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Concrete034_2K-PNG_Roughness.png-179a35ea739d469dc1395e003e91571e.ctex[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Roughness.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Grass005_2K-PNG_AmbientOcclusion.png-6b1448bcfe2fa262eabbc0e7bc47b60c.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/grass/Grass005_2K-PNG_AmbientOcclusion.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Grass005_2K-PNG_Color.png-69b2c8f837e9091d1c98c0392a3080b8.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/grass/Grass005_2K-PNG_Color.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Grass005_2K-PNG_Displacement.png-314b7aeef08bd186eb8c96ef2d92413d.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/grass/Grass005_2K-PNG_Displacement.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Grass005_2K-PNG_NormalGL.png-7c66f037cbe1278a64c4bd653d8a604a.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/grass/Grass005_2K-PNG_NormalGL.png.import[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Grass005_2K-PNG_Roughness.png-9c04dabaf61f8b45195ff2d6564045d8.ctex[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/grass/Grass005_2K-PNG_Roughness.png.import[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Gravel043_2K-PNG_AmbientOcclusion.png-805f02273e95b1614701f839f2227867.ctex[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_AmbientOcclusion.png.import[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Gravel043_2K-PNG_Color.png-fd01672d7ef787c8a1171aa002ba80f4.ctex[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Color.png.import[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Gravel043_2K-PNG_Displacement.png-b3c43c90b2c9489ffc590a113c639022.ctex[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Displacement.png.import[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Gravel043_2K-PNG_NormalGL.png-f6e8a0c499f7d44c0e27f4b7876f1edc.ctex[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_NormalGL.png.import[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Gravel043_2K-PNG_Roughness.png-ed43c36d2d96454cd1245617f4b8dc64.ctex[39m[0m
+[   6% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Roughness.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Ground109_2K-PNG_AmbientOcclusion.png-cb68a3abc9559a26809a2ac3ad9d2f1d.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/ground/Ground109_2K-PNG_AmbientOcclusion.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Ground109_2K-PNG_Color.png-43b5eb870c80e5018853950a95fb9883.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/ground/Ground109_2K-PNG_Color.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Ground109_2K-PNG_Displacement.png-c9e79d6a8cc702efeb0f6d0c5d521f88.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/ground/Ground109_2K-PNG_Displacement.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Ground109_2K-PNG_NormalGL.png-a682e67f06141e7d79d81714ba6b4ddf.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/ground/Ground109_2K-PNG_NormalGL.png.import[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/Ground109_2K-PNG_Roughness.png-6a4da79318b42e5427865a13a4aef765.ctex[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/ambientcg/ground/Ground109_2K-PNG_Roughness.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/asphalt_graphic.png-6b7b42c5f9352d4dbfb1c7477dbb7b01.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/asphalt_graphic.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/facade_panel.png-0654a1d7934dc4cdcd7a1c526c724e36.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/facade_panel.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/foliage_mottle.png-c15e65eae5e482f8219e2d691516ccfa.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/foliage_mottle.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/ground_aggregate.png-69615ee5a84dbcdf4d86b528ae3339f4.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/ground_aggregate.png.import[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/metal_panel_albedo.png-8a82f84ea5919bcc0dca772990baa5ec.ctex[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/metal_panel_albedo.png.import[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/painted_trim_albedo.png-858cc8ad1922ab1ef88bd99e038c24e1.ctex[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/painted_trim_albedo.png.import[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signage_panel_albedo.png-0dcfce7862723cd3db8d68a44a372cce.ctex[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/signage_panel_albedo.png.import[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/wood_grain_albedo.png-f54284fe5e4f45de20ca45318792da82.ctex[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://assets/pbr/stylized/wood_grain_albedo.png.import[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/media-generation-tokyo-tower-ref-0-74d4c879-0f9d-45a4-9318-749ad2cf3270.webp-71b66cdc7ec211a9a353f371e9432f8d.ctex[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/media-generation-tokyo-tower-ref-0-74d4c879-0f9d-45a4-9318-749ad2cf3270.webp.import[39m[0m
+[   9% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/media-generation-tokyo-tower-ref-1789740294.json[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/media-generation-torii-gate-ref-0-f17a5aab-8db7-45e6-9a6b-8b5dbfa4f828.webp-86cbcb402e0c87699a3438a6cfe3a03c.ctex[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/media-generation-torii-gate-ref-0-f17a5aab-8db7-45e6-9a6b-8b5dbfa4f828.webp.import[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/media-generation-torii-gate-ref-1789740288.json[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tokyo-tower-ref.png-2d46ed3c5bd1f5bd40a40e93ba182565.ctex[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/tokyo-tower-ref.png.import[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/torii-gate-ref.png-51dd420ccfad026ac96148842722a0bf.ctex[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/refs/torii-gate-ref.png.import[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/tokyo_tower_stats.json[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tokyo_tower_triposr.glb-7fe19edba7a3f9ac48e798a6e5a66336.scn[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/tokyo_tower_triposr.glb.import[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tokyo_tower_views.png-355f0879e964885cf061c6b07409a105.ctex[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/tokyo_tower_views.png.import[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/torii_gate_stats.json[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/torii_gate_triposr.glb-1014dfba60fc8b3adb0cc6a683441cb1.scn[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/torii_gate_triposr.glb.import[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/torii_gate_views.png-c22bd8b769883e2eae3fd559678d86ce.ctex[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://assets/prototypes/reconstructed/torii_gate_views.png.import[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/enamel_atlas.png-20f7e3dd0f4f614a5500430c2fa2a1b2.ctex[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/enamel_atlas.png.import[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_izakaya.png-a50a8c5489804146322d4c8bc5a6b6ad.ctex[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_izakaya.png.import[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_kissaten.png-6b0b59ad61bc992d9ac524e284ebd47e.ctex[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_kissaten.png.import[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_pachinko.png-5b10b19bbe365673bdbac85abd7ce250.ctex[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_pachinko.png.import[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_sakaya.png-79e0c68fd9c91a1f6cdfd6642c685b23.ctex[39m[0m
+[  12% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_sakaya.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_soba.png-a36f51ff3762b76038821498d93d36c1.ctex[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_soba.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_sushi.png-2d38046355c2620e36913213082f417e.ctex[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_sushi.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_tabako.png-d7158ec8606596c2a8a7115e9b982056.ctex[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_tabako.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sode_yakkyoku.png-a688433441c752d37f05fc90d6211161.ctex[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://assets/showa/tex/sode_yakkyoku.png.import[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a0a80a2a461912d100f498ffbf04f574-tripo_car_hatchback.scn[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7046372a2f8e05f2458896feb50045f3-tripo_car_coupe.scn[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-345f69e448a942c351bce90153c65a18-tripo_car_bus.scn[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-9ebb58bd4478c7fe702c339c174c4ca4-tripo_car_boxtruck.scn[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_hud.gdc[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_touch_controls.gdc[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-6bde02f316ec9e6576e002fa6c595f9d-trail-smoke-material.res[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-534cd2bd706e0b5b2eb305707efb1474-paper_map.scn[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://icon.png.import[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-fc26cda20568d950ddef34bce3a7b1b0-tripo_car_sedan.scn[39m[0m
+[  15% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-0b5757acf5eaee7cffc93fdd8b134f67-tripo_car_pickup.scn[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a3fbc379cd8b51e72404b30b1ade79e7-tripo_car_minivan.scn[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-06bcd7b3328e06f933c5bb784860e268-tripo_car_luxury.scn[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-42ea8c6d6803802c4346f3f7419ef87d-tripo_car_keicar.scn[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-200ee86a2d726be57580af76f7ac0ad7-tripo_car_van.scn[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter.gdc[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/street_tree_ginkgo.glb-7311b7a79fd1bbb1c843e21ccbb94fec.scn[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://assets/td-101/street_tree_ginkgo.glb.import[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/street_tree_plane.glb-807658716bcc6b7d889f6ce2add6d1b2.scn[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://assets/td-101/street_tree_plane.glb.import[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/street_tree_zelkova.glb-ae229b9ac062655b119db3e735a325ce.scn[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://assets/td-101/street_tree_zelkova.glb.import[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c51c9e31a073edbbaa0f4e43902dc9b4-lower_city.scn[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-bfc76b8a7d4505dd6862fc538172f306-gig_hud.scn[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-09a670b8572593c4cd5c4da4e57ee8b8-gig_dispatch.scn[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-9b94f7c17f57ae48ff8be35e1ce3dbc1-city_world.scn[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c41b23970eca61300535e8a2589536a9-city_signs.scn[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-9d2b1819624f9e371f033e38fec4beb0-city_atmosphere.scn[39m[0m
+[  18% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-6a126339b7c4dcaa1e375dcbd0d71e46-bay_strait.scn[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/smoke.png-4ce44d0c966a6a09693dcb33792d404a.ctex[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://sprites/smoke.png.import[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-624e4f1e9deecb05c9b7da0dca3807ce-harbor_west.scn[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://shaders/water_night.gdshader[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://shaders/stylized_sky_mobile.gdshader[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://shaders/ssr_water.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://shaders/slice_water.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://shaders/slice_asphalt.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://shaders/sky_night.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://shaders/shuto_facade.gdshader[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://shaders/sedan_finish.gdshader[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://shaders/race_finish.gdshader[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://shaders/contact_shadow.gdshader[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_vcol.gdshader[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://shaders/city_surface.gdshader[39m[0m
+[  21% ] [90m[1msavepack[22m | Storing File: res://shaders/city_pop_sky.gdshader[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://shaders/toon/toon_sky.gdshader[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://shaders/toon/toon_outline.gdshader[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://shaders/toon/toon_foliage.gdshader[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://shaders/toon/toon_base.gdshader[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://shaders/fx/impact_star.gdshader[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_tower.gdshader[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_streak.gdshader[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_sign_text.gdshader[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_road_2s.gdshader[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_road.gdshaderinc[39m[0m
+[  24% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_road.gdshader[39m[0m
+[  24% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_pool.gdshader[39m[0m
+[  24% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_ink_hull.gdshader[39m[0m
+[  24% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_flare.gdshader[39m[0m
+[  24% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_facade.gdshader[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_city.gdshader[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_car.gdshader[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://shaders/anime/anime_arc.gdshader[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_input_provider.gdc[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://scripts/main_menu.gdc[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://scripts/local-input-provider.gdc[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://scripts/world_track.gdc[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://scripts/world_builder.gdc[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle_sphere_contacts.gdc[39m[0m
+[  27% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle.gdc[39m[0m
+[  27% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle-model.gdc[39m[0m
+[  27% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle-config.gdc[39m[0m
+[  27% ] [90m[1msavepack[22m | Storing File: res://scripts/tripo_car_model.gdc[39m[0m
+[  27% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic_fleet_config.gdc[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic_ai.gdc[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic.gdc[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://scripts/track_waypoints.gdc[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://scripts/track_decorator.gdc[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://scripts/touch_state.gdc[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://scripts/touch_controls.gdc[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://scripts/td109_sedan_model.gdc[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://scripts/remote_snapshot_interpolator.gdc[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://scripts/race_loader.gdc[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://scripts/race_bodywork.gdc[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://scripts/pedestrian_manager.gdc[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://scripts/pedestrian.gdc[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://scripts/offroute_reset.gdc[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://scripts/night_lighting_rig.gdc[39m[0m
+[  30% ] [90m[1msavepack[22m | Storing File: res://scripts/net_config.gdc[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://scripts/net.gdc[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_trace.gdc[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_lobby.gdc[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_debug_overlay.gdc[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_race.gdc[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_nameplate.gdc[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_traffic_ai.gdc[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://scripts/kenney_car_model.gdc[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://scripts/input-provider.gdc[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://scripts/impact_fx.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/game_signals.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/game_config.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/drive_input.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/crime_bus.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/cop_manager.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/cop_car.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/chase_camera.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/ui_kit.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/striped_bar.gdc[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/skew_label.gdc[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/skew_button.gdc[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/race_results.gdc[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/menu_backdrop.gdc[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/loading_overlay.gdc[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/damage_vignette.gdc[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/damage_bar.gdc[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/checkered_strip.gdc[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_profile.gdc[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_traffic.gdc[39m[0m
+[  35% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_road_graph.gdc[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a6fc548292ed53bd2e04f33bcd5160a5-tripo_car_suv.scn[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-8933a3eedb1b852d25093f04c3892b00-tripo_car_wagon.scn[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/slice_world.gdc[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/slice_race.gdc[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bridge_suspension.glb-0fd5aa13b4bb610cbee7097673516948.scn[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/bridge_suspension.glb.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bridge_suspension_bridge_rail.png-09586d70444eb9743da57790c6219a5f.ctex[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/bridge_suspension_bridge_rail.png.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bridge_suspension_bridge_road.png-969325df79e23e2304c2b6fb9ac18ec8.ctex[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/bridge_suspension_bridge_road.png.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bridge_suspension_truss_grime.png-6aa4b72fb3d59e38bbf4a0034afb1bbb.ctex[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/bridge_suspension_truss_grime.png.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/downtown_facade.glb-7e6bd1b53169d20e2094302911bd69e1.scn[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/downtown_facade.glb.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/port_crane.glb-9d8eb396cd519ab6875423611b45e644.scn[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/port_crane.glb.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/scramble_crossing.glb-6d1e6f1c4b381e126286bed1d253dc92.scn[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/scramble_crossing.glb.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/shotengai_storefront.glb-467c9c412ec6106cb1c753d778b4929c.scn[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/shotengai_storefront.glb.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signal_gantry.glb-c6687041a7b0e45716e51fe9a84745f2.scn[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/signal_gantry.glb.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signal_gantry_gantry_A.png-78563fda1241920b22e35beedc389103.ctex[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/signal_gantry_gantry_A.png.import[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signal_gantry_gantry_B.png-62172a613ccb0d9c42afbeff2c5ef346.ctex[39m[0m
+[  38% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/signal_gantry_gantry_B.png.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signal_gantry_gantry_C.png-31348daec80378718e436a5fecd5282b.ctex[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/signal_gantry_gantry_C.png.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/signal_gantry_gantry_yellow.png-77d76c6b14487068dae66e22b5934fc3.ctex[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/signal_gantry_gantry_yellow.png.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/street_lamp.glb-14d23d37eb71745dbb78efc807d79760.scn[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/street_lamp.glb.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/street_tree.glb-fe688fc466409a39262768db3c48139a.scn[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/street_tree.glb.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tokyo_tower.glb-652acbdee407408e2092576913d71c51.scn[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://assets/td-119/tokyo_tower.glb.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bottle_crate.glb-3851bc09ab00823270783c1e2f8eae31.scn[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/bottle_crate.glb.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/light_pool.glb-e46e30f446d9978ad3f8c077d95491ca.scn[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/light_pool.glb.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/phone_booth_pillar.glb-14ed2e25beaf84db8e8ce18269ce4d23.scn[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/phone_booth_pillar.glb.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/phone_booth_square.glb-5c4e529549e0a59522b9b7bdd18e81c6.scn[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/phone_booth_square.glb.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/vending_button80s_pocari.glb-905ec2dc97d3701cf857692a0c062fd6.scn[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/vending_button80s_pocari.glb.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/vending_button80s_ucc.glb-86b21642a872832e55c81260dedd274c.scn[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/vending_button80s_ucc.glb.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/vending_flat70s_cocacola.glb-cf137ee68c2c98725baea10915511d88.scn[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/vending_flat70s_cocacola.glb.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/vending_flat70s_pokka.glb-cbb2b869406d2f491f8374c8fc131b89.scn[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/td-165/vending_flat70s_pokka.glb.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora.glb-43fad85e7a9e99856c647ee83f8fc0a3.scn[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora.glb.import[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_jizo_bib.png-50936f074d87abdc07977ccd8caac352.ctex[39m[0m
+[  41% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_jizo_bib.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_jizo_granite.png-5c2c895048cc5d50779f7011880a47f6.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_jizo_granite.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_jizo_wood.png-dbac80a22dd80894193bed5512e717a5.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_jizo_wood.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Dark_flat.png-831851712c637eacee007712b0b0469e.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Dark_flat.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_FlowerP_flat.png-97b1f990d39bf75514c18d82cd0c7b17.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_FlowerW_flat.png-a3f30188dd357e69fc3f5cf09c30cc60.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_FlowerY_flat.png-205b02f96cfbc9580ed51832a0048ecc.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Jizo_Red_flat.png-44028dfe32672c891774bf21d8ffe42f.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Jizo_Stone_flat.png-c1d6cd43e83d8c63581d99315a3a3045.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Outline_flat.png-437c41492d30f0602d1a3dcf62c5d79f.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Outline_flat.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Sake_flat.png-e1cb80e3cb059e22f61705b65fe53a18.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Sake_flat.png.import[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_hokora_Mat_Vase_flat.png-a214ff82feead687301408b124ed0ff6.ctex[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_hokora_Mat_Vase_flat.png.import[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed.glb-297b4f3ef4bfd7337b7a67ca410d5a82.scn[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed.glb.import[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_jizo_bib.png-07c06a2f0e592e29427f61d16682c571.ctex[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_jizo_bib.png.import[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_jizo_tin.png-a5138273533a5d6e12ee4671d2dad392.ctex[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_jizo_tin.png.import[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_jizo_wood.png-9fdce8415a280bbb8f1af28b0fc50bc3.ctex[39m[0m
+[  44% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_jizo_wood.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Dark_flat.png-0dbb77f4b9bd1662b22391ac2876fce7.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Dark_flat.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_FlowerP_flat.png-5920744a10a2e3fb7a426ee664237668.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_FlowerW_flat.png-e065f8825e0f2d51c66279f431cdd585.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_FlowerY_flat.png-d44c10ca19d6ee452cff4a58755e9f6c.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Jizo_Red_flat.png-334c1906df2c5cf1b28c416ff4bea40a.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Jizo_Stone_flat.png-804454955faaa456b846d605c3c5dcc8.ctex[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Outline_flat.png-6529ef27c26a08927e5cc37f030f6e90.ctex[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Outline_flat.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Sake_flat.png-7b01ce712d3a169302ef61392aeb1dca.ctex[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Sake_flat.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jizo_shed_Mat_Vase_flat.png-1d3d5a97eb4de8fda84b0419357e389b.ctex[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/jizo_shed_Mat_Vase_flat.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick.glb-7df1a4b8d191836cc6af1b246191a7b7.scn[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick.glb.import[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_koban_brick.png-4c39cdd10ed1500ed9e934f58ef9d807.ctex[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_koban_brick.png.import[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_koban_clock.png-8dc223d35f705fbbb91341b968031a69.ctex[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_koban_clock.png.import[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_koban_sign.png-2fee849bc6029ba7f9ab163f1a5cda88.ctex[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_koban_sign.png.import[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_koban_window.png-2cc5871fa8dd7775bee6018f7f27ba0c.ctex[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_koban_window.png.import[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_Mat_BikeBlack_flat.png-34381f97e5b577d90085f8553f7acec6.ctex[39m[0m
+[  47% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_Mat_Concrete_flat.png-5a69b7b736647ce0bfe28fc6c82ce828.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_Mat_Concrete_flat.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_Mat_Dark_flat.png-4e9d885acf42659dd88815ab258b2852.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_Mat_Dark_flat.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_Mat_LampGlow_flat.png-86c4d7a1e478c4f0b1b8827400cdc75e.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_Mat_LampGlow_flat.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_Mat_Outline_flat.png-8fcd9638fd16a7ec4b0636531ae36b20.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_Mat_Outline_flat.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_brick_sento_roof.png-76d9f35e911feab78a336f5584c7e9c7.ctex[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_brick_sento_roof.png.import[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete.glb-744ded7dfb67b49c84afea1504b21421.scn[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete.glb.import[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_koban_clock.png-2f04ca1b72af8cdc9b707c5f81bfbcec.ctex[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_koban_clock.png.import[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_koban_concrete.png-7d69587be4cca36c34279469edfc30d0.ctex[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_koban_concrete.png.import[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_koban_sign.png-f78891e624798d96165264a3fd7021e1.ctex[39m[0m
+[  49% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_koban_sign.png.import[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_koban_window.png-9f0819ef2d4fabbedc268be9e6274e62.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_koban_window.png.import[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_Mat_BikeBlack_flat.png-ad1d01b74767fb13edd7c25b14442910.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png.import[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_Mat_Concrete_flat.png-fe8816e1d1c1ed69c2c5a6c4710f36fb.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_Mat_Concrete_flat.png.import[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_Mat_Dark_flat.png-9601af847e7326e31074ddd7d512b1c2.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_Mat_Dark_flat.png.import[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_Mat_LampGlow_flat.png-8cf96e140f26745beb569eb5facc6a38.ctex[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/koban_concrete_Mat_Outline_flat.png-40ae523bb108dab12841aa693850b705.ctex[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/koban_concrete_Mat_Outline_flat.png.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento.glb-23b01410b4445c800101f79a1352ee1b.scn[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento.glb.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_Concrete_flat.png-62d869b076b59e2d3e058d2426a1b502.ctex[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_Concrete_flat.png.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_Dark_flat.png-3c67ac2c5d917045959e20d77456e905.ctex[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_Dark_flat.png.import[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_Outline_flat.png-b420525978a2068c3e77abef0c77b023.ctex[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_Outline_flat.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_WindowDark_flat.png-5f11b94272dba83003614141012b9d4f.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_WindowDark_flat.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_WindowLit_flat.png-10850e475ea9564cb460943d94bd0e4f.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_WindowLit_flat.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_Mat_WoodDark_flat.png-86348bf95a0256dc6c207c4d5febe114.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_Mat_WoodDark_flat.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_sento_chimney.png-3c0c02d6937ee0f10f220b49ba829b90.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_sento_chimney.png.import[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_sento_noren.png-98a33159f58e9ae4452a2dce1802c03c.ctex[39m[0m
+[  52% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_sento_noren.png.import[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_sento_roof.png-4469368e60f80e161b11721766fe7ef7.ctex[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_sento_roof.png.import[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sento_sento_wall.png-cebd3a033ef2738fdcaa05c32a3f2a80.ctex[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://assets/td-168/sento_sento_wall.png.import[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/engine.ogg-254ef2e050080878a082fcee107162bd.oggvorbisstr[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://audio/engine.ogg.import[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/impact.ogg-269c0252b110415bc0e0bddca8c04785.oggvorbisstr[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://audio/impact.ogg.import[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/skid.ogg-f546762698e433074668bda7570f884e.oggvorbisstr[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://audio/skid.ogg.import[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-17cdef3da29a5c55a70074cbe524bbcb-day.res[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7436eda63632e9f776fd369c3ce81015-night.res[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-6c400fe46307aef7be626c1171e2e8ba-shuto_night.res[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-af626036f31b939711c90debb735e00b-trench.res[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-fcc1f5c16270f759f396daafb62b8962-starter_coupe.res[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://data/fuel/stations.json[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://data/lower_city/city.json[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/showa_signage.gdc[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://data/traffic/sample_roads.json[39m[0m
+[  55% ] [90m[1msavepack[22m | Storing File: res://data/vehicles/vehicle_spec.json[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://data/slice_route.json[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7b2940adce358aed211a4c4b37b03997-track_waypoints.res[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-37149a9c9aa5520eb4494777a6862dac-traffic_fleet.res[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/display-latin.ttf-0ec7a0c4f33f3abb215fabc092bd271e.fontdata[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://fonts/display-latin.ttf.import[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jp-neon.otf-7ce4635a0a12164fe60e2c7bd827aa9b.fontdata[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://fonts/jp-neon.otf.import[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/kicker-cjk.ttf-93bf1bb663af8cf991f462ad5d2e3375.fontdata[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://fonts/kicker-cjk.ttf.import[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/trench-signs-jp.ttf-f76a857768492233c9eef797864ab685.fontdata[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://fonts/trench-signs-jp.ttf.import[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/colormap.png-86375777d1b73fa48131da87edf7a444.ctex[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://models/cars/Textures/colormap.png.import[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-boxtruck.glb-d2b61e47c8bfdd16e8a91283d2931090.scn[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-boxtruck.glb.import[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-boxtruck_boxtruck_color.png-e55a603406d4ae9b227e07b18bcfeb8d.ctex[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-boxtruck_boxtruck_color.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-76841529a6b83b36675f9e1faf5b28d7.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-d9e65ddb06fbd3dbc7eb7b3374941c2e.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-bus.glb-e915afe8293ecef6eb2b389a85090889.scn[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-bus.glb.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-bus_bus_color.png-fe8c02eb47ab718d731d2c9830327a56.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-bus_bus_color.png.import[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-d34e395d2429af9786936748c868cd85.ctex[39m[0m
+[  58% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png.import[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-4bfe35f39f52b34089d9a18c07d7666f.ctex[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png.import[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-coupe.glb-daa7f7eb3a9f24938893fdba3f48cb45.scn[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-coupe.glb.import[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-coupe_coupe_color.png-e8754e6420c0cccf13318057cf3e1a6c.ctex[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-coupe_coupe_color.png.import[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png-181b230e4137e1bac3a815b16c469cd8.ctex[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png.import[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png-4601dc52d521619bab1468a9ac720d54.ctex[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png.import[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-hatchback.glb-d7fdb4ad364637342a25f3c9888dd801.scn[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-hatchback.glb.import[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-hatchback_hatchback_color.png-25edbdc7860be61d9ecff23a8455530f.ctex[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-hatchback_hatchback_color.png.import[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-hatchback_hatchback_ORM.png-f52b728142f821a9405ea4913200bab7.ctex[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-hatchback_hatchback_ORM.png.import[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png-550040f77deb144dd98a49bef3d3cc22.ctex[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png.import[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-keicar.glb-a497e30a894c7f49b4cb80ab768b5cfb.scn[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-keicar.glb.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-keicar_keicar_color.png-2eb1b2c8f07bb3eb3dce095def4a9f11.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-keicar_keicar_color.png.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-781e44108b333d8ed5eaee2a177acde3.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-131757e93b987fb509edcb9518eb2fb3.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-luxury.glb-18819a52447ee4d2da6828e32371d6f1.scn[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-luxury.glb.import[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-luxury_luxury_color.png-18387c86e56823948399c29ec2ef6aa0.ctex[39m[0m
+[  61% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-luxury_luxury_color.png.import[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png-be23418d229950938b89ac947ba3e709.ctex[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png.import[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png-bbf561cadd88e1b407abde64ce13699e.ctex[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png.import[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-minivan.glb-980122419048dfd62913fc28645293a9.scn[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-minivan.glb.import[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-minivan_minivan_color.png-ecea22cdd1ee116c8abcf69f6c94002d.ctex[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-minivan_minivan_color.png.import[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-f3b5b464346418d270a72fe49ab66a8a.ctex[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png.import[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-304610f6a33f07ea41a59c7639bfc967.ctex[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png.import[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-pickup.glb-3766181bb6eccbfcc4b1a78fc0f1a5e8.scn[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-pickup.glb.import[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-7da99ba5c1b47ceb01fa4a806f72a73b.ctex[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png.import[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-3007b956f5df91d07d59c185fe957950.ctex[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png.import[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-pickup_pickup_color.png-47d5d1e85d15f814d7dd877cc0ac1916.ctex[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-pickup_pickup_color.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-sedan.glb-612773e03c24815fdf6feef57999b70f.scn[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-sedan.glb.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-3a50e2ca8a5633d7127ba7a68be10e75.ctex[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-f3494b60114376152bfcd11f1a6f5163.ctex[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-sedan_sedan_color.png-931b8c3406a5a807c18f0c1124be0952.ctex[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-sedan_sedan_color.png.import[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-suv.glb-efb76e9229731296d9d298d07da3876c.scn[39m[0m
+[  64% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-suv.glb.import[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-c38a0e856b023dc4199612ee4df93065.ctex[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png.import[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-01e683ad02e0f934795c2b37dd5bfc67.ctex[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png.import[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-suv_suv_color.png-bd7b1f408cc3eb9a6cee50cfafb17113.ctex[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-suv_suv_color.png.import[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-van.glb-7859ac52a94363c53b2dedb80248dabc.scn[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-van.glb.import[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-c78e80f24827ff06253f1ffd571b7011.ctex[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-8f712b9d02ee5647d7f8752d6e1935f5.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-van_van_color.png-dfb052385c5ca44aba32e6f7650165f5.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-van_van_color.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-wagon.glb-025a7c88f981441fb4551de2c35eace0.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-wagon.glb.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-02eb51ea3ac8cc12eab32b24df45c4c5.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-58b764433de835912c3eede01113a07b.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/tripo-wagon_wagon_color.png-644f192d51fdd125e808a8c561e2f5aa.ctex[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/tripo/tripo-wagon_wagon_color.png.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/race.glb-8057f6fb46c91c19bbadf164e6aaf8d3.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/race.glb.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sedan.glb-1920cc6755965f8c21b3d0bfb3243272.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/sedan.glb.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/suv.glb-9f99cacb7cda63a46cccec8b8b3c72a4.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/suv.glb.import[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/taxi.glb-8b23662f3843d532a6382070ee45f59e.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://models/cars/taxi.glb.import[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/van.glb-999e9be293fac829ec3ce7116d5a428a.scn[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://models/cars/van.glb.import[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/colormap.png-a0cce347aa4e54d70e22854d2bc50e74.ctex[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://models/city/Textures/colormap.png.import[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-a.glb-d23ab9b44133015f676990e21310a064.scn[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://models/city/building-a.glb.import[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-b.glb-5d9865ef5d65f11184098cf7b1a48cdd.scn[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://models/city/building-b.glb.import[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-c.glb-3b7764f33d5620830522df019762112b.scn[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://models/city/building-c.glb.import[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-d.glb-ac914b8fb5653624a36f84dac90e5ec0.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://models/city/building-d.glb.import[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-e.glb-7918dc021c5fd39be624c2eae1ab69e5.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://models/city/building-e.glb.import[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-f.glb-4c889763b1ff81e49150908d179b8f54.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://models/city/building-f.glb.import[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-skyscraper-a.glb-ad0afaa5006f863cb9518eb7c0ac2e79.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://models/city/building-skyscraper-a.glb.import[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/building-skyscraper-b.glb-1ce2d54aaa1cdb21a3d0a82096e32e61.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://models/city/building-skyscraper-b.glb.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/banner_hw.png-7bb538098e276f96f3bde986738a084e.ctex[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://models/districts/textures/banner_hw.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/sky_night.png-fba766518cc4fd6dafe82322045a99c4.ctex[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://models/districts/textures/sky_night.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/town_night.png-4942572d4c7db8558cc910d38eda1a6f.ctex[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://models/districts/textures/town_night.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/windows_night.png-4160b7fff613e177ac52721067294556.ctex[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://models/districts/textures/windows_night.png.import[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait.glb-7aaf2f39bae019b2ca267d7b12be8f36.scn[39m[0m
+[  69% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait.glb.import[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_0.png-3891d344fb9ed3f97540957416fb900c.s3tc.ctex[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_0.png.import[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_1.png-c2650d14d7c97a08fe15ef526273e7b5.s3tc.ctex[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_1.png.import[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_2.png-5461b314287d98b79a42bc06490179c7.s3tc.ctex[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_2.png.import[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_3.png-251930428f53b1d92055489cea84839d.s3tc.ctex[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_3.png.import[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_4.png-b64f32d80e2c1f89eb33c937371875ca.s3tc.ctex[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_4.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_5.png-bca6b2930ed60240daffba0494e2f6d2.s3tc.ctex[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_5.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_6.png-370e37ab192a09c8d11fd1f77fe33caf.s3tc.ctex[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_6.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_7.png-ef4416ab8034eac0dd03ecfc51ea3794.s3tc.ctex[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_7.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_8.png-a4ef306a3068a87d6066f93bcac783be.s3tc.ctex[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_8.png.import[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_9.png-02bd0843693d80b8c966cb3448ac01bb.s3tc.ctex[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_9.png.import[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_10.png-3d1060b7189292069e7602dea778f910.s3tc.ctex[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_10.png.import[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_11.png-32b497079f4c62b7f8e417788eed2049.s3tc.ctex[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_11.png.import[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_12.png-4c8455142aa159f7d40dd480638b1811.s3tc.ctex[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_12.png.import[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_13.png-547e77c162d2ce036cb8fea0a131085a.s3tc.ctex[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_13.png.import[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_14.png-a488f994fe2738885d285dbe10221b2d.s3tc.ctex[39m[0m
+[  72% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_14.png.import[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_15.png-eec3889da58212b2c40ebdf50867c4b3.s3tc.ctex[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_15.png.import[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_16.png-1f080898b62fea7dcd9f3bc545cd946f.s3tc.ctex[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_16.png.import[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_17.png-476d1d53f5f100b5a214141b14d51be6.s3tc.ctex[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_17.png.import[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_18.png-415f30ee6fb23086bd494c4a4cca472a.s3tc.ctex[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_18.png.import[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_19.png-c2457e5c76cb3253e7419fbbf76d4048.s3tc.ctex[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_19.png.import[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_20.png-0f65ec9f9a030f3866c7a272906f761e.s3tc.ctex[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_20.png.import[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_21.png-4938e0ddb5464296ca059d6c5802d324.s3tc.ctex[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_21.png.import[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_22.png-70a32f643e1b191aaf66b2ec2260224e.s3tc.ctex[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_22.png.import[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_23.png-a5783225d32f7e4d567bf28230094530.s3tc.ctex[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_23.png.import[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/bay_strait_24.png-f05b1fb528a3d2abd292b753f8d14afb.s3tc.ctex[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://models/districts/bay_strait_24.png.import[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/harbor_west.glb-3e7d88bcecddafa174eb0f73bf898c2b.scn[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://models/districts/harbor_west.glb.import[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_bluewhite.glb-d4c7afdc6b46f9b6d2cb30a9fadad188.scn[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_bluewhite.glb.import[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_bluewhite_awning_stripes_blue.png-912ee00051cc7685c6f5f17e1edee623.ctex[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_bluewhite_awning_stripes_blue.png.import[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_greenwhite.glb-3122dfe17a34cc955d04be7189108b7d.scn[39m[0m
+[  75% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_greenwhite.glb.import[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_greenwhite_awning_stripes_green.png-704975e6bf71dab756f4da4327c38a15.ctex[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_greenwhite_awning_stripes_green.png.import[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_redwhite.glb-795e1e788a14339a0ad1155a2d909c40.scn[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_redwhite.glb.import[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_redwhite_awning_stripes_red.png-d2f509a5c799bfd649fe48de37b8605b.ctex[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_redwhite_awning_stripes_red.png.import[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_retracted.glb-71ae83eedc783a2665f2141ac692d88a.scn[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_retracted.glb.import[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_retracted_awning_stripes_red.png-23fbed60c69ac3eca0fce7fc021fc1e2.ctex[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_retracted_awning_stripes_red.png.import[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_worn.glb-ea1be6a31a43756a4fb47af62c9539a8.scn[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_worn.glb.import[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/awning_worn_awning_stripes_worn.png-148f715170aca0ae52ab4481b5d334fe.ctex[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://models/props/awnings/awning_worn_awning_stripes_worn.png.import[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_crossarm_tier.glb-c059dd2f8eb4f4ff43609292d2c62398.scn[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_crossarm_tier.glb.import[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_gooseneck.glb-fe0e5a5f975d1ae26c88a6fd4434731c.scn[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_gooseneck.glb.import[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_horo_kanban.glb-642822011d1bf5394ca54e3ade788726.scn[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_horo_kanban.glb.import[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_id_plate.glb-846a76cbb9fa7a961a3a63985acd18bc.scn[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_id_plate.glb.import[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_insulator.glb-1e555189fa3599d7f8540229577e39de.scn[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_insulator.glb.import[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/att_transformer.glb-5bc09ff8e70dd6048f264ef2c54d53eb.scn[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/att_transformer.glb.import[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pole_bare.glb-2b88c933025ec791e548771e34d9f7f8.scn[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/pole_bare.glb.import[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pole_corner.glb-8fe397a562539c473a6b4cae4dee9fb1.scn[39m[0m
+[  78% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/pole_corner.glb.import[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pole_streetlight.glb-7faa3c1036b4877477af1fd76429ce46.scn[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/pole_streetlight.glb.import[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/pole_transformer.glb-e441e063526162d5f254c014c411c942.scn[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://models/props/showa/pole_transformer.glb.import[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_aframe_sign.glb-caa22d5843e736c3bd77c7506cc26448.scn[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_aframe_sign.glb.import[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_aframe_sign_tex_aframe.png-08daf5c426f322d549e43c7292b2457f.ctex[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_aframe_sign_tex_aframe.png.import[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_canopy_fascia_blue.glb-f0408c628e1313c06236a5395f5f06d1.scn[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_canopy_fascia_blue.glb.import[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_canopy_fascia_red.glb-9a924940850b3c1d3be6b8f4e4cfc2e2.scn[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_canopy_fascia_red.glb.import[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_canopy_roof.glb-83e2b3ffcdfede92c8706f1453c66559.scn[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_canopy_roof.glb.import[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_canopy_roof_tex_canopy_top.png-0568a47dd148703ea3db24a172cbabae.ctex[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_canopy_roof_tex_canopy_top.png.import[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_canopy_roof_tex_canopy_under.png-8cbb328c6ab4b9799c5d1a54e52da561.ctex[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_canopy_roof_tex_canopy_under.png.import[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_column.glb-7a3f06b0cb2727327c347104a770a8d6.scn[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_column.glb.import[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_column_tex_column.png-c37b92e436f977bd246443c302901973.ctex[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_column_tex_column.png.import[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_enamel_plate_blue.glb-7c3c53032a587d4aa844973cb31e4143.scn[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_enamel_plate_blue.glb.import[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_enamel_plate_blue_tex_enamel_blue.png-353f4562ac35941bd48f75ab852e03b1.ctex[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_enamel_plate_blue_tex_enamel_blue.png.import[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_enamel_plate_red.glb-3ec018dfb406c28ba80a1fc691e70627.scn[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_enamel_plate_red.glb.import[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_enamel_plate_red_tex_enamel_red.png-c29cd2d0fcd1bce5577d457fbd8c72f3.ctex[39m[0m
+[  81% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_enamel_plate_red_tex_enamel_red.png.import[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_forecourt_pad.glb-60d5117eac18dc1df2a7cdd9d77a5e0c.scn[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_forecourt_pad.glb.import[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_forecourt_pad_tex_pad.png-8ef29698a54da86191f02184b1681eec.ctex[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_forecourt_pad_tex_pad.png.import[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_hose_boom.glb-8a77f6c6b2c31564fdeae9e0c4d642c1.scn[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_hose_boom.glb.import[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_hose_boom_tex_hose.png-8ada4544c2ebc2ceda2a05a2ab67e6d3.ctex[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_hose_boom_tex_hose.png.import[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_kiosk.glb-f0cd33ce88c3dc536f16c2b9865d6218.scn[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_kiosk.glb.import[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_kiosk_tex_kiosk.png-78d30ddc48d7f6f964352633e664de5c.ctex[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_kiosk_tex_kiosk.png.import[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_price_board.glb-f2a0587340402b56e788320d23c27214.scn[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_price_board.glb.import[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_price_board_tex_priceboard.png-dd830776d967f455d59744ff4f0fed34.ctex[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_price_board_tex_priceboard.png.import[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_blue.glb-ba4aecc34bb13237c999e5af360f9379.scn[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_blue.glb.import[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_blue_tex_pump_face.png-ba7ad5b0adc86fe3842e10e60480af5a.ctex[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_blue_tex_pump_face.png.import[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_blue_tex_pump_side_blue.png-8838a0571314fb896c22187738e7e47f.ctex[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png.import[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_island.glb-35509e56c00793e03465ec1930259afa.scn[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_island.glb.import[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_island_tex_island.png-cd745c45ba3d75f2391bfc5171d32db6.ctex[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_island_tex_island.png.import[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_red.glb-d1d9997ed3c0f1810e3c2cd75d2b9ae0.scn[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_red.glb.import[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_red_tex_pump_face.png-170cfc389e58f37534e620a27c71e5f9.ctex[39m[0m
+[  84% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_red_tex_pump_face.png.import[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/gas_pump_red_tex_pump_side_red.png-9588a70152919b028fe7c8fd79118063.ctex[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://models/props/td174/gas_pump_red_tex_pump_side_red.png.import[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/colormap.png-b620b07607df4a24370aa67d431e36ec.ctex[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://models/props/Textures/colormap.png.import[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/barrierWhite.glb-5300169c5fd72f43d427a5314f0c4c7b.scn[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://models/props/barrierWhite.glb.import[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-canopy-edge.glb-91f13631fddfbf002b4c996b70f715a3.scn[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-canopy-edge.glb.import[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-canopy-edge_jnr-fascia.png-5333f443dc0b5d3cc593d6a6a16a034c.ctex[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-canopy-edge_jnr-fascia.png.import[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-country-halt.glb-1a200ff1246685647df1e6a34f9a8568.scn[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-country-halt.glb.import[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-country-halt_jnr-halt-wood.png-37f9e8cc235be4719612d0a31b866982.ctex[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-country-halt_jnr-halt-wood.png.import[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-country-halt_jnr-station-board.png-6f6d5c4fb73ecad43768e157ba8206f6.ctex[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-country-halt_jnr-station-board.png.import[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-platform-sign.glb-243f9cfe75705ec623fa7409d4d272ea.scn[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-platform-sign.glb.import[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-platform-sign_jnr-platform-sign.png-9d2cabe1570a85572c4e0dc96d2048ff.ctex[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-platform-sign_jnr-platform-sign.png.import[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-station-board.glb-34c8c48b8a1161b36c68e4f1ab6d81cb.scn[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-station-board.glb.import[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-station-board_jnr-station-board.png-99fe20d5aec4e764894aacf79c356542.ctex[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-station-board_jnr-station-board.png.import[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-ticket-gate.glb-bc8938f7563e3770ad067d9b2e2870bb.scn[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-ticket-gate.glb.import[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/jnr-ticket-gate_jnr-gate-plate.png-7102f26062c93919cad9ee35bab8d787.ctex[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://models/props/jnr-ticket-gate_jnr-gate-plate.png.import[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/light-curved.glb-6b925e9ec50acf2e31e4894b4977cc7d.scn[39m[0m
+[  87% ] [90m[1msavepack[22m | Storing File: res://models/props/light-curved.glb.import[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/road.obj-17074c9ad5e274f168622a4da221ecb3.mesh[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://models/track/road.obj.import[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/road.png-e6e605e1db3d1a49b9e9ca027d6eeaee.ctex[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://models/track/road.png.import[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/pole_kit_placer.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/planar_reflection.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/living_city.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/grounded_terrain.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/gas_station.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c1079e7f525658eb6fe74fb7e13e5719-tokyo_car_config.res[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-2ab01637c27761907c2aeecdf14293a9-tokyo_vehicle.scn[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-f2fe2f689c20cdc1ccd5ac5035b706f7-tokyo_car.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-e5e2395d8cdee0e96ac4af6cf085892a-tokyo_tripo_coupe.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c942c58cb9e9cfa5cbf75fc82c4813f4-tokyo_sedan.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7c311fcbf6deec8f44986c948f2e866e-cop_manager.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-dd4d67a5256df6836d416031636662e4-mp_race.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a87fe8c352770fa94be3246f9bc2c95f-pedestrian.scn[39m[0m
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-9a4880232a75ae4b9cad1b4cac8d6e83-cop_car.scn[39m[0m
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-2b8dbe4ff43ad384dbb78cf7a26b5e4d-harbor_slice.scn[39m[0m
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-c5b2add82dde0f4d79438312db7492f9-sedan-nitro.res[39m[0m
+WARNING: 'res://assets/td-119/tokyo_tower.glb': In external resource #0, invalid UID: 'uid://bk1t24havanpx' - using text path instead: 'res://assets/td-119/tokyo_tower_deck_tex.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/tokyo_tower.glb': In external resource #1, invalid UID: 'uid://msysilwlou75' - using text path instead: 'res://assets/td-119/tokyo_tower_deck_tex_em.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+ERROR: Failed loading resource: res://assets/td-119/tokyo_tower_deck_tex.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/tokyo_tower_deck_tex_em.png.
+   at: _load (core/io/resource_loader.cpp:317)
+WARNING: 'res://assets/td-119/scramble_crossing.glb': In external resource #0, invalid UID: 'uid://tjiaoq804p4r' - using text path instead: 'res://assets/td-119/scramble_crossing_asphalt_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/scramble_crossing.glb': In external resource #1, invalid UID: 'uid://b7ybna5bahtp4' - using text path instead: 'res://assets/td-119/scramble_crossing_asphalt_rough.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/scramble_crossing.glb': In external resource #2, invalid UID: 'uid://cne86rrv8y4br' - using text path instead: 'res://assets/td-119/scramble_crossing_paint_worn.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/scramble_crossing.glb': In external resource #3, invalid UID: 'uid://f4078fbbe3kh' - using text path instead: 'res://assets/td-119/scramble_crossing_sidewalk_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+ERROR: Failed loading resource: res://assets/td-119/scramble_crossing_asphalt_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/scramble_crossing_asphalt_rough.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/scramble_crossing_paint_worn.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/scramble_crossing_sidewalk_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #0, invalid UID: 'uid://85xho7tydeyg' - using text path instead: 'res://assets/td-119/downtown_facade_podium_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #1, invalid UID: 'uid://dq06gbl0ygfeg' - using text path instead: 'res://assets/td-119/downtown_facade_podium_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #2, invalid UID: 'uid://du041vgq4n3m8' - using text path instead: 'res://assets/td-119/downtown_facade_facA_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #3, invalid UID: 'uid://b10ylp3iylpw' - using text path instead: 'res://assets/td-119/downtown_facade_facA_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #4, invalid UID: 'uid://7iti6tw62u18' - using text path instead: 'res://assets/td-119/downtown_facade_sideA_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #5, invalid UID: 'uid://cw7yi72yvysjl' - using text path instead: 'res://assets/td-119/downtown_facade_sideA_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #6, invalid UID: 'uid://cjytmawfttqi' - using text path instead: 'res://assets/td-119/downtown_facade_facB_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #7, invalid UID: 'uid://b11epskerra4s' - using text path instead: 'res://assets/td-119/downtown_facade_facB_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #8, invalid UID: 'uid://dm7wyqtaip5qp' - using text path instead: 'res://assets/td-119/downtown_facade_sideB_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #9, invalid UID: 'uid://c8tvyxs3kxpmn' - using text path instead: 'res://assets/td-119/downtown_facade_sideB_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #10, invalid UID: 'uid://ejfwc4ti670f' - using text path instead: 'res://assets/td-119/downtown_facade_facC_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #11, invalid UID: 'uid://svj4eb8nnrdq' - using text path instead: 'res://assets/td-119/downtown_facade_facC_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #12, invalid UID: 'uid://diajhgsk2i8xh' - using text path instead: 'res://assets/td-119/downtown_facade_sideC_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #13, invalid UID: 'uid://cql022spalgpx' - using text path instead: 'res://assets/td-119/downtown_facade_sideC_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #14, invalid UID: 'uid://pacdrut1jmdu' - using text path instead: 'res://assets/td-119/downtown_facade_sign_kissaten_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #15, invalid UID: 'uid://8igbahfk4wfj' - using text path instead: 'res://assets/td-119/downtown_facade_sign_kissaten_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #16, invalid UID: 'uid://c6s1i6e2v5o4n' - using text path instead: 'res://assets/td-119/downtown_facade_sign_shoten_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #17, invalid UID: 'uid://bwqxr63kn4j2a' - using text path instead: 'res://assets/td-119/downtown_facade_sign_shoten_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #18, invalid UID: 'uid://g21sjmrhymx8' - using text path instead: 'res://assets/td-119/downtown_facade_sign_karaoke_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #19, invalid UID: 'uid://dtppihwg7mtm7' - using text path instead: 'res://assets/td-119/downtown_facade_sign_karaoke_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #20, invalid UID: 'uid://dxp2fw6jbnvfv' - using text path instead: 'res://assets/td-119/downtown_facade_sign_pachinko_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #21, invalid UID: 'uid://dw83rq21jrbyt' - using text path instead: 'res://assets/td-119/downtown_facade_sign_pachinko_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #22, invalid UID: 'uid://jjxjifauovyp' - using text path instead: 'res://assets/td-119/downtown_facade_sign_izakaya_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #23, invalid UID: 'uid://bsv671xgfb302' - using text path instead: 'res://assets/td-119/downtown_facade_sign_izakaya_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #24, invalid UID: 'uid://b3son8tlajlrd' - using text path instead: 'res://assets/td-119/downtown_facade_sign_yakkyoku_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #25, invalid UID: 'uid://dno4n2m21pbu8' - using text path instead: 'res://assets/td-119/downtown_facade_sign_yakkyoku_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #26, invalid UID: 'uid://ds435oodj547y' - using text path instead: 'res://assets/td-119/downtown_facade_bb_open24_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #27, invalid UID: 'uid://0baxh2g8iv2y' - using text path instead: 'res://assets/td-119/downtown_facade_bb_open24_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #28, invalid UID: 'uid://cwlcpkcgjl7lt' - using text path instead: 'res://assets/td-119/downtown_facade_bb_uri_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #29, invalid UID: 'uid://dbtq476olb3to' - using text path instead: 'res://assets/td-119/downtown_facade_bb_uri_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #30, invalid UID: 'uid://ccmw5cg47jbej' - using text path instead: 'res://assets/td-119/downtown_facade_awning_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #31, invalid UID: 'uid://c40da7m5egx6q' - using text path instead: 'res://assets/td-119/downtown_facade_sign_shika_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #32, invalid UID: 'uid://duvojf03l2kdf' - using text path instead: 'res://assets/td-119/downtown_facade_sign_shika_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #33, invalid UID: 'uid://smjiks14l3df' - using text path instead: 'res://assets/td-119/downtown_facade_sign_game_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #34, invalid UID: 'uid://bsjpffh52jr0e' - using text path instead: 'res://assets/td-119/downtown_facade_sign_game_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #35, invalid UID: 'uid://chru75fwbxg12' - using text path instead: 'res://assets/td-119/downtown_facade_sign_snack_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #36, invalid UID: 'uid://dc8s854nmqrbb' - using text path instead: 'res://assets/td-119/downtown_facade_sign_snack_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #37, invalid UID: 'uid://ba8rlrqqtkk3n' - using text path instead: 'res://assets/td-119/downtown_facade_sign_teishoku_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #38, invalid UID: 'uid://b2pjqp2b5hys5' - using text path instead: 'res://assets/td-119/downtown_facade_sign_teishoku_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #39, invalid UID: 'uid://dpiicnua05fm' - using text path instead: 'res://assets/td-119/downtown_facade_sign_biyouin_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/downtown_facade.glb': In external resource #40, invalid UID: 'uid://c0rwnibxtjsg' - using text path instead: 'res://assets/td-119/downtown_facade_sign_biyouin_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_podium_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_podium_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facA_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facA_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideA_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideA_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facB_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facB_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideB_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideB_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facC_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_facC_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideC_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sideC_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_kissaten_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_kissaten_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_shoten_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_shoten_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_karaoke_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_karaoke_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_pachinko_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_pachinko_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_izakaya_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_izakaya_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_yakkyoku_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_yakkyoku_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_bb_open24_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_bb_open24_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_bb_uri_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_bb_uri_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_awning_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_shika_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_shika_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_game_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_game_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_snack_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_snack_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_teishoku_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_teishoku_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_biyouin_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/downtown_facade_sign_biyouin_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #0, invalid UID: 'uid://cqyk4eldq46kj' - using text path instead: 'res://assets/td-119/shotengai_storefront_sidewalk_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #1, invalid UID: 'uid://dowitqjipp6fb' - using text path instead: 'res://assets/td-119/shotengai_storefront_wood_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #2, invalid UID: 'uid://dd6w2x036llv5' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_a_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #3, invalid UID: 'uid://bmiufv5q154uc' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_a_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #4, invalid UID: 'uid://b7wlq3ah2cvag' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_ramen_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #5, invalid UID: 'uid://cymiidx4aujxg' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_ramen_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #6, invalid UID: 'uid://vei1n7stlrre' - using text path instead: 'res://assets/td-119/shotengai_storefront_plaster_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #7, invalid UID: 'uid://c4upnp2emew4' - using text path instead: 'res://assets/td-119/shotengai_storefront_lattice_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #8, invalid UID: 'uid://btlgkc7n67g23' - using text path instead: 'res://assets/td-119/shotengai_storefront_lattice_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #9, invalid UID: 'uid://bntcmml3b2685' - using text path instead: 'res://assets/td-119/shotengai_storefront_kawara_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #10, invalid UID: 'uid://c48fwt25mbt8o' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_b_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #11, invalid UID: 'uid://c5lyr73uywx13' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_b_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #12, invalid UID: 'uid://bpask6d31q306' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_sakaba_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #13, invalid UID: 'uid://cwv107pvdvbfp' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_sakaba_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #14, invalid UID: 'uid://cnqqqxrykwn8v' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_c_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #15, invalid UID: 'uid://dx7iwh8d8h37u' - using text path instead: 'res://assets/td-119/shotengai_storefront_interior_c_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #16, invalid UID: 'uid://63ufmnwl5m3r' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_sushi_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #17, invalid UID: 'uid://dcl3pkucuh0jf' - using text path instead: 'res://assets/td-119/shotengai_storefront_noren_sushi_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #18, invalid UID: 'uid://crxxhhkof5d8n' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_ramen_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #19, invalid UID: 'uid://glpb0spmt8u' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_ramen_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #20, invalid UID: 'uid://bu8x2sid0tuig' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_tabako_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #21, invalid UID: 'uid://ci3sx0n8mftg1' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_tabako_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #22, invalid UID: 'uid://dltl3bythqisg' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_sakaba_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #23, invalid UID: 'uid://dk3svvv3e30w3' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_sakaba_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #24, invalid UID: 'uid://x20h0b3qsego' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_sushi_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #25, invalid UID: 'uid://bufxuh1hbf263' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_sushi_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #26, invalid UID: 'uid://c6to0yacwqhcn' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_udon_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #27, invalid UID: 'uid://dsvgvv7kt5fq1' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_udon_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #28, invalid UID: 'uid://p34tkbh0bn5g' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_yakiniku_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #29, invalid UID: 'uid://cacc6ind010s7' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_yakiniku_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #30, invalid UID: 'uid://dv3x1o7yppxry' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_soba_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #31, invalid UID: 'uid://jh8mgobqg13q' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_soba_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #32, invalid UID: 'uid://koja8nd07w8k' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_saketen_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #33, invalid UID: 'uid://cx5aui4fublby' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_saketen_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #34, invalid UID: 'uid://capf1e6kv3sle' - using text path instead: 'res://assets/td-119/shotengai_storefront_chochin_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #35, invalid UID: 'uid://bk63rnsdgjvpn' - using text path instead: 'res://assets/td-119/shotengai_storefront_chochin_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #36, invalid UID: 'uid://duaxi0x3msuft' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_teishoku_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #37, invalid UID: 'uid://cuhh6h4nd31fa' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_teishoku_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #38, invalid UID: 'uid://1ibg1pr8f1ph' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_cleaning_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #39, invalid UID: 'uid://dou77wp5jculq' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_cleaning_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #40, invalid UID: 'uid://cep8vw478tn2c' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_honya_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #41, invalid UID: 'uid://stn8mt5pwnrj' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_honya_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #42, invalid UID: 'uid://dq0hunm2bk5fn' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_cafe_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #43, invalid UID: 'uid://4m0cesh4t5gk' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_cafe_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #44, invalid UID: 'uid://b8xf4uqtmfyu7' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_kissaten_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #45, invalid UID: 'uid://di40wilm7qtsh' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_kissaten_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #46, invalid UID: 'uid://du70t2l0wrglj' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_shika_diff.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+WARNING: 'res://assets/td-119/shotengai_storefront.glb': In external resource #47, invalid UID: 'uid://dqfvpi17f8npj' - using text path instead: 'res://assets/td-119/shotengai_storefront_sign_shika_emis.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sidewalk_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_wood_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_a_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_a_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_ramen_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_ramen_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_plaster_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_lattice_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_lattice_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_kawara_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_b_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_b_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_sakaba_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_sakaba_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_c_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_interior_c_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_sushi_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_noren_sushi_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_ramen_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_ramen_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_tabako_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_tabako_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_sakaba_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_sakaba_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_sushi_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_sushi_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_udon_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_udon_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_yakiniku_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_yakiniku_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_soba_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_soba_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_saketen_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_saketen_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_chochin_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_chochin_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_teishoku_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_teishoku_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_cleaning_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_cleaning_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_honya_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_honya_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_cafe_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_cafe_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_kissaten_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_kissaten_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_shika_diff.png.
+   at: _load (core/io/resource_loader.cpp:317)
+ERROR: Failed loading resource: res://assets/td-119/shotengai_storefront_sign_shika_emis.png.
+   at: _load (core/io/resource_loader.cpp:317)
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-3ad5c15c4f3250da0cc7c1af1770d85f-main.scn[39m[0m
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-58d70582da7bb6685560cfe1efe892eb-nitro-flame-process-material.res[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-010cfec4f768c1bf5f97fe841b24258e-city_traffic.scn[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-ea5c6ad4629af728dc514cefde332394-main_menu.scn[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/expressway_belt.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/civilian_traffic.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/awnings.gdc[39m[0m
+[  93% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/anime_look.gdc[39m[0m
+[  93% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-be649b56410f1745d266fce50a02c362-trail-process-material.res[39m[0m
+[  93% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-9953c68f21b1abe9a55639e4a7c949cc-toon_test.scn[39m[0m
+[  93% ] [90m[1msavepack[22m | Storing File: res://scenes/toon_test.gdc[39m[0m
+[  93% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/sign_reader.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/paper_map.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/lower_city_world.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/lower_city.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/glyph_atlas.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/gig_hud.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/gig_dispatch.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_tank.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_station.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_service.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_signs.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_router.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_driver.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_dressing.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_data.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_batch.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_atmosphere.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/arrest_sequence.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/kit/tuning_panel.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/kit/pause_menu.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/fx/impact_sparks.gdc[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_palette.gdc[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_slice.gdc[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_shuto.gdc[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_lower_city.gdc[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_hatchback.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_coupe.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_bus.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_boxtruck.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_hud.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_touch_controls.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/trail-smoke-material.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/paper_map.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_sedan.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_pickup.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_minivan.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_luxury.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_keicar.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_van.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/lower_city.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/gig_hud.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/gig_dispatch.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/city_world.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/city_signs.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/lower_city/city_atmosphere.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/districts/bay_strait.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/districts/harbor_west.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_input_provider.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/main_menu.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/local-input-provider.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/world_track.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/world_builder.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle_sphere_contacts.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle-model.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/vehicle-config.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/tripo_car_model.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic_fleet_config.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic_ai.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/track_waypoints.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/track_decorator.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/touch_state.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/touch_controls.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/td109_sedan_model.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/remote_snapshot_interpolator.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/race_loader.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/race_bodywork.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/pedestrian_manager.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/pedestrian.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/offroute_reset.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/night_lighting_rig.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/net_config.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/net.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_trace.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_lobby.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/multiplayer_debug_overlay.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_race.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/mp_nameplate.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_traffic_ai.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/kenney_car_model.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/input-provider.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/impact_fx.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/game_signals.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/game_config.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/drive_input.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/crime_bus.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/cop_manager.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/cop_car.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/chase_camera.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/ui_kit.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/striped_bar.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/skew_label.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/skew_button.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/race_results.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/menu_backdrop.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/loading_overlay.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/damage_vignette.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/damage_bar.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/ui/checkered_strip.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_profile.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_traffic.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/traffic/city_road_graph.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_suv.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tripo_car_wagon.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/slice_world.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/slice_race.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/anime/day.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/anime/night.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/anime/shuto_night.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/anime/trench.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/fuel/starter_coupe.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/showa_signage.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/track_waypoints.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://data/traffic_fleet.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/pole_kit_placer.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/planar_reflection.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/living_city.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/grounded_terrain.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/gas_station.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tokyo_car_config.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tokyo_vehicle.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tokyo_car.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tokyo_tripo_coupe.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/tokyo_sedan.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/cop_manager.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/mp_race.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/pedestrian.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/cop_car.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/harbor_slice.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/sedan-nitro.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/main.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/nitro-flame-process-material.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/city_traffic.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/main_menu.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/expressway_belt.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/civilian_traffic.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/awnings.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/slice/anime_look.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/trail-process-material.tres.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/toon_test.tscn.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scenes/toon_test.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/sign_reader.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/paper_map.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/lower_city_world.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/lower_city.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/glyph_atlas.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/gig_hud.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/gig_dispatch.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_tank.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_station.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/fuel_service.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_signs.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_router.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_driver.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_dressing.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_data.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_batch.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/city_atmosphere.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/lower_city/arrest_sequence.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/kit/tuning_panel.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/kit/pause_menu.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/fx/impact_sparks.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_palette.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_slice.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_shuto.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://scripts/anime/anime_adapter_lower_city.gd.remap[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://.godot/global_script_class_cache.cfg[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://icon.png[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://.godot/uid_cache.bin[39m[0m
+[  98% ] [90m[1msavepack[22m | Storing File: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m
