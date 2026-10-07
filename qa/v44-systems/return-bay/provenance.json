@@ -1,0 +1,61 @@
+{
+  "source": "fd89789219a00e6f88941e769c833d67daef5487",
+  "baseline": "b7cb2f137a67b3ac203a4d1c2519b8fa95a2ac33",
+  "task": "td-196 PR446 authorized return-bay follow-up",
+  "engine": "Godot 4.7.2 native",
+  "physics_hz": 60,
+  "video_fps": 5,
+  "not_device_or_browser_testing": true,
+  "files": [
+    {
+      "path": "after/drive-away.png",
+      "size": 266779,
+      "sha256": "bb6b1751f6b71f5b8abfbfe86a56365ec86eb78dcfe54779345621135cd967b0"
+    },
+    {
+      "path": "after/first-drive-away.png",
+      "size": 263728,
+      "sha256": "e4cceecd82966685cbf47a975b3c7e60e77d15da202d5c65dca07e91704d2c44"
+    },
+    {
+      "path": "after/released.png",
+      "size": 286900,
+      "sha256": "7ab5e3c3fcf89d21f6f8ef3636f8478dd3f8168474dc0660be1654acef8b5ddc"
+    },
+    {
+      "path": "after/return-bay.png",
+      "size": 333536,
+      "sha256": "b022c1f3691ef096fe4b7fdbc79565e4b141370465d38bd2c8549733e446c9ce"
+    },
+    {
+      "path": "before/drive-away.png",
+      "size": 346598,
+      "sha256": "29eb87144a636bd32536de1d27103f169feba7f95ba8a9d2f0c215d45e6dea66"
+    },
+    {
+      "path": "before/first-drive-away.png",
+      "size": 347302,
+      "sha256": "1784f9584c291952a82c7c182566fd9eae626b56aaba53c772af667421a8fdf5"
+    },
+    {
+      "path": "before/released.png",
+      "size": 239182,
+      "sha256": "343ea3bcbc2a669d7bfa251a2179b04e61fbff3dfe959c8e566a2a17dcdd6095"
+    },
+    {
+      "path": "before/return-bay.png",
+      "size": 271436,
+      "sha256": "7e44ec470fd69894eabbc3ed0ce5d0787e46ba8a0289248466aaf053633835e8"
+    },
+    {
+      "path": "videos/after.mp4",
+      "size": 739037,
+      "sha256": "58d66569793e3d05ded392bb1bce2ff18bca378c69893281f525797047a0a281"
+    },
+    {
+      "path": "videos/before.mp4",
+      "size": 637608,
+      "sha256": "1ff3ef159bbd2e842b815c8395dda993e4139539b4b53cc53e445ba7b8460be9"
+    }
+  ]
+}
