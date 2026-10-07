@@ -1,0 +1,30 @@
+{
+  "source": "4c2ffd36449b81b5e6473fcacb5912c00813070b",
+  "main": "9d4a88490c41f86e8d34e1c2c6f142838de20c73",
+  "before": "46a2f72 historical negative/control captures",
+  "scope": "QA media only; after and owner probes freshly executed. No game deployment.",
+  "files": [
+    "before/landscape/arrest.png",
+    "before/landscape/settlement.png",
+    "before/portrait/arrest.png",
+    "before/portrait/settlement.png",
+    "after/landscape/arrest.png",
+    "after/landscape/settlement.png",
+    "after/landscape/restored.png",
+    "after/landscape/natural-arrest.mp4",
+    "after/portrait/arrest.png",
+    "after/portrait/settlement.png",
+    "after/portrait/restored.png",
+    "after/portrait/natural-arrest.mp4",
+    "hud/landscape-to_dropoff-expanded.png",
+    "hud/landscape-menu-tracking.png",
+    "hud/landscape-menu-failure.png",
+    "hud/landscape-menu-success.png",
+    "hud/portrait-to_dropoff-expanded.png",
+    "hud/portrait-menu-tracking.png",
+    "hud/portrait-menu-failure.png",
+    "hud/portrait-menu-success.png",
+    "owner-baseline/844x390-collapsed-false.png",
+    "owner-integration/844x390-collapsed-false.png"
+  ]
+}
