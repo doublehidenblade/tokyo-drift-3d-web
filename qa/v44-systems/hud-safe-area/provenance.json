@@ -1,0 +1,33 @@
+{
+  "source": "1735b88ede78437b93f88c18d83576d0932e3b6c",
+  "layout_commit": "a822ea2d305cb0c4c44797165acbd1605a6d7479",
+  "baseline": "b17cf474f31eddf5a1b90c76ade9dee4ec70652e",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "native_viewports": [
+    "844x390",
+    "390x844",
+    "844x390"
+  ],
+  "files": [
+    {
+      "path": "after/landscape.png",
+      "size": 155716,
+      "sha256": "354e24ae59318f3498ae0c0cc130661487b04979d67c139f62dce57703c17051"
+    },
+    {
+      "path": "after/portrait.png",
+      "size": 154997,
+      "sha256": "d85605873a76383298c9b25cf5d4bd08ac67242a8a1ee74dcb7092f8939c60b7"
+    },
+    {
+      "path": "before/landscape.png",
+      "size": 161273,
+      "sha256": "e3192700e2e164b3f322d7add53df9f2e002129bf0c19b0beab2fbd423911b33"
+    },
+    {
+      "path": "before/portrait.png",
+      "size": 154997,
+      "sha256": "d85605873a76383298c9b25cf5d4bd08ac67242a8a1ee74dcb7092f8939c60b7"
+    }
+  ]
+}
