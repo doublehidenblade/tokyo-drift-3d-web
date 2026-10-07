@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/factions/impl-kaiun-checkpoint.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME building really looks like as a 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog at dusk; the sky is a flat warm ochre-amber haze, never blue or grey. No painterly brushwork, no reflections, no bloom, no transparency. Warm palette only.\n\nSubject (three-quarter view at eye height from the dock road): a squat two-storey board-formed concrete tally office with flat roof, roof water tank on a stand, a signal mast with an amber lamp, a sunshade slab over dark-green sash windows; an amber-lit drive-up tally window with a masked clerk and two gooseneck lamps; khaki canvas flaps in the doorway; a green enamel gate plate with a big 7; a rusty corrugated lean-to; oil drums; chalk A-frame board; whitewash crane-hook emblem on the side wall; rust, beige and green containers stacked behind. Exact lettering: 検数事務所; 7; 第七号門; 海運; 鶴丸; 黒金.\nThe side wall's emblem is a plain crane hook silhouette in whitewash (no lettering in it). The chalk board carries only tick-mark tallies, no words. No English or Latin letters anywhere; each listed word appears once; no other characters.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:18:50Z"
+}

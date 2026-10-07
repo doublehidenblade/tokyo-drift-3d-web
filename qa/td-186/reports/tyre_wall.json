@@ -1,0 +1,68 @@
+{
+  "file": "tyre_wall.glb",
+  "bytes": 104880,
+  "triangles": 1592,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Prop",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "TyreWall": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.4,
+    -0.025,
+    -0.3909
+  ],
+  "bounds_max": [
+    1.799,
+    1.025,
+    0.8
+  ],
+  "size": [
+    3.199,
+    1.05,
+    1.1909
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.115,
+    "regions": 20,
+    "emission": false
+  },
+  "builder_triangles": {
+    "TyreWall": 1592
+  },
+  "notes": {
+    "district": "kotobuki",
+    "canon": "blown bias-ply retreads stacked as crash barriers (Iron Wheel tire walls)",
+    "size_m": [
+      2.9,
+      1.0,
+      0.8
+    ]
+  }
+}

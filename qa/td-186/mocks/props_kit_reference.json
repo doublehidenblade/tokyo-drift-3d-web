@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kotobuki.png"
+  ],
+  "prompt": "[REFERENCE] a prop model sheet for a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, warm palette only (dun, rust, tar, brass, lamp amber; no neon, no cool blue/purple). A clean model sheet: the props stand in neat rows on a flat dusty concrete ground with soft shadows, three-quarter view, each one clearly separated, no people, no buildings, no text labels anywhere.\n\nThe props (dust-era street furniture of a drive-up city): three oil drums chained together as a crash barrier with white roundel gate marks; a cast-iron mooring bollard with a coiled hawser and a stack of wooden pallets; a chalkboard A-frame with chalk tally marks; a rope-lashed stack of plain unmarked wooden fish crates under a tarp beside a burlap-wrapped ice pallet; three two-wheeled hand trucks chained to a bollard; brass stanchions with a red velvet rope; a tall square concrete pylon with an amber hazard beacon and yellow-black bands; an orange iron intersection mirror on a pole; a wall of stacked blown tyres; an oil-drum stove with a chimney pipe and a kettle, fire glowing in its door; a pyramid of olive filter canisters on a pallet; a strapped stack of grey lead-lined drums with yellow-black hazard bands; a cast-iron pneumatic tube pedestal with an angled brass hatch, a turn-wheel and a lever; a yellow counterbalanced air-lance swing boom on a mast with a hose and blast cone over a grease trough; a corrugated-iron fuel tank house on four tall steel legs with a canvas fuel sleeve and a glass metering gauge. All plates and labels are blank: no letters, numbers or symbols anywhere.\nAbsolutely no writing: no stencils on crates, drums, boxes or plates, no English words, no Latin letters, no numbers.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:47:58Z"
+}

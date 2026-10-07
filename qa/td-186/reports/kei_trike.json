@@ -1,0 +1,143 @@
+{
+  "file": "kei_trike.glb",
+  "bytes": 172644,
+  "triangles": 588,
+  "meshes": 4,
+  "materials": [
+    {
+      "name": "Mat_Car_Body",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.0,
+      0.76,
+      1.268
+    ],
+    "HeadLightR": [
+      0.0,
+      0.76,
+      1.268
+    ],
+    "TailLightL": [
+      0.55,
+      0.56,
+      -1.735
+    ],
+    "TailLightR": [
+      -0.55,
+      0.56,
+      -1.735
+    ],
+    "Wheel_Front": [
+      0.0,
+      0.27,
+      0.96
+    ],
+    "Wheel_RearL": [
+      0.55,
+      0.27,
+      -0.96
+    ],
+    "Wheel_RearR": [
+      -0.55,
+      0.27,
+      -0.96
+    ]
+  },
+  "bounds_min": [
+    -0.7089,
+    0.0068,
+    -1.7689
+  ],
+  "bounds_max": [
+    0.7089,
+    1.558,
+    1.2857
+  ],
+  "size": [
+    1.4179,
+    1.5513,
+    3.0547
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.283,
+    "regions": 23,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 432,
+    "Wheel_Front": 52,
+    "Wheel_RearL": 52,
+    "Wheel_RearR": 52
+  },
+  "notes": {
+    "class": "kei_trike",
+    "reference": "Daihatsu Midget MP5 three-wheeler (1962-1972), MP4 cab height",
+    "canon": "kei three-wheeler (yields to everyone under Tonnage Priority)",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

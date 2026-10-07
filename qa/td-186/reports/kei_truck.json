@@ -1,0 +1,149 @@
+{
+  "file": "kei_truck.glb",
+  "bytes": 218856,
+  "triangles": 1084,
+  "meshes": 5,
+  "materials": [
+    {
+      "name": "Mat_Car_Body",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.5,
+      0.66,
+      1.375
+    ],
+    "HeadLightR": [
+      -0.5,
+      0.66,
+      1.375
+    ],
+    "TailLightL": [
+      0.58,
+      0.58,
+      -1.825
+    ],
+    "TailLightR": [
+      -0.58,
+      0.58,
+      -1.825
+    ],
+    "Wheel_FrontL": [
+      0.6,
+      0.26,
+      0.92
+    ],
+    "Wheel_FrontR": [
+      -0.6,
+      0.26,
+      0.92
+    ],
+    "Wheel_RearL": [
+      0.595,
+      0.26,
+      -0.92
+    ],
+    "Wheel_RearR": [
+      -0.595,
+      0.26,
+      -0.92
+    ]
+  },
+  "bounds_min": [
+    -0.7564,
+    0.0065,
+    -1.8789
+  ],
+  "bounds_max": [
+    0.7564,
+    1.6874,
+    1.3951
+  ],
+  "size": [
+    1.5129,
+    1.6809,
+    3.2741
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.344,
+    "regions": 30,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 876,
+    "Wheel_FrontL": 52,
+    "Wheel_FrontR": 52,
+    "Wheel_RearL": 52,
+    "Wheel_RearR": 52
+  },
+  "notes": {
+    "class": "kei_truck",
+    "reference": "1977 Suzuki Carry ST20 truck; Honda TN-7",
+    "canon": "kei truck with drop-side bed, rope-lashed crates",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

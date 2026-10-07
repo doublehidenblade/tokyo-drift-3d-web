@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kamome.png"
+  ],
+  "prompt": "[REFERENCE] concept art for a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, a Showa retro-futurist shopping street (shotengai) drowned in ochre dust, where foot travel is outlawed and every shop serves cars through sealed drive-up windows at cab height. Warm palette only: dun haze, cream, brick, dark wood, lantern red, lamp amber. No neon, no cool blue/purple, no magenta/cyan.\n\nSubject (three-quarter street view at a car's eye height along one side of the street): a continuous row of five narrow ground-floor shop fronts under two- and three-storey shop-houses. Each shop has a drive-up hatch: dust-pitted laminated glass with a raised steel guillotine shutter on chains and lead counterweights, a greased steel tray slid out toward the road with lidded tins on it, a brass coin slot plate beside it; masked staff behind the glass (respirators, no faces). From left to right: a ramen window with white tile, a red split noren and a red paper lantern; a tiny one-bay tobacco kiosk with a red fascia and a red vertical enamel sign; a coffee house with a plastic food-sample display case on a tiled plinth under a plain dark-green canvas awning; an izakaya with a dark wooden lattice door, an indigo noren and two red lanterns; a pharmacy with tall shelved display glazing on a dark tile bulkhead. Fascia signboards run across each front. Exact lettering, nothing else written: fascias 中華そば 福来軒 / たばこ / 純喫茶 白鳥 / 大衆酒場 とり八 / くすり 大和薬局; noren ラーメン and とり八; lanterns 焼鳥 and 酒. No English or Latin letters, no other signs or small print.\nNo vertical blade signs and no hanging plates anywhere: the only lettering is on the five horizontal fascias, the two noren and the two lanterns, each word exactly once.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:46:27Z"
+}

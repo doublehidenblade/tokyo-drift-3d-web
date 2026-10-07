@@ -1,0 +1,72 @@
+{
+  "file": "drum_stove.glb",
+  "bytes": 41852,
+  "triangles": 224,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Prop",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "DrumStove": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -0.6419,
+    -0.025,
+    -0.4567
+  ],
+  "bounds_max": [
+    0.8066,
+    2.0295,
+    0.5554
+  ],
+  "size": [
+    1.4485,
+    2.0545,
+    1.0121
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.128,
+    "regions": 19,
+    "emission": true
+  },
+  "builder_triangles": {
+    "DrumStove": 224
+  },
+  "notes": {
+    "district": "kotobuki",
+    "canon": "oil-drum stoves (the district's heating), drum stove + kettle",
+    "size_m": [
+      1.3,
+      2.0,
+      0.9
+    ]
+  }
+}

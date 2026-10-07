@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/fleet-gear/impl-hinode-carrier.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME vehicle really looks like as a low-poly 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog, a flat warm ochre sky. Every driver wears a respirator and goggles (no faces). No painterly brushwork, no reflections, no bloom, no transparency. Number plates are blank white rectangles.\n\nSubject: the Tatsumi Hauler: a 1970s CAB-OVER 2-ton box truck: the cab sits on top of the engine, so there is NO hood and NO bonnet at all - the whole front is one flat vertical wall with two round caged headlights low in it (like an Isuzu Elf or Mitsubishi Canter of 1975), olive-green cab, a tall cream box body with a green stripe, the company mon and name, brass pneumatic courier cylinders standing in leather holsters on the flank, twin olive cyclone intakes behind the cab, a long white enamel route plate mounted high on the front face of the box above the cab roof, carrying ONE single line of large black characters (no coloured sub-panel, no second line; nothing written on the grille), dual rear wheels with black mud flaps.\nExact lettering, nothing else written: box side 辰巳運送 and the single character 辰 in a green roundel; route plate, one line: 三番 鴎 - 大黒. No English or Latin letters.\n",
+  "model_text": "",
+  "created": "2026-10-07T02:57:47Z"
+}

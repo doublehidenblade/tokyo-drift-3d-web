@@ -1,0 +1,71 @@
+{
+  "file": "velvet_rope.glb",
+  "bytes": 60332,
+  "triangles": 720,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Prop",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "VelvetRope": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.2739,
+    -0.012,
+    -0.1739
+  ],
+  "bounds_max": [
+    1.2739,
+    1.02,
+    0.1739
+  ],
+  "size": [
+    2.5478,
+    1.032,
+    0.3478
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.053,
+    "regions": 18,
+    "emission": false
+  },
+  "builder_triangles": {
+    "VelvetRope": 720
+  },
+  "notes": {
+    "district": "chidori",
+    "canon": "velvet-rope queue rails at club doors, brass stanchions",
+    "signage": [
+      "会員制 (members only)"
+    ],
+    "size_m": [
+      2.5,
+      1.02,
+      0.32
+    ]
+  }
+}

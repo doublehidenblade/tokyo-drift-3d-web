@@ -1,0 +1,197 @@
+{
+  "file": "ped_patrol_officer.glb",
+  "bytes": 616164,
+  "triangles": 2640,
+  "meshes": 2,
+  "materials": [
+    {
+      "name": "Mat_Ped",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ped_Emit",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Armature": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Body": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Body_Outline": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Root": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Hips": [
+      0.0,
+      0.95,
+      0.0
+    ],
+    "LeftUpperLeg": [
+      0.09,
+      0.93,
+      0.0
+    ],
+    "LeftLowerLeg": [
+      0.09,
+      0.51,
+      0.0
+    ],
+    "LeftFoot": [
+      0.09,
+      0.09,
+      0.0
+    ],
+    "LeftToes": [
+      0.09,
+      0.03,
+      0.14
+    ],
+    "RightUpperLeg": [
+      -0.09,
+      0.93,
+      0.0
+    ],
+    "RightLowerLeg": [
+      -0.09,
+      0.51,
+      0.0
+    ],
+    "RightFoot": [
+      -0.09,
+      0.09,
+      0.0
+    ],
+    "RightToes": [
+      -0.09,
+      0.03,
+      0.14
+    ],
+    "Spine": [
+      0.0,
+      1.05,
+      0.0
+    ],
+    "Chest": [
+      0.0,
+      1.17,
+      0.0
+    ],
+    "UpperChest": [
+      0.0,
+      1.29,
+      0.0
+    ],
+    "LeftShoulder": [
+      0.03,
+      1.4,
+      0.0
+    ],
+    "LeftUpperArm": [
+      0.17,
+      1.41,
+      -0.0
+    ],
+    "LeftLowerArm": [
+      0.3845,
+      1.23,
+      0.0
+    ],
+    "LeftHand": [
+      0.576,
+      1.0693,
+      -0.0
+    ],
+    "Neck": [
+      0.0,
+      1.42,
+      0.0
+    ],
+    "Head": [
+      0.0,
+      1.52,
+      0.0
+    ],
+    "RightShoulder": [
+      -0.03,
+      1.4,
+      0.0
+    ],
+    "RightUpperArm": [
+      -0.17,
+      1.41,
+      -0.0
+    ],
+    "RightLowerArm": [
+      -0.3845,
+      1.23,
+      0.0
+    ],
+    "RightHand": [
+      -0.576,
+      1.0693,
+      -0.0
+    ]
+  },
+  "bounds_min": [
+    -0.714,
+    -0.012,
+    -0.1619
+  ],
+  "bounds_max": [
+    0.714,
+    1.712,
+    0.242
+  ],
+  "size": [
+    1.4281,
+    1.724,
+    0.4039
+  ],
+  "animations": [
+    "cower",
+    "fall_death",
+    "hit_react",
+    "idle",
+    "run",
+    "walk"
+  ],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.258,
+    "regions": 20
+  }
+}

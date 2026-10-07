@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-kotobuki.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME building really looks like as a 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dark dun dust fog. No painterly brushwork, no reflections, no bloom, no transparency. Warm palette only; the welding flash is warm amber.\n\nSubject (three-quarter view at eye height under a flat concrete expressway deck with chunky piers): a 12 m corrugated-tin lean-to with two open, lit bays: left a chop shop (parts racks, I-beam hoist, engine on a stand, masked welder with a warm flare, green cone work lamps), right a filter-rinse bay (yellow swing boom with a cone, drain trough, canister pyramid, attendant booth, rate board). Checkered banner, vertical trade board, enamel plates, tyre stacks, oil drums, dust windrows. Exact lettering: 鉄輪連合; 鉄輪自動車修理; 営業中; 持込整備; 洗浄.\n\nNo English or Latin letters anywhere. The rate board reads exactly 洗浄 料金 / フィルター 三百円 / 吸気口 二百円. Each word appears once, on its own board; no other characters, no small print.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:18:17Z"
+}

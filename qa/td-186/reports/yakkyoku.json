@@ -1,0 +1,75 @@
+{
+  "file": "yakkyoku.glb",
+  "bytes": 264008,
+  "triangles": 564,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Yakkyoku": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -2.29,
+    0.0,
+    -2.04
+  ],
+  "bounds_max": [
+    2.29,
+    3.94,
+    0.61
+  ],
+  "size": [
+    4.58,
+    3.94,
+    2.65
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.334,
+    "regions": 24,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Yakkyoku": 564
+  },
+  "notes": {
+    "shop": "pharmacy (display glazing on a tile bulkhead + dispensing hatch)",
+    "signage": [
+      "くすり 大和薬局",
+      "薬",
+      "防塵フィルター 各種 有ります",
+      "フィルター 有ります"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 4.5,
+    "signage_font": "IPAGothic"
+  }
+}

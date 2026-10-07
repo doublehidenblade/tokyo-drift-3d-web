@@ -1,0 +1,55 @@
+{
+  "layout": "res://tools/td186/layouts/vehicle_kei_trike.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 20,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 38,
+    "tower": false,
+    "world_ms": 23.812
+  },
+  "views": [
+    {
+      "draw_calls": 57,
+      "name": "front_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/front_34.png",
+      "primitives": 1968
+    },
+    {
+      "draw_calls": 21,
+      "name": "rear_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/rear_34.png",
+      "primitives": 720
+    },
+    {
+      "draw_calls": 25,
+      "name": "side",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/side.png",
+      "primitives": 1156
+    },
+    {
+      "draw_calls": 60,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/front.png",
+      "primitives": 2124
+    },
+    {
+      "draw_calls": 60,
+      "name": "variants",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/variants.png",
+      "primitives": 2124
+    },
+    {
+      "draw_calls": 49,
+      "name": "chase",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_trike/chase.png",
+      "primitives": 1484
+    }
+  ]
+}
