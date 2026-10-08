@@ -1,0 +1,206 @@
+{
+  "schema": 1,
+  "packaging": "static-chunks-v1",
+  "release": "v49",
+  "source_sha": "fa081b42197d50e6adaf202f899146fbffeab725",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "validation_run": null,
+  "published_at": null,
+  "pack": {
+    "path": "index.pck",
+    "bytes": 112592312,
+    "sha256": "cf1874594b66dbb27f62e4e2963aaecb6928a7bb2508d430f15472843feea6d3",
+    "chunks": [
+      {
+        "path": "pck/0000-bb6508de6f56e89eeb41a26b039b1f4c87faf9ca4bffdec143e672d8ca85217b.bin",
+        "offset": 0,
+        "bytes": 8388608,
+        "sha256": "bb6508de6f56e89eeb41a26b039b1f4c87faf9ca4bffdec143e672d8ca85217b"
+      },
+      {
+        "path": "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin",
+        "offset": 8388608,
+        "bytes": 8388608,
+        "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+      },
+      {
+        "path": "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin",
+        "offset": 16777216,
+        "bytes": 8388608,
+        "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+      },
+      {
+        "path": "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin",
+        "offset": 25165824,
+        "bytes": 8388608,
+        "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+      },
+      {
+        "path": "pck/0004-b9a4259766439762f7c665d3afd42130b5ae083a411fbcad701f7e49460630eb.bin",
+        "offset": 33554432,
+        "bytes": 8388608,
+        "sha256": "b9a4259766439762f7c665d3afd42130b5ae083a411fbcad701f7e49460630eb"
+      },
+      {
+        "path": "pck/0005-08ee9e04c466b6d8aab373efb72a96a01470b95bebe28097559ad9b4265272cf.bin",
+        "offset": 41943040,
+        "bytes": 8388608,
+        "sha256": "08ee9e04c466b6d8aab373efb72a96a01470b95bebe28097559ad9b4265272cf"
+      },
+      {
+        "path": "pck/0006-a7406557d195259433fcda8575cb8855d7f563b9079c7180da033188f496b7eb.bin",
+        "offset": 50331648,
+        "bytes": 8388608,
+        "sha256": "a7406557d195259433fcda8575cb8855d7f563b9079c7180da033188f496b7eb"
+      },
+      {
+        "path": "pck/0007-7a2b54893e2dc74bce7fcecbef12f56a10d2cd2c46f65b2fc14b5e4a3edd72c3.bin",
+        "offset": 58720256,
+        "bytes": 8388608,
+        "sha256": "7a2b54893e2dc74bce7fcecbef12f56a10d2cd2c46f65b2fc14b5e4a3edd72c3"
+      },
+      {
+        "path": "pck/0008-0625e466a9968512b32b851f1c4b765edc5fa51b56f4e163df6f7ef41245944b.bin",
+        "offset": 67108864,
+        "bytes": 8388608,
+        "sha256": "0625e466a9968512b32b851f1c4b765edc5fa51b56f4e163df6f7ef41245944b"
+      },
+      {
+        "path": "pck/0009-9d2549f2ea995f1c81d9690ba52969657ba2ccd69277c322f3e293999d285d94.bin",
+        "offset": 75497472,
+        "bytes": 8388608,
+        "sha256": "9d2549f2ea995f1c81d9690ba52969657ba2ccd69277c322f3e293999d285d94"
+      },
+      {
+        "path": "pck/0010-2a42f5465b052b20a83cdaf5b41daa86a8f9fe41bf35aee149fb147d10d6e385.bin",
+        "offset": 83886080,
+        "bytes": 8388608,
+        "sha256": "2a42f5465b052b20a83cdaf5b41daa86a8f9fe41bf35aee149fb147d10d6e385"
+      },
+      {
+        "path": "pck/0011-3de43a7e3bff9bbb8bd6d41e2e9d46b633bbe05fe93f74f673787615864117d3.bin",
+        "offset": 92274688,
+        "bytes": 8388608,
+        "sha256": "3de43a7e3bff9bbb8bd6d41e2e9d46b633bbe05fe93f74f673787615864117d3"
+      },
+      {
+        "path": "pck/0012-d0efcf4f2dd9c5cbb8efe715e7b14b8399250969cbeb878791dfb6d432a334f5.bin",
+        "offset": 100663296,
+        "bytes": 8388608,
+        "sha256": "d0efcf4f2dd9c5cbb8efe715e7b14b8399250969cbeb878791dfb6d432a334f5"
+      },
+      {
+        "path": "pck/0013-d796692e01846aca6c60fd608cdd9906825f0eba11beae59d8f5b35c7938e7b4.bin",
+        "offset": 109051904,
+        "bytes": 3540408,
+        "sha256": "d796692e01846aca6c60fd608cdd9906825f0eba11beae59d8f5b35c7938e7b4"
+      }
+    ]
+  },
+  "files": {
+    "build-sha.txt": {
+      "bytes": 41,
+      "sha256": "adbf0ed4ce97aba00e9d2eee24c29ebf3f35d163e44abb84da0f83201b3dd2e2"
+    },
+    "chunk-loader.js": {
+      "bytes": 8799,
+      "sha256": "a5bcd74193188f34ee975d60b4159ee4de22e2774fbc20823232d2d7839add7e"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 1085,
+      "sha256": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 131750,
+      "sha256": "c4b1f0f9ffa5fce880045e0812bec4d56806e391e27d43ff2ddd8700fb912af3"
+    },
+    "index.icon.png": {
+      "bytes": 932,
+      "sha256": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c"
+    },
+    "index.js": {
+      "bytes": 315645,
+      "sha256": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 37902138,
+      "sha256": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522"
+    },
+    "pack-manifest.json": {
+      "bytes": 3850,
+      "sha256": "0c64125ae2c3c906c3537c878a81fc6b5d8f1bc4ecafd67fede118d5928eac39"
+    },
+    "pck/0000-bb6508de6f56e89eeb41a26b039b1f4c87faf9ca4bffdec143e672d8ca85217b.bin": {
+      "bytes": 8388608,
+      "sha256": "bb6508de6f56e89eeb41a26b039b1f4c87faf9ca4bffdec143e672d8ca85217b"
+    },
+    "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin": {
+      "bytes": 8388608,
+      "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+    },
+    "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin": {
+      "bytes": 8388608,
+      "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+    },
+    "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin": {
+      "bytes": 8388608,
+      "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+    },
+    "pck/0004-b9a4259766439762f7c665d3afd42130b5ae083a411fbcad701f7e49460630eb.bin": {
+      "bytes": 8388608,
+      "sha256": "b9a4259766439762f7c665d3afd42130b5ae083a411fbcad701f7e49460630eb"
+    },
+    "pck/0005-08ee9e04c466b6d8aab373efb72a96a01470b95bebe28097559ad9b4265272cf.bin": {
+      "bytes": 8388608,
+      "sha256": "08ee9e04c466b6d8aab373efb72a96a01470b95bebe28097559ad9b4265272cf"
+    },
+    "pck/0006-a7406557d195259433fcda8575cb8855d7f563b9079c7180da033188f496b7eb.bin": {
+      "bytes": 8388608,
+      "sha256": "a7406557d195259433fcda8575cb8855d7f563b9079c7180da033188f496b7eb"
+    },
+    "pck/0007-7a2b54893e2dc74bce7fcecbef12f56a10d2cd2c46f65b2fc14b5e4a3edd72c3.bin": {
+      "bytes": 8388608,
+      "sha256": "7a2b54893e2dc74bce7fcecbef12f56a10d2cd2c46f65b2fc14b5e4a3edd72c3"
+    },
+    "pck/0008-0625e466a9968512b32b851f1c4b765edc5fa51b56f4e163df6f7ef41245944b.bin": {
+      "bytes": 8388608,
+      "sha256": "0625e466a9968512b32b851f1c4b765edc5fa51b56f4e163df6f7ef41245944b"
+    },
+    "pck/0009-9d2549f2ea995f1c81d9690ba52969657ba2ccd69277c322f3e293999d285d94.bin": {
+      "bytes": 8388608,
+      "sha256": "9d2549f2ea995f1c81d9690ba52969657ba2ccd69277c322f3e293999d285d94"
+    },
+    "pck/0010-2a42f5465b052b20a83cdaf5b41daa86a8f9fe41bf35aee149fb147d10d6e385.bin": {
+      "bytes": 8388608,
+      "sha256": "2a42f5465b052b20a83cdaf5b41daa86a8f9fe41bf35aee149fb147d10d6e385"
+    },
+    "pck/0011-3de43a7e3bff9bbb8bd6d41e2e9d46b633bbe05fe93f74f673787615864117d3.bin": {
+      "bytes": 8388608,
+      "sha256": "3de43a7e3bff9bbb8bd6d41e2e9d46b633bbe05fe93f74f673787615864117d3"
+    },
+    "pck/0012-d0efcf4f2dd9c5cbb8efe715e7b14b8399250969cbeb878791dfb6d432a334f5.bin": {
+      "bytes": 8388608,
+      "sha256": "d0efcf4f2dd9c5cbb8efe715e7b14b8399250969cbeb878791dfb6d432a334f5"
+    },
+    "pck/0013-d796692e01846aca6c60fd608cdd9906825f0eba11beae59d8f5b35c7938e7b4.bin": {
+      "bytes": 3540408,
+      "sha256": "d796692e01846aca6c60fd608cdd9906825f0eba11beae59d8f5b35c7938e7b4"
+    },
+    "version.txt": {
+      "bytes": 45,
+      "sha256": "73d6be7766c7bf7e0cd48b86102c7743fcfaa5e4bc651c3bb35f5b16b8cb14b6"
+    }
+  }
+}
