@@ -1,0 +1,210 @@
+[
+  {
+    "phase": "before",
+    "name": "build",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td210-baseline/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_build.gd"
+    ],
+    "returncode": 0,
+    "seconds": 10.17082275300163,
+    "fail_lines": []
+  },
+  {
+    "phase": "before",
+    "name": "ramps",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td210-baseline/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_ramps.gd"
+    ],
+    "returncode": 0,
+    "seconds": 276.22550506100015,
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+    ]
+  },
+  {
+    "phase": "before",
+    "name": "signs",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td210-baseline/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_signs.gd"
+    ],
+    "returncode": 1,
+    "seconds": 1257.3991064789989,
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+    ]
+  },
+  {
+    "phase": "after",
+    "name": "build",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_build.gd"
+    ],
+    "returncode": 1,
+    "seconds": 10.423071469000206,
+    "fail_lines": [
+      "FAIL: dressing: eaves (0)"
+    ]
+  },
+  {
+    "phase": "after",
+    "name": "ramps",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_ramps.gd"
+    ],
+    "returncode": 0,
+    "seconds": 406.0223883990002,
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+    ]
+  },
+  {
+    "phase": "before",
+    "name": "drive",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td210-baseline/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_drive.gd"
+    ],
+    "returncode": 0,
+    "seconds": 1050.668023238999,
+    "elapsed_precision_s": 1,
+    "exit_status_source": "Linux proc stat zombie exit_code",
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+    ]
+  },
+  {
+    "phase": "after",
+    "name": "signs",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_signs.gd"
+    ],
+    "returncode": 1,
+    "seconds": 1210.4474949840005,
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+      "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+    ]
+  },
+  {
+    "phase": "after",
+    "name": "drive",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_drive.gd"
+    ],
+    "returncode": 1,
+    "seconds": 867.7514579489998,
+    "fail_lines": [
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+      "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 794.110051259398, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85309743881226 })"
+    ]
+  }
+]

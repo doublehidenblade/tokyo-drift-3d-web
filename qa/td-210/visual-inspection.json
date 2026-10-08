@@ -1,0 +1,358 @@
+{
+  "source": "f05048b12c176f9443cfc77e3a1bfb1ec19f62cf",
+  "inspected_at": "2026-10-08T02:49:59.333525+00:00",
+  "worker_visual_findings": "Opened all78 final comparison sheets:29 original fronts,29 labeled overhead footprint supplements,10 native and10 browser street HUD/world sheets. Every345 lot has a paired front and overhead;50 survey visibility exceptions are documented in coverage-manifest.json. Overheads establish target footprint and roof coverage, not street-level style. Road-facing views show tile-white/corrugated source walls, low eaves, recessed fish stalls, mounted Japanese signs and appropriate props. Low original heights use flat roofs, taller halls retain monitor roofs. No new road camera obstruction observed in corrected actualChaseCam pairs. Internal fronts can remain blocked by adjoining original lots; cyan footprint overlay is explicitly diagnostic only. Ordinary shipping menu/HUD originals also inspected; existing HUD layout retained. This is worker inspection, not independent acceptance.",
+  "sheets": [
+    {
+      "file": "review-sheets/browser-hud-01.jpg",
+      "sha256": "4262a5c19aef2b04b9adfbaa9ba5d99d08f4687be881d197850b8358b84705fe"
+    },
+    {
+      "file": "review-sheets/browser-hud-02.jpg",
+      "sha256": "0671e8820ee3c6b40644b821e1af84701d60b2e3da4c0bb533dcd46b081379f1"
+    },
+    {
+      "file": "review-sheets/browser-hud-03.jpg",
+      "sha256": "b399fe9c82aedb9e2e8e025736bb8819d91a51b13f735dcf3938656d27128ff8"
+    },
+    {
+      "file": "review-sheets/browser-hud-04.jpg",
+      "sha256": "a418da02c31ba5d6862ccb3fbb48f97e2d31b71ec92a076b0113eeaa8d8dfd0f"
+    },
+    {
+      "file": "review-sheets/browser-hud-05.jpg",
+      "sha256": "9e8f02bd5ab09d04e5d4b5ec16880dbbcb694d4641347f57b6e4233acf99b841"
+    },
+    {
+      "file": "review-sheets/browser-world-01.jpg",
+      "sha256": "04691a14bc445e39cc9e076c29ed8d9e63fc592b1f98d7f07f93e4d6d98435b8"
+    },
+    {
+      "file": "review-sheets/browser-world-02.jpg",
+      "sha256": "c1aa67f749817c3a2b1a89fbcb606b3aec8e41344955b077d05aa104496251d1"
+    },
+    {
+      "file": "review-sheets/browser-world-03.jpg",
+      "sha256": "7131b40e62d2f4b0a67e02ca9a5cf6a565c957da6fadeb02d6772805fbca1878"
+    },
+    {
+      "file": "review-sheets/browser-world-04.jpg",
+      "sha256": "6af6a1f86d8aa66690d3659358c551932c96f9b74746061690508203c2828df1"
+    },
+    {
+      "file": "review-sheets/browser-world-05.jpg",
+      "sha256": "79949b88e9a66c9862372a86f52d0288956c970bd0a26ce916e8c9c92b9ac7c2"
+    },
+    {
+      "file": "review-sheets/lots-01.jpg",
+      "sha256": "bb4dd27a2f226b81f6af91184b85e5e26bf66942bf83f5757c061328aa49c621"
+    },
+    {
+      "file": "review-sheets/lots-02.jpg",
+      "sha256": "8e8e844001b888ce16ed6923f4901a306fe2d437bb6a873f4c67ba6d25a2f6be"
+    },
+    {
+      "file": "review-sheets/lots-03.jpg",
+      "sha256": "50f21e599be602c057ccf21f4997756d03714b8f310a511ca248f34bc347d2bc"
+    },
+    {
+      "file": "review-sheets/lots-04.jpg",
+      "sha256": "513cec732ee53912a2b4def237872565b0aa2b4a4abd1eb521afec7f0465656b"
+    },
+    {
+      "file": "review-sheets/lots-05.jpg",
+      "sha256": "690dc00a39d29db35632969ec995cf313ee4286ccff26e642890ffd764e3c429"
+    },
+    {
+      "file": "review-sheets/lots-06.jpg",
+      "sha256": "64a34497ce418f9707280c444f6814111e68c2f52e2805d21dd6e5b8ba110aa3"
+    },
+    {
+      "file": "review-sheets/lots-07.jpg",
+      "sha256": "8f8fdfd7ce41990057336c8676feae422bdd45e1b7bd8c94954ef0ef8eed3b37"
+    },
+    {
+      "file": "review-sheets/lots-08.jpg",
+      "sha256": "76f7cf8787628cd225c7aa66447714f3c989cd03f1b0cc832a6342494adbcbc9"
+    },
+    {
+      "file": "review-sheets/lots-09.jpg",
+      "sha256": "3f1f1e13ef7b02b2d55adb47e163cf70fc78f152d42e7dcc4ecff1a5dc8d1977"
+    },
+    {
+      "file": "review-sheets/lots-10.jpg",
+      "sha256": "7b7400fb014fc42a83b1bedcf447410e154ff478515af89c08d5daed1a5b33bb"
+    },
+    {
+      "file": "review-sheets/lots-11.jpg",
+      "sha256": "5f2efb570fa05562c188452de7241466c382dc260d01509d9379a1645a43f13e"
+    },
+    {
+      "file": "review-sheets/lots-12.jpg",
+      "sha256": "35fb5e8b76bc3add83a6fca09653402123d581391a236063e0eb8c6e5dc867b2"
+    },
+    {
+      "file": "review-sheets/lots-13.jpg",
+      "sha256": "7e84e674e35b100c966af40917a1b49645a035131c564f930648efa8628d0929"
+    },
+    {
+      "file": "review-sheets/lots-14.jpg",
+      "sha256": "6b4a89ac30a011dd1e8225bc49b0c8ce5ba7fa637a640c07a9f78333cdbbc244"
+    },
+    {
+      "file": "review-sheets/lots-15.jpg",
+      "sha256": "cc2c1e7de72d834b0d28a925527b8a2d58d0c9df707d5ee9de59f4b22d63ea57"
+    },
+    {
+      "file": "review-sheets/lots-16.jpg",
+      "sha256": "156dcc103b0cfc3699139eb8665d480810c75658bbe8a48382c86359c8c679f5"
+    },
+    {
+      "file": "review-sheets/lots-17.jpg",
+      "sha256": "521a70a34837d861eb77ce7aeab55cdc766a299fe130ffa621d97dc1ebf68380"
+    },
+    {
+      "file": "review-sheets/lots-18.jpg",
+      "sha256": "38c925794f260666780397c7115d6fd150d00c4b8dba0eec2a1fba0ee8df0b30"
+    },
+    {
+      "file": "review-sheets/lots-19.jpg",
+      "sha256": "7ea86c458e2427e2d71ff1025d051b1d02b2fba45e77292d071ad8522727082c"
+    },
+    {
+      "file": "review-sheets/lots-20.jpg",
+      "sha256": "07f22838ac8a960a3b7331fb29f0c03041789a9ab9514a8b479d87c7b39cc0c0"
+    },
+    {
+      "file": "review-sheets/lots-21.jpg",
+      "sha256": "042e5462403f1a7c0db59b6985113d88349bd77a2628c68f4d2aafe617fe001e"
+    },
+    {
+      "file": "review-sheets/lots-22.jpg",
+      "sha256": "7a533cc2bd43d8410e0bb27d67cec6532f0d6f2e36d4da16e1c38b52cc4580ff"
+    },
+    {
+      "file": "review-sheets/lots-23.jpg",
+      "sha256": "9730e87849a95a0ff1a020bcd1a506de994a1a55504e69ae656edf1810572fa4"
+    },
+    {
+      "file": "review-sheets/lots-24.jpg",
+      "sha256": "1fcdce810028eb3257501c0288a4f65a3be38f6146cd6639f491912886dcf828"
+    },
+    {
+      "file": "review-sheets/lots-25.jpg",
+      "sha256": "68457a6dfa01f6b6d7363421a2b139dbb862e9ef1ef121718ac26685b7de8018"
+    },
+    {
+      "file": "review-sheets/lots-26.jpg",
+      "sha256": "4a1766db724ff5b33ce85e2d7a98519f895b8e18fd0be4a7709596e286bde26c"
+    },
+    {
+      "file": "review-sheets/lots-27.jpg",
+      "sha256": "319c1d738de86622aba223a3d790d3ff4b93368a6c261c1e3d21b6db29551969"
+    },
+    {
+      "file": "review-sheets/lots-28.jpg",
+      "sha256": "3c4709b11cf98c3f0a2ee3acebff008c17577c24d65178bd56bc8317d6a1126b"
+    },
+    {
+      "file": "review-sheets/lots-29.jpg",
+      "sha256": "48e710126c8a5da452d8d549137ed3a5e5c20e49d4b48ab21d6a8969d2b393ff"
+    },
+    {
+      "file": "review-sheets/lots-overhead-01.jpg",
+      "sha256": "069f2ce56c3c2225e28e254a43499ad90611f3294302561f1412c4703e64305c"
+    },
+    {
+      "file": "review-sheets/lots-overhead-02.jpg",
+      "sha256": "e569e6bc7db6da728c6340a26cb503e4bd3649abdcf953433ca2c82224fce73a"
+    },
+    {
+      "file": "review-sheets/lots-overhead-03.jpg",
+      "sha256": "d99c2c28c11daf8f41d91ecb910ee55c8bd8c8148a98ead285c9ffc8065ed0c8"
+    },
+    {
+      "file": "review-sheets/lots-overhead-04.jpg",
+      "sha256": "56b07424b3113062e1480cb9eba03f82c5fba974bd7b9ec7a7abc11af5c335d2"
+    },
+    {
+      "file": "review-sheets/lots-overhead-05.jpg",
+      "sha256": "b9924f7df968a7adfcb51ef2e645216a4ce8ae021eb414e417e74a83ba09dcc4"
+    },
+    {
+      "file": "review-sheets/lots-overhead-06.jpg",
+      "sha256": "a6e86f3badce24dc3ba143475cf8b69babeb6e2642412513462f36a6b65763e7"
+    },
+    {
+      "file": "review-sheets/lots-overhead-07.jpg",
+      "sha256": "66dd414fe392eebe7dd64e31cf02718b1c83bbc495bf2013c5e63d9b13c2c572"
+    },
+    {
+      "file": "review-sheets/lots-overhead-08.jpg",
+      "sha256": "196a32efd214bf991631dc3189a1909bdbb79f1ecd77768ced339a6722d5164f"
+    },
+    {
+      "file": "review-sheets/lots-overhead-09.jpg",
+      "sha256": "cc1413db4cf692f0888a32147a575a59f5904c18637848e02ef635c9f9f5d711"
+    },
+    {
+      "file": "review-sheets/lots-overhead-10.jpg",
+      "sha256": "277226035e7cf7b38876a2ff938c6556d85dc79e80668ace8217c340eafbc046"
+    },
+    {
+      "file": "review-sheets/lots-overhead-11.jpg",
+      "sha256": "362d559b7ad979160b926fd3cae8b01d8879ad8ca0635bb786a95ba798531a54"
+    },
+    {
+      "file": "review-sheets/lots-overhead-12.jpg",
+      "sha256": "54114a8422b2e6d7f17aaba6b496ed421f0b0572d69b98a539d70b949ad6fb98"
+    },
+    {
+      "file": "review-sheets/lots-overhead-13.jpg",
+      "sha256": "bf0cb84e3c2ac760901d7cf0ae341cdc12fbbe75b36b6a75a1abe4e7fce2d060"
+    },
+    {
+      "file": "review-sheets/lots-overhead-14.jpg",
+      "sha256": "a1eacffec569adfea961a49fb7462533daadd93c615b1585daec195a2a7f2bf9"
+    },
+    {
+      "file": "review-sheets/lots-overhead-15.jpg",
+      "sha256": "d743237f91c42d0fb31ad6390bc20656d4f82453f14f8fb4ba13d5f68c86a139"
+    },
+    {
+      "file": "review-sheets/lots-overhead-16.jpg",
+      "sha256": "8a2f5b246e6825e501ac66ea91317daada76e6f1f82ca962b573e2c25be8a987"
+    },
+    {
+      "file": "review-sheets/lots-overhead-17.jpg",
+      "sha256": "8ca2f202b7a8c2e06224e994ebc69a49f5fa81b09064e8d009f13b0028f8f47a"
+    },
+    {
+      "file": "review-sheets/lots-overhead-18.jpg",
+      "sha256": "ed701923ab4fa8f4551e2dbf5c2f89d72681fb6c7d3127e99dfeb6715aecf3a4"
+    },
+    {
+      "file": "review-sheets/lots-overhead-19.jpg",
+      "sha256": "5abf38cb4080786b1e39ea7ac7d445620354c9961127e91e503654a6cf5e975f"
+    },
+    {
+      "file": "review-sheets/lots-overhead-20.jpg",
+      "sha256": "27a91a8e23d58fe9b20ad58f62d571356844986c5c4be8a7b716f511b0522cfb"
+    },
+    {
+      "file": "review-sheets/lots-overhead-21.jpg",
+      "sha256": "fc2ffd920446f2e8b89afa88704b3848e3af71b4aecc95916f10fce3189c9c77"
+    },
+    {
+      "file": "review-sheets/lots-overhead-22.jpg",
+      "sha256": "b1f47d749da33f9fb328da8309c6736522f05fa63434e92c56b43d71ff85e959"
+    },
+    {
+      "file": "review-sheets/lots-overhead-23.jpg",
+      "sha256": "b8ab930812031907cc2196f2a5f644c0032f4bc4e3c72cf5492363ec0cd1675a"
+    },
+    {
+      "file": "review-sheets/lots-overhead-24.jpg",
+      "sha256": "93f9de0f56617a4c502789ec57c42eb4afd6dcf1589698cc511515b21948bb35"
+    },
+    {
+      "file": "review-sheets/lots-overhead-25.jpg",
+      "sha256": "d8c4828cdcb24c45208ba08ffc285a583a3c38a4bcb51b4377598468a9996d35"
+    },
+    {
+      "file": "review-sheets/lots-overhead-26.jpg",
+      "sha256": "4cd35d2e4f80ae1f734f144fa2ab1dacf681f2f0abb4b9be26d3c61c8dc181e3"
+    },
+    {
+      "file": "review-sheets/lots-overhead-27.jpg",
+      "sha256": "e347476cbfa8ef94fea9235e5379b57cdf556afe885d37d8d4e52c81b1b6dfce"
+    },
+    {
+      "file": "review-sheets/lots-overhead-28.jpg",
+      "sha256": "5ad978ff29cd479bc1324485dc7120e568bae91e29f8c28078d9c509f0b8fc6d"
+    },
+    {
+      "file": "review-sheets/lots-overhead-29.jpg",
+      "sha256": "7385e3db0ada477f2b136d498b993517b5d10ecdcf18b95ec7b291cdd090fe91"
+    },
+    {
+      "file": "review-sheets/native-hud-01.jpg",
+      "sha256": "80df86e3b60294b04457329a379a6e932202d786c8985215fb92af7062deb6ac"
+    },
+    {
+      "file": "review-sheets/native-hud-02.jpg",
+      "sha256": "27c7f0a1db3654f44a55004882ec4e499840a6c5461108c46e3d382e95d4ffe9"
+    },
+    {
+      "file": "review-sheets/native-hud-03.jpg",
+      "sha256": "42e4e9ce2f0fc89c1ab191b0385c42fc4e1f16244e3f390c9def306c7af57a7f"
+    },
+    {
+      "file": "review-sheets/native-hud-04.jpg",
+      "sha256": "cd4397364da2a6cfa07835ce9a03a7e981d47e4fea58d74ef493c7fc0037a919"
+    },
+    {
+      "file": "review-sheets/native-hud-05.jpg",
+      "sha256": "cf57ca2a2439579976650f6e59297c7e37cde9a899fafe1f0ac9665ded29ae33"
+    },
+    {
+      "file": "review-sheets/native-world-01.jpg",
+      "sha256": "c3e6eff6e9088ed19382fdda81acd650cd76880a281ac88299f1acd60ff60523"
+    },
+    {
+      "file": "review-sheets/native-world-02.jpg",
+      "sha256": "bd52a7dbc3abb2464421ae1164e3d9e98e74a807ea8d1b6f68f778955a19eadc"
+    },
+    {
+      "file": "review-sheets/native-world-03.jpg",
+      "sha256": "f49cdee6901c1f874d1b75e72e90b5fdfd605c9f1fa6277915e969de62071ec0"
+    },
+    {
+      "file": "review-sheets/native-world-04.jpg",
+      "sha256": "7d42f9508e10a7578b9709c33a216148639716d55e53c55f76996638c2fc0347"
+    },
+    {
+      "file": "review-sheets/native-world-05.jpg",
+      "sha256": "2fbbb593d74411390a02a64630808fb0c3ad7532e28f551017e4dc820dbaddb2"
+    }
+  ],
+  "original_details": [
+    {
+      "file": "native-after/lots/1022/td-210-criterion-1-after.png",
+      "sha256": "2bd3660434ada5d8cb356f8a60a8297cdbfd2f2600470b5782497166d54bf90e"
+    },
+    {
+      "file": "native-after/lots/1046/td-210-criterion-1-after.png",
+      "sha256": "5ed291e6cf06578f14d5c0af5bcd4d5ebbd21860b2174a75fdb11a9ce1acbc5e"
+    },
+    {
+      "file": "native-after/lots/1151/td-210-criterion-1-after.png",
+      "sha256": "68a245b13ffa03792b3a488bfcfcd6b627896a29ac671ce4ade7e5a35a05f455"
+    },
+    {
+      "file": "native-after/lots/1300/td-210-criterion-1-after.png",
+      "sha256": "6c040a2a6216e2ea933cb51baa2ce24b5753cb0bcae1cc58daf52804d4cd6bb8"
+    },
+    {
+      "file": "native-after/lots/1365/td-210-criterion-1-after.png",
+      "sha256": "e843bbd193b48332addabac49c106f949fe7a1eb0f5511bf1c9d86d6bb7b3ca8"
+    },
+    {
+      "file": "ordinary-before/ordinary-menu.png",
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
+    },
+    {
+      "file": "ordinary-before/ordinary-hud-844.png",
+      "sha256": "a94ec5ae40c6e48175c4c2c5301b4219d99a5d32940a865d0d2a1b7acf57d032"
+    },
+    {
+      "file": "ordinary-after/ordinary-menu.png",
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
+    },
+    {
+      "file": "ordinary-after/ordinary-hud-844.png",
+      "sha256": "07615da3dfecce65263d8087f2911fc4df0c83f34faad275ddf3d1b319f616a1"
+    }
+  ],
+  "rejected_experiment": "Front-plane clipping at1046 did not fairly represent both original and recessed facade; no final evidence uses clipping."
+}

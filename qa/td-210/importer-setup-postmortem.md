@@ -1,0 +1,7 @@
+# Baseline dependency correction
+
+The new reviewed-Tenjin worktree initially copied .godot plus untracked files under assets only. That omitted ignored .glb.import maps and model PNGs. The first native capture is invalid and preserved as native-before-import-failed. Copying the666 exact td209 recovery files plus692 existing .import maps restored native resource loading (all666 prior hashes matched), and the complete401-frame native run has no missing-resource/runtime errors before teardown.
+
+The shipping PCK audit subsequently exposed a second dependency-set omission: the666 recovery set was only a historical subset. Fuel/td168/JNR generated source PNGs outside that subset were still absent from the worktree. Native resource remaps resolved their preserved cached ctex, but the exporter did not include source files that were absent.21 existing GLBs failed the isolated PCK semantic load audit. The initial before PCK and partial browser capture are explicitly invalid and preserved with incomplete-source-dependencies suffixes.
+
+Changed approach: mirror the COMPLETE unchanged assets and models trees, including ignored files and importer metadata, not a guessed recovery subset. The1331-file PNG/JPG/GLB/import manifest records byte parity. No generated texture extraction, source asset edit, mipmap default or import setting change is involved. Final baseline PCK must load every existing GLB and match its final-build semantic signature; matching666 historical files alone is not the acceptance test. Export byte delta is measured only after that test passes.

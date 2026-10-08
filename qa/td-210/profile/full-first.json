@@ -1,0 +1,334 @@
+{
+  "construction_caches": {
+    "assets": 0,
+    "batches": 0,
+    "donors": 0,
+    "modules": 0
+  },
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "retained_placement_evidence": 0,
+  "static_memory_bytes": 361011247,
+  "static_memory_peak_bytes": 593079628,
+  "tenjin_meshes": [
+    [
+      "(1300.0, 0.0, -1300.0)",
+      "a8f604ab6bb43bc1696464fc568cb36fd4fc6704fbb20a0c0b02d3911af53d05"
+    ],
+    [
+      "(1300.0, 0.0, -1300.0)",
+      "6842279f8a1f6e91c05814731560bc411224d35a4b409df6ed6b6a3803962a03"
+    ],
+    [
+      "(1300.0, 0.0, -1300.0)",
+      "05ebfa95afb2ea40a9de7a3fff999c912495949df5693ece5f2c87897e3bf4e6"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "be37822111a47558c7c96744bc53afa2ea9262cab0293defab722dba166d7d15"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "53a0387a11f6a8641500e334c41fa02d57ec0cdb1bf87c7bbfefaf54c907c64d"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "f7d699621568f4fbb27b1d311a1ad70f94849346ceecd648a74f3cf9ef3fb30d"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "6a62a18afd4c118051740b4e73de74ca419e425af1d094b3756b11472fad4457"
+    ],
+    [
+      "(1300.0, 0.0, -300.0)",
+      "3ff23c4b0ab7d24ec4cacc7c6b0a5283506176c1a41ea8c6b29dfc7e84b9a447"
+    ],
+    [
+      "(1300.0, 0.0, -300.0)",
+      "f20f9af60aad7e1fdac24f9183af80f787d74e424cb28156bcdb0694946c3528"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "3391d35146effdcec679b571f469025512475c70939f974fa94b425530a8a146"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "bd15e31c157ee1e455cacc7c39cdc1debade66ed4c301f8d2a36a70528db44f7"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "7adcd1928d422d2b825b6edfff03afc4c008328c2a69ef293caa2cd0fe02e38f"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "d4ec0255ff9d3e3652769a10a68d58bc118dc2f5bdfcdc37b6f8e8ee3a118b93"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "657f9c94ba22068b35fc6e9d814d299c48c46f1894ca8e8e4a5b2a239d190b3c"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "36f0b4435aff4ddd6b803015840844a37b28351e3e450238a88a74451a8c3956"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "3b6f26b771fc46e4e4f87a0aa693a054544928a6d9ca462257115dfce411a242"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "bebc3c795e03db3a76c8a4d1181e02b1c914daeff870ed661ccbde84fce8851b"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "fb5962add6f22c3ee7a52e51311457bf511e6faa47ba2afb1f2ef98c0e0b5c2f"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "13f6e21285ace1ae171abd4b41aa99f97b4fdbb54ad895a231b11b9ce9536ed7"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "eb45588656691c9fcc4fa8390380d826b87136be0b05d43fbf50626c6a0ab380"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "bfa1e4b41012e686203304eff6d6c1e73cc8abd9f2d185ae867bfe3c791cca26"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "61dd85eb6a04dfe6d5ac17d9fcd4ef567e8206714058a8a368a54d79e46b83d8"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "f28724486c439a37f51573a50ce0f58d8f9c6a71850d1249a361b2ac95e42cf0"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "59a64e5a7803faca92bc2122ba33eea8f3f1d7848c06153e558a0aa1e738a516"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "974cd13accfd49979a56f918049124bd13dcfe34b8c81172ffbeb5a90ebc308c"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "a75c90cd2004f32f46f5d0d9f796a72c957c352365ff8d13bfe3a9fd2cbcc72d"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "9871eb9830b2069f42d0d40f4ca7e0009d3b2b6d1b52885e038e00640ebe0103"
+    ],
+    [
+      "(1300.0, 0.0, -700.0)",
+      "684c54fc54b1e880b3c37bae798d95e16779980d08e66ff9a3ffaafb7c0b8476"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "92911adcafc356357ac569f642d7b590371f9d6b6ac3445950596973e020edee"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "7c30747f0d04ebe19aa0fab8f2ca21219a04a0f20ced57071099078a487b3e57"
+    ],
+    [
+      "(1300.0, 0.0, -900.0)",
+      "0d3b2574cff9dda4743d9a9a7e5a5d8a4369e96a9d885906e10eda65d391ba38"
+    ],
+    [
+      "(1100.0, 0.0, -1100.0)",
+      "957658f6d477afd4d69ff142fb2984f349aadc9e35eb8198ebff76303707083e"
+    ],
+    [
+      "(1100.0, 0.0, -1100.0)",
+      "7440cb2db65dea6f86f2bd07d7c5dcbc57f1a5044da666ef68f595400558c415"
+    ],
+    [
+      "(1100.0, 0.0, -1300.0)",
+      "7eb016438d1862cf349d93e867d90bf41ee654346dfd518a9dbd0b7fe7299d68"
+    ],
+    [
+      "(1100.0, 0.0, -1300.0)",
+      "dcdb8e339aa8808cdb01a32436675bc1e06382d4dd4bf74a42fe5ae80084d741"
+    ],
+    [
+      "(1100.0, 0.0, -1300.0)",
+      "efcfc59fd0ef33710dba2de6c9715a418b60423b97465668289847d24af48817"
+    ],
+    [
+      "(1100.0, 0.0, -1300.0)",
+      "98452bf7e955763f6be78feabb03b1f24922210f3894aab427d9c969c5d1683c"
+    ],
+    [
+      "(1100.0, 0.0, -1100.0)",
+      "76ddb2bb0d7c0ef558993ca09a44168cc754a9072f938560f66523da6b1ee79f"
+    ],
+    [
+      "(1100.0, 0.0, -1100.0)",
+      "82f340ac204d67846f46fa4497e44fc995c9af5768df37f4769c795be3148e27"
+    ],
+    [
+      "(1100.0, 0.0, -900.0)",
+      "772852214b1766cc66b6e9009d24a64aa2f9a725a63a32872a4a0a83ba117586"
+    ],
+    [
+      "(1100.0, 0.0, -900.0)",
+      "c66e8d78823b9575032345afe95c00c90b82a5a88ddc6de6fcd92babfa5dbf0b"
+    ],
+    [
+      "(1100.0, 0.0, -900.0)",
+      "20bac50384f7a39c06cde4c9ebe51855c76e9fef68c1532794397d0f4eaf5c45"
+    ],
+    [
+      "(1100.0, 0.0, -900.0)",
+      "4b68e5c51fc6caab701790b564a6e0f6f37074357e7b973f6029992281a08802"
+    ],
+    [
+      "(1100.0, 0.0, -1100.0)",
+      "d2972c4935dfce2cbb9dca7e42883376e9f56409528576ae5bb812f6077b9205"
+    ],
+    [
+      "(1300.0, 0.0, -1100.0)",
+      "d20d18e7340ef489be666dbd6012f06cdbc409eea31fc86825454e2ae45ef819"
+    ],
+    [
+      "(1100.0, 0.0, -700.0)",
+      "591b2d806ca86c8d16e4808242ddfac0b396872110e53deb76bd8111cb4e45a5"
+    ],
+    [
+      "(1100.0, 0.0, -700.0)",
+      "0ecf5f4dbe44be7fac9d50364f503e36e016339186cc6f6e48844dea3fa47823"
+    ],
+    [
+      "(1100.0, 0.0, -700.0)",
+      "09f7f78551947c2c9342cee5ea7bffdbfdee5d3aa40ded606098ce65dd597cd7"
+    ],
+    [
+      "(1100.0, 0.0, -700.0)",
+      "8ab5fb2560f62c17000c4aaffffae9105719269c8dfed9f65fd1c0d400c4cd8b"
+    ],
+    [
+      "(1100.0, 0.0, -700.0)",
+      "c568a6f7dd8ee0445a37fb9afd5a32e68f3b4cfb5ab85043cf02972f6047a8ce"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "218a8958e69c571907fee5119f577fd0db75611a89c810864898e00f445dda90"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "35916b29f0c146d0dc623b6fcd2c916268cae11d9c1ca89b3beb0287d9651b23"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "07193bf9c3420975421c90ef50548df4301b6947eabe0325b1072ed3b5413327"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "233d0cf63093a2cd40f08edc3c4c0d2f48035243373874c9808c2026caba6632"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "2033064c5361f140f8951f4dafdb7e08aee5b4061c47340db3185bdd719941fa"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "233466dfbcfc5a98cfdeaf2bfde85abbb411f0dc44b8dd419ad53041d87809cb"
+    ],
+    [
+      "(1100.0, 0.0, -500.0)",
+      "c6402b3eeaae557a6354cda84ddc8555ea802dd646366e05d58af2de57071e14"
+    ],
+    [
+      "(1100.0, 0.0, -300.0)",
+      "8f030722839d29b678ecec4b8a1ccbaf302e5708805fb81dad2995f5d453f9e8"
+    ],
+    [
+      "(1300.0, 0.0, -500.0)",
+      "92fddde00a1d616837a3baf9ce53f219bccda637af81c782398513ac3ec30927"
+    ],
+    [
+      "(1100.0, 0.0, -300.0)",
+      "d3e5c733e606f9bb8a87ff815fc3c63cef1ce2159c0e5ebc48e44cc328aaac12"
+    ],
+    [
+      "(1100.0, 0.0, -300.0)",
+      "456813e68e6268348f5808be5e02168acd95467eb94d73026fe6265a10beaa09"
+    ],
+    [
+      "(1100.0, 0.0, -300.0)",
+      "8e970a4612e511b72c5fd1a4638f6942ab575fa3e710a4f11749473988118f27"
+    ]
+  ],
+  "world_stats": {
+    "build_ms": 9467,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "kamome": {
+      "donor_bands": 504,
+      "frontages": 345,
+      "lots": 345,
+      "max_lot_triangles": 3949,
+      "mesh_instances": 488,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 63031,
+        "place_us": 253247,
+        "slice_us": 1722278
+      },
+      "module_variants": 4533,
+      "props": 546,
+      "sharing": {
+        "cells": 464,
+        "expanded_triangles": 841924,
+        "placements": 2395,
+        "unique_meshes": 25,
+        "unique_triangles": 11889
+      },
+      "storefronts": 217,
+      "triangles": 925837
+    },
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 1204,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 341633,
+        "place_us": 1740401,
+        "slice_us": 2791316
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 104302
+  }
+}

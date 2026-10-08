@@ -1,0 +1,839 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #0, invalid UID: 'uid://q8y6hdb81jt0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #1, invalid UID: 'uid://dsu450x8e5fn0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #2, invalid UID: 'uid://bs2w04rtjbr4q' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #3, invalid UID: 'uid://c7eo8u8qyy6hk' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #4, invalid UID: 'uid://bhwwdj666xdru' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #5, invalid UID: 'uid://br0mkq8gxa3iy' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_granite.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #6, invalid UID: 'uid://d0jpdfqlp71fw' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #7, invalid UID: 'uid://d3vybvvaayanp' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #8, invalid UID: 'uid://dylcb8f0akry7' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #9, invalid UID: 'uid://bo1fhqlg2ymgx' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #10, invalid UID: 'uid://o4drl2uhk7tk' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #11, invalid UID: 'uid://bsctxpuoea40g' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_jizo_wood.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_jizo_granite.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_jizo_bib.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Sake_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_hokora_Mat_Vase_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jizo_hokora.glb-43fad85e7a9e99856c647ee83f8fc0a3.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://assets/td-168/jizo_hokora.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #0, invalid UID: 'uid://dwfohvr0dutkc' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #1, invalid UID: 'uid://cvu4tumk00y8x' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #2, invalid UID: 'uid://d7kik2qkxs6r' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #3, invalid UID: 'uid://1kgjljf7iot2' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #4, invalid UID: 'uid://dikh4v4oxqa0t' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #5, invalid UID: 'uid://lv61jlkwb12l' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #6, invalid UID: 'uid://bj6bo8kaepmk7' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #7, invalid UID: 'uid://bllbqt8mx55o6' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #8, invalid UID: 'uid://c13qnap4orrvf' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #9, invalid UID: 'uid://cg511ya3pumbo' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_tin.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #10, invalid UID: 'uid://b5dp1y7gifxn5' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #11, invalid UID: 'uid://br0k1yg4kdbd3' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_jizo_bib.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Sake_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_jizo_wood.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_jizo_tin.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/jizo_shed_Mat_Vase_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jizo_shed.glb-297b4f3ef4bfd7337b7a67ca410d5a82.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://assets/td-168/jizo_shed.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #0, invalid UID: 'uid://c2dkieqmo1v3q' - using text path instead: 'res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #1, invalid UID: 'uid://bw67vhypf5s3r' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #2, invalid UID: 'uid://c4uoiolumprbm' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #3, invalid UID: 'uid://c6t10wt7cdubp' - using text path instead: 'res://assets/td-168/koban_brick_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #4, invalid UID: 'uid://co7gmbxdnp5lb' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #5, invalid UID: 'uid://l0ptwlqrnddw' - using text path instead: 'res://assets/td-168/koban_brick_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #6, invalid UID: 'uid://l3h7i3nye3e8' - using text path instead: 'res://assets/td-168/koban_brick_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #7, invalid UID: 'uid://elq11pbke8o3' - using text path instead: 'res://assets/td-168/koban_brick_koban_brick.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #8, invalid UID: 'uid://b2ahr4kspa0rb' - using text path instead: 'res://assets/td-168/koban_brick_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #9, invalid UID: 'uid://brlalriqbfk1s' - using text path instead: 'res://assets/td-168/koban_brick_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_sento_roof.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_koban_clock.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_Mat_LampGlow_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_koban_brick.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_koban_sign.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_brick_koban_window.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/koban_brick.glb-7df1a4b8d191836cc6af1b246191a7b7.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://assets/td-168/koban_brick.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #0, invalid UID: 'uid://mn0khmjy5ugi' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #1, invalid UID: 'uid://bqjef78s4ecq1' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #2, invalid UID: 'uid://c7csr08xo3yy6' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #3, invalid UID: 'uid://bmrn24nsocoas' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #4, invalid UID: 'uid://ckwr07t0x4bex' - using text path instead: 'res://assets/td-168/koban_concrete_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #5, invalid UID: 'uid://ctouybauu3woh' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #6, invalid UID: 'uid://cei6npf43w28m' - using text path instead: 'res://assets/td-168/koban_concrete_koban_concrete.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #7, invalid UID: 'uid://dunnpmkyxvnw5' - using text path instead: 'res://assets/td-168/koban_concrete_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #8, invalid UID: 'uid://cgfkxkv7fwk48' - using text path instead: 'res://assets/td-168/koban_concrete_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_koban_clock.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_koban_concrete.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_koban_sign.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/koban_concrete_koban_window.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/koban_concrete.glb-744ded7dfb67b49c84afea1504b21421.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://assets/td-168/koban_concrete.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #0, invalid UID: 'uid://egcm71hs27ga' - using text path instead: 'res://assets/td-168/sento_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #1, invalid UID: 'uid://brgbamfxasyt7' - using text path instead: 'res://assets/td-168/sento_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #2, invalid UID: 'uid://bl4u4jlsepvdj' - using text path instead: 'res://assets/td-168/sento_Mat_WoodDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #3, invalid UID: 'uid://dx7t6sj8clmgr' - using text path instead: 'res://assets/td-168/sento_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #4, invalid UID: 'uid://bs4hgodn60ll5' - using text path instead: 'res://assets/td-168/sento_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #5, invalid UID: 'uid://813y3joxai58' - using text path instead: 'res://assets/td-168/sento_sento_chimney.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #6, invalid UID: 'uid://djet4nap6eeqy' - using text path instead: 'res://assets/td-168/sento_sento_wall.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #7, invalid UID: 'uid://bd116prdghg6d' - using text path instead: 'res://assets/td-168/sento_sento_noren.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #8, invalid UID: 'uid://cf3lp5acno7r5' - using text path instead: 'res://assets/td-168/sento_Mat_WindowDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #9, invalid UID: 'uid://cmhnimwl1af4u' - using text path instead: 'res://assets/td-168/sento_Mat_WindowLit_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_WoodDark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_sento_roof.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_sento_chimney.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_sento_wall.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_sento_noren.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_WindowDark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://assets/td-168/sento_Mat_WindowLit_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://assets/td-168/sento_Mat_Dark_flat.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/sento.glb-23b01410b4445c800101f79a1352ee1b.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://assets/td-168/sento.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-canopy-edge.glb': In external resource #0, invalid UID: 'uid://der7go1ewx2mg' - using text path instead: 'res://models/props/jnr-canopy-edge_jnr-fascia.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-canopy-edge_jnr-fascia.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/jnr-canopy-edge_jnr-fascia.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jnr-canopy-edge.glb-91f13631fddfbf002b4c996b70f715a3.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/jnr-canopy-edge.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-country-halt.glb': In external resource #0, invalid UID: 'uid://sn5iuw8n0tok' - using text path instead: 'res://models/props/jnr-country-halt_jnr-halt-wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-country-halt.glb': In external resource #1, invalid UID: 'uid://52ci5amdt7v6' - using text path instead: 'res://models/props/jnr-country-halt_jnr-station-board.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-country-halt_jnr-halt-wood.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-country-halt_jnr-station-board.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/jnr-country-halt_jnr-halt-wood.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jnr-country-halt.glb-1a200ff1246685647df1e6a34f9a8568.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/jnr-country-halt.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-platform-sign.glb': In external resource #0, invalid UID: 'uid://byuu33l8luk6u' - using text path instead: 'res://models/props/jnr-platform-sign_jnr-platform-sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-platform-sign_jnr-platform-sign.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/jnr-platform-sign_jnr-platform-sign.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jnr-platform-sign.glb-243f9cfe75705ec623fa7409d4d272ea.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/jnr-platform-sign.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-station-board.glb': In external resource #0, invalid UID: 'uid://dvj7x3wv7u08i' - using text path instead: 'res://models/props/jnr-station-board_jnr-station-board.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-station-board_jnr-station-board.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/jnr-station-board_jnr-station-board.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jnr-station-board.glb-34c8c48b8a1161b36c68e4f1ab6d81cb.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/jnr-station-board.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/jnr-ticket-gate.glb': In external resource #0, invalid UID: 'uid://b2ge1av32ic6m' - using text path instead: 'res://models/props/jnr-ticket-gate_jnr-gate-plate.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/jnr-ticket-gate_jnr-gate-plate.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/jnr-ticket-gate_jnr-gate-plate.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/jnr-ticket-gate.glb-bc8938f7563e3770ad067d9b2e2870bb.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/jnr-ticket-gate.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_aframe_sign.glb': In external resource #0, invalid UID: 'uid://bwd0j28gyccqq' - using text path instead: 'res://models/props/td174/gas_aframe_sign_tex_aframe.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_aframe_sign_tex_aframe.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_aframe_sign_tex_aframe.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_aframe_sign.glb-caa22d5843e736c3bd77c7506cc26448.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_aframe_sign.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_canopy_roof_tex_canopy_top.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_canopy_roof_tex_canopy_under.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_canopy_roof.glb-83e2b3ffcdfede92c8706f1453c66559.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_canopy_roof.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_column.glb-7a3f06b0cb2727327c347104a770a8d6.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_column.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_enamel_plate_blue.glb': In external resource #0, invalid UID: 'uid://dyve1q7f7joq5' - using text path instead: 'res://models/props/td174/gas_enamel_plate_blue_tex_enamel_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_enamel_plate_blue_tex_enamel_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_enamel_plate_blue_tex_enamel_blue.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_enamel_plate_blue.glb-7c3c53032a587d4aa844973cb31e4143.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_enamel_plate_blue.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_enamel_plate_red.glb': In external resource #0, invalid UID: 'uid://bxive47gcl53' - using text path instead: 'res://models/props/td174/gas_enamel_plate_red_tex_enamel_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_enamel_plate_red_tex_enamel_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_enamel_plate_red_tex_enamel_red.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_enamel_plate_red.glb-3ec018dfb406c28ba80a1fc691e70627.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_enamel_plate_red.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_forecourt_pad_tex_pad.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_forecourt_pad.glb-60d5117eac18dc1df2a7cdd9d77a5e0c.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_forecourt_pad.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_hose_boom.glb-8a77f6c6b2c31564fdeae9e0c4d642c1.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_hose_boom.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_kiosk_tex_kiosk.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_kiosk.glb-f0cd33ce88c3dc536f16c2b9865d6218.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_kiosk.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_pump_blue_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_pump_blue.glb-ba4aecc34bb13237c999e5af360f9379.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_pump_blue.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_pump_island_tex_island.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_pump_island.glb-35509e56c00793e03465ec1930259afa.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_pump_island.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_pump_red_tex_pump_side_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Resource file not found: res://models/props/td174/gas_pump_red_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:325)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Can't load dependency: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+   at: parse_variant (core/io/resource_format_binary.cpp:444)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://.godot/imported/gas_pump_red.glb-d1d9997ed3c0f1810e3c2cd75d2b9ae0.scn.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+ERROR: Failed loading resource: res://models/props/td174/gas_pump_red.glb.
+   at: _load (core/io/resource_loader.cpp:317)
+   GDScript backtrace (most recent call first):
+       [0] _initialize (/workspace/tokyo-drift-3d/godot/qa/td-210/audit_pack.gd:70)
+TD210_PACK phase=before passes=false files=1152

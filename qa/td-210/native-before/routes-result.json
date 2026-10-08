@@ -1,0 +1,2692 @@
+{
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "frames": [
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          838.200012207031,
+          3.04999804496765,
+          -736.0
+        ]
+      },
+      "car": [
+        838.200012207031,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 2431,
+      "file": "routes/kamome-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 165.369,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 2563,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 324550,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          838.200012207031,
+          3.04999804496765,
+          -736.0
+        ]
+      },
+      "car": [
+        838.200012207031,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 1069,
+      "file": "routes/kamome-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 165.369,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 1069,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 265450,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          841.799987792969,
+          3.04999804496765,
+          -754.0
+        ]
+      },
+      "car": [
+        841.799987792969,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 1584,
+      "file": "routes/kamome-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 151.86,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 1716,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 131349,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          841.799987792969,
+          3.04999804496765,
+          -754.0
+        ]
+      },
+      "car": [
+        841.799987792969,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 224,
+      "file": "routes/kamome-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 151.86,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 224,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 72253,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          829.0,
+          3.04999995231628,
+          -469.359985351562
+        ]
+      },
+      "car": [
+        820.0,
+        -0.150000005960464,
+        -469.359985351562
+      ],
+      "draw_calls": 1523,
+      "file": "routes/seri1-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 244.535,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1655,
+      "road_width_m": 3.2,
+      "street": "seri1",
+      "triangles": 139835,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          829.0,
+          3.04999995231628,
+          -469.359985351562
+        ]
+      },
+      "car": [
+        820.0,
+        -0.150000005960464,
+        -469.359985351562
+      ],
+      "draw_calls": 163,
+      "file": "routes/seri1-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 192.791,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 163,
+      "road_width_m": 3.2,
+      "street": "seri1",
+      "triangles": 80739,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.00000339084203915263,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.000000735576861643494
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            -0.00000331009619003453
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          811.0,
+          3.04999995231628,
+          -470.640045166016
+        ]
+      },
+      "car": [
+        820.0,
+        -0.150000005960464,
+        -470.640014648438
+      ],
+      "draw_calls": 1799,
+      "file": "routes/seri1-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 160.261,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1931,
+      "road_width_m": 3.2,
+      "street": "seri1",
+      "triangles": 243416,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.00000339084203915263,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.000000735576861643494
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            -0.00000331009619003453
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          811.0,
+          3.04999995231628,
+          -470.640045166016
+        ]
+      },
+      "car": [
+        820.0,
+        -0.150000005960464,
+        -470.640014648438
+      ],
+      "draw_calls": 439,
+      "file": "routes/seri1-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 160.261,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 439,
+      "road_width_m": 3.2,
+      "street": "seri1",
+      "triangles": 184320,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.04999995231628,
+          -929.359985351562
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -929.359985351562
+      ],
+      "draw_calls": 1635,
+      "file": "routes/seri3-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 150.859,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1767,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 166528,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.04999995231628,
+          -929.359985351562
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -929.359985351562
+      ],
+      "draw_calls": 275,
+      "file": "routes/seri3-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 150.859,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 275,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 107432,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -930.640014648438
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -930.640014648438
+      ],
+      "draw_calls": 2006,
+      "file": "routes/seri3-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 243.487,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2138,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 474578,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -930.640014648438
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -930.640014648438
+      ],
+      "draw_calls": 646,
+      "file": "routes/seri3-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 394.261,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 646,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 415496,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          739.0,
+          3.04999995231628,
+          -1239.35998535156
+        ]
+      },
+      "car": [
+        730.0,
+        -0.150000005960464,
+        -1239.35998535156
+      ],
+      "draw_calls": 1493,
+      "file": "routes/seri5-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 209.53,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1625,
+      "road_width_m": 3.2,
+      "street": "seri5",
+      "triangles": 126159,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          739.0,
+          3.04999995231628,
+          -1239.35998535156
+        ]
+      },
+      "car": [
+        730.0,
+        -0.150000005960464,
+        -1239.35998535156
+      ],
+      "draw_calls": 133,
+      "file": "routes/seri5-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 209.53,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 133,
+      "road_width_m": 3.2,
+      "street": "seri5",
+      "triangles": 67063,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          721.0,
+          3.04999995231628,
+          -1240.64001464844
+        ]
+      },
+      "car": [
+        730.0,
+        -0.150000005960464,
+        -1240.64001464844
+      ],
+      "draw_calls": 2473,
+      "file": "routes/seri5-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 220.977,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2605,
+      "road_width_m": 3.2,
+      "street": "seri5",
+      "triangles": 328504,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          721.0,
+          3.04999995231628,
+          -1240.64001464844
+        ]
+      },
+      "car": [
+        730.0,
+        -0.150000005960464,
+        -1240.64001464844
+      ],
+      "draw_calls": 1113,
+      "file": "routes/seri5-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 236.473,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 1113,
+      "road_width_m": 3.2,
+      "street": "seri5",
+      "triangles": 269408,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.00000678168407830526
+          ],
+          [
+            0.00000147115372328699,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            -0.00000662019238006906,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          639.359924316406,
+          3.04999995231628,
+          -516.0
+        ]
+      },
+      "car": [
+        639.359985351562,
+        -0.150000005960464,
+        -525.0
+      ],
+      "draw_calls": 2837,
+      "file": "routes/uogashi1-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 172.801,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2969,
+      "road_width_m": 3.2,
+      "street": "uogashi1",
+      "triangles": 352590,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.00000678168407830526
+          ],
+          [
+            0.00000147115372328699,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            -0.00000662019238006906,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          639.359924316406,
+          3.04999995231628,
+          -516.0
+        ]
+      },
+      "car": [
+        639.359985351562,
+        -0.150000005960464,
+        -525.0
+      ],
+      "draw_calls": 1477,
+      "file": "routes/uogashi1-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 336.629,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 1477,
+      "road_width_m": 3.2,
+      "street": "uogashi1",
+      "triangles": 293338,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          640.640014648438,
+          3.04999995231628,
+          -534.0
+        ]
+      },
+      "car": [
+        640.640014648438,
+        -0.150000005960464,
+        -525.0
+      ],
+      "draw_calls": 1604,
+      "file": "routes/uogashi1-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 226.689,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1736,
+      "road_width_m": 3.2,
+      "street": "uogashi1",
+      "triangles": 133006,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          640.640014648438,
+          3.04999995231628,
+          -534.0
+        ]
+      },
+      "car": [
+        640.640014648438,
+        -0.150000005960464,
+        -525.0
+      ],
+      "draw_calls": 242,
+      "file": "routes/uogashi1-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 226.689,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 242,
+      "road_width_m": 3.2,
+      "street": "uogashi1",
+      "triangles": 73906,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          760.640014648438,
+          3.04999804496765,
+          -764.0
+        ]
+      },
+      "car": [
+        760.640014648438,
+        -0.150001913309097,
+        -755.0
+      ],
+      "draw_calls": 1890,
+      "file": "routes/uogashi2b-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 176.584,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2022,
+      "road_width_m": 3.2,
+      "street": "uogashi2b",
+      "triangles": 199670,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          760.640014648438,
+          3.04999804496765,
+          -764.0
+        ]
+      },
+      "car": [
+        760.640014648438,
+        -0.150001913309097,
+        -755.0
+      ],
+      "draw_calls": 528,
+      "file": "routes/uogashi2b-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 176.584,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 528,
+      "road_width_m": 3.2,
+      "street": "uogashi2b",
+      "triangles": 140570,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          759.359985351562,
+          3.04999804496765,
+          -746.0
+        ]
+      },
+      "car": [
+        759.359985351562,
+        -0.150001913309097,
+        -755.0
+      ],
+      "draw_calls": 1843,
+      "file": "routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 160.736,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 1975,
+      "road_width_m": 3.2,
+      "street": "uogashi2b",
+      "triangles": 205261,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          759.359985351562,
+          3.04999804496765,
+          -746.0
+        ]
+      },
+      "car": [
+        759.359985351562,
+        -0.150001913309097,
+        -755.0
+      ],
+      "draw_calls": 483,
+      "file": "routes/uogashi2b-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 160.736,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 483,
+      "road_width_m": 3.2,
+      "street": "uogashi2b",
+      "triangles": 146165,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          939.359985351562,
+          3.04999804496765,
+          -636.0
+        ]
+      },
+      "car": [
+        939.359985351562,
+        -0.150001913309097,
+        -645.0
+      ],
+      "draw_calls": 2031,
+      "file": "routes/uogashi3-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 181.964,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2163,
+      "road_width_m": 3.2,
+      "street": "uogashi3",
+      "triangles": 334823,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          939.359985351562,
+          3.04999804496765,
+          -636.0
+        ]
+      },
+      "car": [
+        939.359985351562,
+        -0.150001913309097,
+        -645.0
+      ],
+      "draw_calls": 671,
+      "file": "routes/uogashi3-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 314.669,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 671,
+      "road_width_m": 3.2,
+      "street": "uogashi3",
+      "triangles": 275727,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          940.640014648438,
+          3.04999804496765,
+          -654.0
+        ]
+      },
+      "car": [
+        940.640014648438,
+        -0.150001913309097,
+        -645.0
+      ],
+      "draw_calls": 1878,
+      "file": "routes/uogashi3-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 203.784,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2010,
+      "road_width_m": 3.2,
+      "street": "uogashi3",
+      "triangles": 386112,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          940.640014648438,
+          3.04999804496765,
+          -654.0
+        ]
+      },
+      "car": [
+        940.640014648438,
+        -0.150001913309097,
+        -645.0
+      ],
+      "draw_calls": 515,
+      "file": "routes/uogashi3-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 294.35,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 515,
+      "road_width_m": 3.2,
+      "street": "uogashi3",
+      "triangles": 326980,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          1020.59997558594,
+          3.04999995231628,
+          -894.0
+        ]
+      },
+      "car": [
+        1020.59997558594,
+        -0.150000005960464,
+        -885.0
+      ],
+      "draw_calls": 2302,
+      "file": "routes/uogashi4-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 203.292,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 2434,
+      "road_width_m": 3.0,
+      "street": "uogashi4",
+      "triangles": 503353,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          1020.59997558594,
+          3.04999995231628,
+          -894.0
+        ]
+      },
+      "car": [
+        1020.59997558594,
+        -0.150000005960464,
+        -885.0
+      ],
+      "draw_calls": 944,
+      "file": "routes/uogashi4-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 348.865,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 944,
+      "road_width_m": 3.0,
+      "street": "uogashi4",
+      "triangles": 444261,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          1019.40002441406,
+          3.04999995231628,
+          -876.0
+        ]
+      },
+      "car": [
+        1019.40002441406,
+        -0.150000005960464,
+        -885.0
+      ],
+      "draw_calls": 1973,
+      "file": "routes/uogashi4-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 149.391,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 2105,
+      "road_width_m": 3.0,
+      "street": "uogashi4",
+      "triangles": 540752,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          1019.40002441406,
+          3.04999995231628,
+          -876.0
+        ]
+      },
+      "car": [
+        1019.40002441406,
+        -0.150000005960464,
+        -885.0
+      ],
+      "draw_calls": 613,
+      "file": "routes/uogashi4-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 287.961,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 613,
+      "road_width_m": 3.0,
+      "street": "uogashi4",
+      "triangles": 481656,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          671.0,
+          3.04999995231628,
+          -1041.80004882812
+        ]
+      },
+      "car": [
+        680.0,
+        -0.150000005960464,
+        -1041.80004882812
+      ],
+      "draw_calls": 2480,
+      "file": "routes/reizo-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 222.691,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 2612,
+      "road_width_m": 9.0,
+      "street": "reizo",
+      "triangles": 294248,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          671.0,
+          3.04999995231628,
+          -1041.80004882812
+        ]
+      },
+      "car": [
+        680.0,
+        -0.150000005960464,
+        -1041.80004882812
+      ],
+      "draw_calls": 1120,
+      "file": "routes/reizo-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 213.596,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 1120,
+      "road_width_m": 9.0,
+      "street": "reizo",
+      "triangles": 235152,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          689.0,
+          3.05000185966492,
+          -1038.19995117188
+        ]
+      },
+      "car": [
+        680.0,
+        -0.149998098611832,
+        -1038.19995117188
+      ],
+      "draw_calls": 1580,
+      "file": "routes/reizo-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 273.691,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 1712,
+      "road_width_m": 9.0,
+      "street": "reizo",
+      "triangles": 148500,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          689.0,
+          3.05000185966492,
+          -1038.19995117188
+        ]
+      },
+      "car": [
+        680.0,
+        -0.149998098611832,
+        -1038.19995117188
+      ],
+      "draw_calls": 220,
+      "file": "routes/reizo-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 263.431,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 220,
+      "road_width_m": 9.0,
+      "street": "reizo",
+      "triangles": 89404,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.600001096725464,
+            0.0,
+            0.799999177455902
+          ],
+          [
+            0.173543751239777,
+            0.976187169551849,
+            -0.130158171057701
+          ],
+          [
+            -0.78094893693924,
+            0.216929897665977,
+            0.585713446140289
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          582.440002441406,
+          3.04993319511414,
+          -577.579956054688
+        ]
+      },
+      "car": [
+        589.640014648438,
+        -0.150066763162613,
+        -582.97998046875
+      ],
+      "draw_calls": 2631,
+      "file": "routes/uroko-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 141.776,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 2763,
+      "road_width_m": 3.0,
+      "street": "uroko",
+      "triangles": 318557,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.600001096725464,
+            0.0,
+            0.799999177455902
+          ],
+          [
+            0.173543751239777,
+            0.976187169551849,
+            -0.130158171057701
+          ],
+          [
+            -0.78094893693924,
+            0.216929897665977,
+            0.585713446140289
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          582.440002441406,
+          3.04993319511414,
+          -577.579956054688
+        ]
+      },
+      "car": [
+        589.640014648438,
+        -0.150066763162613,
+        -582.97998046875
+      ],
+      "draw_calls": 1271,
+      "file": "routes/uroko-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 263.98,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 1271,
+      "road_width_m": 3.0,
+      "street": "uroko",
+      "triangles": 259461,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.599997818470001,
+            0.0,
+            -0.800001621246338
+          ],
+          [
+            -0.173543393611908,
+            0.976187467575073,
+            0.130156800150871
+          ],
+          [
+            0.78095155954361,
+            0.216928794980049,
+            -0.585710406303406
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          597.56005859375,
+          3.04998278617859,
+          -587.420043945312
+        ]
+      },
+      "car": [
+        590.359985351562,
+        -0.15001717209816,
+        -582.02001953125
+      ],
+      "draw_calls": 1512,
+      "file": "routes/uroko-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 210.525,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 1644,
+      "road_width_m": 3.0,
+      "street": "uroko",
+      "triangles": 130918,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.599997818470001,
+            0.0,
+            -0.800001621246338
+          ],
+          [
+            -0.173543393611908,
+            0.976187467575073,
+            0.130156800150871
+          ],
+          [
+            0.78095155954361,
+            0.216928794980049,
+            -0.585710406303406
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          597.56005859375,
+          3.04998278617859,
+          -587.420043945312
+        ]
+      },
+      "car": [
+        590.359985351562,
+        -0.15001717209816,
+        -582.02001953125
+      ],
+      "draw_calls": 152,
+      "file": "routes/uroko-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 210.525,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 152,
+      "road_width_m": 3.0,
+      "street": "uroko",
+      "triangles": 71822,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          746.0,
+          3.04999995231628,
+          -622.0
+        ]
+      },
+      "car": [
+        755.0,
+        -0.150000005960464,
+        -622.0
+      ],
+      "draw_calls": 1709,
+      "file": "routes/ichiba-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 129.302,
+      "hud": true,
+      "lane_offset_m": 2.0,
+      "objects": 1841,
+      "road_width_m": 10.0,
+      "street": "ichiba",
+      "triangles": 167461,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          746.0,
+          3.04999995231628,
+          -622.0
+        ]
+      },
+      "car": [
+        755.0,
+        -0.150000005960464,
+        -622.0
+      ],
+      "draw_calls": 349,
+      "file": "routes/ichiba-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 129.302,
+      "hud": false,
+      "lane_offset_m": 2.0,
+      "objects": 349,
+      "road_width_m": 10.0,
+      "street": "ichiba",
+      "triangles": 108365,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          764.0,
+          3.04999995231628,
+          -618.0
+        ]
+      },
+      "car": [
+        755.0,
+        -0.150000005960464,
+        -618.0
+      ],
+      "draw_calls": 1907,
+      "file": "routes/ichiba-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 209.773,
+      "hud": true,
+      "lane_offset_m": 2.0,
+      "objects": 2039,
+      "road_width_m": 10.0,
+      "street": "ichiba",
+      "triangles": 198654,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          764.0,
+          3.04999995231628,
+          -618.0
+        ]
+      },
+      "car": [
+        755.0,
+        -0.150000005960464,
+        -618.0
+      ],
+      "draw_calls": 548,
+      "file": "routes/ichiba-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 376.605,
+      "hud": false,
+      "lane_offset_m": 2.0,
+      "objects": 548,
+      "road_width_m": 10.0,
+      "street": "ichiba",
+      "triangles": 139560,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -990.599975585938
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -990.599975585938
+      ],
+      "draw_calls": 1930,
+      "file": "routes/kori-forward-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 269.239,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 2062,
+      "road_width_m": 3.0,
+      "street": "kori",
+      "triangles": 336364,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -990.599975585938
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -990.599975585938
+      ],
+      "draw_calls": 570,
+      "file": "routes/kori-forward-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 269.239,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 570,
+      "road_width_m": 3.0,
+      "street": "kori",
+      "triangles": 277268,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.05000185966492,
+          -989.400024414062
+        ]
+      },
+      "car": [
+        880.0,
+        -0.149998098611832,
+        -989.400024414062
+      ],
+      "draw_calls": 1905,
+      "file": "routes/kori-reverse-hud-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 138.958,
+      "hud": true,
+      "lane_offset_m": 0.6,
+      "objects": 2037,
+      "road_width_m": 3.0,
+      "street": "kori",
+      "triangles": 208791,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.05000185966492,
+          -989.400024414062
+        ]
+      },
+      "car": [
+        880.0,
+        -0.149998098611832,
+        -989.400024414062
+      ],
+      "draw_calls": 545,
+      "file": "routes/kori-reverse-world-1280/td-210-criterion-2-before.png",
+      "host_frame_ms": 191.325,
+      "hud": false,
+      "lane_offset_m": 0.6,
+      "objects": 545,
+      "road_width_m": 3.0,
+      "street": "kori",
+      "triangles": 149695,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          838.200012207031,
+          3.04999804496765,
+          -736.0
+        ]
+      },
+      "car": [
+        838.200012207031,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 2335,
+      "file": "routes/kamome-forward-hud-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 229.97,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 2481,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 316572,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            -0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          838.200012207031,
+          3.04999804496765,
+          -736.0
+        ]
+      },
+      "car": [
+        838.200012207031,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 966,
+      "file": "routes/kamome-forward-world-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 229.97,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 966,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 256150,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          841.799987792969,
+          3.04999804496765,
+          -754.0
+        ]
+      },
+      "car": [
+        841.799987792969,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 1817,
+      "file": "routes/kamome-reverse-hud-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 110.889,
+      "hud": true,
+      "lane_offset_m": 1.8,
+      "objects": 1963,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 170566,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.97618705034256,
+            0.216930449008942
+          ],
+          [
+            0.0,
+            0.216930449008942,
+            -0.97618705034256
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          841.799987792969,
+          3.04999804496765,
+          -754.0
+        ]
+      },
+      "car": [
+        841.799987792969,
+        -0.150001913309097,
+        -745.0
+      ],
+      "draw_calls": 447,
+      "file": "routes/kamome-reverse-world-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 110.889,
+      "hud": false,
+      "lane_offset_m": 1.8,
+      "objects": 447,
+      "road_width_m": 9.0,
+      "street": "kamome",
+      "triangles": 110142,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.04999995231628,
+          -929.359985351562
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -929.359985351562
+      ],
+      "draw_calls": 1986,
+      "file": "routes/seri3-forward-hud-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 205.684,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2132,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 221147,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            -0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          889.0,
+          3.04999995231628,
+          -929.359985351562
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -929.359985351562
+      ],
+      "draw_calls": 616,
+      "file": "routes/seri3-forward-world-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 205.684,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 616,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 160723,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -930.640014648438
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -930.640014648438
+      ],
+      "draw_calls": 1926,
+      "file": "routes/seri3-reverse-hud-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 207.34,
+      "hud": true,
+      "lane_offset_m": 0.64,
+      "objects": 2072,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 429716,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.216930449008942,
+            0.97618705034256,
+            0.0
+          ],
+          [
+            -0.97618705034256,
+            0.216930449008942,
+            0.0
+          ]
+        ],
+        "fov": 70.0,
+        "near": 0.0500000007450581,
+        "position": [
+          871.0,
+          3.04999995231628,
+          -930.640014648438
+        ]
+      },
+      "car": [
+        880.0,
+        -0.150000005960464,
+        -930.640014648438
+      ],
+      "draw_calls": 556,
+      "file": "routes/seri3-reverse-world-844/td-210-criterion-2-before.png",
+      "host_frame_ms": 287.957,
+      "hud": false,
+      "lane_offset_m": 0.64,
+      "objects": 556,
+      "road_width_m": 3.2,
+      "street": "seri3",
+      "triangles": 369292,
+      "view": "actual ChaseCam, parked on authored road",
+      "viewport": [
+        844,
+        390
+      ]
+    }
+  ],
+  "phase": "before",
+  "physical_phone": false,
+  "scope": "Actual Lower City with production traffic/peds; fixed parked diagnostic cameras, not a driven performance claim.",
+  "seed": 185,
+  "source": "0b2652bc86b6824444af277fdb34af5bdd981066",
+  "web": false,
+  "world_stats": {
+    "build_ms": 4187,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "eaves": 311,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 718,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 285036,
+        "place_us": 914630,
+        "slice_us": 1566596
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 92656
+  }
+}

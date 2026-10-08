@@ -1,0 +1,304 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+stats { "ground_tris": 25304, "merge_lanes": 12, "ramp_mouths": 12, "buildings": 4502, &"tenjin": { "lots": 77, "frontages": 918, "storefronts": 33, "props": 116, "missing": 0, "mesh_instances": 62, "triangles": 758474, "collision_triangles": 6470, "max_lot_triangles": 14090, &"donor_bands": 142, &"module_variants": 5384, &"module_timings_us": { "slice_us": 2206593, "place_us": 1211209, "flush_us": 309900 } }, "dressing": { "eaves": 311, "cornices": 77, "blade_signs": 1010, "repair_bays": 169, "arc_lights": 107, "pipe_gantries": 59, "quay_cranes": 6, "flood_masts": 82 }, "lamps_cleared": 36, "mesh_instances": 718, "drive_tris": 31070, "wall_tris": 92656, "build_ms": 5694 }
+ok: ground triangulated (25304 tris)
+ok: buildings extruded (4502)
+ok: drivable collider has ground + ribbons + ring
+ok: walls collider (92656 tris)
+ok: mesh families present
+ok: street lamps (621)
+ok: landmark beacons (122)
+ok: Tenjin Odori at Shosha-dori at h 0.00 (expected 0.00)
+ok: trench floor under the deck at h -5.00 (expected -5.00)
+ok: Ring lid over the trench at h 0.50 (expected 0.50)
+ok: Ring north leg deck at h 7.00 (expected 7.00)
+ok: Ni-no-hashi crown at h 0.79 (expected 0.80)
+ok: Kotobuki dip ramp mid-grade at h -2.50 (expected -2.50)
+ok: open ramp spans over streets ([["tenjinkita_ic_outer_on", "tenjin", 3.91], ["tenjinkita_ic_inner_off", "tenjin", 3.91]])
+ok: Tenjin Odori clear under the Ring and its ramps at x 1212.0 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1215.2 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1224.8 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1228.0 ()
+ok: dressing: blade_signs (1010)
+ok: dressing: eaves (311)
+ok: dressing: pipe_gantries (59)
+ok: dressing: quay_cranes (6)
+ok: dressing: flood_masts (82)
+ok: dressing: arc_lights (107)
+ok: dressing: cornices (77)
+ok: Chidori is night (sun 0.16)
+ok: Tenjin is dusty day (sun 0.85)
+ok: the trench floor under the Ring is dark (sun 0.22)
+ok: light blends between Tenjin and Chidori (sun 0.52)
+signs { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 1293 }
+ok: every plan sign built (1099 of 1099)
+ok: the font has every glyph the signs use
+ok: no sign post stands in a carriageway ([])
+ok: guide signs registered by approach (445)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #0, invalid UID: 'uid://egcm71hs27ga' - using text path instead: 'res://assets/td-168/sento_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #1, invalid UID: 'uid://brgbamfxasyt7' - using text path instead: 'res://assets/td-168/sento_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #2, invalid UID: 'uid://bl4u4jlsepvdj' - using text path instead: 'res://assets/td-168/sento_Mat_WoodDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #3, invalid UID: 'uid://dx7t6sj8clmgr' - using text path instead: 'res://assets/td-168/sento_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #4, invalid UID: 'uid://bs4hgodn60ll5' - using text path instead: 'res://assets/td-168/sento_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #5, invalid UID: 'uid://813y3joxai58' - using text path instead: 'res://assets/td-168/sento_sento_chimney.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #6, invalid UID: 'uid://djet4nap6eeqy' - using text path instead: 'res://assets/td-168/sento_sento_wall.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #7, invalid UID: 'uid://bd116prdghg6d' - using text path instead: 'res://assets/td-168/sento_sento_noren.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #8, invalid UID: 'uid://cf3lp5acno7r5' - using text path instead: 'res://assets/td-168/sento_Mat_WindowDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #9, invalid UID: 'uid://cmhnimwl1af4u' - using text path instead: 'res://assets/td-168/sento_Mat_WindowLit_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #0, invalid UID: 'uid://mn0khmjy5ugi' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #1, invalid UID: 'uid://bqjef78s4ecq1' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #2, invalid UID: 'uid://c7csr08xo3yy6' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #3, invalid UID: 'uid://bmrn24nsocoas' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #4, invalid UID: 'uid://ckwr07t0x4bex' - using text path instead: 'res://assets/td-168/koban_concrete_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #5, invalid UID: 'uid://ctouybauu3woh' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #6, invalid UID: 'uid://cei6npf43w28m' - using text path instead: 'res://assets/td-168/koban_concrete_koban_concrete.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #7, invalid UID: 'uid://dunnpmkyxvnw5' - using text path instead: 'res://assets/td-168/koban_concrete_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #8, invalid UID: 'uid://cgfkxkv7fwk48' - using text path instead: 'res://assets/td-168/koban_concrete_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #0, invalid UID: 'uid://c2dkieqmo1v3q' - using text path instead: 'res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #1, invalid UID: 'uid://bw67vhypf5s3r' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #2, invalid UID: 'uid://c4uoiolumprbm' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #3, invalid UID: 'uid://c6t10wt7cdubp' - using text path instead: 'res://assets/td-168/koban_brick_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #4, invalid UID: 'uid://co7gmbxdnp5lb' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #5, invalid UID: 'uid://l0ptwlqrnddw' - using text path instead: 'res://assets/td-168/koban_brick_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #6, invalid UID: 'uid://l3h7i3nye3e8' - using text path instead: 'res://assets/td-168/koban_brick_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #7, invalid UID: 'uid://elq11pbke8o3' - using text path instead: 'res://assets/td-168/koban_brick_koban_brick.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #8, invalid UID: 'uid://b2ahr4kspa0rb' - using text path instead: 'res://assets/td-168/koban_brick_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #9, invalid UID: 'uid://brlalriqbfk1s' - using text path instead: 'res://assets/td-168/koban_brick_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #0, invalid UID: 'uid://q8y6hdb81jt0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #1, invalid UID: 'uid://dsu450x8e5fn0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #2, invalid UID: 'uid://bs2w04rtjbr4q' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #3, invalid UID: 'uid://c7eo8u8qyy6hk' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #4, invalid UID: 'uid://bhwwdj666xdru' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #5, invalid UID: 'uid://br0mkq8gxa3iy' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_granite.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #6, invalid UID: 'uid://d0jpdfqlp71fw' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #7, invalid UID: 'uid://d3vybvvaayanp' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #8, invalid UID: 'uid://dylcb8f0akry7' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #9, invalid UID: 'uid://bo1fhqlg2ymgx' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #10, invalid UID: 'uid://o4drl2uhk7tk' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #11, invalid UID: 'uid://bsctxpuoea40g' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #0, invalid UID: 'uid://dwfohvr0dutkc' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #1, invalid UID: 'uid://cvu4tumk00y8x' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #2, invalid UID: 'uid://d7kik2qkxs6r' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #3, invalid UID: 'uid://1kgjljf7iot2' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #4, invalid UID: 'uid://dikh4v4oxqa0t' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #5, invalid UID: 'uid://lv61jlkwb12l' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #6, invalid UID: 'uid://bj6bo8kaepmk7' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #7, invalid UID: 'uid://bllbqt8mx55o6' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #8, invalid UID: 'uid://c13qnap4orrvf' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #9, invalid UID: 'uid://cg511ya3pumbo' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_tin.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #10, invalid UID: 'uid://b5dp1y7gifxn5' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #11, invalid UID: 'uid://br0k1yg4kdbd3' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _unparsed (res://tools/test_lower_city_build.gd:83)
+         [1] _initialize (res://tools/test_lower_city_build.gd:72)
+ok: every runtime script still compiles ([])
+TD185_BUILD failures=0

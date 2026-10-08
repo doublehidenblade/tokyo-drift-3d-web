@@ -1,0 +1,52 @@
+{
+  "before": {
+    "bytes": 108704384,
+    "sha256": "95c0fe84026c40a6dcd16115b9d4c7467897dea6872fac316e64618ef0409be7"
+  },
+  "after": {
+    "bytes": 112557688,
+    "sha256": "515161e2ac2b223d03cc7b360805c0fe80758fc3767e5ed8f2821ff0337653bc"
+  },
+  "bytes_delta": 3853304,
+  "passes": [
+    true,
+    true
+  ],
+  "added": [
+    "res://.godot/imported/fish_crates.glb-3ceb116d99c7bd0a3c5bb48d60921398.scn",
+    "res://.godot/imported/fish_crates_albedo.jpg-e3108c93814ac653eed6ab5f01381c91.ctex",
+    "res://.godot/imported/hand_trucks.glb-dc84a8da37ca052c46696b1e63ecd5ee.scn",
+    "res://.godot/imported/hand_trucks_albedo.jpg-d5df1c0b62215c8ba6272813d740f925.ctex",
+    "res://.godot/imported/kamome_hall.glb-9b3b8d1622ab94a360fdbbc9db0b8499.scn",
+    "res://.godot/imported/kamome_hall_albedo.jpg-95bcd710151e46f1c956add27c805656.ctex",
+    "res://.godot/imported/kamome_hall_emission.jpg-90b880d159031f28c2bde91d95cf55c6.ctex",
+    "res://.godot/imported/sengyo_stall.glb-97e7c1e37d26c59e1497670fb9604dbb.scn",
+    "res://.godot/imported/sengyo_stall_albedo.jpg-b04009677aa4c8e25bbf8c21ee797765.ctex",
+    "res://.godot/imported/sengyo_stall_emission.jpg-fa121e0ba7f3c3e2805f21a84ebc0181.ctex",
+    "res://assets/td-186/buildings/kamome_hall/kamome_hall.glb.import",
+    "res://assets/td-186/buildings/kamome_hall/kamome_hall_albedo.jpg.import",
+    "res://assets/td-186/buildings/kamome_hall/kamome_hall_emission.jpg.import",
+    "res://assets/td-186/props/fish_crates/fish_crates.glb.import",
+    "res://assets/td-186/props/fish_crates/fish_crates_albedo.jpg.import",
+    "res://assets/td-186/props/hand_trucks/hand_trucks.glb.import",
+    "res://assets/td-186/props/hand_trucks/hand_trucks_albedo.jpg.import",
+    "res://assets/td-186/storefronts/sengyo_stall/sengyo_stall.glb.import",
+    "res://assets/td-186/storefronts/sengyo_stall/sengyo_stall_albedo.jpg.import",
+    "res://assets/td-186/storefronts/sengyo_stall/sengyo_stall_emission.jpg.import",
+    "res://scripts/lower_city/city_kamome_buildings.gd.remap",
+    "res://scripts/lower_city/city_kamome_buildings.gdc",
+    "res://scripts/lower_city/city_kit_instances.gd.remap",
+    "res://scripts/lower_city/city_kit_instances.gdc"
+  ],
+  "removed": [],
+  "changed": [
+    "res://.godot/global_script_class_cache.cfg",
+    "res://.godot/uid_cache.bin",
+    "res://scripts/lower_city/city_dressing.gdc",
+    "res://scripts/lower_city/lower_city_world.gdc"
+  ],
+  "unchanged_semantic_assets": 111,
+  "semantic_asset_differences": {},
+  "fuel_equal": true,
+  "excluded_equal": true
+}

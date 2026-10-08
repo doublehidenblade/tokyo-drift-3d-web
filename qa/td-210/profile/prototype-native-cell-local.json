@@ -1,0 +1,24 @@
+{
+  "batch_nodes": 2,
+  "delta_bytes": 2518346,
+  "equivalence_sha256": "ebc2c3f41fe1d4e3478ef98c95a1f68ff457e3b404a714a7652b29cb1f0deb59",
+  "expanded_triangles": 29952,
+  "flush_us": 277,
+  "geometry_array_bytes": 323664,
+  "initial_bytes": 69021176,
+  "max_bounds_m": "(195.12, 7.821611, 104.62)",
+  "mode": "shared",
+  "peak_bytes": 182465333,
+  "placement_us": 1358,
+  "placements": 24,
+  "retained_bytes": 71539522,
+  "source_load_us": 262211,
+  "timings": {
+    "flush_us": 272,
+    "place_us": 1324,
+    "slice_us": 0
+  },
+  "total_us": 263846,
+  "unique_materials": 2,
+  "unique_meshes": 2
+}

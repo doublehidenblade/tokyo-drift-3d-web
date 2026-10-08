@@ -1,0 +1,19 @@
+[
+  {
+    "phase": "before",
+    "name": "build",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td210-baseline/godot",
+      "--fixed-fps",
+      "60",
+      "-s",
+      "tools/test_lower_city_build.gd"
+    ],
+    "returncode": 0,
+    "seconds": 9.982814659000724,
+    "fail_lines": []
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "comparisons": {
+    "drive_sha256": true,
+    "walls_outside_kamome_sha256": true,
+    "walls_outside_kamome_triangles": true,
+    "tenjin_meshes": true,
+    "protected_meshes": true,
+    "road_hits": true,
+    "bldg_canonical_sha256": true,
+    "metal_canonical_sha256": true,
+    "lamps_canonical_sha256": true
+  },
+  "passes": true,
+  "note": "Metal/lamp batch insertion order changes after old Kamome eaves are replaced. Sorted hashes of complete triangle records preserve position/normal/UV/color associations and match outside original Kamome envelopes+2.9m eave reach. Unsorted runs retained."
+}

@@ -1,0 +1,229 @@
+{
+  "scope": "Three alternating fresh sequential headless processes per phase after all capture/regression Godot processes exited. Same final_world helper and seed185. Static memory excludes GPU; this is not physical-device acceptance.",
+  "phases": {
+    "before": {
+      "build_ms": {
+        "runs": [
+          4628,
+          4100,
+          4110
+        ],
+        "median": 4110,
+        "min": 4100,
+        "max": 4628
+      },
+      "static_memory_bytes": {
+        "runs": [
+          309098122,
+          309098122,
+          309098122
+        ],
+        "median": 309098122,
+        "min": 309098122,
+        "max": 309098122
+      },
+      "static_memory_peak_bytes": {
+        "runs": [
+          492050338,
+          492050338,
+          492050338
+        ],
+        "median": 492050338,
+        "min": 492050338,
+        "max": 492050338
+      },
+      "material_conversion_us": {
+        "runs": [
+          5657,
+          5416,
+          7755
+        ],
+        "median": 5657,
+        "min": 5416,
+        "max": 7755
+      },
+      "after_material_conversion_static_bytes": {
+        "runs": [
+          309251694,
+          309251694,
+          309251694
+        ],
+        "median": 309251694,
+        "min": 309251694,
+        "max": 309251694
+      },
+      "after_material_conversion_peak_bytes": {
+        "runs": [
+          492050338,
+          492050338,
+          492050338
+        ],
+        "median": 492050338,
+        "min": 492050338,
+        "max": 492050338
+      },
+      "unique_mesh_resources": {
+        "runs": [
+          718,
+          718,
+          718
+        ],
+        "median": 718,
+        "min": 718,
+        "max": 718
+      },
+      "unique_material_resources": {
+        "runs": [
+          29,
+          29,
+          29
+        ],
+        "median": 29,
+        "min": 29,
+        "max": 29
+      },
+      "unique_mesh_surface_materials_after_conversion": {
+        "runs": [
+          30,
+          30,
+          30
+        ],
+        "median": 30,
+        "min": 30,
+        "max": 30
+      },
+      "stage_median_us": {
+        "ground": 127579,
+        "ribbons": 926,
+        "walls": 3009,
+        "water": 10251,
+        "mountain": 103,
+        "ring": 80580,
+        "buildings": 3302927,
+        "landmarks": 4107,
+        "dressing": 132256,
+        "lamps": 45740,
+        "paint": 139601,
+        "done": 252989
+      }
+    },
+    "after": {
+      "build_ms": {
+        "runs": [
+          5626,
+          5040,
+          6021
+        ],
+        "median": 5626,
+        "min": 5040,
+        "max": 6021
+      },
+      "static_memory_bytes": {
+        "runs": [
+          377103143,
+          377103143,
+          377103143
+        ],
+        "median": 377103143,
+        "min": 377103143,
+        "max": 377103143
+      },
+      "static_memory_peak_bytes": {
+        "runs": [
+          585598587,
+          585598587,
+          585598587
+        ],
+        "median": 585598587,
+        "min": 585598587,
+        "max": 585598587
+      },
+      "material_conversion_us": {
+        "runs": [
+          9105,
+          8451,
+          12178
+        ],
+        "median": 9105,
+        "min": 8451,
+        "max": 12178
+      },
+      "after_material_conversion_static_bytes": {
+        "runs": [
+          377362747,
+          377362747,
+          377362747
+        ],
+        "median": 377362747,
+        "min": 377362747,
+        "max": 377362747
+      },
+      "after_material_conversion_peak_bytes": {
+        "runs": [
+          585598587,
+          585598587,
+          585598587
+        ],
+        "median": 585598587,
+        "min": 585598587,
+        "max": 585598587
+      },
+      "unique_mesh_resources": {
+        "runs": [
+          1239,
+          1239,
+          1239
+        ],
+        "median": 1239,
+        "min": 1239,
+        "max": 1239
+      },
+      "unique_material_resources": {
+        "runs": [
+          47,
+          47,
+          47
+        ],
+        "median": 47,
+        "min": 47,
+        "max": 47
+      },
+      "unique_mesh_surface_materials_after_conversion": {
+        "runs": [
+          48,
+          48,
+          48
+        ],
+        "median": 48,
+        "min": 48,
+        "max": 48
+      },
+      "stage_median_us": {
+        "ground": 129351,
+        "ribbons": 952,
+        "walls": 3124,
+        "water": 10054,
+        "mountain": 84,
+        "ring": 78122,
+        "buildings": 4861063,
+        "landmarks": 2749,
+        "dressing": 94817,
+        "lamps": 47670,
+        "paint": 138514,
+        "done": 259830
+      }
+    }
+  },
+  "delta": {
+    "build_ms": 1516,
+    "static_memory_bytes": 68005021,
+    "static_memory_peak_bytes": 93548249,
+    "material_conversion_us": 3448
+  },
+  "kamome_module_timings_median_us": {
+    "slice_us": 838762,
+    "place_us": 151758,
+    "flush_us": 62599
+  },
+  "note": "Earlier profile/reviewed-base-1 used the historical td209 snapshot helper. Final_world also references AnimeLook for conversion instrumentation; the absolute offset against the earlier294.6MB helper has not been independently attributed. Its absolute allocation is not treated as interchangeable. Compare the matched final helper pair309.1\u2192377.1MB. Raw initial/final records retained."
+}

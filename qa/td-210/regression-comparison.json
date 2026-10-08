@@ -1,0 +1,419 @@
+{
+  "note": "Raw emitted assertions define outcomes; process returncode alone is insufficient. Original after-build failure is retained and separately corrected by the actual mesh eave audit. No all-green claim.",
+  "suites": {
+    "ramps": {
+      "before_summary": {
+        "checks": 25,
+        "failures": 0
+      },
+      "after_summary": {
+        "checks": 25,
+        "failures": 0
+      },
+      "observed_process_returncodes": [
+        0,
+        0
+      ],
+      "emitted_details_identical": false,
+      "detail_differences": [
+        {
+          "index": 3,
+          "before": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.279724121094,
+            "recoveries": 0,
+            "v_top": 29.9605655670166
+          },
+          "after": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.282836914062,
+            "recoveries": 0,
+            "v_top": 29.9605808258057
+          }
+        },
+        {
+          "index": 5,
+          "before": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 202.660278320312,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          "after": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 202.6591796875,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          }
+        },
+        {
+          "index": 6,
+          "before": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.162414550781,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          "after": {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.167175292969,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          }
+        }
+      ],
+      "detail_counts": [
+        20,
+        20
+      ],
+      "raw_fail_lines": {
+        "before": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+        ],
+        "after": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+        ]
+      }
+    },
+    "signs": {
+      "before_summary": {
+        "drive_min": 11.38,
+        "failures": 7,
+        "km": 7.56,
+        "trips": 12
+      },
+      "after_summary": {
+        "drive_min": 11.42,
+        "failures": 7,
+        "km": 7.56,
+        "trips": 12
+      },
+      "observed_process_returncodes": [
+        1,
+        1
+      ],
+      "emitted_details_identical": false,
+      "detail_differences": [
+        {
+          "index": 3,
+          "before": {
+            "arcs": 19,
+            "driven_m": 1839,
+            "from": "mariko",
+            "ok": true,
+            "recoveries": 0,
+            "route": "\u5bff\u4e8c\u4e01\u76ee\u5c0f\u8def > \u5bff\u897f\u901a\u308a > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+            "signed_decisions": 18,
+            "stuck": 0,
+            "time_s": 113.3,
+            "to": "shinkai"
+          },
+          "after": {
+            "arcs": 19,
+            "driven_m": 1853,
+            "from": "mariko",
+            "ok": true,
+            "recoveries": 0,
+            "route": "\u5bff\u4e8c\u4e01\u76ee\u5c0f\u8def > \u5bff\u897f\u901a\u308a > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+            "signed_decisions": 18,
+            "stuck": 0,
+            "time_s": 115.5,
+            "to": "shinkai"
+          }
+        },
+        {
+          "index": 5,
+          "before": {
+            "arcs": 18,
+            "driven_m": 1872,
+            "from": "gate2",
+            "ok": false,
+            "recoveries": 0,
+            "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+            "signed_decisions": 12,
+            "stuck": 7,
+            "time_s": 150.2,
+            "to": "depots"
+          },
+          "after": {
+            "arcs": 18,
+            "driven_m": 1857,
+            "from": "gate2",
+            "ok": false,
+            "recoveries": 0,
+            "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+            "signed_decisions": 12,
+            "stuck": 7,
+            "time_s": 150.2,
+            "to": "depots"
+          }
+        }
+      ],
+      "detail_counts": [
+        12,
+        12
+      ],
+      "raw_fail_lines": {
+        "before": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+        ],
+        "after": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+        ]
+      }
+    },
+    "drive": {
+      "before_summary": {
+        "drive_min": 7.74,
+        "failures": 1,
+        "km": 6.77,
+        "legs": 21
+      },
+      "after_summary": {
+        "drive_min": 7.74,
+        "failures": 1,
+        "km": 6.77,
+        "legs": 21
+      },
+      "observed_process_returncodes": [
+        0,
+        1
+      ],
+      "emitted_details_identical": false,
+      "detail_differences": [
+        {
+          "index": 2,
+          "before": {
+            "arcs": 7,
+            "avg_kmh": 46.2,
+            "classes": {
+              "alley": 3,
+              "arterial": 2,
+              "street": 2
+            },
+            "driven_m": 486,
+            "from": "kenji_hall",
+            "leg": 3,
+            "max_y": -0.14,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 83.2,
+            "recoveries": 0,
+            "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+            "stuck": 0,
+            "time_s": 37.9,
+            "to": "seri_window"
+          },
+          "after": {
+            "arcs": 7,
+            "avg_kmh": 46.1,
+            "classes": {
+              "alley": 3,
+              "arterial": 2,
+              "street": 2
+            },
+            "driven_m": 486,
+            "from": "kenji_hall",
+            "leg": 3,
+            "max_y": -0.11,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 83.2,
+            "recoveries": 0,
+            "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+            "stuck": 0,
+            "time_s": 37.9,
+            "to": "seri_window"
+          }
+        },
+        {
+          "index": 3,
+          "before": {
+            "arcs": 6,
+            "avg_kmh": 53.4,
+            "classes": {
+              "alley": 2,
+              "arterial": 3,
+              "lane": 1
+            },
+            "driven_m": 638,
+            "from": "seri_window",
+            "leg": 4,
+            "max_y": -0.15,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 86.6,
+            "recoveries": 0,
+            "streets": "seri3 > uogashi2b > nishimon > senjo1",
+            "stuck": 0,
+            "time_s": 43.0,
+            "to": "rinse4"
+          },
+          "after": {
+            "arcs": 6,
+            "avg_kmh": 53.6,
+            "classes": {
+              "alley": 2,
+              "arterial": 3,
+              "lane": 1
+            },
+            "driven_m": 637,
+            "from": "seri_window",
+            "leg": 4,
+            "max_y": -0.14,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 86.6,
+            "recoveries": 0,
+            "streets": "seri3 > uogashi2b > nishimon > senjo1",
+            "stuck": 0,
+            "time_s": 42.8,
+            "to": "rinse4"
+          }
+        },
+        {
+          "index": 8,
+          "before": {
+            "arcs": 4,
+            "avg_kmh": 35.8,
+            "classes": {
+              "ring": 4
+            },
+            "driven_m": 793,
+            "from": "arc:627",
+            "leg": 9,
+            "max_y": 6.85,
+            "min_y": 0.35,
+            "ok": false,
+            "plan_s": 85.9,
+            "recoveries": 0,
+            "streets": "ring",
+            "stuck": 7,
+            "time_s": 79.6,
+            "to": "arc:622"
+          },
+          "after": {
+            "arcs": 4,
+            "avg_kmh": 35.9,
+            "classes": {
+              "ring": 4
+            },
+            "driven_m": 794,
+            "from": "arc:627",
+            "leg": 9,
+            "max_y": 6.85,
+            "min_y": 0.35,
+            "ok": false,
+            "plan_s": 85.9,
+            "recoveries": 0,
+            "streets": "ring",
+            "stuck": 7,
+            "time_s": 79.6,
+            "to": "arc:622"
+          }
+        }
+      ],
+      "detail_counts": [
+        9,
+        9
+      ],
+      "raw_fail_lines": {
+        "before": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+        ],
+        "after": [
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+          "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 794.110051259398, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85309743881226 })"
+        ]
+      }
+    },
+    "build": {
+      "before_returncode": 0,
+      "original_after_returncode": 1,
+      "original_after_fail_lines": [
+        "FAIL: dressing: eaves (0)"
+      ],
+      "corrected_failures": 0,
+      "correction": "Actual eave-area audit all345 plus missing-eave negative control; no production geometry change."
+    }
+  }
+}

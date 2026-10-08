@@ -1,0 +1,16 @@
+# Kamome measured composition — seed185
+
+Input layout: unchanged city.json, lots1022–1366, Godot(x,height,-plan_y). Exact artbook77c86fed and source-kit images were opened by the worker. Source td-186 scripts and immutable GLBs/atlas materials supply metre-scale geometry and real IPAGothic lettering; this is runtime kit composition, not newly drawn artwork.
+
+- Original footprint remains the perimeter. Warm tile-white/corrugated rear-wall donor pieces form perimeter walls in24m maximum widths. Residual widths/heights are cropped, never stretched. Rounded short returns use painted donor faces without redundant outline seams.
+- Primary frontage comes from CityDressing.frontage. Back lots use the longest edge with an explicit manifest reason. A full24m signed front anchors sufficiently wide edges; narrow edges use complete6m stall bays with three original trade-name variants. Source front is5m high, stall depth3m, low eave3.2–3.45m, eave projection2.76m. Face is inset2.9m, so authored eaves remain inside the original lot. Old procedural Kamome eaves are replaced by these authored ones.
+- Side/rear walls retain original perimeter. Upper corrugated donor courses reach the authored envelope. Halls>=7.82m place one complete24×16m source monitor-roof module atop5m-or-higher wall level; shorter halls use a flat roof at the original top. No whole-building scaling. All roof peaks stay within original height plus source ink tolerance.
+- Side service/retail opening uses sengyo_stall, ramen_window, tabako_kiosk or sakaya at source scale when sufficient edge depth/width exists. No transparent glazing, per-window light, global fog or visibility edits.
+- Props: fish_crates beside the loading/frontage pockets; hand_trucks chained near bay end on every third lot; tube_pedestal on every fourth. All within footprint behind sidewalk; original asset pivots and sizes retained.
+- Collision follows recessed wall/bay backs and structural piers. Counter envelopes remain solid below counter height; bay void above it is not closed by the placeholder facade. Side openings use inset back wall proxies. Road/collision surface/gig/Fuel data remain unchanged.
+- Repeated fronts/bays/monitor roofs/24m wall courses/props use optional bounded shared meshes. Unique cropped ends use CityKitBatch merged cells. Culling uses existing420m architecture/170m details and200m cells; no uncullable district mesh.
+- Budgets: <15k triangles per lot including baked ink/props; source textures max2048px buildings and1024px props. Actual final telemetry/export costs reported, with no art reduction to fit100MiB.
+
+## Geometry-driven corrections
+
+Expanded tests caught narrow21m lots needing cropped monitor roofs, and small6/12m stall fronts needing intact trade signs instead of the15m hall sign. A subsequent envelope check exposed a different class at lot1151: the authored Kenji Dock footprint wraps around a circular void and narrow neck. Its area centroid is outside solid building mass. Shrinking around that centroid cannot solve it. Roof placement now searches real solid candidate rectangles within the unchanged polygon, preferring the original centre then a bounded grid, and crops donor geometry only after testing the complete envelope. This is a changed geometric hypothesis, not another blind size retry. Raw first/second/third tests stay retained.

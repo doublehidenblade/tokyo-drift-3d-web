@@ -1,0 +1,30 @@
+{
+  "strict_before": "failed",
+  "strict_after": "failed",
+  "identical_engine_console_errors": true,
+  "engine_console_error_count": [
+    48,
+    48
+  ],
+  "before_extra_errors": [
+    {
+      "phase": "lower-city",
+      "message": "TimeoutError: page.waitForFunction: Timeout 30000ms exceeded."
+    }
+  ],
+  "after_extra_errors": [
+    {
+      "phase": "lower-city",
+      "message": "Error: Console errors were recorded; inspect raw-console.log"
+    }
+  ],
+  "observed_initial_speed": [
+    0,
+    0
+  ],
+  "observed_after_keyboard_speed": [
+    30,
+    29.7
+  ],
+  "interpretation": "Both ordinary shipping packs reached menu and Lower City and reported motion after real ArrowUp input. After speed wait completed, strict console guard failed on48 inherited errors. Before speed wait timed out despite final reported speed30; do not call that wait passing. Raw statuses remain failed. No synthetic green. Loaded software renderer timings are not device performance."
+}

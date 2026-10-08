@@ -1,0 +1,95 @@
+{
+  "native": {
+    "before": {
+      "draw_calls": {
+        "min": 133,
+        "median": 1485.0,
+        "max": 2837
+      },
+      "objects": {
+        "min": 133,
+        "median": 1551.0,
+        "max": 2969
+      },
+      "triangles": {
+        "min": 67063,
+        "median": 214969.0,
+        "max": 540752
+      },
+      "host_frame_ms": {
+        "min": 110.889,
+        "median": 208.435,
+        "max": 394.261
+      }
+    },
+    "after": {
+      "draw_calls": {
+        "min": 228,
+        "median": 1598.0,
+        "max": 3035
+      },
+      "objects": {
+        "min": 228,
+        "median": 1697.5,
+        "max": 3167
+      },
+      "triangles": {
+        "min": 121384,
+        "median": 457450.5,
+        "max": 756488
+      },
+      "host_frame_ms": {
+        "min": 172.667,
+        "median": 277.207,
+        "max": 693.619
+      }
+    }
+  },
+  "browser": {
+    "before": {
+      "draw_calls": {
+        "min": 133,
+        "median": 1485.0,
+        "max": 2837
+      },
+      "objects": {
+        "min": 133,
+        "median": 1551.0,
+        "max": 2969
+      },
+      "triangles": {
+        "min": 67063,
+        "median": 206647.0,
+        "max": 539742
+      },
+      "host_frame_ms": {
+        "min": 202.13,
+        "median": 504.76750000000004,
+        "max": 1578.18
+      }
+    },
+    "after": {
+      "draw_calls": {
+        "min": 248,
+        "median": 1630.0,
+        "max": 3035
+      },
+      "objects": {
+        "min": 248,
+        "median": 1707.5,
+        "max": 3167
+      },
+      "triangles": {
+        "min": 132222,
+        "median": 457319.5,
+        "max": 755478
+      },
+      "host_frame_ms": {
+        "min": 357.385,
+        "median": 654.22,
+        "max": 1553.45
+      }
+    }
+  },
+  "limits": "56 actualChaseCam street frames per platform/phase, under software rendering and concurrent tests. Host frame duration is diagnostic only, not stable hardware FPS or physical-phone acceptance. Geometry counters show bounded visible work; all-lot overheads excluded."
+}

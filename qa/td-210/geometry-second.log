@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+ok: All345 lots have substantive unique completed frontages 
+ok: Negative control: omitted lot fails coverage 
+ok: Actual expanded instance geometry accounts for every triangle [924375, 924375]
+FAIL: Expanded shared vertices stay within original footprint plus23cm ink [[1300, "(695.1499, 4.541438, -1076.87)"], [1300, "(695.1499, 4.78, -1077.925)"], [1300, "(695.1499, 4.408897, -1076.87)"], [1300, "(695.1499, 4.78, -1076.87)"], [1300, "(695.1499, 4.78, -1077.925)"], [1300, "(695.1499, 4.541438, -1076.87)"], [1300, "(695.1499, 4.28894, -1076.87)"], [1300, "(695.1499, 4.408897, -1076.87)"], [1300, "(695.1499, 4.78, -1077.925)"], [1300, "(695.1499, 4.28894, -1076.87)"], [1300, "(695.1499, 4.78, -1077.925)"], [1300, "(695.1499, 4.78, -1078.55)"], [1300, "(695.1499, 3.7, -1076.87)"], [1300, "(695.1499, 4.28894, -1076.87)"], [1300, "(695.1499, 4.78, -1078.55)"], [1300, "(695.1499, 3.7, -1076.87)"], [1300, "(695.1499, 4.78, -1078.55)"], [1300, "(695.1499, 3.7, -1078.55)"], [1300, "(695.1499, 3.7, -1078.74)"], [1300, "(695.1499, 3.7, -1078.55)"], [1300, "(695.1499, 3.7, -1078.55)"], [1300, "(695.1499, 4.78, -1078.55)"], [1300, "(695.1499, 3.7, -1078.74)"], [1300, "(695.1499, 3.7, -1078.74)"], [1300, "(695.2497, 3.749953, -1076.95)"], [1300, "(695.2497, 3.749953, -1076.95)"], [1300, "(695.2497, 4.699896, -1076.95)"], [1300, "(695.1499, 4.699896, -1076.95)"], [1300, "(695.1499, 3.749953, -1076.95)"], [1300, "(695.1499, 4.699896, -1076.95)"]]
+ok: Expanded shared vertices retain original height envelope []
+ok: Every actual MultiMesh AABB is spatially bounded and keeps existing distance limits (245.9, 9.871612, 237.94)
+ok: Every source surface is opaque, backface culled and lacks runtime second ink 
+ok: Negative control: double ink pass fails material check 
+ok: Negative control: real instance transform overflow fails footprint check 
+ok: All complete lots including ink/props/roof are below15k triangles 3926
+ok: Visible market bays do not retain invisible placeholder facade walls []
+ok: Negative control: inserted invisible facade blocker fails bay ray 
+ok: Construction geometry and transform caches released 

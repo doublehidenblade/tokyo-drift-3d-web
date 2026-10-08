@@ -1,0 +1,23 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+ok: All345 lots have substantive unique completed frontages 
+ok: Negative control: omitted lot fails coverage 
+ok: Actual expanded instance geometry accounts for every triangle [923294, 923294]
+FAIL: Expanded shared vertices stay within original footprint plus23cm ink [[1151, "cropped monitor roof for narrow lot", [892.035888671875, 689.36962890625]]]
+ok: Expanded shared vertices retain original height envelope []
+ok: Every actual MultiMesh AABB is spatially bounded and keeps existing distance limits (245.9, 9.871612, 237.94)
+ok: Every source surface is opaque, backface culled and lacks runtime second ink 
+ok: Negative control: double ink pass fails material check 
+ok: Negative control: real instance transform overflow fails footprint check 
+ok: All complete lots including ink/props/roof are below15k triangles 3926
+ok: Visible market bays do not retain invisible placeholder facade walls []
+ok: Negative control: inserted invisible facade blocker fails bay ray 
+ok: Construction geometry and transform caches released 
+ok: Actual AnimeLook pass preserves opacity/ink and source texture contracts 
+ok: Cell-local meshes avoid repeated toon-material chains [18, 18]
+ok: Fuel service lane remains clear quay_west 
+ok: Fuel service lane remains clear quay_east 
+ok: Both Fuel stations retain all44 kit instances 44

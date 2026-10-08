@@ -1,0 +1,4480 @@
+[
+  {
+    "sheet": "review-sheets/lots-01.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1022/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1022/td-210-criterion-1-after.png",
+        "id": "1022"
+      },
+      {
+        "before": "native-before/lots/1023/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1023/td-210-criterion-1-after.png",
+        "id": "1023"
+      },
+      {
+        "before": "native-before/lots/1024/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1024/td-210-criterion-1-after.png",
+        "id": "1024"
+      },
+      {
+        "before": "native-before/lots/1025/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1025/td-210-criterion-1-after.png",
+        "id": "1025"
+      },
+      {
+        "before": "native-before/lots/1026/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1026/td-210-criterion-1-after.png",
+        "id": "1026"
+      },
+      {
+        "before": "native-before/lots/1027/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1027/td-210-criterion-1-after.png",
+        "id": "1027"
+      },
+      {
+        "before": "native-before/lots/1028/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1028/td-210-criterion-1-after.png",
+        "id": "1028"
+      },
+      {
+        "before": "native-before/lots/1029/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1029/td-210-criterion-1-after.png",
+        "id": "1029"
+      },
+      {
+        "before": "native-before/lots/1030/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1030/td-210-criterion-1-after.png",
+        "id": "1030"
+      },
+      {
+        "before": "native-before/lots/1031/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1031/td-210-criterion-1-after.png",
+        "id": "1031"
+      },
+      {
+        "before": "native-before/lots/1032/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1032/td-210-criterion-1-after.png",
+        "id": "1032"
+      },
+      {
+        "before": "native-before/lots/1033/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1033/td-210-criterion-1-after.png",
+        "id": "1033"
+      }
+    ],
+    "sha256": "bb4dd27a2f226b81f6af91184b85e5e26bf66942bf83f5757c061328aa49c621"
+  },
+  {
+    "sheet": "review-sheets/lots-02.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1034/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1034/td-210-criterion-1-after.png",
+        "id": "1034"
+      },
+      {
+        "before": "native-before/lots/1035/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1035/td-210-criterion-1-after.png",
+        "id": "1035"
+      },
+      {
+        "before": "native-before/lots/1036/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1036/td-210-criterion-1-after.png",
+        "id": "1036"
+      },
+      {
+        "before": "native-before/lots/1037/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1037/td-210-criterion-1-after.png",
+        "id": "1037"
+      },
+      {
+        "before": "native-before/lots/1038/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1038/td-210-criterion-1-after.png",
+        "id": "1038"
+      },
+      {
+        "before": "native-before/lots/1039/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1039/td-210-criterion-1-after.png",
+        "id": "1039"
+      },
+      {
+        "before": "native-before/lots/1040/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1040/td-210-criterion-1-after.png",
+        "id": "1040"
+      },
+      {
+        "before": "native-before/lots/1041/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1041/td-210-criterion-1-after.png",
+        "id": "1041"
+      },
+      {
+        "before": "native-before/lots/1042/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1042/td-210-criterion-1-after.png",
+        "id": "1042"
+      },
+      {
+        "before": "native-before/lots/1043/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1043/td-210-criterion-1-after.png",
+        "id": "1043"
+      },
+      {
+        "before": "native-before/lots/1044/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1044/td-210-criterion-1-after.png",
+        "id": "1044"
+      },
+      {
+        "before": "native-before/lots/1045/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1045/td-210-criterion-1-after.png",
+        "id": "1045"
+      }
+    ],
+    "sha256": "8e8e844001b888ce16ed6923f4901a306fe2d437bb6a873f4c67ba6d25a2f6be"
+  },
+  {
+    "sheet": "review-sheets/lots-03.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1046/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1046/td-210-criterion-1-after.png",
+        "id": "1046"
+      },
+      {
+        "before": "native-before/lots/1047/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1047/td-210-criterion-1-after.png",
+        "id": "1047"
+      },
+      {
+        "before": "native-before/lots/1048/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1048/td-210-criterion-1-after.png",
+        "id": "1048"
+      },
+      {
+        "before": "native-before/lots/1049/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1049/td-210-criterion-1-after.png",
+        "id": "1049"
+      },
+      {
+        "before": "native-before/lots/1050/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1050/td-210-criterion-1-after.png",
+        "id": "1050"
+      },
+      {
+        "before": "native-before/lots/1051/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1051/td-210-criterion-1-after.png",
+        "id": "1051"
+      },
+      {
+        "before": "native-before/lots/1052/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1052/td-210-criterion-1-after.png",
+        "id": "1052"
+      },
+      {
+        "before": "native-before/lots/1053/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1053/td-210-criterion-1-after.png",
+        "id": "1053"
+      },
+      {
+        "before": "native-before/lots/1054/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1054/td-210-criterion-1-after.png",
+        "id": "1054"
+      },
+      {
+        "before": "native-before/lots/1055/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1055/td-210-criterion-1-after.png",
+        "id": "1055"
+      },
+      {
+        "before": "native-before/lots/1056/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1056/td-210-criterion-1-after.png",
+        "id": "1056"
+      },
+      {
+        "before": "native-before/lots/1057/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1057/td-210-criterion-1-after.png",
+        "id": "1057"
+      }
+    ],
+    "sha256": "50f21e599be602c057ccf21f4997756d03714b8f310a511ca248f34bc347d2bc"
+  },
+  {
+    "sheet": "review-sheets/lots-04.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1058/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1058/td-210-criterion-1-after.png",
+        "id": "1058"
+      },
+      {
+        "before": "native-before/lots/1059/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1059/td-210-criterion-1-after.png",
+        "id": "1059"
+      },
+      {
+        "before": "native-before/lots/1060/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1060/td-210-criterion-1-after.png",
+        "id": "1060"
+      },
+      {
+        "before": "native-before/lots/1061/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1061/td-210-criterion-1-after.png",
+        "id": "1061"
+      },
+      {
+        "before": "native-before/lots/1062/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1062/td-210-criterion-1-after.png",
+        "id": "1062"
+      },
+      {
+        "before": "native-before/lots/1063/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1063/td-210-criterion-1-after.png",
+        "id": "1063"
+      },
+      {
+        "before": "native-before/lots/1064/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1064/td-210-criterion-1-after.png",
+        "id": "1064"
+      },
+      {
+        "before": "native-before/lots/1065/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1065/td-210-criterion-1-after.png",
+        "id": "1065"
+      },
+      {
+        "before": "native-before/lots/1066/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1066/td-210-criterion-1-after.png",
+        "id": "1066"
+      },
+      {
+        "before": "native-before/lots/1067/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1067/td-210-criterion-1-after.png",
+        "id": "1067"
+      },
+      {
+        "before": "native-before/lots/1068/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1068/td-210-criterion-1-after.png",
+        "id": "1068"
+      },
+      {
+        "before": "native-before/lots/1069/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1069/td-210-criterion-1-after.png",
+        "id": "1069"
+      }
+    ],
+    "sha256": "513cec732ee53912a2b4def237872565b0aa2b4a4abd1eb521afec7f0465656b"
+  },
+  {
+    "sheet": "review-sheets/lots-05.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1070/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1070/td-210-criterion-1-after.png",
+        "id": "1070"
+      },
+      {
+        "before": "native-before/lots/1071/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1071/td-210-criterion-1-after.png",
+        "id": "1071"
+      },
+      {
+        "before": "native-before/lots/1072/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1072/td-210-criterion-1-after.png",
+        "id": "1072"
+      },
+      {
+        "before": "native-before/lots/1073/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1073/td-210-criterion-1-after.png",
+        "id": "1073"
+      },
+      {
+        "before": "native-before/lots/1074/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1074/td-210-criterion-1-after.png",
+        "id": "1074"
+      },
+      {
+        "before": "native-before/lots/1075/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1075/td-210-criterion-1-after.png",
+        "id": "1075"
+      },
+      {
+        "before": "native-before/lots/1076/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1076/td-210-criterion-1-after.png",
+        "id": "1076"
+      },
+      {
+        "before": "native-before/lots/1077/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1077/td-210-criterion-1-after.png",
+        "id": "1077"
+      },
+      {
+        "before": "native-before/lots/1078/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1078/td-210-criterion-1-after.png",
+        "id": "1078"
+      },
+      {
+        "before": "native-before/lots/1079/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1079/td-210-criterion-1-after.png",
+        "id": "1079"
+      },
+      {
+        "before": "native-before/lots/1080/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1080/td-210-criterion-1-after.png",
+        "id": "1080"
+      },
+      {
+        "before": "native-before/lots/1081/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1081/td-210-criterion-1-after.png",
+        "id": "1081"
+      }
+    ],
+    "sha256": "690dc00a39d29db35632969ec995cf313ee4286ccff26e642890ffd764e3c429"
+  },
+  {
+    "sheet": "review-sheets/lots-06.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1082/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1082/td-210-criterion-1-after.png",
+        "id": "1082"
+      },
+      {
+        "before": "native-before/lots/1083/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1083/td-210-criterion-1-after.png",
+        "id": "1083"
+      },
+      {
+        "before": "native-before/lots/1084/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1084/td-210-criterion-1-after.png",
+        "id": "1084"
+      },
+      {
+        "before": "native-before/lots/1085/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1085/td-210-criterion-1-after.png",
+        "id": "1085"
+      },
+      {
+        "before": "native-before/lots/1086/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1086/td-210-criterion-1-after.png",
+        "id": "1086"
+      },
+      {
+        "before": "native-before/lots/1087/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1087/td-210-criterion-1-after.png",
+        "id": "1087"
+      },
+      {
+        "before": "native-before/lots/1088/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1088/td-210-criterion-1-after.png",
+        "id": "1088"
+      },
+      {
+        "before": "native-before/lots/1089/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1089/td-210-criterion-1-after.png",
+        "id": "1089"
+      },
+      {
+        "before": "native-before/lots/1090/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1090/td-210-criterion-1-after.png",
+        "id": "1090"
+      },
+      {
+        "before": "native-before/lots/1091/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1091/td-210-criterion-1-after.png",
+        "id": "1091"
+      },
+      {
+        "before": "native-before/lots/1092/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1092/td-210-criterion-1-after.png",
+        "id": "1092"
+      },
+      {
+        "before": "native-before/lots/1093/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1093/td-210-criterion-1-after.png",
+        "id": "1093"
+      }
+    ],
+    "sha256": "64a34497ce418f9707280c444f6814111e68c2f52e2805d21dd6e5b8ba110aa3"
+  },
+  {
+    "sheet": "review-sheets/lots-07.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1094/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1094/td-210-criterion-1-after.png",
+        "id": "1094"
+      },
+      {
+        "before": "native-before/lots/1095/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1095/td-210-criterion-1-after.png",
+        "id": "1095"
+      },
+      {
+        "before": "native-before/lots/1096/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1096/td-210-criterion-1-after.png",
+        "id": "1096"
+      },
+      {
+        "before": "native-before/lots/1097/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1097/td-210-criterion-1-after.png",
+        "id": "1097"
+      },
+      {
+        "before": "native-before/lots/1098/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1098/td-210-criterion-1-after.png",
+        "id": "1098"
+      },
+      {
+        "before": "native-before/lots/1099/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1099/td-210-criterion-1-after.png",
+        "id": "1099"
+      },
+      {
+        "before": "native-before/lots/1100/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1100/td-210-criterion-1-after.png",
+        "id": "1100"
+      },
+      {
+        "before": "native-before/lots/1101/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1101/td-210-criterion-1-after.png",
+        "id": "1101"
+      },
+      {
+        "before": "native-before/lots/1102/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1102/td-210-criterion-1-after.png",
+        "id": "1102"
+      },
+      {
+        "before": "native-before/lots/1103/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1103/td-210-criterion-1-after.png",
+        "id": "1103"
+      },
+      {
+        "before": "native-before/lots/1104/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1104/td-210-criterion-1-after.png",
+        "id": "1104"
+      },
+      {
+        "before": "native-before/lots/1105/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1105/td-210-criterion-1-after.png",
+        "id": "1105"
+      }
+    ],
+    "sha256": "8f8fdfd7ce41990057336c8676feae422bdd45e1b7bd8c94954ef0ef8eed3b37"
+  },
+  {
+    "sheet": "review-sheets/lots-08.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1106/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1106/td-210-criterion-1-after.png",
+        "id": "1106"
+      },
+      {
+        "before": "native-before/lots/1107/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1107/td-210-criterion-1-after.png",
+        "id": "1107"
+      },
+      {
+        "before": "native-before/lots/1108/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1108/td-210-criterion-1-after.png",
+        "id": "1108"
+      },
+      {
+        "before": "native-before/lots/1109/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1109/td-210-criterion-1-after.png",
+        "id": "1109"
+      },
+      {
+        "before": "native-before/lots/1110/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1110/td-210-criterion-1-after.png",
+        "id": "1110"
+      },
+      {
+        "before": "native-before/lots/1111/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1111/td-210-criterion-1-after.png",
+        "id": "1111"
+      },
+      {
+        "before": "native-before/lots/1112/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1112/td-210-criterion-1-after.png",
+        "id": "1112"
+      },
+      {
+        "before": "native-before/lots/1113/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1113/td-210-criterion-1-after.png",
+        "id": "1113"
+      },
+      {
+        "before": "native-before/lots/1114/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1114/td-210-criterion-1-after.png",
+        "id": "1114"
+      },
+      {
+        "before": "native-before/lots/1115/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1115/td-210-criterion-1-after.png",
+        "id": "1115"
+      },
+      {
+        "before": "native-before/lots/1116/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1116/td-210-criterion-1-after.png",
+        "id": "1116"
+      },
+      {
+        "before": "native-before/lots/1117/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1117/td-210-criterion-1-after.png",
+        "id": "1117"
+      }
+    ],
+    "sha256": "76f7cf8787628cd225c7aa66447714f3c989cd03f1b0cc832a6342494adbcbc9"
+  },
+  {
+    "sheet": "review-sheets/lots-09.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1118/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1118/td-210-criterion-1-after.png",
+        "id": "1118"
+      },
+      {
+        "before": "native-before/lots/1119/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1119/td-210-criterion-1-after.png",
+        "id": "1119"
+      },
+      {
+        "before": "native-before/lots/1120/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1120/td-210-criterion-1-after.png",
+        "id": "1120"
+      },
+      {
+        "before": "native-before/lots/1121/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1121/td-210-criterion-1-after.png",
+        "id": "1121"
+      },
+      {
+        "before": "native-before/lots/1122/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1122/td-210-criterion-1-after.png",
+        "id": "1122"
+      },
+      {
+        "before": "native-before/lots/1123/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1123/td-210-criterion-1-after.png",
+        "id": "1123"
+      },
+      {
+        "before": "native-before/lots/1124/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1124/td-210-criterion-1-after.png",
+        "id": "1124"
+      },
+      {
+        "before": "native-before/lots/1125/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1125/td-210-criterion-1-after.png",
+        "id": "1125"
+      },
+      {
+        "before": "native-before/lots/1126/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1126/td-210-criterion-1-after.png",
+        "id": "1126"
+      },
+      {
+        "before": "native-before/lots/1127/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1127/td-210-criterion-1-after.png",
+        "id": "1127"
+      },
+      {
+        "before": "native-before/lots/1128/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1128/td-210-criterion-1-after.png",
+        "id": "1128"
+      },
+      {
+        "before": "native-before/lots/1129/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1129/td-210-criterion-1-after.png",
+        "id": "1129"
+      }
+    ],
+    "sha256": "3f1f1e13ef7b02b2d55adb47e163cf70fc78f152d42e7dcc4ecff1a5dc8d1977"
+  },
+  {
+    "sheet": "review-sheets/lots-10.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1130/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1130/td-210-criterion-1-after.png",
+        "id": "1130"
+      },
+      {
+        "before": "native-before/lots/1131/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1131/td-210-criterion-1-after.png",
+        "id": "1131"
+      },
+      {
+        "before": "native-before/lots/1132/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1132/td-210-criterion-1-after.png",
+        "id": "1132"
+      },
+      {
+        "before": "native-before/lots/1133/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1133/td-210-criterion-1-after.png",
+        "id": "1133"
+      },
+      {
+        "before": "native-before/lots/1134/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1134/td-210-criterion-1-after.png",
+        "id": "1134"
+      },
+      {
+        "before": "native-before/lots/1135/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1135/td-210-criterion-1-after.png",
+        "id": "1135"
+      },
+      {
+        "before": "native-before/lots/1136/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1136/td-210-criterion-1-after.png",
+        "id": "1136"
+      },
+      {
+        "before": "native-before/lots/1137/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1137/td-210-criterion-1-after.png",
+        "id": "1137"
+      },
+      {
+        "before": "native-before/lots/1138/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1138/td-210-criterion-1-after.png",
+        "id": "1138"
+      },
+      {
+        "before": "native-before/lots/1139/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1139/td-210-criterion-1-after.png",
+        "id": "1139"
+      },
+      {
+        "before": "native-before/lots/1140/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1140/td-210-criterion-1-after.png",
+        "id": "1140"
+      },
+      {
+        "before": "native-before/lots/1141/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1141/td-210-criterion-1-after.png",
+        "id": "1141"
+      }
+    ],
+    "sha256": "7b7400fb014fc42a83b1bedcf447410e154ff478515af89c08d5daed1a5b33bb"
+  },
+  {
+    "sheet": "review-sheets/lots-11.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1142/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1142/td-210-criterion-1-after.png",
+        "id": "1142"
+      },
+      {
+        "before": "native-before/lots/1143/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1143/td-210-criterion-1-after.png",
+        "id": "1143"
+      },
+      {
+        "before": "native-before/lots/1144/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1144/td-210-criterion-1-after.png",
+        "id": "1144"
+      },
+      {
+        "before": "native-before/lots/1145/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1145/td-210-criterion-1-after.png",
+        "id": "1145"
+      },
+      {
+        "before": "native-before/lots/1146/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1146/td-210-criterion-1-after.png",
+        "id": "1146"
+      },
+      {
+        "before": "native-before/lots/1147/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1147/td-210-criterion-1-after.png",
+        "id": "1147"
+      },
+      {
+        "before": "native-before/lots/1148/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1148/td-210-criterion-1-after.png",
+        "id": "1148"
+      },
+      {
+        "before": "native-before/lots/1149/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1149/td-210-criterion-1-after.png",
+        "id": "1149"
+      },
+      {
+        "before": "native-before/lots/1150/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1150/td-210-criterion-1-after.png",
+        "id": "1150"
+      },
+      {
+        "before": "native-before/lots/1151/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1151/td-210-criterion-1-after.png",
+        "id": "1151"
+      },
+      {
+        "before": "native-before/lots/1152/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1152/td-210-criterion-1-after.png",
+        "id": "1152"
+      },
+      {
+        "before": "native-before/lots/1153/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1153/td-210-criterion-1-after.png",
+        "id": "1153"
+      }
+    ],
+    "sha256": "5f2efb570fa05562c188452de7241466c382dc260d01509d9379a1645a43f13e"
+  },
+  {
+    "sheet": "review-sheets/lots-12.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1154/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1154/td-210-criterion-1-after.png",
+        "id": "1154"
+      },
+      {
+        "before": "native-before/lots/1155/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1155/td-210-criterion-1-after.png",
+        "id": "1155"
+      },
+      {
+        "before": "native-before/lots/1156/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1156/td-210-criterion-1-after.png",
+        "id": "1156"
+      },
+      {
+        "before": "native-before/lots/1157/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1157/td-210-criterion-1-after.png",
+        "id": "1157"
+      },
+      {
+        "before": "native-before/lots/1158/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1158/td-210-criterion-1-after.png",
+        "id": "1158"
+      },
+      {
+        "before": "native-before/lots/1159/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1159/td-210-criterion-1-after.png",
+        "id": "1159"
+      },
+      {
+        "before": "native-before/lots/1160/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1160/td-210-criterion-1-after.png",
+        "id": "1160"
+      },
+      {
+        "before": "native-before/lots/1161/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1161/td-210-criterion-1-after.png",
+        "id": "1161"
+      },
+      {
+        "before": "native-before/lots/1162/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1162/td-210-criterion-1-after.png",
+        "id": "1162"
+      },
+      {
+        "before": "native-before/lots/1163/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1163/td-210-criterion-1-after.png",
+        "id": "1163"
+      },
+      {
+        "before": "native-before/lots/1164/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1164/td-210-criterion-1-after.png",
+        "id": "1164"
+      },
+      {
+        "before": "native-before/lots/1165/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1165/td-210-criterion-1-after.png",
+        "id": "1165"
+      }
+    ],
+    "sha256": "35fb5e8b76bc3add83a6fca09653402123d581391a236063e0eb8c6e5dc867b2"
+  },
+  {
+    "sheet": "review-sheets/lots-13.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1166/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1166/td-210-criterion-1-after.png",
+        "id": "1166"
+      },
+      {
+        "before": "native-before/lots/1167/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1167/td-210-criterion-1-after.png",
+        "id": "1167"
+      },
+      {
+        "before": "native-before/lots/1168/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1168/td-210-criterion-1-after.png",
+        "id": "1168"
+      },
+      {
+        "before": "native-before/lots/1169/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1169/td-210-criterion-1-after.png",
+        "id": "1169"
+      },
+      {
+        "before": "native-before/lots/1170/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1170/td-210-criterion-1-after.png",
+        "id": "1170"
+      },
+      {
+        "before": "native-before/lots/1171/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1171/td-210-criterion-1-after.png",
+        "id": "1171"
+      },
+      {
+        "before": "native-before/lots/1172/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1172/td-210-criterion-1-after.png",
+        "id": "1172"
+      },
+      {
+        "before": "native-before/lots/1173/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1173/td-210-criterion-1-after.png",
+        "id": "1173"
+      },
+      {
+        "before": "native-before/lots/1174/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1174/td-210-criterion-1-after.png",
+        "id": "1174"
+      },
+      {
+        "before": "native-before/lots/1175/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1175/td-210-criterion-1-after.png",
+        "id": "1175"
+      },
+      {
+        "before": "native-before/lots/1176/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1176/td-210-criterion-1-after.png",
+        "id": "1176"
+      },
+      {
+        "before": "native-before/lots/1177/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1177/td-210-criterion-1-after.png",
+        "id": "1177"
+      }
+    ],
+    "sha256": "7e84e674e35b100c966af40917a1b49645a035131c564f930648efa8628d0929"
+  },
+  {
+    "sheet": "review-sheets/lots-14.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1178/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1178/td-210-criterion-1-after.png",
+        "id": "1178"
+      },
+      {
+        "before": "native-before/lots/1179/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1179/td-210-criterion-1-after.png",
+        "id": "1179"
+      },
+      {
+        "before": "native-before/lots/1180/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1180/td-210-criterion-1-after.png",
+        "id": "1180"
+      },
+      {
+        "before": "native-before/lots/1181/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1181/td-210-criterion-1-after.png",
+        "id": "1181"
+      },
+      {
+        "before": "native-before/lots/1182/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1182/td-210-criterion-1-after.png",
+        "id": "1182"
+      },
+      {
+        "before": "native-before/lots/1183/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1183/td-210-criterion-1-after.png",
+        "id": "1183"
+      },
+      {
+        "before": "native-before/lots/1184/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1184/td-210-criterion-1-after.png",
+        "id": "1184"
+      },
+      {
+        "before": "native-before/lots/1185/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1185/td-210-criterion-1-after.png",
+        "id": "1185"
+      },
+      {
+        "before": "native-before/lots/1186/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1186/td-210-criterion-1-after.png",
+        "id": "1186"
+      },
+      {
+        "before": "native-before/lots/1187/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1187/td-210-criterion-1-after.png",
+        "id": "1187"
+      },
+      {
+        "before": "native-before/lots/1188/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1188/td-210-criterion-1-after.png",
+        "id": "1188"
+      },
+      {
+        "before": "native-before/lots/1189/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1189/td-210-criterion-1-after.png",
+        "id": "1189"
+      }
+    ],
+    "sha256": "6b4a89ac30a011dd1e8225bc49b0c8ce5ba7fa637a640c07a9f78333cdbbc244"
+  },
+  {
+    "sheet": "review-sheets/lots-15.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1190/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1190/td-210-criterion-1-after.png",
+        "id": "1190"
+      },
+      {
+        "before": "native-before/lots/1191/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1191/td-210-criterion-1-after.png",
+        "id": "1191"
+      },
+      {
+        "before": "native-before/lots/1192/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1192/td-210-criterion-1-after.png",
+        "id": "1192"
+      },
+      {
+        "before": "native-before/lots/1193/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1193/td-210-criterion-1-after.png",
+        "id": "1193"
+      },
+      {
+        "before": "native-before/lots/1194/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1194/td-210-criterion-1-after.png",
+        "id": "1194"
+      },
+      {
+        "before": "native-before/lots/1195/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1195/td-210-criterion-1-after.png",
+        "id": "1195"
+      },
+      {
+        "before": "native-before/lots/1196/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1196/td-210-criterion-1-after.png",
+        "id": "1196"
+      },
+      {
+        "before": "native-before/lots/1197/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1197/td-210-criterion-1-after.png",
+        "id": "1197"
+      },
+      {
+        "before": "native-before/lots/1198/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1198/td-210-criterion-1-after.png",
+        "id": "1198"
+      },
+      {
+        "before": "native-before/lots/1199/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1199/td-210-criterion-1-after.png",
+        "id": "1199"
+      },
+      {
+        "before": "native-before/lots/1200/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1200/td-210-criterion-1-after.png",
+        "id": "1200"
+      },
+      {
+        "before": "native-before/lots/1201/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1201/td-210-criterion-1-after.png",
+        "id": "1201"
+      }
+    ],
+    "sha256": "cc2c1e7de72d834b0d28a925527b8a2d58d0c9df707d5ee9de59f4b22d63ea57"
+  },
+  {
+    "sheet": "review-sheets/lots-16.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1202/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1202/td-210-criterion-1-after.png",
+        "id": "1202"
+      },
+      {
+        "before": "native-before/lots/1203/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1203/td-210-criterion-1-after.png",
+        "id": "1203"
+      },
+      {
+        "before": "native-before/lots/1204/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1204/td-210-criterion-1-after.png",
+        "id": "1204"
+      },
+      {
+        "before": "native-before/lots/1205/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1205/td-210-criterion-1-after.png",
+        "id": "1205"
+      },
+      {
+        "before": "native-before/lots/1206/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1206/td-210-criterion-1-after.png",
+        "id": "1206"
+      },
+      {
+        "before": "native-before/lots/1207/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1207/td-210-criterion-1-after.png",
+        "id": "1207"
+      },
+      {
+        "before": "native-before/lots/1208/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1208/td-210-criterion-1-after.png",
+        "id": "1208"
+      },
+      {
+        "before": "native-before/lots/1209/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1209/td-210-criterion-1-after.png",
+        "id": "1209"
+      },
+      {
+        "before": "native-before/lots/1210/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1210/td-210-criterion-1-after.png",
+        "id": "1210"
+      },
+      {
+        "before": "native-before/lots/1211/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1211/td-210-criterion-1-after.png",
+        "id": "1211"
+      },
+      {
+        "before": "native-before/lots/1212/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1212/td-210-criterion-1-after.png",
+        "id": "1212"
+      },
+      {
+        "before": "native-before/lots/1213/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1213/td-210-criterion-1-after.png",
+        "id": "1213"
+      }
+    ],
+    "sha256": "156dcc103b0cfc3699139eb8665d480810c75658bbe8a48382c86359c8c679f5"
+  },
+  {
+    "sheet": "review-sheets/lots-17.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1214/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1214/td-210-criterion-1-after.png",
+        "id": "1214"
+      },
+      {
+        "before": "native-before/lots/1215/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1215/td-210-criterion-1-after.png",
+        "id": "1215"
+      },
+      {
+        "before": "native-before/lots/1216/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1216/td-210-criterion-1-after.png",
+        "id": "1216"
+      },
+      {
+        "before": "native-before/lots/1217/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1217/td-210-criterion-1-after.png",
+        "id": "1217"
+      },
+      {
+        "before": "native-before/lots/1218/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1218/td-210-criterion-1-after.png",
+        "id": "1218"
+      },
+      {
+        "before": "native-before/lots/1219/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1219/td-210-criterion-1-after.png",
+        "id": "1219"
+      },
+      {
+        "before": "native-before/lots/1220/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1220/td-210-criterion-1-after.png",
+        "id": "1220"
+      },
+      {
+        "before": "native-before/lots/1221/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1221/td-210-criterion-1-after.png",
+        "id": "1221"
+      },
+      {
+        "before": "native-before/lots/1222/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1222/td-210-criterion-1-after.png",
+        "id": "1222"
+      },
+      {
+        "before": "native-before/lots/1223/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1223/td-210-criterion-1-after.png",
+        "id": "1223"
+      },
+      {
+        "before": "native-before/lots/1224/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1224/td-210-criterion-1-after.png",
+        "id": "1224"
+      },
+      {
+        "before": "native-before/lots/1225/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1225/td-210-criterion-1-after.png",
+        "id": "1225"
+      }
+    ],
+    "sha256": "521a70a34837d861eb77ce7aeab55cdc766a299fe130ffa621d97dc1ebf68380"
+  },
+  {
+    "sheet": "review-sheets/lots-18.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1226/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1226/td-210-criterion-1-after.png",
+        "id": "1226"
+      },
+      {
+        "before": "native-before/lots/1227/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1227/td-210-criterion-1-after.png",
+        "id": "1227"
+      },
+      {
+        "before": "native-before/lots/1228/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1228/td-210-criterion-1-after.png",
+        "id": "1228"
+      },
+      {
+        "before": "native-before/lots/1229/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1229/td-210-criterion-1-after.png",
+        "id": "1229"
+      },
+      {
+        "before": "native-before/lots/1230/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1230/td-210-criterion-1-after.png",
+        "id": "1230"
+      },
+      {
+        "before": "native-before/lots/1231/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1231/td-210-criterion-1-after.png",
+        "id": "1231"
+      },
+      {
+        "before": "native-before/lots/1232/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1232/td-210-criterion-1-after.png",
+        "id": "1232"
+      },
+      {
+        "before": "native-before/lots/1233/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1233/td-210-criterion-1-after.png",
+        "id": "1233"
+      },
+      {
+        "before": "native-before/lots/1234/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1234/td-210-criterion-1-after.png",
+        "id": "1234"
+      },
+      {
+        "before": "native-before/lots/1235/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1235/td-210-criterion-1-after.png",
+        "id": "1235"
+      },
+      {
+        "before": "native-before/lots/1236/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1236/td-210-criterion-1-after.png",
+        "id": "1236"
+      },
+      {
+        "before": "native-before/lots/1237/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1237/td-210-criterion-1-after.png",
+        "id": "1237"
+      }
+    ],
+    "sha256": "38c925794f260666780397c7115d6fd150d00c4b8dba0eec2a1fba0ee8df0b30"
+  },
+  {
+    "sheet": "review-sheets/lots-19.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1238/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1238/td-210-criterion-1-after.png",
+        "id": "1238"
+      },
+      {
+        "before": "native-before/lots/1239/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1239/td-210-criterion-1-after.png",
+        "id": "1239"
+      },
+      {
+        "before": "native-before/lots/1240/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1240/td-210-criterion-1-after.png",
+        "id": "1240"
+      },
+      {
+        "before": "native-before/lots/1241/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1241/td-210-criterion-1-after.png",
+        "id": "1241"
+      },
+      {
+        "before": "native-before/lots/1242/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1242/td-210-criterion-1-after.png",
+        "id": "1242"
+      },
+      {
+        "before": "native-before/lots/1243/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1243/td-210-criterion-1-after.png",
+        "id": "1243"
+      },
+      {
+        "before": "native-before/lots/1244/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1244/td-210-criterion-1-after.png",
+        "id": "1244"
+      },
+      {
+        "before": "native-before/lots/1245/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1245/td-210-criterion-1-after.png",
+        "id": "1245"
+      },
+      {
+        "before": "native-before/lots/1246/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1246/td-210-criterion-1-after.png",
+        "id": "1246"
+      },
+      {
+        "before": "native-before/lots/1247/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1247/td-210-criterion-1-after.png",
+        "id": "1247"
+      },
+      {
+        "before": "native-before/lots/1248/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1248/td-210-criterion-1-after.png",
+        "id": "1248"
+      },
+      {
+        "before": "native-before/lots/1249/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1249/td-210-criterion-1-after.png",
+        "id": "1249"
+      }
+    ],
+    "sha256": "7ea86c458e2427e2d71ff1025d051b1d02b2fba45e77292d071ad8522727082c"
+  },
+  {
+    "sheet": "review-sheets/lots-20.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1250/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1250/td-210-criterion-1-after.png",
+        "id": "1250"
+      },
+      {
+        "before": "native-before/lots/1251/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1251/td-210-criterion-1-after.png",
+        "id": "1251"
+      },
+      {
+        "before": "native-before/lots/1252/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1252/td-210-criterion-1-after.png",
+        "id": "1252"
+      },
+      {
+        "before": "native-before/lots/1253/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1253/td-210-criterion-1-after.png",
+        "id": "1253"
+      },
+      {
+        "before": "native-before/lots/1254/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1254/td-210-criterion-1-after.png",
+        "id": "1254"
+      },
+      {
+        "before": "native-before/lots/1255/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1255/td-210-criterion-1-after.png",
+        "id": "1255"
+      },
+      {
+        "before": "native-before/lots/1256/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1256/td-210-criterion-1-after.png",
+        "id": "1256"
+      },
+      {
+        "before": "native-before/lots/1257/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1257/td-210-criterion-1-after.png",
+        "id": "1257"
+      },
+      {
+        "before": "native-before/lots/1258/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1258/td-210-criterion-1-after.png",
+        "id": "1258"
+      },
+      {
+        "before": "native-before/lots/1259/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1259/td-210-criterion-1-after.png",
+        "id": "1259"
+      },
+      {
+        "before": "native-before/lots/1260/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1260/td-210-criterion-1-after.png",
+        "id": "1260"
+      },
+      {
+        "before": "native-before/lots/1261/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1261/td-210-criterion-1-after.png",
+        "id": "1261"
+      }
+    ],
+    "sha256": "07f22838ac8a960a3b7331fb29f0c03041789a9ab9514a8b479d87c7b39cc0c0"
+  },
+  {
+    "sheet": "review-sheets/lots-21.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1262/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1262/td-210-criterion-1-after.png",
+        "id": "1262"
+      },
+      {
+        "before": "native-before/lots/1263/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1263/td-210-criterion-1-after.png",
+        "id": "1263"
+      },
+      {
+        "before": "native-before/lots/1264/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1264/td-210-criterion-1-after.png",
+        "id": "1264"
+      },
+      {
+        "before": "native-before/lots/1265/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1265/td-210-criterion-1-after.png",
+        "id": "1265"
+      },
+      {
+        "before": "native-before/lots/1266/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1266/td-210-criterion-1-after.png",
+        "id": "1266"
+      },
+      {
+        "before": "native-before/lots/1267/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1267/td-210-criterion-1-after.png",
+        "id": "1267"
+      },
+      {
+        "before": "native-before/lots/1268/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1268/td-210-criterion-1-after.png",
+        "id": "1268"
+      },
+      {
+        "before": "native-before/lots/1269/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1269/td-210-criterion-1-after.png",
+        "id": "1269"
+      },
+      {
+        "before": "native-before/lots/1270/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1270/td-210-criterion-1-after.png",
+        "id": "1270"
+      },
+      {
+        "before": "native-before/lots/1271/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1271/td-210-criterion-1-after.png",
+        "id": "1271"
+      },
+      {
+        "before": "native-before/lots/1272/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1272/td-210-criterion-1-after.png",
+        "id": "1272"
+      },
+      {
+        "before": "native-before/lots/1273/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1273/td-210-criterion-1-after.png",
+        "id": "1273"
+      }
+    ],
+    "sha256": "042e5462403f1a7c0db59b6985113d88349bd77a2628c68f4d2aafe617fe001e"
+  },
+  {
+    "sheet": "review-sheets/lots-22.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1274/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1274/td-210-criterion-1-after.png",
+        "id": "1274"
+      },
+      {
+        "before": "native-before/lots/1275/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1275/td-210-criterion-1-after.png",
+        "id": "1275"
+      },
+      {
+        "before": "native-before/lots/1276/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1276/td-210-criterion-1-after.png",
+        "id": "1276"
+      },
+      {
+        "before": "native-before/lots/1277/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1277/td-210-criterion-1-after.png",
+        "id": "1277"
+      },
+      {
+        "before": "native-before/lots/1278/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1278/td-210-criterion-1-after.png",
+        "id": "1278"
+      },
+      {
+        "before": "native-before/lots/1279/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1279/td-210-criterion-1-after.png",
+        "id": "1279"
+      },
+      {
+        "before": "native-before/lots/1280/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1280/td-210-criterion-1-after.png",
+        "id": "1280"
+      },
+      {
+        "before": "native-before/lots/1281/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1281/td-210-criterion-1-after.png",
+        "id": "1281"
+      },
+      {
+        "before": "native-before/lots/1282/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1282/td-210-criterion-1-after.png",
+        "id": "1282"
+      },
+      {
+        "before": "native-before/lots/1283/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1283/td-210-criterion-1-after.png",
+        "id": "1283"
+      },
+      {
+        "before": "native-before/lots/1284/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1284/td-210-criterion-1-after.png",
+        "id": "1284"
+      },
+      {
+        "before": "native-before/lots/1285/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1285/td-210-criterion-1-after.png",
+        "id": "1285"
+      }
+    ],
+    "sha256": "7a533cc2bd43d8410e0bb27d67cec6532f0d6f2e36d4da16e1c38b52cc4580ff"
+  },
+  {
+    "sheet": "review-sheets/lots-23.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1286/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1286/td-210-criterion-1-after.png",
+        "id": "1286"
+      },
+      {
+        "before": "native-before/lots/1287/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1287/td-210-criterion-1-after.png",
+        "id": "1287"
+      },
+      {
+        "before": "native-before/lots/1288/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1288/td-210-criterion-1-after.png",
+        "id": "1288"
+      },
+      {
+        "before": "native-before/lots/1289/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1289/td-210-criterion-1-after.png",
+        "id": "1289"
+      },
+      {
+        "before": "native-before/lots/1290/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1290/td-210-criterion-1-after.png",
+        "id": "1290"
+      },
+      {
+        "before": "native-before/lots/1291/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1291/td-210-criterion-1-after.png",
+        "id": "1291"
+      },
+      {
+        "before": "native-before/lots/1292/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1292/td-210-criterion-1-after.png",
+        "id": "1292"
+      },
+      {
+        "before": "native-before/lots/1293/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1293/td-210-criterion-1-after.png",
+        "id": "1293"
+      },
+      {
+        "before": "native-before/lots/1294/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1294/td-210-criterion-1-after.png",
+        "id": "1294"
+      },
+      {
+        "before": "native-before/lots/1295/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1295/td-210-criterion-1-after.png",
+        "id": "1295"
+      },
+      {
+        "before": "native-before/lots/1296/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1296/td-210-criterion-1-after.png",
+        "id": "1296"
+      },
+      {
+        "before": "native-before/lots/1297/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1297/td-210-criterion-1-after.png",
+        "id": "1297"
+      }
+    ],
+    "sha256": "9730e87849a95a0ff1a020bcd1a506de994a1a55504e69ae656edf1810572fa4"
+  },
+  {
+    "sheet": "review-sheets/lots-24.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1298/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1298/td-210-criterion-1-after.png",
+        "id": "1298"
+      },
+      {
+        "before": "native-before/lots/1299/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1299/td-210-criterion-1-after.png",
+        "id": "1299"
+      },
+      {
+        "before": "native-before/lots/1300/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1300/td-210-criterion-1-after.png",
+        "id": "1300"
+      },
+      {
+        "before": "native-before/lots/1301/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1301/td-210-criterion-1-after.png",
+        "id": "1301"
+      },
+      {
+        "before": "native-before/lots/1302/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1302/td-210-criterion-1-after.png",
+        "id": "1302"
+      },
+      {
+        "before": "native-before/lots/1303/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1303/td-210-criterion-1-after.png",
+        "id": "1303"
+      },
+      {
+        "before": "native-before/lots/1304/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1304/td-210-criterion-1-after.png",
+        "id": "1304"
+      },
+      {
+        "before": "native-before/lots/1305/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1305/td-210-criterion-1-after.png",
+        "id": "1305"
+      },
+      {
+        "before": "native-before/lots/1306/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1306/td-210-criterion-1-after.png",
+        "id": "1306"
+      },
+      {
+        "before": "native-before/lots/1307/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1307/td-210-criterion-1-after.png",
+        "id": "1307"
+      },
+      {
+        "before": "native-before/lots/1308/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1308/td-210-criterion-1-after.png",
+        "id": "1308"
+      },
+      {
+        "before": "native-before/lots/1309/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1309/td-210-criterion-1-after.png",
+        "id": "1309"
+      }
+    ],
+    "sha256": "1fcdce810028eb3257501c0288a4f65a3be38f6146cd6639f491912886dcf828"
+  },
+  {
+    "sheet": "review-sheets/lots-25.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1310/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1310/td-210-criterion-1-after.png",
+        "id": "1310"
+      },
+      {
+        "before": "native-before/lots/1311/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1311/td-210-criterion-1-after.png",
+        "id": "1311"
+      },
+      {
+        "before": "native-before/lots/1312/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1312/td-210-criterion-1-after.png",
+        "id": "1312"
+      },
+      {
+        "before": "native-before/lots/1313/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1313/td-210-criterion-1-after.png",
+        "id": "1313"
+      },
+      {
+        "before": "native-before/lots/1314/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1314/td-210-criterion-1-after.png",
+        "id": "1314"
+      },
+      {
+        "before": "native-before/lots/1315/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1315/td-210-criterion-1-after.png",
+        "id": "1315"
+      },
+      {
+        "before": "native-before/lots/1316/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1316/td-210-criterion-1-after.png",
+        "id": "1316"
+      },
+      {
+        "before": "native-before/lots/1317/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1317/td-210-criterion-1-after.png",
+        "id": "1317"
+      },
+      {
+        "before": "native-before/lots/1318/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1318/td-210-criterion-1-after.png",
+        "id": "1318"
+      },
+      {
+        "before": "native-before/lots/1319/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1319/td-210-criterion-1-after.png",
+        "id": "1319"
+      },
+      {
+        "before": "native-before/lots/1320/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1320/td-210-criterion-1-after.png",
+        "id": "1320"
+      },
+      {
+        "before": "native-before/lots/1321/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1321/td-210-criterion-1-after.png",
+        "id": "1321"
+      }
+    ],
+    "sha256": "68457a6dfa01f6b6d7363421a2b139dbb862e9ef1ef121718ac26685b7de8018"
+  },
+  {
+    "sheet": "review-sheets/lots-26.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1322/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1322/td-210-criterion-1-after.png",
+        "id": "1322"
+      },
+      {
+        "before": "native-before/lots/1323/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1323/td-210-criterion-1-after.png",
+        "id": "1323"
+      },
+      {
+        "before": "native-before/lots/1324/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1324/td-210-criterion-1-after.png",
+        "id": "1324"
+      },
+      {
+        "before": "native-before/lots/1325/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1325/td-210-criterion-1-after.png",
+        "id": "1325"
+      },
+      {
+        "before": "native-before/lots/1326/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1326/td-210-criterion-1-after.png",
+        "id": "1326"
+      },
+      {
+        "before": "native-before/lots/1327/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1327/td-210-criterion-1-after.png",
+        "id": "1327"
+      },
+      {
+        "before": "native-before/lots/1328/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1328/td-210-criterion-1-after.png",
+        "id": "1328"
+      },
+      {
+        "before": "native-before/lots/1329/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1329/td-210-criterion-1-after.png",
+        "id": "1329"
+      },
+      {
+        "before": "native-before/lots/1330/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1330/td-210-criterion-1-after.png",
+        "id": "1330"
+      },
+      {
+        "before": "native-before/lots/1331/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1331/td-210-criterion-1-after.png",
+        "id": "1331"
+      },
+      {
+        "before": "native-before/lots/1332/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1332/td-210-criterion-1-after.png",
+        "id": "1332"
+      },
+      {
+        "before": "native-before/lots/1333/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1333/td-210-criterion-1-after.png",
+        "id": "1333"
+      }
+    ],
+    "sha256": "4a1766db724ff5b33ce85e2d7a98519f895b8e18fd0be4a7709596e286bde26c"
+  },
+  {
+    "sheet": "review-sheets/lots-27.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1334/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1334/td-210-criterion-1-after.png",
+        "id": "1334"
+      },
+      {
+        "before": "native-before/lots/1335/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1335/td-210-criterion-1-after.png",
+        "id": "1335"
+      },
+      {
+        "before": "native-before/lots/1336/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1336/td-210-criterion-1-after.png",
+        "id": "1336"
+      },
+      {
+        "before": "native-before/lots/1337/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1337/td-210-criterion-1-after.png",
+        "id": "1337"
+      },
+      {
+        "before": "native-before/lots/1338/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1338/td-210-criterion-1-after.png",
+        "id": "1338"
+      },
+      {
+        "before": "native-before/lots/1339/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1339/td-210-criterion-1-after.png",
+        "id": "1339"
+      },
+      {
+        "before": "native-before/lots/1340/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1340/td-210-criterion-1-after.png",
+        "id": "1340"
+      },
+      {
+        "before": "native-before/lots/1341/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1341/td-210-criterion-1-after.png",
+        "id": "1341"
+      },
+      {
+        "before": "native-before/lots/1342/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1342/td-210-criterion-1-after.png",
+        "id": "1342"
+      },
+      {
+        "before": "native-before/lots/1343/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1343/td-210-criterion-1-after.png",
+        "id": "1343"
+      },
+      {
+        "before": "native-before/lots/1344/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1344/td-210-criterion-1-after.png",
+        "id": "1344"
+      },
+      {
+        "before": "native-before/lots/1345/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1345/td-210-criterion-1-after.png",
+        "id": "1345"
+      }
+    ],
+    "sha256": "319c1d738de86622aba223a3d790d3ff4b93368a6c261c1e3d21b6db29551969"
+  },
+  {
+    "sheet": "review-sheets/lots-28.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1346/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1346/td-210-criterion-1-after.png",
+        "id": "1346"
+      },
+      {
+        "before": "native-before/lots/1347/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1347/td-210-criterion-1-after.png",
+        "id": "1347"
+      },
+      {
+        "before": "native-before/lots/1348/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1348/td-210-criterion-1-after.png",
+        "id": "1348"
+      },
+      {
+        "before": "native-before/lots/1349/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1349/td-210-criterion-1-after.png",
+        "id": "1349"
+      },
+      {
+        "before": "native-before/lots/1350/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1350/td-210-criterion-1-after.png",
+        "id": "1350"
+      },
+      {
+        "before": "native-before/lots/1351/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1351/td-210-criterion-1-after.png",
+        "id": "1351"
+      },
+      {
+        "before": "native-before/lots/1352/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1352/td-210-criterion-1-after.png",
+        "id": "1352"
+      },
+      {
+        "before": "native-before/lots/1353/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1353/td-210-criterion-1-after.png",
+        "id": "1353"
+      },
+      {
+        "before": "native-before/lots/1354/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1354/td-210-criterion-1-after.png",
+        "id": "1354"
+      },
+      {
+        "before": "native-before/lots/1355/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1355/td-210-criterion-1-after.png",
+        "id": "1355"
+      },
+      {
+        "before": "native-before/lots/1356/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1356/td-210-criterion-1-after.png",
+        "id": "1356"
+      },
+      {
+        "before": "native-before/lots/1357/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1357/td-210-criterion-1-after.png",
+        "id": "1357"
+      }
+    ],
+    "sha256": "3c4709b11cf98c3f0a2ee3acebff008c17577c24d65178bd56bc8317d6a1126b"
+  },
+  {
+    "sheet": "review-sheets/lots-29.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots/1358/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1358/td-210-criterion-1-after.png",
+        "id": "1358"
+      },
+      {
+        "before": "native-before/lots/1359/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1359/td-210-criterion-1-after.png",
+        "id": "1359"
+      },
+      {
+        "before": "native-before/lots/1360/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1360/td-210-criterion-1-after.png",
+        "id": "1360"
+      },
+      {
+        "before": "native-before/lots/1361/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1361/td-210-criterion-1-after.png",
+        "id": "1361"
+      },
+      {
+        "before": "native-before/lots/1362/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1362/td-210-criterion-1-after.png",
+        "id": "1362"
+      },
+      {
+        "before": "native-before/lots/1363/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1363/td-210-criterion-1-after.png",
+        "id": "1363"
+      },
+      {
+        "before": "native-before/lots/1364/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1364/td-210-criterion-1-after.png",
+        "id": "1364"
+      },
+      {
+        "before": "native-before/lots/1365/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1365/td-210-criterion-1-after.png",
+        "id": "1365"
+      },
+      {
+        "before": "native-before/lots/1366/td-210-criterion-1-before.png",
+        "after": "native-after/lots/1366/td-210-criterion-1-after.png",
+        "id": "1366"
+      }
+    ],
+    "sha256": "48e710126c8a5da452d8d549137ed3a5e5c20e49d4b48ab21d6a8969d2b393ff"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-01.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1022/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1022/td-210-criterion-1-after.png",
+        "id": "1022"
+      },
+      {
+        "before": "native-before/lots-overhead/1023/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1023/td-210-criterion-1-after.png",
+        "id": "1023"
+      },
+      {
+        "before": "native-before/lots-overhead/1024/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1024/td-210-criterion-1-after.png",
+        "id": "1024"
+      },
+      {
+        "before": "native-before/lots-overhead/1025/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1025/td-210-criterion-1-after.png",
+        "id": "1025"
+      },
+      {
+        "before": "native-before/lots-overhead/1026/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1026/td-210-criterion-1-after.png",
+        "id": "1026"
+      },
+      {
+        "before": "native-before/lots-overhead/1027/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1027/td-210-criterion-1-after.png",
+        "id": "1027"
+      },
+      {
+        "before": "native-before/lots-overhead/1028/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1028/td-210-criterion-1-after.png",
+        "id": "1028"
+      },
+      {
+        "before": "native-before/lots-overhead/1029/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1029/td-210-criterion-1-after.png",
+        "id": "1029"
+      },
+      {
+        "before": "native-before/lots-overhead/1030/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1030/td-210-criterion-1-after.png",
+        "id": "1030"
+      },
+      {
+        "before": "native-before/lots-overhead/1031/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1031/td-210-criterion-1-after.png",
+        "id": "1031"
+      },
+      {
+        "before": "native-before/lots-overhead/1032/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1032/td-210-criterion-1-after.png",
+        "id": "1032"
+      },
+      {
+        "before": "native-before/lots-overhead/1033/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1033/td-210-criterion-1-after.png",
+        "id": "1033"
+      }
+    ],
+    "sha256": "069f2ce56c3c2225e28e254a43499ad90611f3294302561f1412c4703e64305c"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-02.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1034/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1034/td-210-criterion-1-after.png",
+        "id": "1034"
+      },
+      {
+        "before": "native-before/lots-overhead/1035/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1035/td-210-criterion-1-after.png",
+        "id": "1035"
+      },
+      {
+        "before": "native-before/lots-overhead/1036/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1036/td-210-criterion-1-after.png",
+        "id": "1036"
+      },
+      {
+        "before": "native-before/lots-overhead/1037/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1037/td-210-criterion-1-after.png",
+        "id": "1037"
+      },
+      {
+        "before": "native-before/lots-overhead/1038/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1038/td-210-criterion-1-after.png",
+        "id": "1038"
+      },
+      {
+        "before": "native-before/lots-overhead/1039/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1039/td-210-criterion-1-after.png",
+        "id": "1039"
+      },
+      {
+        "before": "native-before/lots-overhead/1040/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1040/td-210-criterion-1-after.png",
+        "id": "1040"
+      },
+      {
+        "before": "native-before/lots-overhead/1041/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1041/td-210-criterion-1-after.png",
+        "id": "1041"
+      },
+      {
+        "before": "native-before/lots-overhead/1042/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1042/td-210-criterion-1-after.png",
+        "id": "1042"
+      },
+      {
+        "before": "native-before/lots-overhead/1043/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1043/td-210-criterion-1-after.png",
+        "id": "1043"
+      },
+      {
+        "before": "native-before/lots-overhead/1044/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1044/td-210-criterion-1-after.png",
+        "id": "1044"
+      },
+      {
+        "before": "native-before/lots-overhead/1045/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1045/td-210-criterion-1-after.png",
+        "id": "1045"
+      }
+    ],
+    "sha256": "e569e6bc7db6da728c6340a26cb503e4bd3649abdcf953433ca2c82224fce73a"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-03.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1046/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1046/td-210-criterion-1-after.png",
+        "id": "1046"
+      },
+      {
+        "before": "native-before/lots-overhead/1047/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1047/td-210-criterion-1-after.png",
+        "id": "1047"
+      },
+      {
+        "before": "native-before/lots-overhead/1048/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1048/td-210-criterion-1-after.png",
+        "id": "1048"
+      },
+      {
+        "before": "native-before/lots-overhead/1049/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1049/td-210-criterion-1-after.png",
+        "id": "1049"
+      },
+      {
+        "before": "native-before/lots-overhead/1050/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1050/td-210-criterion-1-after.png",
+        "id": "1050"
+      },
+      {
+        "before": "native-before/lots-overhead/1051/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1051/td-210-criterion-1-after.png",
+        "id": "1051"
+      },
+      {
+        "before": "native-before/lots-overhead/1052/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1052/td-210-criterion-1-after.png",
+        "id": "1052"
+      },
+      {
+        "before": "native-before/lots-overhead/1053/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1053/td-210-criterion-1-after.png",
+        "id": "1053"
+      },
+      {
+        "before": "native-before/lots-overhead/1054/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1054/td-210-criterion-1-after.png",
+        "id": "1054"
+      },
+      {
+        "before": "native-before/lots-overhead/1055/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1055/td-210-criterion-1-after.png",
+        "id": "1055"
+      },
+      {
+        "before": "native-before/lots-overhead/1056/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1056/td-210-criterion-1-after.png",
+        "id": "1056"
+      },
+      {
+        "before": "native-before/lots-overhead/1057/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1057/td-210-criterion-1-after.png",
+        "id": "1057"
+      }
+    ],
+    "sha256": "d99c2c28c11daf8f41d91ecb910ee55c8bd8c8148a98ead285c9ffc8065ed0c8"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-04.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1058/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1058/td-210-criterion-1-after.png",
+        "id": "1058"
+      },
+      {
+        "before": "native-before/lots-overhead/1059/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1059/td-210-criterion-1-after.png",
+        "id": "1059"
+      },
+      {
+        "before": "native-before/lots-overhead/1060/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1060/td-210-criterion-1-after.png",
+        "id": "1060"
+      },
+      {
+        "before": "native-before/lots-overhead/1061/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1061/td-210-criterion-1-after.png",
+        "id": "1061"
+      },
+      {
+        "before": "native-before/lots-overhead/1062/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1062/td-210-criterion-1-after.png",
+        "id": "1062"
+      },
+      {
+        "before": "native-before/lots-overhead/1063/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1063/td-210-criterion-1-after.png",
+        "id": "1063"
+      },
+      {
+        "before": "native-before/lots-overhead/1064/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1064/td-210-criterion-1-after.png",
+        "id": "1064"
+      },
+      {
+        "before": "native-before/lots-overhead/1065/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1065/td-210-criterion-1-after.png",
+        "id": "1065"
+      },
+      {
+        "before": "native-before/lots-overhead/1066/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1066/td-210-criterion-1-after.png",
+        "id": "1066"
+      },
+      {
+        "before": "native-before/lots-overhead/1067/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1067/td-210-criterion-1-after.png",
+        "id": "1067"
+      },
+      {
+        "before": "native-before/lots-overhead/1068/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1068/td-210-criterion-1-after.png",
+        "id": "1068"
+      },
+      {
+        "before": "native-before/lots-overhead/1069/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1069/td-210-criterion-1-after.png",
+        "id": "1069"
+      }
+    ],
+    "sha256": "56b07424b3113062e1480cb9eba03f82c5fba974bd7b9ec7a7abc11af5c335d2"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-05.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1070/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1070/td-210-criterion-1-after.png",
+        "id": "1070"
+      },
+      {
+        "before": "native-before/lots-overhead/1071/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1071/td-210-criterion-1-after.png",
+        "id": "1071"
+      },
+      {
+        "before": "native-before/lots-overhead/1072/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1072/td-210-criterion-1-after.png",
+        "id": "1072"
+      },
+      {
+        "before": "native-before/lots-overhead/1073/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1073/td-210-criterion-1-after.png",
+        "id": "1073"
+      },
+      {
+        "before": "native-before/lots-overhead/1074/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1074/td-210-criterion-1-after.png",
+        "id": "1074"
+      },
+      {
+        "before": "native-before/lots-overhead/1075/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1075/td-210-criterion-1-after.png",
+        "id": "1075"
+      },
+      {
+        "before": "native-before/lots-overhead/1076/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1076/td-210-criterion-1-after.png",
+        "id": "1076"
+      },
+      {
+        "before": "native-before/lots-overhead/1077/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1077/td-210-criterion-1-after.png",
+        "id": "1077"
+      },
+      {
+        "before": "native-before/lots-overhead/1078/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1078/td-210-criterion-1-after.png",
+        "id": "1078"
+      },
+      {
+        "before": "native-before/lots-overhead/1079/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1079/td-210-criterion-1-after.png",
+        "id": "1079"
+      },
+      {
+        "before": "native-before/lots-overhead/1080/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1080/td-210-criterion-1-after.png",
+        "id": "1080"
+      },
+      {
+        "before": "native-before/lots-overhead/1081/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1081/td-210-criterion-1-after.png",
+        "id": "1081"
+      }
+    ],
+    "sha256": "b9924f7df968a7adfcb51ef2e645216a4ce8ae021eb414e417e74a83ba09dcc4"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-06.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1082/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1082/td-210-criterion-1-after.png",
+        "id": "1082"
+      },
+      {
+        "before": "native-before/lots-overhead/1083/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1083/td-210-criterion-1-after.png",
+        "id": "1083"
+      },
+      {
+        "before": "native-before/lots-overhead/1084/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1084/td-210-criterion-1-after.png",
+        "id": "1084"
+      },
+      {
+        "before": "native-before/lots-overhead/1085/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1085/td-210-criterion-1-after.png",
+        "id": "1085"
+      },
+      {
+        "before": "native-before/lots-overhead/1086/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1086/td-210-criterion-1-after.png",
+        "id": "1086"
+      },
+      {
+        "before": "native-before/lots-overhead/1087/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1087/td-210-criterion-1-after.png",
+        "id": "1087"
+      },
+      {
+        "before": "native-before/lots-overhead/1088/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1088/td-210-criterion-1-after.png",
+        "id": "1088"
+      },
+      {
+        "before": "native-before/lots-overhead/1089/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1089/td-210-criterion-1-after.png",
+        "id": "1089"
+      },
+      {
+        "before": "native-before/lots-overhead/1090/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1090/td-210-criterion-1-after.png",
+        "id": "1090"
+      },
+      {
+        "before": "native-before/lots-overhead/1091/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1091/td-210-criterion-1-after.png",
+        "id": "1091"
+      },
+      {
+        "before": "native-before/lots-overhead/1092/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1092/td-210-criterion-1-after.png",
+        "id": "1092"
+      },
+      {
+        "before": "native-before/lots-overhead/1093/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1093/td-210-criterion-1-after.png",
+        "id": "1093"
+      }
+    ],
+    "sha256": "a6e86f3badce24dc3ba143475cf8b69babeb6e2642412513462f36a6b65763e7"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-07.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1094/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1094/td-210-criterion-1-after.png",
+        "id": "1094"
+      },
+      {
+        "before": "native-before/lots-overhead/1095/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1095/td-210-criterion-1-after.png",
+        "id": "1095"
+      },
+      {
+        "before": "native-before/lots-overhead/1096/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1096/td-210-criterion-1-after.png",
+        "id": "1096"
+      },
+      {
+        "before": "native-before/lots-overhead/1097/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1097/td-210-criterion-1-after.png",
+        "id": "1097"
+      },
+      {
+        "before": "native-before/lots-overhead/1098/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1098/td-210-criterion-1-after.png",
+        "id": "1098"
+      },
+      {
+        "before": "native-before/lots-overhead/1099/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1099/td-210-criterion-1-after.png",
+        "id": "1099"
+      },
+      {
+        "before": "native-before/lots-overhead/1100/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1100/td-210-criterion-1-after.png",
+        "id": "1100"
+      },
+      {
+        "before": "native-before/lots-overhead/1101/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1101/td-210-criterion-1-after.png",
+        "id": "1101"
+      },
+      {
+        "before": "native-before/lots-overhead/1102/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1102/td-210-criterion-1-after.png",
+        "id": "1102"
+      },
+      {
+        "before": "native-before/lots-overhead/1103/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1103/td-210-criterion-1-after.png",
+        "id": "1103"
+      },
+      {
+        "before": "native-before/lots-overhead/1104/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1104/td-210-criterion-1-after.png",
+        "id": "1104"
+      },
+      {
+        "before": "native-before/lots-overhead/1105/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1105/td-210-criterion-1-after.png",
+        "id": "1105"
+      }
+    ],
+    "sha256": "66dd414fe392eebe7dd64e31cf02718b1c83bbc495bf2013c5e63d9b13c2c572"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-08.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1106/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1106/td-210-criterion-1-after.png",
+        "id": "1106"
+      },
+      {
+        "before": "native-before/lots-overhead/1107/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1107/td-210-criterion-1-after.png",
+        "id": "1107"
+      },
+      {
+        "before": "native-before/lots-overhead/1108/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1108/td-210-criterion-1-after.png",
+        "id": "1108"
+      },
+      {
+        "before": "native-before/lots-overhead/1109/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1109/td-210-criterion-1-after.png",
+        "id": "1109"
+      },
+      {
+        "before": "native-before/lots-overhead/1110/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1110/td-210-criterion-1-after.png",
+        "id": "1110"
+      },
+      {
+        "before": "native-before/lots-overhead/1111/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1111/td-210-criterion-1-after.png",
+        "id": "1111"
+      },
+      {
+        "before": "native-before/lots-overhead/1112/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1112/td-210-criterion-1-after.png",
+        "id": "1112"
+      },
+      {
+        "before": "native-before/lots-overhead/1113/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1113/td-210-criterion-1-after.png",
+        "id": "1113"
+      },
+      {
+        "before": "native-before/lots-overhead/1114/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1114/td-210-criterion-1-after.png",
+        "id": "1114"
+      },
+      {
+        "before": "native-before/lots-overhead/1115/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1115/td-210-criterion-1-after.png",
+        "id": "1115"
+      },
+      {
+        "before": "native-before/lots-overhead/1116/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1116/td-210-criterion-1-after.png",
+        "id": "1116"
+      },
+      {
+        "before": "native-before/lots-overhead/1117/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1117/td-210-criterion-1-after.png",
+        "id": "1117"
+      }
+    ],
+    "sha256": "196a32efd214bf991631dc3189a1909bdbb79f1ecd77768ced339a6722d5164f"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-09.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1118/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1118/td-210-criterion-1-after.png",
+        "id": "1118"
+      },
+      {
+        "before": "native-before/lots-overhead/1119/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1119/td-210-criterion-1-after.png",
+        "id": "1119"
+      },
+      {
+        "before": "native-before/lots-overhead/1120/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1120/td-210-criterion-1-after.png",
+        "id": "1120"
+      },
+      {
+        "before": "native-before/lots-overhead/1121/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1121/td-210-criterion-1-after.png",
+        "id": "1121"
+      },
+      {
+        "before": "native-before/lots-overhead/1122/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1122/td-210-criterion-1-after.png",
+        "id": "1122"
+      },
+      {
+        "before": "native-before/lots-overhead/1123/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1123/td-210-criterion-1-after.png",
+        "id": "1123"
+      },
+      {
+        "before": "native-before/lots-overhead/1124/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1124/td-210-criterion-1-after.png",
+        "id": "1124"
+      },
+      {
+        "before": "native-before/lots-overhead/1125/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1125/td-210-criterion-1-after.png",
+        "id": "1125"
+      },
+      {
+        "before": "native-before/lots-overhead/1126/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1126/td-210-criterion-1-after.png",
+        "id": "1126"
+      },
+      {
+        "before": "native-before/lots-overhead/1127/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1127/td-210-criterion-1-after.png",
+        "id": "1127"
+      },
+      {
+        "before": "native-before/lots-overhead/1128/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1128/td-210-criterion-1-after.png",
+        "id": "1128"
+      },
+      {
+        "before": "native-before/lots-overhead/1129/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1129/td-210-criterion-1-after.png",
+        "id": "1129"
+      }
+    ],
+    "sha256": "cc1413db4cf692f0888a32147a575a59f5904c18637848e02ef635c9f9f5d711"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-10.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1130/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1130/td-210-criterion-1-after.png",
+        "id": "1130"
+      },
+      {
+        "before": "native-before/lots-overhead/1131/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1131/td-210-criterion-1-after.png",
+        "id": "1131"
+      },
+      {
+        "before": "native-before/lots-overhead/1132/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1132/td-210-criterion-1-after.png",
+        "id": "1132"
+      },
+      {
+        "before": "native-before/lots-overhead/1133/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1133/td-210-criterion-1-after.png",
+        "id": "1133"
+      },
+      {
+        "before": "native-before/lots-overhead/1134/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1134/td-210-criterion-1-after.png",
+        "id": "1134"
+      },
+      {
+        "before": "native-before/lots-overhead/1135/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1135/td-210-criterion-1-after.png",
+        "id": "1135"
+      },
+      {
+        "before": "native-before/lots-overhead/1136/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1136/td-210-criterion-1-after.png",
+        "id": "1136"
+      },
+      {
+        "before": "native-before/lots-overhead/1137/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1137/td-210-criterion-1-after.png",
+        "id": "1137"
+      },
+      {
+        "before": "native-before/lots-overhead/1138/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1138/td-210-criterion-1-after.png",
+        "id": "1138"
+      },
+      {
+        "before": "native-before/lots-overhead/1139/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1139/td-210-criterion-1-after.png",
+        "id": "1139"
+      },
+      {
+        "before": "native-before/lots-overhead/1140/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1140/td-210-criterion-1-after.png",
+        "id": "1140"
+      },
+      {
+        "before": "native-before/lots-overhead/1141/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1141/td-210-criterion-1-after.png",
+        "id": "1141"
+      }
+    ],
+    "sha256": "277226035e7cf7b38876a2ff938c6556d85dc79e80668ace8217c340eafbc046"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-11.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1142/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1142/td-210-criterion-1-after.png",
+        "id": "1142"
+      },
+      {
+        "before": "native-before/lots-overhead/1143/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1143/td-210-criterion-1-after.png",
+        "id": "1143"
+      },
+      {
+        "before": "native-before/lots-overhead/1144/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1144/td-210-criterion-1-after.png",
+        "id": "1144"
+      },
+      {
+        "before": "native-before/lots-overhead/1145/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1145/td-210-criterion-1-after.png",
+        "id": "1145"
+      },
+      {
+        "before": "native-before/lots-overhead/1146/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1146/td-210-criterion-1-after.png",
+        "id": "1146"
+      },
+      {
+        "before": "native-before/lots-overhead/1147/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1147/td-210-criterion-1-after.png",
+        "id": "1147"
+      },
+      {
+        "before": "native-before/lots-overhead/1148/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1148/td-210-criterion-1-after.png",
+        "id": "1148"
+      },
+      {
+        "before": "native-before/lots-overhead/1149/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1149/td-210-criterion-1-after.png",
+        "id": "1149"
+      },
+      {
+        "before": "native-before/lots-overhead/1150/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1150/td-210-criterion-1-after.png",
+        "id": "1150"
+      },
+      {
+        "before": "native-before/lots-overhead/1151/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1151/td-210-criterion-1-after.png",
+        "id": "1151"
+      },
+      {
+        "before": "native-before/lots-overhead/1152/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1152/td-210-criterion-1-after.png",
+        "id": "1152"
+      },
+      {
+        "before": "native-before/lots-overhead/1153/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1153/td-210-criterion-1-after.png",
+        "id": "1153"
+      }
+    ],
+    "sha256": "362d559b7ad979160b926fd3cae8b01d8879ad8ca0635bb786a95ba798531a54"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-12.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1154/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1154/td-210-criterion-1-after.png",
+        "id": "1154"
+      },
+      {
+        "before": "native-before/lots-overhead/1155/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1155/td-210-criterion-1-after.png",
+        "id": "1155"
+      },
+      {
+        "before": "native-before/lots-overhead/1156/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1156/td-210-criterion-1-after.png",
+        "id": "1156"
+      },
+      {
+        "before": "native-before/lots-overhead/1157/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1157/td-210-criterion-1-after.png",
+        "id": "1157"
+      },
+      {
+        "before": "native-before/lots-overhead/1158/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1158/td-210-criterion-1-after.png",
+        "id": "1158"
+      },
+      {
+        "before": "native-before/lots-overhead/1159/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1159/td-210-criterion-1-after.png",
+        "id": "1159"
+      },
+      {
+        "before": "native-before/lots-overhead/1160/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1160/td-210-criterion-1-after.png",
+        "id": "1160"
+      },
+      {
+        "before": "native-before/lots-overhead/1161/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1161/td-210-criterion-1-after.png",
+        "id": "1161"
+      },
+      {
+        "before": "native-before/lots-overhead/1162/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1162/td-210-criterion-1-after.png",
+        "id": "1162"
+      },
+      {
+        "before": "native-before/lots-overhead/1163/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1163/td-210-criterion-1-after.png",
+        "id": "1163"
+      },
+      {
+        "before": "native-before/lots-overhead/1164/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1164/td-210-criterion-1-after.png",
+        "id": "1164"
+      },
+      {
+        "before": "native-before/lots-overhead/1165/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1165/td-210-criterion-1-after.png",
+        "id": "1165"
+      }
+    ],
+    "sha256": "54114a8422b2e6d7f17aaba6b496ed421f0b0572d69b98a539d70b949ad6fb98"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-13.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1166/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1166/td-210-criterion-1-after.png",
+        "id": "1166"
+      },
+      {
+        "before": "native-before/lots-overhead/1167/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1167/td-210-criterion-1-after.png",
+        "id": "1167"
+      },
+      {
+        "before": "native-before/lots-overhead/1168/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1168/td-210-criterion-1-after.png",
+        "id": "1168"
+      },
+      {
+        "before": "native-before/lots-overhead/1169/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1169/td-210-criterion-1-after.png",
+        "id": "1169"
+      },
+      {
+        "before": "native-before/lots-overhead/1170/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1170/td-210-criterion-1-after.png",
+        "id": "1170"
+      },
+      {
+        "before": "native-before/lots-overhead/1171/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1171/td-210-criterion-1-after.png",
+        "id": "1171"
+      },
+      {
+        "before": "native-before/lots-overhead/1172/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1172/td-210-criterion-1-after.png",
+        "id": "1172"
+      },
+      {
+        "before": "native-before/lots-overhead/1173/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1173/td-210-criterion-1-after.png",
+        "id": "1173"
+      },
+      {
+        "before": "native-before/lots-overhead/1174/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1174/td-210-criterion-1-after.png",
+        "id": "1174"
+      },
+      {
+        "before": "native-before/lots-overhead/1175/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1175/td-210-criterion-1-after.png",
+        "id": "1175"
+      },
+      {
+        "before": "native-before/lots-overhead/1176/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1176/td-210-criterion-1-after.png",
+        "id": "1176"
+      },
+      {
+        "before": "native-before/lots-overhead/1177/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1177/td-210-criterion-1-after.png",
+        "id": "1177"
+      }
+    ],
+    "sha256": "bf0cb84e3c2ac760901d7cf0ae341cdc12fbbe75b36b6a75a1abe4e7fce2d060"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-14.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1178/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1178/td-210-criterion-1-after.png",
+        "id": "1178"
+      },
+      {
+        "before": "native-before/lots-overhead/1179/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1179/td-210-criterion-1-after.png",
+        "id": "1179"
+      },
+      {
+        "before": "native-before/lots-overhead/1180/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1180/td-210-criterion-1-after.png",
+        "id": "1180"
+      },
+      {
+        "before": "native-before/lots-overhead/1181/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1181/td-210-criterion-1-after.png",
+        "id": "1181"
+      },
+      {
+        "before": "native-before/lots-overhead/1182/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1182/td-210-criterion-1-after.png",
+        "id": "1182"
+      },
+      {
+        "before": "native-before/lots-overhead/1183/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1183/td-210-criterion-1-after.png",
+        "id": "1183"
+      },
+      {
+        "before": "native-before/lots-overhead/1184/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1184/td-210-criterion-1-after.png",
+        "id": "1184"
+      },
+      {
+        "before": "native-before/lots-overhead/1185/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1185/td-210-criterion-1-after.png",
+        "id": "1185"
+      },
+      {
+        "before": "native-before/lots-overhead/1186/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1186/td-210-criterion-1-after.png",
+        "id": "1186"
+      },
+      {
+        "before": "native-before/lots-overhead/1187/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1187/td-210-criterion-1-after.png",
+        "id": "1187"
+      },
+      {
+        "before": "native-before/lots-overhead/1188/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1188/td-210-criterion-1-after.png",
+        "id": "1188"
+      },
+      {
+        "before": "native-before/lots-overhead/1189/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1189/td-210-criterion-1-after.png",
+        "id": "1189"
+      }
+    ],
+    "sha256": "a1eacffec569adfea961a49fb7462533daadd93c615b1585daec195a2a7f2bf9"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-15.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1190/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1190/td-210-criterion-1-after.png",
+        "id": "1190"
+      },
+      {
+        "before": "native-before/lots-overhead/1191/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1191/td-210-criterion-1-after.png",
+        "id": "1191"
+      },
+      {
+        "before": "native-before/lots-overhead/1192/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1192/td-210-criterion-1-after.png",
+        "id": "1192"
+      },
+      {
+        "before": "native-before/lots-overhead/1193/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1193/td-210-criterion-1-after.png",
+        "id": "1193"
+      },
+      {
+        "before": "native-before/lots-overhead/1194/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1194/td-210-criterion-1-after.png",
+        "id": "1194"
+      },
+      {
+        "before": "native-before/lots-overhead/1195/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1195/td-210-criterion-1-after.png",
+        "id": "1195"
+      },
+      {
+        "before": "native-before/lots-overhead/1196/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1196/td-210-criterion-1-after.png",
+        "id": "1196"
+      },
+      {
+        "before": "native-before/lots-overhead/1197/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1197/td-210-criterion-1-after.png",
+        "id": "1197"
+      },
+      {
+        "before": "native-before/lots-overhead/1198/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1198/td-210-criterion-1-after.png",
+        "id": "1198"
+      },
+      {
+        "before": "native-before/lots-overhead/1199/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1199/td-210-criterion-1-after.png",
+        "id": "1199"
+      },
+      {
+        "before": "native-before/lots-overhead/1200/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1200/td-210-criterion-1-after.png",
+        "id": "1200"
+      },
+      {
+        "before": "native-before/lots-overhead/1201/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1201/td-210-criterion-1-after.png",
+        "id": "1201"
+      }
+    ],
+    "sha256": "d743237f91c42d0fb31ad6390bc20656d4f82453f14f8fb4ba13d5f68c86a139"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-16.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1202/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1202/td-210-criterion-1-after.png",
+        "id": "1202"
+      },
+      {
+        "before": "native-before/lots-overhead/1203/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1203/td-210-criterion-1-after.png",
+        "id": "1203"
+      },
+      {
+        "before": "native-before/lots-overhead/1204/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1204/td-210-criterion-1-after.png",
+        "id": "1204"
+      },
+      {
+        "before": "native-before/lots-overhead/1205/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1205/td-210-criterion-1-after.png",
+        "id": "1205"
+      },
+      {
+        "before": "native-before/lots-overhead/1206/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1206/td-210-criterion-1-after.png",
+        "id": "1206"
+      },
+      {
+        "before": "native-before/lots-overhead/1207/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1207/td-210-criterion-1-after.png",
+        "id": "1207"
+      },
+      {
+        "before": "native-before/lots-overhead/1208/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1208/td-210-criterion-1-after.png",
+        "id": "1208"
+      },
+      {
+        "before": "native-before/lots-overhead/1209/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1209/td-210-criterion-1-after.png",
+        "id": "1209"
+      },
+      {
+        "before": "native-before/lots-overhead/1210/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1210/td-210-criterion-1-after.png",
+        "id": "1210"
+      },
+      {
+        "before": "native-before/lots-overhead/1211/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1211/td-210-criterion-1-after.png",
+        "id": "1211"
+      },
+      {
+        "before": "native-before/lots-overhead/1212/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1212/td-210-criterion-1-after.png",
+        "id": "1212"
+      },
+      {
+        "before": "native-before/lots-overhead/1213/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1213/td-210-criterion-1-after.png",
+        "id": "1213"
+      }
+    ],
+    "sha256": "8a2f5b246e6825e501ac66ea91317daada76e6f1f82ca962b573e2c25be8a987"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-17.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1214/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1214/td-210-criterion-1-after.png",
+        "id": "1214"
+      },
+      {
+        "before": "native-before/lots-overhead/1215/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1215/td-210-criterion-1-after.png",
+        "id": "1215"
+      },
+      {
+        "before": "native-before/lots-overhead/1216/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1216/td-210-criterion-1-after.png",
+        "id": "1216"
+      },
+      {
+        "before": "native-before/lots-overhead/1217/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1217/td-210-criterion-1-after.png",
+        "id": "1217"
+      },
+      {
+        "before": "native-before/lots-overhead/1218/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1218/td-210-criterion-1-after.png",
+        "id": "1218"
+      },
+      {
+        "before": "native-before/lots-overhead/1219/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1219/td-210-criterion-1-after.png",
+        "id": "1219"
+      },
+      {
+        "before": "native-before/lots-overhead/1220/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1220/td-210-criterion-1-after.png",
+        "id": "1220"
+      },
+      {
+        "before": "native-before/lots-overhead/1221/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1221/td-210-criterion-1-after.png",
+        "id": "1221"
+      },
+      {
+        "before": "native-before/lots-overhead/1222/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1222/td-210-criterion-1-after.png",
+        "id": "1222"
+      },
+      {
+        "before": "native-before/lots-overhead/1223/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1223/td-210-criterion-1-after.png",
+        "id": "1223"
+      },
+      {
+        "before": "native-before/lots-overhead/1224/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1224/td-210-criterion-1-after.png",
+        "id": "1224"
+      },
+      {
+        "before": "native-before/lots-overhead/1225/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1225/td-210-criterion-1-after.png",
+        "id": "1225"
+      }
+    ],
+    "sha256": "8ca2f202b7a8c2e06224e994ebc69a49f5fa81b09064e8d009f13b0028f8f47a"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-18.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1226/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1226/td-210-criterion-1-after.png",
+        "id": "1226"
+      },
+      {
+        "before": "native-before/lots-overhead/1227/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1227/td-210-criterion-1-after.png",
+        "id": "1227"
+      },
+      {
+        "before": "native-before/lots-overhead/1228/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1228/td-210-criterion-1-after.png",
+        "id": "1228"
+      },
+      {
+        "before": "native-before/lots-overhead/1229/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1229/td-210-criterion-1-after.png",
+        "id": "1229"
+      },
+      {
+        "before": "native-before/lots-overhead/1230/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1230/td-210-criterion-1-after.png",
+        "id": "1230"
+      },
+      {
+        "before": "native-before/lots-overhead/1231/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1231/td-210-criterion-1-after.png",
+        "id": "1231"
+      },
+      {
+        "before": "native-before/lots-overhead/1232/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1232/td-210-criterion-1-after.png",
+        "id": "1232"
+      },
+      {
+        "before": "native-before/lots-overhead/1233/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1233/td-210-criterion-1-after.png",
+        "id": "1233"
+      },
+      {
+        "before": "native-before/lots-overhead/1234/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1234/td-210-criterion-1-after.png",
+        "id": "1234"
+      },
+      {
+        "before": "native-before/lots-overhead/1235/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1235/td-210-criterion-1-after.png",
+        "id": "1235"
+      },
+      {
+        "before": "native-before/lots-overhead/1236/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1236/td-210-criterion-1-after.png",
+        "id": "1236"
+      },
+      {
+        "before": "native-before/lots-overhead/1237/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1237/td-210-criterion-1-after.png",
+        "id": "1237"
+      }
+    ],
+    "sha256": "ed701923ab4fa8f4551e2dbf5c2f89d72681fb6c7d3127e99dfeb6715aecf3a4"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-19.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1238/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1238/td-210-criterion-1-after.png",
+        "id": "1238"
+      },
+      {
+        "before": "native-before/lots-overhead/1239/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1239/td-210-criterion-1-after.png",
+        "id": "1239"
+      },
+      {
+        "before": "native-before/lots-overhead/1240/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1240/td-210-criterion-1-after.png",
+        "id": "1240"
+      },
+      {
+        "before": "native-before/lots-overhead/1241/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1241/td-210-criterion-1-after.png",
+        "id": "1241"
+      },
+      {
+        "before": "native-before/lots-overhead/1242/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1242/td-210-criterion-1-after.png",
+        "id": "1242"
+      },
+      {
+        "before": "native-before/lots-overhead/1243/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1243/td-210-criterion-1-after.png",
+        "id": "1243"
+      },
+      {
+        "before": "native-before/lots-overhead/1244/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1244/td-210-criterion-1-after.png",
+        "id": "1244"
+      },
+      {
+        "before": "native-before/lots-overhead/1245/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1245/td-210-criterion-1-after.png",
+        "id": "1245"
+      },
+      {
+        "before": "native-before/lots-overhead/1246/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1246/td-210-criterion-1-after.png",
+        "id": "1246"
+      },
+      {
+        "before": "native-before/lots-overhead/1247/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1247/td-210-criterion-1-after.png",
+        "id": "1247"
+      },
+      {
+        "before": "native-before/lots-overhead/1248/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1248/td-210-criterion-1-after.png",
+        "id": "1248"
+      },
+      {
+        "before": "native-before/lots-overhead/1249/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1249/td-210-criterion-1-after.png",
+        "id": "1249"
+      }
+    ],
+    "sha256": "5abf38cb4080786b1e39ea7ac7d445620354c9961127e91e503654a6cf5e975f"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-20.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1250/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1250/td-210-criterion-1-after.png",
+        "id": "1250"
+      },
+      {
+        "before": "native-before/lots-overhead/1251/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1251/td-210-criterion-1-after.png",
+        "id": "1251"
+      },
+      {
+        "before": "native-before/lots-overhead/1252/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1252/td-210-criterion-1-after.png",
+        "id": "1252"
+      },
+      {
+        "before": "native-before/lots-overhead/1253/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1253/td-210-criterion-1-after.png",
+        "id": "1253"
+      },
+      {
+        "before": "native-before/lots-overhead/1254/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1254/td-210-criterion-1-after.png",
+        "id": "1254"
+      },
+      {
+        "before": "native-before/lots-overhead/1255/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1255/td-210-criterion-1-after.png",
+        "id": "1255"
+      },
+      {
+        "before": "native-before/lots-overhead/1256/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1256/td-210-criterion-1-after.png",
+        "id": "1256"
+      },
+      {
+        "before": "native-before/lots-overhead/1257/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1257/td-210-criterion-1-after.png",
+        "id": "1257"
+      },
+      {
+        "before": "native-before/lots-overhead/1258/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1258/td-210-criterion-1-after.png",
+        "id": "1258"
+      },
+      {
+        "before": "native-before/lots-overhead/1259/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1259/td-210-criterion-1-after.png",
+        "id": "1259"
+      },
+      {
+        "before": "native-before/lots-overhead/1260/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1260/td-210-criterion-1-after.png",
+        "id": "1260"
+      },
+      {
+        "before": "native-before/lots-overhead/1261/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1261/td-210-criterion-1-after.png",
+        "id": "1261"
+      }
+    ],
+    "sha256": "27a91a8e23d58fe9b20ad58f62d571356844986c5c4be8a7b716f511b0522cfb"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-21.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1262/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1262/td-210-criterion-1-after.png",
+        "id": "1262"
+      },
+      {
+        "before": "native-before/lots-overhead/1263/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1263/td-210-criterion-1-after.png",
+        "id": "1263"
+      },
+      {
+        "before": "native-before/lots-overhead/1264/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1264/td-210-criterion-1-after.png",
+        "id": "1264"
+      },
+      {
+        "before": "native-before/lots-overhead/1265/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1265/td-210-criterion-1-after.png",
+        "id": "1265"
+      },
+      {
+        "before": "native-before/lots-overhead/1266/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1266/td-210-criterion-1-after.png",
+        "id": "1266"
+      },
+      {
+        "before": "native-before/lots-overhead/1267/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1267/td-210-criterion-1-after.png",
+        "id": "1267"
+      },
+      {
+        "before": "native-before/lots-overhead/1268/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1268/td-210-criterion-1-after.png",
+        "id": "1268"
+      },
+      {
+        "before": "native-before/lots-overhead/1269/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1269/td-210-criterion-1-after.png",
+        "id": "1269"
+      },
+      {
+        "before": "native-before/lots-overhead/1270/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1270/td-210-criterion-1-after.png",
+        "id": "1270"
+      },
+      {
+        "before": "native-before/lots-overhead/1271/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1271/td-210-criterion-1-after.png",
+        "id": "1271"
+      },
+      {
+        "before": "native-before/lots-overhead/1272/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1272/td-210-criterion-1-after.png",
+        "id": "1272"
+      },
+      {
+        "before": "native-before/lots-overhead/1273/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1273/td-210-criterion-1-after.png",
+        "id": "1273"
+      }
+    ],
+    "sha256": "fc2ffd920446f2e8b89afa88704b3848e3af71b4aecc95916f10fce3189c9c77"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-22.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1274/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1274/td-210-criterion-1-after.png",
+        "id": "1274"
+      },
+      {
+        "before": "native-before/lots-overhead/1275/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1275/td-210-criterion-1-after.png",
+        "id": "1275"
+      },
+      {
+        "before": "native-before/lots-overhead/1276/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1276/td-210-criterion-1-after.png",
+        "id": "1276"
+      },
+      {
+        "before": "native-before/lots-overhead/1277/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1277/td-210-criterion-1-after.png",
+        "id": "1277"
+      },
+      {
+        "before": "native-before/lots-overhead/1278/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1278/td-210-criterion-1-after.png",
+        "id": "1278"
+      },
+      {
+        "before": "native-before/lots-overhead/1279/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1279/td-210-criterion-1-after.png",
+        "id": "1279"
+      },
+      {
+        "before": "native-before/lots-overhead/1280/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1280/td-210-criterion-1-after.png",
+        "id": "1280"
+      },
+      {
+        "before": "native-before/lots-overhead/1281/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1281/td-210-criterion-1-after.png",
+        "id": "1281"
+      },
+      {
+        "before": "native-before/lots-overhead/1282/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1282/td-210-criterion-1-after.png",
+        "id": "1282"
+      },
+      {
+        "before": "native-before/lots-overhead/1283/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1283/td-210-criterion-1-after.png",
+        "id": "1283"
+      },
+      {
+        "before": "native-before/lots-overhead/1284/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1284/td-210-criterion-1-after.png",
+        "id": "1284"
+      },
+      {
+        "before": "native-before/lots-overhead/1285/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1285/td-210-criterion-1-after.png",
+        "id": "1285"
+      }
+    ],
+    "sha256": "b1f47d749da33f9fb328da8309c6736522f05fa63434e92c56b43d71ff85e959"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-23.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1286/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1286/td-210-criterion-1-after.png",
+        "id": "1286"
+      },
+      {
+        "before": "native-before/lots-overhead/1287/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1287/td-210-criterion-1-after.png",
+        "id": "1287"
+      },
+      {
+        "before": "native-before/lots-overhead/1288/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1288/td-210-criterion-1-after.png",
+        "id": "1288"
+      },
+      {
+        "before": "native-before/lots-overhead/1289/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1289/td-210-criterion-1-after.png",
+        "id": "1289"
+      },
+      {
+        "before": "native-before/lots-overhead/1290/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1290/td-210-criterion-1-after.png",
+        "id": "1290"
+      },
+      {
+        "before": "native-before/lots-overhead/1291/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1291/td-210-criterion-1-after.png",
+        "id": "1291"
+      },
+      {
+        "before": "native-before/lots-overhead/1292/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1292/td-210-criterion-1-after.png",
+        "id": "1292"
+      },
+      {
+        "before": "native-before/lots-overhead/1293/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1293/td-210-criterion-1-after.png",
+        "id": "1293"
+      },
+      {
+        "before": "native-before/lots-overhead/1294/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1294/td-210-criterion-1-after.png",
+        "id": "1294"
+      },
+      {
+        "before": "native-before/lots-overhead/1295/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1295/td-210-criterion-1-after.png",
+        "id": "1295"
+      },
+      {
+        "before": "native-before/lots-overhead/1296/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1296/td-210-criterion-1-after.png",
+        "id": "1296"
+      },
+      {
+        "before": "native-before/lots-overhead/1297/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1297/td-210-criterion-1-after.png",
+        "id": "1297"
+      }
+    ],
+    "sha256": "b8ab930812031907cc2196f2a5f644c0032f4bc4e3c72cf5492363ec0cd1675a"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-24.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1298/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1298/td-210-criterion-1-after.png",
+        "id": "1298"
+      },
+      {
+        "before": "native-before/lots-overhead/1299/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1299/td-210-criterion-1-after.png",
+        "id": "1299"
+      },
+      {
+        "before": "native-before/lots-overhead/1300/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1300/td-210-criterion-1-after.png",
+        "id": "1300"
+      },
+      {
+        "before": "native-before/lots-overhead/1301/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1301/td-210-criterion-1-after.png",
+        "id": "1301"
+      },
+      {
+        "before": "native-before/lots-overhead/1302/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1302/td-210-criterion-1-after.png",
+        "id": "1302"
+      },
+      {
+        "before": "native-before/lots-overhead/1303/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1303/td-210-criterion-1-after.png",
+        "id": "1303"
+      },
+      {
+        "before": "native-before/lots-overhead/1304/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1304/td-210-criterion-1-after.png",
+        "id": "1304"
+      },
+      {
+        "before": "native-before/lots-overhead/1305/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1305/td-210-criterion-1-after.png",
+        "id": "1305"
+      },
+      {
+        "before": "native-before/lots-overhead/1306/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1306/td-210-criterion-1-after.png",
+        "id": "1306"
+      },
+      {
+        "before": "native-before/lots-overhead/1307/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1307/td-210-criterion-1-after.png",
+        "id": "1307"
+      },
+      {
+        "before": "native-before/lots-overhead/1308/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1308/td-210-criterion-1-after.png",
+        "id": "1308"
+      },
+      {
+        "before": "native-before/lots-overhead/1309/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1309/td-210-criterion-1-after.png",
+        "id": "1309"
+      }
+    ],
+    "sha256": "93f9de0f56617a4c502789ec57c42eb4afd6dcf1589698cc511515b21948bb35"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-25.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1310/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1310/td-210-criterion-1-after.png",
+        "id": "1310"
+      },
+      {
+        "before": "native-before/lots-overhead/1311/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1311/td-210-criterion-1-after.png",
+        "id": "1311"
+      },
+      {
+        "before": "native-before/lots-overhead/1312/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1312/td-210-criterion-1-after.png",
+        "id": "1312"
+      },
+      {
+        "before": "native-before/lots-overhead/1313/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1313/td-210-criterion-1-after.png",
+        "id": "1313"
+      },
+      {
+        "before": "native-before/lots-overhead/1314/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1314/td-210-criterion-1-after.png",
+        "id": "1314"
+      },
+      {
+        "before": "native-before/lots-overhead/1315/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1315/td-210-criterion-1-after.png",
+        "id": "1315"
+      },
+      {
+        "before": "native-before/lots-overhead/1316/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1316/td-210-criterion-1-after.png",
+        "id": "1316"
+      },
+      {
+        "before": "native-before/lots-overhead/1317/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1317/td-210-criterion-1-after.png",
+        "id": "1317"
+      },
+      {
+        "before": "native-before/lots-overhead/1318/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1318/td-210-criterion-1-after.png",
+        "id": "1318"
+      },
+      {
+        "before": "native-before/lots-overhead/1319/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1319/td-210-criterion-1-after.png",
+        "id": "1319"
+      },
+      {
+        "before": "native-before/lots-overhead/1320/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1320/td-210-criterion-1-after.png",
+        "id": "1320"
+      },
+      {
+        "before": "native-before/lots-overhead/1321/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1321/td-210-criterion-1-after.png",
+        "id": "1321"
+      }
+    ],
+    "sha256": "d8c4828cdcb24c45208ba08ffc285a583a3c38a4bcb51b4377598468a9996d35"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-26.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1322/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1322/td-210-criterion-1-after.png",
+        "id": "1322"
+      },
+      {
+        "before": "native-before/lots-overhead/1323/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1323/td-210-criterion-1-after.png",
+        "id": "1323"
+      },
+      {
+        "before": "native-before/lots-overhead/1324/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1324/td-210-criterion-1-after.png",
+        "id": "1324"
+      },
+      {
+        "before": "native-before/lots-overhead/1325/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1325/td-210-criterion-1-after.png",
+        "id": "1325"
+      },
+      {
+        "before": "native-before/lots-overhead/1326/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1326/td-210-criterion-1-after.png",
+        "id": "1326"
+      },
+      {
+        "before": "native-before/lots-overhead/1327/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1327/td-210-criterion-1-after.png",
+        "id": "1327"
+      },
+      {
+        "before": "native-before/lots-overhead/1328/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1328/td-210-criterion-1-after.png",
+        "id": "1328"
+      },
+      {
+        "before": "native-before/lots-overhead/1329/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1329/td-210-criterion-1-after.png",
+        "id": "1329"
+      },
+      {
+        "before": "native-before/lots-overhead/1330/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1330/td-210-criterion-1-after.png",
+        "id": "1330"
+      },
+      {
+        "before": "native-before/lots-overhead/1331/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1331/td-210-criterion-1-after.png",
+        "id": "1331"
+      },
+      {
+        "before": "native-before/lots-overhead/1332/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1332/td-210-criterion-1-after.png",
+        "id": "1332"
+      },
+      {
+        "before": "native-before/lots-overhead/1333/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1333/td-210-criterion-1-after.png",
+        "id": "1333"
+      }
+    ],
+    "sha256": "4cd35d2e4f80ae1f734f144fa2ab1dacf681f2f0abb4b9be26d3c61c8dc181e3"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-27.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1334/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1334/td-210-criterion-1-after.png",
+        "id": "1334"
+      },
+      {
+        "before": "native-before/lots-overhead/1335/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1335/td-210-criterion-1-after.png",
+        "id": "1335"
+      },
+      {
+        "before": "native-before/lots-overhead/1336/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1336/td-210-criterion-1-after.png",
+        "id": "1336"
+      },
+      {
+        "before": "native-before/lots-overhead/1337/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1337/td-210-criterion-1-after.png",
+        "id": "1337"
+      },
+      {
+        "before": "native-before/lots-overhead/1338/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1338/td-210-criterion-1-after.png",
+        "id": "1338"
+      },
+      {
+        "before": "native-before/lots-overhead/1339/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1339/td-210-criterion-1-after.png",
+        "id": "1339"
+      },
+      {
+        "before": "native-before/lots-overhead/1340/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1340/td-210-criterion-1-after.png",
+        "id": "1340"
+      },
+      {
+        "before": "native-before/lots-overhead/1341/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1341/td-210-criterion-1-after.png",
+        "id": "1341"
+      },
+      {
+        "before": "native-before/lots-overhead/1342/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1342/td-210-criterion-1-after.png",
+        "id": "1342"
+      },
+      {
+        "before": "native-before/lots-overhead/1343/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1343/td-210-criterion-1-after.png",
+        "id": "1343"
+      },
+      {
+        "before": "native-before/lots-overhead/1344/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1344/td-210-criterion-1-after.png",
+        "id": "1344"
+      },
+      {
+        "before": "native-before/lots-overhead/1345/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1345/td-210-criterion-1-after.png",
+        "id": "1345"
+      }
+    ],
+    "sha256": "e347476cbfa8ef94fea9235e5379b57cdf556afe885d37d8d4e52c81b1b6dfce"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-28.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1346/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1346/td-210-criterion-1-after.png",
+        "id": "1346"
+      },
+      {
+        "before": "native-before/lots-overhead/1347/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1347/td-210-criterion-1-after.png",
+        "id": "1347"
+      },
+      {
+        "before": "native-before/lots-overhead/1348/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1348/td-210-criterion-1-after.png",
+        "id": "1348"
+      },
+      {
+        "before": "native-before/lots-overhead/1349/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1349/td-210-criterion-1-after.png",
+        "id": "1349"
+      },
+      {
+        "before": "native-before/lots-overhead/1350/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1350/td-210-criterion-1-after.png",
+        "id": "1350"
+      },
+      {
+        "before": "native-before/lots-overhead/1351/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1351/td-210-criterion-1-after.png",
+        "id": "1351"
+      },
+      {
+        "before": "native-before/lots-overhead/1352/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1352/td-210-criterion-1-after.png",
+        "id": "1352"
+      },
+      {
+        "before": "native-before/lots-overhead/1353/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1353/td-210-criterion-1-after.png",
+        "id": "1353"
+      },
+      {
+        "before": "native-before/lots-overhead/1354/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1354/td-210-criterion-1-after.png",
+        "id": "1354"
+      },
+      {
+        "before": "native-before/lots-overhead/1355/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1355/td-210-criterion-1-after.png",
+        "id": "1355"
+      },
+      {
+        "before": "native-before/lots-overhead/1356/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1356/td-210-criterion-1-after.png",
+        "id": "1356"
+      },
+      {
+        "before": "native-before/lots-overhead/1357/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1357/td-210-criterion-1-after.png",
+        "id": "1357"
+      }
+    ],
+    "sha256": "5ad978ff29cd479bc1324485dc7120e568bae91e29f8c28078d9c509f0b8fc6d"
+  },
+  {
+    "sheet": "review-sheets/lots-overhead-29.jpg",
+    "pairs": [
+      {
+        "before": "native-before/lots-overhead/1358/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1358/td-210-criterion-1-after.png",
+        "id": "1358"
+      },
+      {
+        "before": "native-before/lots-overhead/1359/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1359/td-210-criterion-1-after.png",
+        "id": "1359"
+      },
+      {
+        "before": "native-before/lots-overhead/1360/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1360/td-210-criterion-1-after.png",
+        "id": "1360"
+      },
+      {
+        "before": "native-before/lots-overhead/1361/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1361/td-210-criterion-1-after.png",
+        "id": "1361"
+      },
+      {
+        "before": "native-before/lots-overhead/1362/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1362/td-210-criterion-1-after.png",
+        "id": "1362"
+      },
+      {
+        "before": "native-before/lots-overhead/1363/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1363/td-210-criterion-1-after.png",
+        "id": "1363"
+      },
+      {
+        "before": "native-before/lots-overhead/1364/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1364/td-210-criterion-1-after.png",
+        "id": "1364"
+      },
+      {
+        "before": "native-before/lots-overhead/1365/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1365/td-210-criterion-1-after.png",
+        "id": "1365"
+      },
+      {
+        "before": "native-before/lots-overhead/1366/td-210-criterion-1-before.png",
+        "after": "native-after/lots-overhead/1366/td-210-criterion-1-after.png",
+        "id": "1366"
+      }
+    ],
+    "sha256": "7385e3db0ada477f2b136d498b993517b5d10ecdcf18b95ec7b291cdd090fe91"
+  },
+  {
+    "sheet": "review-sheets/native-hud-01.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/ichiba-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/ichiba-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/ichiba-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/ichiba-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "kamome-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-forward-hud-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-forward-hud-844/td-210-criterion-2-after.png",
+        "id": "kamome-forward-hud-844"
+      },
+      {
+        "before": "native-before/routes/kamome-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-reverse-hud-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-reverse-hud-844/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-hud-844"
+      }
+    ],
+    "sha256": "80df86e3b60294b04457329a379a6e932202d786c8985215fb92af7062deb6ac"
+  },
+  {
+    "sheet": "review-sheets/native-hud-02.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/kori-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kori-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "kori-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/kori-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kori-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "kori-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/reizo-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/reizo-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "reizo-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/reizo-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/reizo-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "reizo-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/seri1-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri1-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri1-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/seri1-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri1-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri1-reverse-hud-1280"
+      }
+    ],
+    "sha256": "27c7f0a1db3654f44a55004882ec4e499840a6c5461108c46e3d382e95d4ffe9"
+  },
+  {
+    "sheet": "review-sheets/native-hud-03.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/seri3-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri3-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/seri3-forward-hud-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-forward-hud-844/td-210-criterion-2-after.png",
+        "id": "seri3-forward-hud-844"
+      },
+      {
+        "before": "native-before/routes/seri3-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/seri3-reverse-hud-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-reverse-hud-844/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-hud-844"
+      },
+      {
+        "before": "native-before/routes/seri5-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri5-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri5-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/seri5-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri5-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri5-reverse-hud-1280"
+      }
+    ],
+    "sha256": "42e4e9ce2f0fc89c1ab191b0385c42fc4e1f16244e3f390c9def306c7af57a7f"
+  },
+  {
+    "sheet": "review-sheets/native-hud-04.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/uogashi1-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi1-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi1-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi1-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi2b-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi2b-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi3-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi3-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi3-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi3-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-reverse-hud-1280"
+      }
+    ],
+    "sha256": "cd4397364da2a6cfa07835ce9a03a7e981d47e4fea58d74ef493c7fc0037a919"
+  },
+  {
+    "sheet": "review-sheets/native-hud-05.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/uogashi4-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi4-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi4-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi4-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-reverse-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uroko-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uroko-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uroko-forward-hud-1280"
+      },
+      {
+        "before": "native-before/routes/uroko-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uroko-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uroko-reverse-hud-1280"
+      }
+    ],
+    "sha256": "cf57ca2a2439579976650f6e59297c7e37cde9a899fafe1f0ac9665ded29ae33"
+  },
+  {
+    "sheet": "review-sheets/native-world-01.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/ichiba-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/ichiba-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/ichiba-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/ichiba-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "kamome-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-forward-world-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-forward-world-844/td-210-criterion-2-after.png",
+        "id": "kamome-forward-world-844"
+      },
+      {
+        "before": "native-before/routes/kamome-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/kamome-reverse-world-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kamome-reverse-world-844/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-world-844"
+      }
+    ],
+    "sha256": "c3e6eff6e9088ed19382fdda81acd650cd76880a281ac88299f1acd60ff60523"
+  },
+  {
+    "sheet": "review-sheets/native-world-02.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/kori-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kori-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "kori-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/kori-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/kori-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "kori-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/reizo-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/reizo-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "reizo-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/reizo-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/reizo-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "reizo-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/seri1-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri1-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri1-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/seri1-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri1-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri1-reverse-world-1280"
+      }
+    ],
+    "sha256": "bd52a7dbc3abb2464421ae1164e3d9e98e74a807ea8d1b6f68f778955a19eadc"
+  },
+  {
+    "sheet": "review-sheets/native-world-03.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/seri3-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri3-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/seri3-forward-world-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-forward-world-844/td-210-criterion-2-after.png",
+        "id": "seri3-forward-world-844"
+      },
+      {
+        "before": "native-before/routes/seri3-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/seri3-reverse-world-844/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri3-reverse-world-844/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-world-844"
+      },
+      {
+        "before": "native-before/routes/seri5-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri5-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri5-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/seri5-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/seri5-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri5-reverse-world-1280"
+      }
+    ],
+    "sha256": "f49cdee6901c1f874d1b75e72e90b5fdfd605c9f1fa6277915e969de62071ec0"
+  },
+  {
+    "sheet": "review-sheets/native-world-04.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/uogashi1-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi1-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi1-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi1-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi2b-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi2b-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi2b-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi2b-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi3-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi3-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi3-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi3-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-reverse-world-1280"
+      }
+    ],
+    "sha256": "7d42f9508e10a7578b9709c33a216148639716d55e53c55f76996638c2fc0347"
+  },
+  {
+    "sheet": "review-sheets/native-world-05.jpg",
+    "pairs": [
+      {
+        "before": "native-before/routes/uogashi4-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi4-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/uogashi4-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uogashi4-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-reverse-world-1280"
+      },
+      {
+        "before": "native-before/routes/uroko-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uroko-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uroko-forward-world-1280"
+      },
+      {
+        "before": "native-before/routes/uroko-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "native-after/routes/uroko-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uroko-reverse-world-1280"
+      }
+    ],
+    "sha256": "2fbbb593d74411390a02a64630808fb0c3ad7532e28f551017e4dc820dbaddb2"
+  },
+  {
+    "sheet": "review-sheets/browser-hud-01.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/ichiba-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/ichiba-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/ichiba-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/ichiba-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "kamome-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-forward-hud-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-forward-hud-844/td-210-criterion-2-after.png",
+        "id": "kamome-forward-hud-844"
+      },
+      {
+        "before": "browser-before/routes/kamome-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-reverse-hud-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-reverse-hud-844/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-hud-844"
+      }
+    ],
+    "sha256": "4262a5c19aef2b04b9adfbaa9ba5d99d08f4687be881d197850b8358b84705fe"
+  },
+  {
+    "sheet": "review-sheets/browser-hud-02.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/kori-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kori-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "kori-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/kori-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kori-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "kori-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/reizo-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/reizo-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "reizo-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/reizo-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/reizo-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "reizo-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/seri1-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri1-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri1-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/seri1-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri1-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri1-reverse-hud-1280"
+      }
+    ],
+    "sha256": "0671e8820ee3c6b40644b821e1af84701d60b2e3da4c0bb533dcd46b081379f1"
+  },
+  {
+    "sheet": "review-sheets/browser-hud-03.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/seri3-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri3-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/seri3-forward-hud-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-forward-hud-844/td-210-criterion-2-after.png",
+        "id": "seri3-forward-hud-844"
+      },
+      {
+        "before": "browser-before/routes/seri3-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/seri3-reverse-hud-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-reverse-hud-844/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-hud-844"
+      },
+      {
+        "before": "browser-before/routes/seri5-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri5-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri5-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/seri5-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri5-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "seri5-reverse-hud-1280"
+      }
+    ],
+    "sha256": "b399fe9c82aedb9e2e8e025736bb8819d91a51b13f735dcf3938656d27128ff8"
+  },
+  {
+    "sheet": "review-sheets/browser-hud-04.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/uogashi1-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi1-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi1-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi1-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi2b-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi2b-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi3-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi3-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi3-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi3-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-reverse-hud-1280"
+      }
+    ],
+    "sha256": "a418da02c31ba5d6862ccb3fbb48f97e2d31b71ec92a076b0113eeaa8d8dfd0f"
+  },
+  {
+    "sheet": "review-sheets/browser-hud-05.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/uogashi4-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi4-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi4-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi4-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-reverse-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uroko-forward-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uroko-forward-hud-1280/td-210-criterion-2-after.png",
+        "id": "uroko-forward-hud-1280"
+      },
+      {
+        "before": "browser-before/routes/uroko-reverse-hud-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uroko-reverse-hud-1280/td-210-criterion-2-after.png",
+        "id": "uroko-reverse-hud-1280"
+      }
+    ],
+    "sha256": "9e8f02bd5ab09d04e5d4b5ec16880dbbcb694d4641347f57b6e4233acf99b841"
+  },
+  {
+    "sheet": "review-sheets/browser-world-01.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/ichiba-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/ichiba-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/ichiba-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/ichiba-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "ichiba-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "kamome-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-forward-world-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-forward-world-844/td-210-criterion-2-after.png",
+        "id": "kamome-forward-world-844"
+      },
+      {
+        "before": "browser-before/routes/kamome-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/kamome-reverse-world-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kamome-reverse-world-844/td-210-criterion-2-after.png",
+        "id": "kamome-reverse-world-844"
+      }
+    ],
+    "sha256": "04691a14bc445e39cc9e076c29ed8d9e63fc592b1f98d7f07f93e4d6d98435b8"
+  },
+  {
+    "sheet": "review-sheets/browser-world-02.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/kori-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kori-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "kori-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/kori-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/kori-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "kori-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/reizo-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/reizo-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "reizo-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/reizo-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/reizo-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "reizo-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/seri1-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri1-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri1-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/seri1-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri1-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri1-reverse-world-1280"
+      }
+    ],
+    "sha256": "c1aa67f749817c3a2b1a89fbcb606b3aec8e41344955b077d05aa104496251d1"
+  },
+  {
+    "sheet": "review-sheets/browser-world-03.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/seri3-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri3-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/seri3-forward-world-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-forward-world-844/td-210-criterion-2-after.png",
+        "id": "seri3-forward-world-844"
+      },
+      {
+        "before": "browser-before/routes/seri3-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/seri3-reverse-world-844/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri3-reverse-world-844/td-210-criterion-2-after.png",
+        "id": "seri3-reverse-world-844"
+      },
+      {
+        "before": "browser-before/routes/seri5-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri5-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "seri5-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/seri5-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/seri5-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "seri5-reverse-world-1280"
+      }
+    ],
+    "sha256": "7131b40e62d2f4b0a67e02ca9a5cf6a565c957da6fadeb02d6772805fbca1878"
+  },
+  {
+    "sheet": "review-sheets/browser-world-04.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/uogashi1-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi1-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi1-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi1-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi1-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi2b-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi2b-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi2b-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi2b-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi2b-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi3-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi3-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi3-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi3-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi3-reverse-world-1280"
+      }
+    ],
+    "sha256": "6af6a1f86d8aa66690d3659358c551932c96f9b74746061690508203c2828df1"
+  },
+  {
+    "sheet": "review-sheets/browser-world-05.jpg",
+    "pairs": [
+      {
+        "before": "browser-before/routes/uogashi4-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi4-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uogashi4-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uogashi4-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uogashi4-reverse-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uroko-forward-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uroko-forward-world-1280/td-210-criterion-2-after.png",
+        "id": "uroko-forward-world-1280"
+      },
+      {
+        "before": "browser-before/routes/uroko-reverse-world-1280/td-210-criterion-2-before.png",
+        "after": "browser-after/routes/uroko-reverse-world-1280/td-210-criterion-2-after.png",
+        "id": "uroko-reverse-world-1280"
+      }
+    ],
+    "sha256": "79949b88e9a66c9862372a86f52d0288956c970bd0a26ce916e8c9c92b9ac7c2"
+  }
+]

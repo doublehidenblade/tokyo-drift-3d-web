@@ -1,0 +1,14 @@
+{
+  "lots/": {
+    "before": 345,
+    "after": 345,
+    "camera_differences": [],
+    "car_differences": []
+  },
+  "lots-overhead/": {
+    "before": 345,
+    "after": 345,
+    "camera_differences": [],
+    "car_differences": []
+  }
+}

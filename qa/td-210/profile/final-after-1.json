@@ -1,0 +1,161 @@
+{
+  "after_material_conversion_peak_bytes": 585598587,
+  "after_material_conversion_static_bytes": 377362747,
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "geometry_nodes_by_family": {
+    "beacon": 72,
+    "bldg": 96,
+    "deck": 20,
+    "ground": 93,
+    "kamome": 523,
+    "lamps": 83,
+    "landmark": 33,
+    "metal": 84,
+    "mountain": 9,
+    "paint": 82,
+    "struct": 72,
+    "tenjin": 62,
+    "water": 10
+  },
+  "material_conversion_us": 9105,
+  "seed": 185,
+  "stages": [
+    {
+      "duration_us": 129351,
+      "stage": "ground",
+      "static_bytes": 123295714
+    },
+    {
+      "duration_us": 952,
+      "stage": "ribbons",
+      "static_bytes": 123392474
+    },
+    {
+      "duration_us": 2931,
+      "stage": "walls",
+      "static_bytes": 123928262
+    },
+    {
+      "duration_us": 10054,
+      "stage": "water",
+      "static_bytes": 125691530
+    },
+    {
+      "duration_us": 84,
+      "stage": "mountain",
+      "static_bytes": 125708638
+    },
+    {
+      "duration_us": 78122,
+      "stage": "ring",
+      "static_bytes": 134655378
+    },
+    {
+      "duration_us": 4861063,
+      "stage": "buildings",
+      "static_bytes": 371535429
+    },
+    {
+      "duration_us": 2709,
+      "stage": "landmarks",
+      "static_bytes": 371852057
+    },
+    {
+      "duration_us": 94817,
+      "stage": "dressing",
+      "static_bytes": 379079537
+    },
+    {
+      "duration_us": 47670,
+      "stage": "lamps",
+      "static_bytes": 384846005
+    },
+    {
+      "duration_us": 138514,
+      "stage": "paint",
+      "static_bytes": 393034145
+    },
+    {
+      "duration_us": 259830,
+      "stage": "done",
+      "static_bytes": 377104555
+    }
+  ],
+  "static_memory_bytes": 377103143,
+  "static_memory_peak_bytes": 585598587,
+  "unique_material_resources": 47,
+  "unique_mesh_resources": 1239,
+  "unique_mesh_surface_materials_after_conversion": 48,
+  "world_stats": {
+    "build_ms": 5626,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "kamome": {
+      "donor_bands": 508,
+      "frontages": 345,
+      "lots": 345,
+      "max_lot_triangles": 3926,
+      "mesh_instances": 523,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 59220,
+        "place_us": 151758,
+        "slice_us": 838762
+      },
+      "module_variants": 4539,
+      "props": 546,
+      "sharing": {
+        "cells": 499,
+        "expanded_triangles": 838157,
+        "placements": 2454,
+        "unique_meshes": 28,
+        "unique_triangles": 11778
+      },
+      "storefronts": 217,
+      "triangles": 923405
+    },
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 1239,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 453810,
+        "place_us": 1137212,
+        "slice_us": 1491456
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 104302
+  }
+}

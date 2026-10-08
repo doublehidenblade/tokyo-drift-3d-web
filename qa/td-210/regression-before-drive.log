@@ -1,0 +1,101 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/traffic/city_traffic.gd:319)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/cop_manager.gd:80)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/lower_city/wanted_hud.gd:51)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/lower_city/lower_city.gd:0)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://tools/test_lower_city_drive.gd:0)
+ERROR: Failed to load script "res://tools/test_lower_city_drive.gd" with error "Compilation failed".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:49)
+              [2] run (res://tools/test_lower_city_drive.gd:30)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:50)
+              [2] run (res://tools/test_lower_city_drive.gd:30)
+  trace t=10 plan=(1225, 982, -0.1) v=18.6 m/s progress=0.29 stuck=0
+  trace t=20 plan=(1227, 824, -0.1) v=6.5 m/s progress=0.67 stuck=0
+TD185_LEG {"arcs":4,"avg_kmh":50.7,"classes":{"arterial":1,"avenue":2,"street":1},"driven_m":407,"from":"asahi_hq","leg":1,"max_y":-0.11,"min_y":-0.15,"ok":true,"plan_s":43.1,"recoveries":0,"streets":"ginko > tenjin > shosha","stuck":0,"time_s":28.9,"to":"paper_exch"}
+  trace t=10 plan=(1372, 689, 6.3) v=13.6 m/s progress=0.10 stuck=0
+  trace t=20 plan=(1367, 581, 6.8) v=18.6 m/s progress=0.18 stuck=0
+  trace t=30 plan=(1365, 395, 6.8) v=17.2 m/s progress=0.31 stuck=0
+  trace t=40 plan=(1236, 323, 6.8) v=18.6 m/s progress=0.43 stuck=0
+  trace t=50 plan=(1050, 324, 6.8) v=18.6 m/s progress=0.56 stuck=0
+  trace t=60 plan=(945, 318, 4.3) v=18.8 m/s progress=0.64 stuck=0
+  trace t=70 plan=(838, 369, -0.1) v=18.6 m/s progress=0.75 stuck=0
+  trace t=80 plan=(838, 555, -0.1) v=18.6 m/s progress=0.88 stuck=0
+  trace t=90 plan=(911, 622, -0.1) v=18.2 m/s progress=0.98 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":54.7,"classes":{"arterial":1,"ramp":2,"ring":1,"street":3},"driven_m":1399,"from":"paper_exch","leg":2,"max_y":6.86,"min_y":-0.15,"ok":true,"plan_s":112.4,"recoveries":0,"streets":"shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba","stuck":0,"time_s":92.1,"to":"kenji_hall"}
+  trace t=10 plan=(940, 743, -0.1) v=18.6 m/s progress=0.26 stuck=0
+  trace t=20 plan=(878, 818, -0.1) v=18.4 m/s progress=0.54 stuck=0
+  trace t=30 plan=(838, 913, -0.1) v=10.9 m/s progress=0.80 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":46.2,"classes":{"alley":3,"arterial":2,"street":2},"driven_m":486,"from":"kenji_hall","leg":3,"max_y":-0.14,"min_y":-0.15,"ok":true,"plan_s":83.2,"recoveries":0,"streets":"ichiba > uogashi3 > shosha > kamome > seri3","stuck":0,"time_s":37.9,"to":"seri_window"}
+  trace t=10 plan=(758, 822, -0.1) v=7.0 m/s progress=0.17 stuck=0
+  trace t=20 plan=(599, 818, -0.1) v=18.6 m/s progress=0.42 stuck=0
+  trace t=30 plan=(435, 818, -5.2) v=6.1 m/s progress=0.68 stuck=0
+  trace t=40 plan=(428, 667, -5.2) v=18.6 m/s progress=0.92 stuck=0
+TD185_LEG {"arcs":6,"avg_kmh":53.4,"classes":{"alley":2,"arterial":3,"lane":1},"driven_m":638,"from":"seri_window","leg":4,"max_y":-0.15,"min_y":-5.15,"ok":true,"plan_s":86.6,"recoveries":0,"streets":"seri3 > uogashi2b > nishimon > senjo1","stuck":0,"time_s":43.0,"to":"rinse4"}
+  trace t=10 plan=(397, 695, -5.2) v=18.6 m/s progress=0.14 stuck=0
+  trace t=20 plan=(378, 818, -5.2) v=16.9 m/s progress=0.34 stuck=0
+  trace t=30 plan=(199, 818, -0.1) v=18.6 m/s progress=0.58 stuck=0
+  trace t=40 plan=(148, 911, -0.1) v=18.6 m/s progress=0.78 stuck=0
+  trace t=50 plan=(236, 961, -0.1) v=16.2 m/s progress=0.96 stuck=0
+TD185_LEG {"arcs":8,"avg_kmh":50.2,"classes":{"arterial":3,"lane":3,"street":1,"trench":1},"driven_m":721,"from":"rinse4","leg":5,"max_y":-0.12,"min_y":-5.15,"ok":true,"plan_s":115.4,"recoveries":0,"streets":"senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2","stuck":0,"time_s":51.8,"to":"mariko"}
+  trace t=10 plan=(262, 834, -0.1) v=10.2 m/s progress=0.19 stuck=0
+  trace t=20 plan=(128, 818, -0.1) v=18.6 m/s progress=0.40 stuck=0
+  trace t=30 plan=(-30, 818, -0.1) v=12.2 m/s progress=0.64 stuck=0
+  trace t=40 plan=(-40, 820, -0.1) v=12.1 m/s progress=0.72 stuck=0
+  trace t=50 plan=(119, 822, -0.1) v=18.3 m/s progress=0.95 stuck=0
+TD185_LEG {"arcs":6,"avg_kmh":48.0,"classes":{"arterial":3,"lane":1,"street":2},"driven_m":696,"from":"mariko","leg":6,"max_y":-0.13,"min_y":-0.15,"ok":true,"plan_s":85.2,"recoveries":0,"streets":"slum2 > kotobuki_w > nishimon","stuck":0,"time_s":52.1,"to":"west_gate"}
+  trace t=10 plan=(263, 805, -0.1) v=14.9 m/s progress=0.13 stuck=0
+  trace t=20 plan=(262, 619, -0.1) v=18.6 m/s progress=0.31 stuck=0
+  trace t=30 plan=(262, 433, -0.1) v=18.6 m/s progress=0.50 stuck=0
+  trace t=40 plan=(262, 247, -0.1) v=18.6 m/s progress=0.69 stuck=0
+  trace t=50 plan=(328, 175, -0.1) v=18.6 m/s progress=0.83 stuck=0
+  trace t=60 plan=(432, 133, -0.1) v=18.6 m/s progress=0.97 stuck=0
+TD185_LEG {"arcs":9,"avg_kmh":57.2,"classes":{"arterial":2,"avenue":1,"lane":1,"street":5},"driven_m":990,"from":"west_gate","leg":7,"max_y":-0.12,"min_y":-0.15,"ok":true,"plan_s":110.9,"recoveries":0,"streets":"nishimon > kotobuki_w > futo > gate2","stuck":0,"time_s":62.3,"to":"gate2"}
+  trace t=10 plan=(556, 100, -0.1) v=18.6 m/s progress=0.09 stuck=0
+  trace t=20 plan=(609, 165, -0.1) v=8.6 m/s progress=0.17 stuck=0
+  trace t=30 plan=(762, 175, -0.1) v=18.6 m/s progress=0.28 stuck=0
+  trace t=40 plan=(838, 235, -0.1) v=18.6 m/s progress=0.37 stuck=0
+  trace t=50 plan=(790, 319, 0.0) v=18.5 m/s progress=0.46 stuck=0
+  trace t=60 plan=(682, 328, 6.8) v=12.8 m/s progress=0.54 stuck=0
+  trace t=70 plan=(499, 323, 6.8) v=18.6 m/s progress=0.67 stuck=0
+  trace t=80 plan=(393, 420, 6.5) v=18.7 m/s progress=0.79 stuck=0
+  trace t=90 plan=(393, 607, 0.3) v=18.6 m/s progress=0.92 stuck=0
+TD185_LEG {"arcs":9,"avg_kmh":53.3,"classes":{"alley":1,"avenue":3,"lane":2,"ramp":1,"ring":1,"street":1},"driven_m":1429,"from":"gate2","leg":8,"max_y":6.86,"min_y":-0.15,"ok":true,"plan_s":127.6,"recoveries":0,"streets":"gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring","stuck":0,"time_s":96.6,"to":"arc:627"}
+  trace t=10 plan=(393, 895, 0.3) v=18.6 m/s progress=0.13 stuck=0
+  trace t=20 plan=(393, 1081, 0.8) v=18.5 m/s progress=0.26 stuck=0
+  trace t=30 plan=(397, 1263, 6.8) v=14.8 m/s progress=0.38 stuck=0
+  trace t=40 plan=(534, 1327, 6.8) v=18.6 m/s progress=0.50 stuck=0
+  trace t=50 plan=(613, 1326, 6.8) v=0.1 m/s progress=0.56 stuck=0
+  trace t=60 plan=(613, 1326, 6.8) v=0.0 m/s progress=0.56 stuck=3
+  trace t=70 plan=(613, 1326, 6.8) v=0.0 m/s progress=0.56 stuck=5
+TD185_LEG {"arcs":4,"avg_kmh":35.8,"classes":{"ring":4},"driven_m":793,"from":"arc:627","leg":9,"max_y":6.85,"min_y":0.35,"ok":false,"plan_s":85.9,"recoveries":0,"streets":"ring","stuck":7,"time_s":79.6,"to":"arc:622"}
+FAIL: leg 9 arc:627 -> arc:622 ({ "arrived": false, "t": 79.6333333333301, "m": 792.899357900023, "stuck": 7, "recoveries": 0, "min_y": 0.34999853372574, "max_y": 6.85319423675537 })
+TD185_DRIVE {"drive_min":7.74,"failures":1,"km":6.77,"legs":21}
+WARNING: 637 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)
+ERROR: 467 resources still in use at exit (run with --verbose for details).
+   at: clear (core/io/resource.cpp:822)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.
+ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.
+ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.
+ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.
+ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.
+ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.

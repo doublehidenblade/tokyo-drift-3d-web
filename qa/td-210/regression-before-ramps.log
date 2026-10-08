@@ -1,0 +1,1391 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/traffic/city_traffic.gd:319)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/cop_manager.gd:80)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/lower_city/wanted_hud.gd:51)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/lower_city/lower_city.gd:0)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://tools/test_lower_city_ramps.gd:0)
+ERROR: Failed to load script "res://tools/test_lower_city_ramps.gd" with error "Compilation failed".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #0, invalid UID: 'uid://egcm71hs27ga' - using text path instead: 'res://assets/td-168/sento_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #1, invalid UID: 'uid://brgbamfxasyt7' - using text path instead: 'res://assets/td-168/sento_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #2, invalid UID: 'uid://bl4u4jlsepvdj' - using text path instead: 'res://assets/td-168/sento_Mat_WoodDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #3, invalid UID: 'uid://dx7t6sj8clmgr' - using text path instead: 'res://assets/td-168/sento_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #4, invalid UID: 'uid://bs4hgodn60ll5' - using text path instead: 'res://assets/td-168/sento_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #5, invalid UID: 'uid://813y3joxai58' - using text path instead: 'res://assets/td-168/sento_sento_chimney.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #6, invalid UID: 'uid://djet4nap6eeqy' - using text path instead: 'res://assets/td-168/sento_sento_wall.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #7, invalid UID: 'uid://bd116prdghg6d' - using text path instead: 'res://assets/td-168/sento_sento_noren.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #8, invalid UID: 'uid://cf3lp5acno7r5' - using text path instead: 'res://assets/td-168/sento_Mat_WindowDark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #9, invalid UID: 'uid://cmhnimwl1af4u' - using text path instead: 'res://assets/td-168/sento_Mat_WindowLit_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #0, invalid UID: 'uid://mn0khmjy5ugi' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #1, invalid UID: 'uid://bqjef78s4ecq1' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #2, invalid UID: 'uid://c7csr08xo3yy6' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #3, invalid UID: 'uid://bmrn24nsocoas' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #4, invalid UID: 'uid://ckwr07t0x4bex' - using text path instead: 'res://assets/td-168/koban_concrete_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #5, invalid UID: 'uid://ctouybauu3woh' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #6, invalid UID: 'uid://cei6npf43w28m' - using text path instead: 'res://assets/td-168/koban_concrete_koban_concrete.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #7, invalid UID: 'uid://dunnpmkyxvnw5' - using text path instead: 'res://assets/td-168/koban_concrete_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #8, invalid UID: 'uid://cgfkxkv7fwk48' - using text path instead: 'res://assets/td-168/koban_concrete_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #0, invalid UID: 'uid://c2dkieqmo1v3q' - using text path instead: 'res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #1, invalid UID: 'uid://bw67vhypf5s3r' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #2, invalid UID: 'uid://c4uoiolumprbm' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #3, invalid UID: 'uid://c6t10wt7cdubp' - using text path instead: 'res://assets/td-168/koban_brick_sento_roof.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #4, invalid UID: 'uid://co7gmbxdnp5lb' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Concrete_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #5, invalid UID: 'uid://l0ptwlqrnddw' - using text path instead: 'res://assets/td-168/koban_brick_koban_clock.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #6, invalid UID: 'uid://l3h7i3nye3e8' - using text path instead: 'res://assets/td-168/koban_brick_Mat_LampGlow_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #7, invalid UID: 'uid://elq11pbke8o3' - using text path instead: 'res://assets/td-168/koban_brick_koban_brick.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #8, invalid UID: 'uid://b2ahr4kspa0rb' - using text path instead: 'res://assets/td-168/koban_brick_koban_sign.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #9, invalid UID: 'uid://brlalriqbfk1s' - using text path instead: 'res://assets/td-168/koban_brick_koban_window.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #0, invalid UID: 'uid://q8y6hdb81jt0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #1, invalid UID: 'uid://dsu450x8e5fn0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #2, invalid UID: 'uid://bs2w04rtjbr4q' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #3, invalid UID: 'uid://c7eo8u8qyy6hk' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #4, invalid UID: 'uid://bhwwdj666xdru' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #5, invalid UID: 'uid://br0mkq8gxa3iy' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_granite.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #6, invalid UID: 'uid://d0jpdfqlp71fw' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #7, invalid UID: 'uid://d3vybvvaayanp' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #8, invalid UID: 'uid://dylcb8f0akry7' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #9, invalid UID: 'uid://bo1fhqlg2ymgx' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #10, invalid UID: 'uid://o4drl2uhk7tk' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #11, invalid UID: 'uid://bsctxpuoea40g' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #0, invalid UID: 'uid://dwfohvr0dutkc' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #1, invalid UID: 'uid://cvu4tumk00y8x' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #2, invalid UID: 'uid://d7kik2qkxs6r' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #3, invalid UID: 'uid://1kgjljf7iot2' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_bib.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #4, invalid UID: 'uid://dikh4v4oxqa0t' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Outline_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #5, invalid UID: 'uid://lv61jlkwb12l' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #6, invalid UID: 'uid://bj6bo8kaepmk7' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #7, invalid UID: 'uid://bllbqt8mx55o6' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Sake_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #8, invalid UID: 'uid://c13qnap4orrvf' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_wood.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #9, invalid UID: 'uid://cg511ya3pumbo' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_tin.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #10, invalid UID: 'uid://b5dp1y7gifxn5' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Dark_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #11, invalid UID: 'uid://br0k1yg4kdbd3' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Vase_flat.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _load (res://tools/test_lower_city_ramps.gd:107)
+         [1] run (res://tools/test_lower_city_ramps.gd:54)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:49)
+              [2] _load (res://tools/test_lower_city_ramps.gd:108)
+              [3] run (res://tools/test_lower_city_ramps.gd:54)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:50)
+              [2] _load (res://tools/test_lower_city_ramps.gd:108)
+              [3] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:54)
+ok: negative control: the edge sweep finds round 1's unguarded drops, Craig's ramp top among them (36, e.g. [[950.0, 1330.0, 7.0], [950.0, 1331.5, 7.0], [950.0, 1333.0, 7.0]])
+TD185_RAMP {"end_y":-5.6360936164856,"h_top":7.0,"id":"tenjinkita_ic_outer_on","merge_lane_m":0.0,"min_y_after_top":-5.6360936164856,"past_top":142.822875976562,"recoveries":0,"v_top":29.961145401001}
+ok: negative control: with no merge lane the blind car flies off the top of tenjinkita_ic_outer_on (fell to -5.6 m)
+TD185_RAMP {"closed":false,"closest_m":-0.03,"inside_m":114.09,"mouth":"tenjinkita_ic_outer_off","v_max":24.3}
+ok: negative control: with the high end open the blind car drives into tenjinkita_ic_outer_off (114.1 m inside)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:49)
+              [2] _load (res://tools/test_lower_city_ramps.gd:108)
+              [3] run (res://tools/test_lower_city_ramps.gd:67)
+              [4] _unload (res://tools/test_lower_city_ramps.gd:126)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:50)
+              [2] _load (res://tools/test_lower_city_ramps.gd:108)
+              [3] run (res://tools/test_lower_city_ramps.gd:67)
+              [4] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+     at: open (core/io/resource_format_binary.cpp:1025)
+     GDScript backtrace (most recent call first):
+         [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+         [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+         [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+         [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+         [4] _load (res://tools/test_lower_city_ramps.gd:108)
+         [5] run (res://tools/test_lower_city_ramps.gd:67)
+         [6] _unload (res://tools/test_lower_city_ramps.gd:126)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.
+   at: _call_function (core/object/message_queue.cpp:220)
+ok: 12 merge / diverge lanes and 12 closed ramp ends built (12, 12)
+ok: no edge of the Ring, a merge lane or a raised ramp drops 0.6 m or more without a barrier (0: [])
+ok: no street lamp stands within 2.5 m of a raised deck it would clip (600 lamps; [])
+ok: the 36 lamps left out all stood beside or under a raised deck (round 1 built them; [])
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"tenjinkita_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":117.028564453125,"recoveries":0,"v_top":29.961145401001}
+ok: blind up tenjinkita_ic_outer_on: on past the top 117 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"tenjinkita_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.279724121094,"recoveries":0,"v_top":29.9605655670166}
+ok: blind up tenjinkita_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"kashi_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.171264648438,"recoveries":0,"v_top":29.961145401001}
+ok: blind up kashi_ic_outer_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"kashi_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":202.660278320312,"recoveries":0,"v_top":29.961145401001}
+ok: blind up kashi_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"daikoku_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.162414550781,"recoveries":0,"v_top":29.961145401001}
+ok: blind up daikoku_ic_outer_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"daikoku_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.192993164062,"recoveries":0,"v_top":29.961145401001}
+ok: blind up daikoku_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"closed":true,"closest_m":-2.16,"inside_m":0.0,"mouth":"tenjinkita_ic_outer_off","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_outer_off: stopped 2.2 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.16,"inside_m":0.0,"mouth":"tenjinkita_ic_outer_on","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_outer_on: stopped 2.2 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.51,"inside_m":0.0,"mouth":"tenjinkita_ic_inner_off","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_inner_off: stopped 1.5 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.55,"inside_m":0.0,"mouth":"tenjinkita_ic_inner_on","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_inner_on: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_outer_off","v_max":23.4}
+ok: blind into the high end of kashi_ic_outer_off: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_outer_on","v_max":23.4}
+ok: blind into the high end of kashi_ic_outer_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.55,"inside_m":0.0,"mouth":"kashi_ic_inner_off","v_max":23.4}
+ok: blind into the high end of kashi_ic_inner_off: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_inner_on","v_max":23.4}
+ok: blind into the high end of kashi_ic_inner_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.54,"inside_m":0.0,"mouth":"daikoku_ic_outer_off","v_max":23.4}
+ok: blind into the high end of daikoku_ic_outer_off: stopped 1.5 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.54,"inside_m":0.0,"mouth":"daikoku_ic_outer_on","v_max":23.4}
+ok: blind into the high end of daikoku_ic_outer_on: stopped 1.5 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"daikoku_ic_inner_off","v_max":23.4}
+ok: blind into the high end of daikoku_ic_inner_off: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"daikoku_ic_inner_on","v_max":23.4}
+ok: blind into the high end of daikoku_ic_inner_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMPS {"checks":25,"failures":0}
+WARNING: 638 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)
+ERROR: 467 resources still in use at exit (run with --verbose for details).
+   at: clear (core/io/resource.cpp:822)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.
+ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.
+ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.
+ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.
+ERROR: 2 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.
+ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.

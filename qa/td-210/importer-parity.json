@@ -1,0 +1,3337 @@
+{
+  "utc": "2026-10-08T01:49:48.283486+00:00",
+  "method": "Copy exact666-file td209 native-import provenance plus all existing .import mappings; no regeneration or mipmap change",
+  "files": [
+    {
+      "path": ".godot/imported/bottle_crate.glb-3851bc09ab00823270783c1e2f8eae31.md5",
+      "sha256": "b13dcfc920da4392b4c54c654b42a5b2ea3e11846377f8bdb19eb6a53b917e02",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bottle_crate.glb-3851bc09ab00823270783c1e2f8eae31.scn",
+      "sha256": "ae0e5780f2a631c7e7d54c8f5630e679d7305612205cccc47649180e4164983a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bottle_crate_crate.png-ecf105736baa7c2ea35fb711a61998db.ctex",
+      "sha256": "dec91a23323f816ab1f90ead1f8983a30d06bb63e13652eb7a0d67856707760a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bottle_crate_crate.png-ecf105736baa7c2ea35fb711a61998db.md5",
+      "sha256": "0072c0b71b98f2eca6fc862c402d2629810085e44bc926b8867d1ac1df3ab0a7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension.glb-0fd5aa13b4bb610cbee7097673516948.md5",
+      "sha256": "bba7521167d255c105765bace653eccd992a0e86a257b0d21875bcced3022f8e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension.glb-0fd5aa13b4bb610cbee7097673516948.scn",
+      "sha256": "ffc01bc342ddd3e68aeec107f6d34f955fea58ffcee21d646bb3cddc6a601005",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_bridge_rail.png-09586d70444eb9743da57790c6219a5f.ctex",
+      "sha256": "1920ac32a716b59f78fc915c5866f0ce40ce0225b3800d637790d501c65c2f52",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_bridge_rail.png-09586d70444eb9743da57790c6219a5f.md5",
+      "sha256": "782e3a9f60a85d2a3635a107f43aa8425a60212bdca1c27d4772c24df08045b0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_bridge_road.png-969325df79e23e2304c2b6fb9ac18ec8.ctex",
+      "sha256": "fb02d0dc62ba31b55af1737ade9da0b66500147b303cfb7f3eb21e516d8a1658",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_bridge_road.png-969325df79e23e2304c2b6fb9ac18ec8.md5",
+      "sha256": "372918020c1e15ec1fc14f4946355975c927a46abf9f32cf82eb4241b534f624",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_truss_grime.png-6aa4b72fb3d59e38bbf4a0034afb1bbb.ctex",
+      "sha256": "fb76ce41aaec8bff5476bb45d4d06c11b2b1e77efcd425276fe6a2e359a545a7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/bridge_suspension_truss_grime.png-6aa4b72fb3d59e38bbf4a0034afb1bbb.md5",
+      "sha256": "c9d0e7d0317feb54312d9b29e04b21a42b1db29ec91441ac2df085a5272612c2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade.glb-7e6bd1b53169d20e2094302911bd69e1.md5",
+      "sha256": "ec84e26be5aa31e2d94b60dee41f61330c3eae606236ecc2fe1a210afbbd4bb7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade.glb-7e6bd1b53169d20e2094302911bd69e1.scn",
+      "sha256": "ef94b899ad3e5106f250c5a57072b067afe78ba91ff83f29605db78bd5d15e11",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_awning_diff.png-0cce632f0fdc629ffdf4057c1ff88967.ctex",
+      "sha256": "a4f544ab6b0ce276e4e7c24091d0be79190b5479ab9082e76002fa6284c6cde9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_awning_diff.png-0cce632f0fdc629ffdf4057c1ff88967.md5",
+      "sha256": "f793f6b94ce1f6a7da0fa1288fa150ceac8c6fe0ddcd883136844a8c01ea0912",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_open24_diff.png-63fca4578cae6efeec5dc723c059fe77.ctex",
+      "sha256": "b5902d3bed7d22d1330f63a6a20075559c6a140267b45b1fbd95f97c398dc84a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_open24_diff.png-63fca4578cae6efeec5dc723c059fe77.md5",
+      "sha256": "ae471027be5f9b72f4071e8a0b734ffef3e027c2e4d9478449a57333100a16be",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_open24_emis.png-37872da725b7e39eb655c078458629a8.ctex",
+      "sha256": "8d44ac0b863bc3e4d308ca5f72cc82f892829759e6859041e15680fc60db3a2f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_open24_emis.png-37872da725b7e39eb655c078458629a8.md5",
+      "sha256": "f626916034a269d8eb9689a61c768577e8eef644a35091d42882d425d41f04e9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_uri_diff.png-69ca84da29f97ba76745e9699ecf7675.ctex",
+      "sha256": "e7a3ff4c9eeb1dc8b358dcd25f0ba05dd13811d141c784980234fb29cadca397",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_uri_diff.png-69ca84da29f97ba76745e9699ecf7675.md5",
+      "sha256": "0cde25d41a57863b91addee1561633b5bbad45e8f43fdd0c315f415a63c420ab",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_uri_emis.png-7273b24831907c362cbf23848a586599.ctex",
+      "sha256": "14d91ea2e1f0219d25a13ecb5c9fc2a4006b2b0707b32990dbf3295a80190a0d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_bb_uri_emis.png-7273b24831907c362cbf23848a586599.md5",
+      "sha256": "ff850ca43078a23310da260b611ed433e1b2bea9ed247ddca6cf356b3530e2b7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facA_diff.png-366a86d1ccb6d22cbc00b14aa9c98dd4.ctex",
+      "sha256": "5ce3653be77e3f8aa9fd01c11d78be368a7654fdbdbd17519d6077f92a5fbbd1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facA_diff.png-366a86d1ccb6d22cbc00b14aa9c98dd4.md5",
+      "sha256": "3ff0f422295568cedc9ed38338d5609dfc6fcae53acfb26eb00d22be2f828e70",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facA_emis.png-d047184d5de390ea502805ae01e44005.ctex",
+      "sha256": "a4082606a2444daf49b3f927c111c0a76ce307b3ca5dc9922caacde08ca28225",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facA_emis.png-d047184d5de390ea502805ae01e44005.md5",
+      "sha256": "4d8104b799614c149d5df73a1bf8d0b226952e58d4d2d378296521d32821f16a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facB_diff.png-fe8f3db7817c3ffbc73075a1d7c37d33.ctex",
+      "sha256": "59d2f57845660070bd174cf1c1607464ca2d412b578550d27c41ae88d40d38ad",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facB_diff.png-fe8f3db7817c3ffbc73075a1d7c37d33.md5",
+      "sha256": "21962ff4b18a68f716091fc45a88d81e104267a07714ba99ca74dcd995be4ec1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facB_emis.png-6aa7bcbb3b66801f9399e034d7269ecf.ctex",
+      "sha256": "3daf31dc5e5d39edecc7677746c6fecfba1289d24d6be92077ba073521e238af",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facB_emis.png-6aa7bcbb3b66801f9399e034d7269ecf.md5",
+      "sha256": "27686f9683eac38a7ec7c14798aa61311741ff122db4f991a308826afb432077",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facC_diff.png-25ebef486256c0d7759a0366a45b7dec.ctex",
+      "sha256": "934326888051ab137e5fa92b65375c07e637b60d44a444a7b4265e83cca319db",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facC_diff.png-25ebef486256c0d7759a0366a45b7dec.md5",
+      "sha256": "565353b711ef9f80baed71bfb7dd5fe1acc4eae9a8ab43126cf112f70508d322",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facC_emis.png-746560afc43ac5da28e305585a00554e.ctex",
+      "sha256": "fe808467043252459dbed850a30bd057f791991aa2d9456bf7da27929cd248d4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_facC_emis.png-746560afc43ac5da28e305585a00554e.md5",
+      "sha256": "c6374fe9a2ebbc355afe361dc5fa78535e4398ac3addcb8d248db5f51bfb17af",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_podium_diff.png-935627d0e639ea1c79eee15dcd0e6f58.ctex",
+      "sha256": "25b5215c22cf62e25638b9dd4b8d9f7a785d9eb5c46e2f91011379cbb31643f8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_podium_diff.png-935627d0e639ea1c79eee15dcd0e6f58.md5",
+      "sha256": "609a829bca858a09db99add33fa545f7065685f6c2292adf80c419ad05fb497c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_podium_emis.png-2f7734f63f254b28b0a2169f76052620.ctex",
+      "sha256": "bb91dc75b3bd2a59a5b2295979e98e7851a80e5727654eed7a2ddff2147fda66",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_podium_emis.png-2f7734f63f254b28b0a2169f76052620.md5",
+      "sha256": "ec4162cdb979f2af3e08e8bf6aad0c591e633a5ebef8aa72938f5f8282e559fa",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideA_diff.png-2ee7744bd253b46e5d97cd71014b9be0.ctex",
+      "sha256": "ba0f732729af477a3ba366b4a1b46406ef6e502ee640f4f2625d2421d4af728a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideA_diff.png-2ee7744bd253b46e5d97cd71014b9be0.md5",
+      "sha256": "2272b05560e63f326541d65efc7e6d2f67447e57d74a79e7277b965f84932d12",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideA_emis.png-3f3951aa39d511e755539791dc5b7ee9.ctex",
+      "sha256": "ee1e609c26b27128dadaaadb0433f3c2013edc7a3bf05f9574024100c4aab424",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideA_emis.png-3f3951aa39d511e755539791dc5b7ee9.md5",
+      "sha256": "8196960686f50b8cc5ce623a93f46bd7d78a63e37de316b928efc435441893b1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideB_diff.png-18ce4dc677d531e20d78a1a5698ddd61.ctex",
+      "sha256": "331f223134419117738b435cbbe127deb95678cf719b0b5d0754157ee1e95580",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideB_diff.png-18ce4dc677d531e20d78a1a5698ddd61.md5",
+      "sha256": "b0b4a18060bdc41a20c5a8a1c4c01b04fe5d67e8f850ffcf1fe274fbd70402a3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideB_emis.png-175adcfa82c6ee9e31e4d8de23908541.ctex",
+      "sha256": "0b7d232d6c7f6795ead86943d3c5937d6ea1b75377d867c5305150f8aa8d52b1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideB_emis.png-175adcfa82c6ee9e31e4d8de23908541.md5",
+      "sha256": "17ab0c8ebe35982ecfa48e0e8952dd4f145c5fc7a81033e6afc1c349f99be140",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideC_diff.png-679578a767cda5566a733b7678612fd2.ctex",
+      "sha256": "5201baf60aedda14b0e991bbcd0e0810ca3165f2253ad9055a7d9271d7e4d4d0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideC_diff.png-679578a767cda5566a733b7678612fd2.md5",
+      "sha256": "f856ea8db5e84ea3b8f956d2336bd6fa9da9a702da35f6e7c72e1981822090ab",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideC_emis.png-6ce37a7b9ce5269f7d803599fb527d79.ctex",
+      "sha256": "3ca3b49e9d3bdd2757aef12032e78dc7730609b0a0b13de0ca6c7dd49129b876",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sideC_emis.png-6ce37a7b9ce5269f7d803599fb527d79.md5",
+      "sha256": "5963db758a6e7cf60e8c1c877afde6223e68f7c8c1af065a2579103c9a030ed6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_biyouin_diff.png-9db413f9101334285245f287dad45173.ctex",
+      "sha256": "21aeb56dfd30afa9fb70d11c5031c0ad58affb73ee21f0a60c5e1897c3733e66",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_biyouin_diff.png-9db413f9101334285245f287dad45173.md5",
+      "sha256": "3f7fd1ecf0a0058264db2eb976d758b243b57bc9cb1635c79da7c40856fe7d7c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_biyouin_emis.png-ae2144a32a03895358fc4465494dd582.ctex",
+      "sha256": "bad5d333361d4347c67bb47c779fdc4e328813dedd363de1efae6ea14e28b2b1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_biyouin_emis.png-ae2144a32a03895358fc4465494dd582.md5",
+      "sha256": "d50f728129a1aaf7ac90d69e11b3b953407c2880bc93c5c12fb916a93a031826",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_game_diff.png-966c3dd60a5bfce8592fb97fa67b3e54.ctex",
+      "sha256": "f9e72db6484b48bbebb7372485d906690ebd91f68eb03b465c207b76894a77bf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_game_diff.png-966c3dd60a5bfce8592fb97fa67b3e54.md5",
+      "sha256": "3c42e243d6f1954a067f8b1f6e215e5ea873104f985c0177d8e3d42267c27f0c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_game_emis.png-dcb0c3f34b3828acd2151e04ffb11483.ctex",
+      "sha256": "c8b72878cfec038b3cea342a288e288bf9b3d3305b3e6dee3a68ceb1584835c8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_game_emis.png-dcb0c3f34b3828acd2151e04ffb11483.md5",
+      "sha256": "3d9d856f65810fd5fc82b4da5e55ec2fdc273c77f28cb670812c6c0470871141",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_izakaya_diff.png-461c8ac1a41e0fbd5042b2f8c917248d.ctex",
+      "sha256": "f54313e2bb64c981fda6611b56de70883d7b58c5ed6cb7732e7884af3fbae012",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_izakaya_diff.png-461c8ac1a41e0fbd5042b2f8c917248d.md5",
+      "sha256": "c145addf32205f083257147a6905291c58f976a8f8cebf138a2aca06de29d2d4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_izakaya_emis.png-ad94a2be3d2c6786e7823c4db27f3609.ctex",
+      "sha256": "6650b71c65a3805d6d3da357dd771372a407b6377325a210f3e629c8e7feb7f7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_izakaya_emis.png-ad94a2be3d2c6786e7823c4db27f3609.md5",
+      "sha256": "cdbb4c21cceb813347b3bf6aeaeb39067c46cfce262dcbcf8b21f8c3c7d6e1a5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_karaoke_diff.png-a3aa755bea1e4629436577f125230d09.ctex",
+      "sha256": "2ea8b7f0bfa89cc04b519590a5ccfd73b9454f273aac6014740c50e3b4dea7aa",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_karaoke_diff.png-a3aa755bea1e4629436577f125230d09.md5",
+      "sha256": "799abe8820f4f0d12ee47382f4bb4bc7757dfb109f1a267d9c666f6dfce47667",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_karaoke_emis.png-57a1390f7fa7ebe4a6febe84c89880e6.ctex",
+      "sha256": "e29bf5e5d0a46ff7facbd72182134dc8c5e7a98c716bf4a00ad8a52648fad19a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_karaoke_emis.png-57a1390f7fa7ebe4a6febe84c89880e6.md5",
+      "sha256": "f2be229f53e3eb495e89b049f596d5b51238a65d54814bd646b21df2547f81c8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_kissaten_diff.png-9b72953cd1c6d23f4acffd00a4dca2fe.ctex",
+      "sha256": "ea52b4998729e61b11a4ae2517414f2d0f3e4696bbae6959bc17ec7f72b9eb76",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_kissaten_diff.png-9b72953cd1c6d23f4acffd00a4dca2fe.md5",
+      "sha256": "66ee9f433d980019b225b291a51a7c954f284b70bbd5911423743a941c6617ce",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_kissaten_emis.png-3c3071bc8a30b31e082d051a8afd67ad.ctex",
+      "sha256": "132cac85fbd5a4727fa101c1e1f5e2d850da22ef679de5cd0094ee7aa86c4ce3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_kissaten_emis.png-3c3071bc8a30b31e082d051a8afd67ad.md5",
+      "sha256": "74c530df95c77d332af6e268404352c102f371eb5e3fd3ebaa56d2886b3ae2d4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_pachinko_diff.png-3684a0197c026e446e0fd4c7a1e118d9.ctex",
+      "sha256": "86673189e4df77db5953143a5ce8def1c11a31b1253f11c9f2cfff5c51fddb10",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_pachinko_diff.png-3684a0197c026e446e0fd4c7a1e118d9.md5",
+      "sha256": "3aea3637d3a87a7b816c38f2a04389e53adec5887d957897594d5447196ed932",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_pachinko_emis.png-c8e24a7ff60bdf859150c2c7ebf3fa1b.ctex",
+      "sha256": "8f8ab6296fca77cef878c55f5f84ce39b2a024de51321e12f5902791a38abf08",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_pachinko_emis.png-c8e24a7ff60bdf859150c2c7ebf3fa1b.md5",
+      "sha256": "5a79f89e610dff01eb24831491280fae7b4e3a951473384557d26a95c027f6be",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shika_diff.png-54b362678b964bb9d6bc025eabed7439.ctex",
+      "sha256": "45fd7d04dd89b46e2168e35a219bf79d9acaa7b02b3c4702a89b72d34d27a84e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shika_diff.png-54b362678b964bb9d6bc025eabed7439.md5",
+      "sha256": "384d0e2e0d86e91df4c1703814f3292d6267eabbe4854cc42d5f7176ae7322b2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shika_emis.png-46109f7283f3356eab0d99fa337f65ca.ctex",
+      "sha256": "ab96c441468b982bb81e77221444ee65570d9ea7b3860590c62d1c0325e5204a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shika_emis.png-46109f7283f3356eab0d99fa337f65ca.md5",
+      "sha256": "aeabc218637971f94e2b9134604e3597cf6ff52ebd432f7548443c1779fc4fcb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shoten_diff.png-763966636fc47641d6000a23eb1b0e85.ctex",
+      "sha256": "29bda35b9405e87f67cfed3f69a33a8821d869d5143668aaf2bdb4868b67fe7d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shoten_diff.png-763966636fc47641d6000a23eb1b0e85.md5",
+      "sha256": "a72ccb765a860d1b92c7b33abf43b188b4855b16d04379db826b08109baba448",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shoten_emis.png-1bd57b8487567843f911ca01df33a581.ctex",
+      "sha256": "96111a7e8e9f8f8882494c236c54b846e2f112dcb2e20090f5c0e06679b79b41",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_shoten_emis.png-1bd57b8487567843f911ca01df33a581.md5",
+      "sha256": "6b9c0cd0b08a9e6bcee226df21fe10c40bde76e90687bf0439dbd3e8f43f4591",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_snack_diff.png-2d30fa39e22cddb9034eccf08dd75fde.ctex",
+      "sha256": "69cf7247cd9a7c1c258afc44e1bfb0ac26923aff36ea1b6fd4e25dcae2b2a0d1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_snack_diff.png-2d30fa39e22cddb9034eccf08dd75fde.md5",
+      "sha256": "e7533e23b204563d301af90cb2a444f4b074414e350a644b63d45d4fcf1832e6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_snack_emis.png-dc8b98b7fd0f7c3c3b2d3f2994ee3b27.ctex",
+      "sha256": "b07f128964e95d4ff927b0117a7bf510f818fdec1aabc5333eb60fd12309bfa8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_snack_emis.png-dc8b98b7fd0f7c3c3b2d3f2994ee3b27.md5",
+      "sha256": "4cca24fe9b40e7a75b73f9c9f4cbfd303bd75d8109f135616eba5c6daf17a607",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_teishoku_diff.png-0991cf8f18b843741d1fbece5374a56c.ctex",
+      "sha256": "7cbee7b615cba3126fa8528895e8755d5f75bd15077f08a8f4aa4538833cbe88",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_teishoku_diff.png-0991cf8f18b843741d1fbece5374a56c.md5",
+      "sha256": "d5196c43330722072efe8f39397b3b381e9da041056893121731f663b92d7eb9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_teishoku_emis.png-c83640b54e6757bb60ec3ea6e77c3747.ctex",
+      "sha256": "d212e39c2cb512c7c96d35f03d3c821b82a5b1cc3d88f04ec7ac8ccb0a24f429",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_teishoku_emis.png-c83640b54e6757bb60ec3ea6e77c3747.md5",
+      "sha256": "77e28ce4a365191a1e5a93b76d89255fd0acb582ee4bb903d5bf5caf2ddb2a5f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_yakkyoku_diff.png-bba6cce64f102a4c557629423137acaf.ctex",
+      "sha256": "a44587038f8c943961b2e865a7da4f57811711595ff8d58ea7b392503fdf9f7b",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_yakkyoku_diff.png-bba6cce64f102a4c557629423137acaf.md5",
+      "sha256": "be279b654cc460cd20ab3c671d98778489259b048bdc99fc4c0ac298e8235437",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_yakkyoku_emis.png-0b054ab126e4db584816afe2fe90c5d5.ctex",
+      "sha256": "c960042cd0be57cc0436646e7738d2875b35753bd87020a30a860a34b2e1495e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/downtown_facade_sign_yakkyoku_emis.png-0b054ab126e4db584816afe2fe90c5d5.md5",
+      "sha256": "bf9e4519adebeb5012557de5899e30e708b231921b532c50c6b60eba7bd38ae5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/light_pool.glb-e46e30f446d9978ad3f8c077d95491ca.md5",
+      "sha256": "a46c90eeca071661ccf6147cf788ec0d1e09e35e7d70d75e1818caebacfb71a0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/light_pool.glb-e46e30f446d9978ad3f8c077d95491ca.scn",
+      "sha256": "e1da2cf0aa3be7986b93b195c725e5b789d0c7ab7f1c3a53dca907cf3516ba66",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/light_pool_light_pool_warm.png-7e136d2a500df3e1ceaee4520e9759c8.ctex",
+      "sha256": "c1d9528123c2ce89edfa73fd39f8be74ce92dc7a6547db2d5bacd69d3c68a3cc",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/light_pool_light_pool_warm.png-7e136d2a500df3e1ceaee4520e9759c8.md5",
+      "sha256": "3754506fb336230ff54eaa4de76385662a44896a5181ab95129c71cb4ab77c8a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_pillar.glb-14ed2e25beaf84db8e8ce18269ce4d23.md5",
+      "sha256": "fed72fe0cf374bad60b006762b95fa435c90791e8e32c4ceaa322540778292f6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_pillar.glb-14ed2e25beaf84db8e8ce18269ce4d23.scn",
+      "sha256": "5f70dfc73daf0f95d6bfcf99fa8f1b59a34df299ca510fdc5b0adb6af77c8f37",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_pillar_booth_sign_red.png-d7f64468c2ab268eeb0af2d2ba6f437a.ctex",
+      "sha256": "c70c539285bef963c6c3abbf527d5909a3015510c58034d1452230f1dadbe07d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_pillar_booth_sign_red.png-d7f64468c2ab268eeb0af2d2ba6f437a.md5",
+      "sha256": "27e601efea13cc529309cd273e1d9e01f74861defaa7a5f682564c0001d5b33b",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_square.glb-5c4e529549e0a59522b9b7bdd18e81c6.md5",
+      "sha256": "02bd6af9ada272a44716cbfd083e682c766d0544d6a6b7ce452c3aa76f0c06b7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_square.glb-5c4e529549e0a59522b9b7bdd18e81c6.scn",
+      "sha256": "5710a45c9d30f646031056162b76212b8d77beecef34ca75db78d61b7fe718fb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_square_booth_sign_ntt.png-a9723b4103e246eaee89f9b03d0afc9c.ctex",
+      "sha256": "cd8668e4eefbd17a77c5974c07370b19b1e9a494071a22deebb8db25258e58fe",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/phone_booth_square_booth_sign_ntt.png-a9723b4103e246eaee89f9b03d0afc9c.md5",
+      "sha256": "60899c826dd9b012744f3af2d364d51592085efb19dd7181002f0d1d06f43181",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/port_crane.glb-9d8eb396cd519ab6875423611b45e644.md5",
+      "sha256": "d39dc580df95f6604961eee9178d35ceca0e9250b702bb46d87ba242ba51893e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/port_crane.glb-9d8eb396cd519ab6875423611b45e644.scn",
+      "sha256": "6e1f3f3e6044aa21d029bdfec89579e68560cba0cbc4c91a3a12162a007e82cf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing.glb-6d1e6f1c4b381e126286bed1d253dc92.md5",
+      "sha256": "49b860a63612144c0d68ad90b8a767d2941f16c9dc1be9cbc21833bf98a08f77",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing.glb-6d1e6f1c4b381e126286bed1d253dc92.scn",
+      "sha256": "e5438724e9f2ab38bc0d095b47c950d329a6fb60e8ad0c1ad27ca7cdcea3f810",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_asphalt_diff.png-75bdb5468aee470878eb1e9e239480e0.ctex",
+      "sha256": "f13c7bc7fc60d879ba960323d88ede52098a19ab8b37bcd7717c0e367c56e9d0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_asphalt_diff.png-75bdb5468aee470878eb1e9e239480e0.md5",
+      "sha256": "3f912f7fd090545da1dd77535d8071b024122b7c14b7ffbf2b46b6077382ac43",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_asphalt_rough.png-8c439ad5d312254736000a6f6179476b.ctex",
+      "sha256": "2b397d99b77cfcd8132dba390b2befd00fdacc10b8513e4e7a1d40fbc36b3fc3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_asphalt_rough.png-8c439ad5d312254736000a6f6179476b.md5",
+      "sha256": "1ddde94492dc18e5431809665420094d8f9719f1dd124a65ce3c312b06b5525c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_paint_worn.png-2ddb4fbd3d24051dee7bb38b799671a7.ctex",
+      "sha256": "c9e8d8e92900133fe32ad457d005c6465a92bfdf1752cc97e1cfa7651c2fca1d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_paint_worn.png-2ddb4fbd3d24051dee7bb38b799671a7.md5",
+      "sha256": "497d9cd4a9c34a2aa7178f3d3f99f54e9f479c76ccd1e8c4283d00236a7f34c4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_sidewalk_diff.png-341b38084cae8dcc23d6bde903a03225.ctex",
+      "sha256": "f6fbf1c6602bbe44ca4b7dd0abbf39f03115f303b8c1d413ebf8638fa316613f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/scramble_crossing_sidewalk_diff.png-341b38084cae8dcc23d6bde903a03225.md5",
+      "sha256": "9ce324293c32aca1c854e43ad4af008db3b57259e2ed5e22c0a1ef66170fd95a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront.glb-467c9c412ec6106cb1c753d778b4929c.md5",
+      "sha256": "b46b5ea6330b5770eb7279a6e822d1fdf33c1d8b13e4b0849db913fbdc85faa9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront.glb-467c9c412ec6106cb1c753d778b4929c.scn",
+      "sha256": "3a061b30c2554773f6c6f884a69c9f4637488cd4fcf731149efe88b416c85afa",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_chochin_diff.png-2dccc79b6ffd3f000798c30f8fadd743.ctex",
+      "sha256": "c5cd6bdb97e7b7d630f3f68dcee34015547554c1b93a5742616490af019316c3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_chochin_diff.png-2dccc79b6ffd3f000798c30f8fadd743.md5",
+      "sha256": "50b6e1fea7196846ad5f8d502fe9333837a98870760c15e8218938e3e75dc88c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_chochin_emis.png-7280ef9f9388453287680d3833e3bc93.ctex",
+      "sha256": "68bc978884626172e4125034692e19b222b7f0cb711aab67ffde81ae857725df",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_chochin_emis.png-7280ef9f9388453287680d3833e3bc93.md5",
+      "sha256": "a556f197815610cc2afe69e5e30efc0d9aa1a4eb2c98e21da7ddf7b4535396be",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_a_diff.png-6438daba3a10b4e983c2e1a887e7c8e9.ctex",
+      "sha256": "75da263dfb15a2eb7c5445cdf17d055cd835922213595d8261c68d5ec21fb9f8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_a_diff.png-6438daba3a10b4e983c2e1a887e7c8e9.md5",
+      "sha256": "a014e597b3755cfdbec51c70ebc11f4d205c8dfc5d86cd963c6a2c385b289ff1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_a_emis.png-bb15ac2cf24e49ffb9a579909b775a90.ctex",
+      "sha256": "53787a2c2dd135476f6babfc555082c9f1ff97d687b2894fbd912fadc5f1b3bb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_a_emis.png-bb15ac2cf24e49ffb9a579909b775a90.md5",
+      "sha256": "9288431d13855a27bfbe7f7f5af35f32cb57f7f53137b64950b93843e7fc797f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_b_diff.png-21194a9149752e92b02e22740a3a5484.ctex",
+      "sha256": "7e0ab1d83a5892d733aa8f874f5f5b9cb948a863de694d6e4e9de4d3491ab80d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_b_diff.png-21194a9149752e92b02e22740a3a5484.md5",
+      "sha256": "439131b0f2ba269c4fb24d956365105f1aa15643be21a8858dcbcc7686764998",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_b_emis.png-83d294885b9bc666f9d7acd8ff36edbe.ctex",
+      "sha256": "4a47bfea946ad6174e23260d8006fcb719f8a7c3405063c592ae564822b6d7b1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_b_emis.png-83d294885b9bc666f9d7acd8ff36edbe.md5",
+      "sha256": "cdefcc00c0deb4d7a354b22cc9aa8aed423cc869876e308c125a1396b566b523",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_c_diff.png-c97eff568fb1810d5c11e526cf6efaf7.ctex",
+      "sha256": "f43ae26cd729c89b4cd976fb4bab9d29eed4eaa32e509b89185eb2b8c9c3aafc",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_c_diff.png-c97eff568fb1810d5c11e526cf6efaf7.md5",
+      "sha256": "c4b26281bf674d84bf0630c1227bd0cfcf5b87b1318f006da9a206083a3b8dcb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_c_emis.png-db6d18427afe0c082804dcf02fcef295.ctex",
+      "sha256": "8f1ba6c0d511cb2e38d33183a485b444c7c41ca0b5c6f65e4e78a26ab873142c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_interior_c_emis.png-db6d18427afe0c082804dcf02fcef295.md5",
+      "sha256": "4a0493b191eb422c86a3093a06f636241e5a7e694b74b2a2f5506302d3fc28b9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_kawara_diff.png-72bf7decc63962e634d48c0de2648f97.ctex",
+      "sha256": "a924fd4a7d41dc3ccb646d930a771dbe6eb287a5247511e3759d8c066f17ce65",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_kawara_diff.png-72bf7decc63962e634d48c0de2648f97.md5",
+      "sha256": "3a939fdb6f9ea3a2da640519d651507739ab6be47f0965c0cd5b207f6fe8a35f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_lattice_diff.png-c8cbc1867b10434b5b905ac7d478399d.ctex",
+      "sha256": "831223a763662ce4335d47dd25000268e89d14c679b4242d971b4ba364595f44",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_lattice_diff.png-c8cbc1867b10434b5b905ac7d478399d.md5",
+      "sha256": "8491000672d5a657015eeeddc25db7292db9b7d9a7fee89a36cdd3890b38e0db",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_lattice_emis.png-0aec9a6cb91704527d3d2ddcfa839314.ctex",
+      "sha256": "e664105aaa2445cb4aece28c9d12baf968db65708279cc02a6483f887f48eb0d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_lattice_emis.png-0aec9a6cb91704527d3d2ddcfa839314.md5",
+      "sha256": "62a92b6073668d9dbcb09465bee041a0c856d1b8a3952091775980706f7fc949",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_ramen_diff.png-2a2cf3d5283e492d9cd7410b4c3c4891.ctex",
+      "sha256": "6684262a32e9bf423a4f8300398faaa584320d5296385dd24b10b3bd9c6a8bad",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_ramen_diff.png-2a2cf3d5283e492d9cd7410b4c3c4891.md5",
+      "sha256": "a323a683f04e2ca6e99316d1ea50e0e4fa00a3ff599f6286183a2b24985eaebf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_ramen_emis.png-bbeee4e4039458eac1c8cbf99e2cf814.ctex",
+      "sha256": "19fe6437956ac6cd9a12a5678ce3d08d42d615ad1b2eeff6f621160fd0e9ac80",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_ramen_emis.png-bbeee4e4039458eac1c8cbf99e2cf814.md5",
+      "sha256": "da7f367ba11048f9878ce63a31d2d9f96a84ab6f6bbe96ffb55ef024c85a3e69",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sakaba_diff.png-b0ab2284e06653814826d2d4ca1c03b2.ctex",
+      "sha256": "7be79dc7df5531b1a99e50e9a62a9f57eb425c0f841833787abd0cafa6c48380",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sakaba_diff.png-b0ab2284e06653814826d2d4ca1c03b2.md5",
+      "sha256": "06a52e499e55e67b0bfd030a95852754b6abe3f27643efc49c9f87db03c048a7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sakaba_emis.png-05c8089c3e9dad826af80981a9dd2ef6.ctex",
+      "sha256": "694bd6d496314f8e3b3f85d5cb080b2fed587797258cb837614cbfa76021123c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sakaba_emis.png-05c8089c3e9dad826af80981a9dd2ef6.md5",
+      "sha256": "8ee909e2f0c233914a1f3de9e36acc8731156d503c548e8a612f5abbf1d49618",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sushi_diff.png-bf027b2a69b42e570402f836051a656b.ctex",
+      "sha256": "b8568881af20b6963a34d2bfdb58f251380ad38384109ea7c30ddf0ddb727dba",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sushi_diff.png-bf027b2a69b42e570402f836051a656b.md5",
+      "sha256": "ff2eaf56ba3f2d87149f9ea60897b32dd152e482c0d4a3227925882fa913ff7f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sushi_emis.png-bc2de144f32535ef1f2d0cd2725ad9f6.ctex",
+      "sha256": "e0df9f17fd382235b2400c6a7c15de43aba3ad4607ff7b9b91ad8edc98d9ee97",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_noren_sushi_emis.png-bc2de144f32535ef1f2d0cd2725ad9f6.md5",
+      "sha256": "4d8bc80c2e314a7fdf13553db2bf5fd172c2c57cba8ea71d1bd1de946eec2fef",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_plaster_diff.png-777a8a6b2201ac9b74ec3a1b89a0441c.ctex",
+      "sha256": "0f528d516a82e9bf353874dd9d707f63e00a369c05b03cdbb61d0a32de8c0ba3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_plaster_diff.png-777a8a6b2201ac9b74ec3a1b89a0441c.md5",
+      "sha256": "90e43ca44edf4f9c709c367f9a031a06fb66ccc555933f5fed89613c2460f8c8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sidewalk_diff.png-4746a9f7f3903ac0f4516bb2960c819d.ctex",
+      "sha256": "f6fbf1c6602bbe44ca4b7dd0abbf39f03115f303b8c1d413ebf8638fa316613f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sidewalk_diff.png-4746a9f7f3903ac0f4516bb2960c819d.md5",
+      "sha256": "9ce324293c32aca1c854e43ad4af008db3b57259e2ed5e22c0a1ef66170fd95a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cafe_diff.png-d14ab5dbb95d83981d5f5049bb779470.ctex",
+      "sha256": "1714ef5d70db7e500141e2fe6ddadbf7c0876612015d494e1ea7a7bf30dce725",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cafe_diff.png-d14ab5dbb95d83981d5f5049bb779470.md5",
+      "sha256": "a6e47cb97d5e590c6beb1a05ec66b54ae0f1d624828746dd4a836b9a934b1c18",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cafe_emis.png-12b33ddc2ac34829cf745cb1c6803dae.ctex",
+      "sha256": "f693eb3efccfcb6f72a55dd6ddc62b627b4db5a6e10e17875f9ff523a9b28d3b",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cafe_emis.png-12b33ddc2ac34829cf745cb1c6803dae.md5",
+      "sha256": "3811d0171b00c5a233c15922c627d4213c670913810cc9fa40a03b6fbbe6950e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cleaning_diff.png-44a6d7ba43ffdf203f88c8a72ebcdccb.ctex",
+      "sha256": "69360795756cbda318d4cbf2f8826184d1c522d21d89ec012959c3998ac34b5f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cleaning_diff.png-44a6d7ba43ffdf203f88c8a72ebcdccb.md5",
+      "sha256": "c77429cbeded6141bedc247b325f0e495e6bdd1d542f2ad1c296243139fa26fa",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cleaning_emis.png-a1eb41b7fdb90bcf338df5d11aef67fd.ctex",
+      "sha256": "51de2907683b4f041aae03e96a7957d5a02ba899db856cf5d4cde95ed861475f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_cleaning_emis.png-a1eb41b7fdb90bcf338df5d11aef67fd.md5",
+      "sha256": "e6ee91bc97f3fd0e7c4b3ba990ce3a23f3cc48bade5935b0226e94cfaa0d24b5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_honya_diff.png-4fe475ff2c852fe715e61177f61df94d.ctex",
+      "sha256": "77d115f4b42e0181c3215766ca82d688175042048448d966dafc17466575f99a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_honya_diff.png-4fe475ff2c852fe715e61177f61df94d.md5",
+      "sha256": "060541c3c1822d5fe451872d835a085071155079fd859c95f52fdcfef8d372c7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_honya_emis.png-8f03324d22fc2dee8f057536a6d54dac.ctex",
+      "sha256": "2378720ca8fb0904d923df59e11bab5b0cd707c2ea8713c7de5a706da82d6c5a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_honya_emis.png-8f03324d22fc2dee8f057536a6d54dac.md5",
+      "sha256": "f0d4b490f22c701abb85e5e9b5ba8212fb606f2224135c71f79f3fab04e0842c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_kissaten_diff.png-24d61d07aefa025102b1288348b3a2e6.ctex",
+      "sha256": "ea52b4998729e61b11a4ae2517414f2d0f3e4696bbae6959bc17ec7f72b9eb76",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_kissaten_diff.png-24d61d07aefa025102b1288348b3a2e6.md5",
+      "sha256": "66ee9f433d980019b225b291a51a7c954f284b70bbd5911423743a941c6617ce",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_kissaten_emis.png-6ca758156f26ae68f7ec7117ac8a8bc0.ctex",
+      "sha256": "132cac85fbd5a4727fa101c1e1f5e2d850da22ef679de5cd0094ee7aa86c4ce3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_kissaten_emis.png-6ca758156f26ae68f7ec7117ac8a8bc0.md5",
+      "sha256": "74c530df95c77d332af6e268404352c102f371eb5e3fd3ebaa56d2886b3ae2d4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_ramen_diff.png-d857c7b1a07246e0b262671584745079.ctex",
+      "sha256": "b29e879a5bc93c6c2b0b3946e0d61e8c07de821d200a17908d8fb4150d11a408",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_ramen_diff.png-d857c7b1a07246e0b262671584745079.md5",
+      "sha256": "6c6ad4d65bd53146b526fb8f08434f9aa01d9d262e301180d0756600e94d3cb2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_ramen_emis.png-647daa1c2993c389690118279a856269.ctex",
+      "sha256": "a2f00e85d86b244098ca2eb250c846e1873b7213294ad394c7b45cf2259bee74",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_ramen_emis.png-647daa1c2993c389690118279a856269.md5",
+      "sha256": "e5147d8a771d64d8d2075366701c200ffc1b5f46186f6fdc304e8738f168c573",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sakaba_diff.png-0b90ba0527d8f155e6b915995c56509c.ctex",
+      "sha256": "384039c883dde2527c8a556a222c03fc22fddcfe954ee27cd63ee62bcda4005c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sakaba_diff.png-0b90ba0527d8f155e6b915995c56509c.md5",
+      "sha256": "1c696f95e34a7f18dcec1baef92287f0c60c46d580bd3742dc5dfa6fff08a76d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sakaba_emis.png-b22114ab02dd20d81ad4fc9cae909b39.ctex",
+      "sha256": "838cd050037b1c9a990aadc698c60333316ba60f48df6b61ec41810acbce934a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sakaba_emis.png-b22114ab02dd20d81ad4fc9cae909b39.md5",
+      "sha256": "8a514d2c458812660e7e96326e2a215b3dedfca99a5c0dc61e463c9f7a591ef4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_saketen_diff.png-2a840a052923f4a33eb2097a9ea996a3.ctex",
+      "sha256": "2434deb9dd0fe470252447e08059b81abbafa8ec1fb0ef8c929aeeda76d7bfcf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_saketen_diff.png-2a840a052923f4a33eb2097a9ea996a3.md5",
+      "sha256": "19db36240405c5d0120432c65da9252ec6c11da33f796c03422c3ce10c0a73a7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_saketen_emis.png-922edda4e5323283fabd994abb0ffa69.ctex",
+      "sha256": "4c9b31c00ac1938393b2848e3bc34e92c8e7ee6e98a7580ad253a53af0f44cd9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_saketen_emis.png-922edda4e5323283fabd994abb0ffa69.md5",
+      "sha256": "48f128ff863ee73a700e6ee462a4d6677a4607ccdc06dfe740893a029dd08456",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_shika_diff.png-6652a1fd765b36b898c54a967206cb09.ctex",
+      "sha256": "45fd7d04dd89b46e2168e35a219bf79d9acaa7b02b3c4702a89b72d34d27a84e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_shika_diff.png-6652a1fd765b36b898c54a967206cb09.md5",
+      "sha256": "384d0e2e0d86e91df4c1703814f3292d6267eabbe4854cc42d5f7176ae7322b2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_shika_emis.png-b738187f85236ee1f68005087f5b93a5.ctex",
+      "sha256": "ab96c441468b982bb81e77221444ee65570d9ea7b3860590c62d1c0325e5204a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_shika_emis.png-b738187f85236ee1f68005087f5b93a5.md5",
+      "sha256": "aeabc218637971f94e2b9134604e3597cf6ff52ebd432f7548443c1779fc4fcb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_soba_diff.png-658257ceee0934267354be5e5508bbd0.ctex",
+      "sha256": "5492362e9cd8b97aac3c4dc80966df81825b5d762347a214229545f1d25ca204",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_soba_diff.png-658257ceee0934267354be5e5508bbd0.md5",
+      "sha256": "3b814d17bc8aa28e18d533973e02dcf38ab4a58faf0f69b63e4893b03505b83c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_soba_emis.png-a99fa47c1b4a242db73b956190d9885e.ctex",
+      "sha256": "858127fb943b586aef890b5d16a0de2ff5e50c1ff70e4aca9392b5683c550205",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_soba_emis.png-a99fa47c1b4a242db73b956190d9885e.md5",
+      "sha256": "ca2bdcbfb5ad492832f0291bb6ffbfc4275d6206a5fdb63dad66b0bf4b192df4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sushi_diff.png-cdc334b669783b5ae15f8f188a7458b7.ctex",
+      "sha256": "a7a5cefb7f63337c731b518a9b9fba1d8c2b0dda704528c6592875359e32c775",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sushi_diff.png-cdc334b669783b5ae15f8f188a7458b7.md5",
+      "sha256": "e7e22145bfc86bed5b3fec952f5efe662c47983c83bca43dd169df8c264d9295",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sushi_emis.png-92aa5f3f07122de75a72227e53cc4615.ctex",
+      "sha256": "bf21fa6787b595ad0b89e3773946dbb52409fbba588d26d8b4ef437483a4371a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_sushi_emis.png-92aa5f3f07122de75a72227e53cc4615.md5",
+      "sha256": "fe336d1b18721857a6583da9d885a82f05ec70901668200d11a8a9116c3e8fe9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_tabako_diff.png-bbd13ba5d639bae6ae7e0ac4cdbe9990.ctex",
+      "sha256": "acfc86dd5b089b72b254927cc4032e9728d1c97570d8dc5df4f8de536049c9f5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_tabako_diff.png-bbd13ba5d639bae6ae7e0ac4cdbe9990.md5",
+      "sha256": "e626b119a939d984b0d3b48616a8a2724f065d196e2b18ab9f1e13b4379f170c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_tabako_emis.png-7bb26060169d67099bff3e91ec236120.ctex",
+      "sha256": "90ce88844d5709161734df0a15e43b2e60c564b0d24032a3559cefd19856ffb7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_tabako_emis.png-7bb26060169d67099bff3e91ec236120.md5",
+      "sha256": "f7e6e041110744d3e74cd08086c1a60013993e96e58d483797cc7998b9011cfe",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_teishoku_diff.png-85642bcda70fd5473fa05684b687f5b3.ctex",
+      "sha256": "7cbee7b615cba3126fa8528895e8755d5f75bd15077f08a8f4aa4538833cbe88",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_teishoku_diff.png-85642bcda70fd5473fa05684b687f5b3.md5",
+      "sha256": "d5196c43330722072efe8f39397b3b381e9da041056893121731f663b92d7eb9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_teishoku_emis.png-bbb9bea9707a8fa70f62c926b2ebb3ef.ctex",
+      "sha256": "d212e39c2cb512c7c96d35f03d3c821b82a5b1cc3d88f04ec7ac8ccb0a24f429",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_teishoku_emis.png-bbb9bea9707a8fa70f62c926b2ebb3ef.md5",
+      "sha256": "77e28ce4a365191a1e5a93b76d89255fd0acb582ee4bb903d5bf5caf2ddb2a5f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_udon_diff.png-3e78903cdada1c3ee1185cb19f8cf138.ctex",
+      "sha256": "5e9b9869b63cdb32f54e90b9fab8e541489735d45a2d030cbfc75a5383bef7c5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_udon_diff.png-3e78903cdada1c3ee1185cb19f8cf138.md5",
+      "sha256": "4bb4663e84d6d16627df5cef58d196d2d6378d1a127ee7eb8362ae456af420f0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_udon_emis.png-b8126cedb6cfb801a2becf43e928f809.ctex",
+      "sha256": "4a76d346abc190339508f8375673aa5628ffb1b4d94b9ff92a6ed8327d8e0a73",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_udon_emis.png-b8126cedb6cfb801a2becf43e928f809.md5",
+      "sha256": "901edf95582c528b3098e95a35d7c147e04d77307694bd9949408caf44ac42ad",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_yakiniku_diff.png-89a946ef9e45e8450cfd9012356ea789.ctex",
+      "sha256": "92b2509035142e8d9b9b66e5287d650d8d00ca5dde312795267786d3476a6132",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_yakiniku_diff.png-89a946ef9e45e8450cfd9012356ea789.md5",
+      "sha256": "cac48fd1a8229081722b17f51e9061c80c8f3175e9ede343ee2a79a710eeca47",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_yakiniku_emis.png-0e6af031cd5c2f67ec24a0c6c347afe8.ctex",
+      "sha256": "fe7856263a9f6f3b9e154d72b94c8b263d8848c13679458a0e79c81444238f14",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_sign_yakiniku_emis.png-0e6af031cd5c2f67ec24a0c6c347afe8.md5",
+      "sha256": "332ddbbd82a4ce5c269a0f99edcfdb42e657bc892698156f65cbee9ac98dbea5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_wood_diff.png-2a1de7af491bc98cc841a855450a1fdb.ctex",
+      "sha256": "a5f6693922242d4d2357c44849108840477966a9b17bd9794ce375a7c275cb06",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/shotengai_storefront_wood_diff.png-2a1de7af491bc98cc841a855450a1fdb.md5",
+      "sha256": "c4af767cf57383616b0b8e174dc22a3b6a56396eb65998754f5c427bb94db863",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry.glb-c6687041a7b0e45716e51fe9a84745f2.md5",
+      "sha256": "891c184048ff3fd77a65142aa3f5a853db03d6b8dd39193276724fce89cfdae6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry.glb-c6687041a7b0e45716e51fe9a84745f2.scn",
+      "sha256": "9d83ad88a2c7aef480fae8bad136f8a85bd62f701bfdacea3c4d7a993b22d56c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_A.png-78563fda1241920b22e35beedc389103.ctex",
+      "sha256": "a323412c2a7c591b8728074ab46c056b2776e7c53a4d1175cede7135ce9dd1ed",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_A.png-78563fda1241920b22e35beedc389103.md5",
+      "sha256": "c59eacffbedeaeee74e90256043f320ebb6fea3f38e1f58ef6e9f98f16f05a68",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_B.png-62172a613ccb0d9c42afbeff2c5ef346.ctex",
+      "sha256": "50e1ba0d638a92f6a6590c1435beae7882b3fb28a32e4343283d3488d695c435",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_B.png-62172a613ccb0d9c42afbeff2c5ef346.md5",
+      "sha256": "94778d2084f1a110fba26db98ef9c9bd3d66eb4fb798f5e586f3b6684d6cb06d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_C.png-31348daec80378718e436a5fecd5282b.ctex",
+      "sha256": "676614b3d04ba91e0983b20e1172cfe91d46f1851ba95523a6b99ea579ecf9e8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_C.png-31348daec80378718e436a5fecd5282b.md5",
+      "sha256": "7d49a27742a369e22afa078cdc3c809e8148cb8c7b0d44eef77f770c52ee533d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_yellow.png-77d76c6b14487068dae66e22b5934fc3.ctex",
+      "sha256": "4d8b0577d858ce76d03fb822d232af7539a64b124f34bbd15855e237b32e14a2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/signal_gantry_gantry_yellow.png-77d76c6b14487068dae66e22b5934fc3.md5",
+      "sha256": "b366fc95e6dad5bb5ba0e5ff0c60a7b340d2abb94ccf339f6ad4f27005adb1c8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/street_lamp.glb-14d23d37eb71745dbb78efc807d79760.md5",
+      "sha256": "99afe8231011458cb0737d226141dbb2209bf0211f2e20cb87b0fb4b3c4a24df",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/street_lamp.glb-14d23d37eb71745dbb78efc807d79760.scn",
+      "sha256": "846a458566e0081942c8f54a6fddb58695cd3a2bf241422c274e439a3d276814",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/street_tree.glb-fe688fc466409a39262768db3c48139a.md5",
+      "sha256": "b88237d89f7b3eb655c3724b642539c29b54dea738ac974afc70e89e249a5c54",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/street_tree.glb-fe688fc466409a39262768db3c48139a.scn",
+      "sha256": "4af32d9f9e6be1994648b07b7c41e466f9dc70beba49f2aecac1a6839df13000",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower.glb-652acbdee407408e2092576913d71c51.md5",
+      "sha256": "f2726c6eb573dff1c5d288812c448fd6ffc64e49d7212bf65d0efe5eb1cd1132",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower.glb-652acbdee407408e2092576913d71c51.scn",
+      "sha256": "f424f044f26a35cb026b71956f5b3d80713e1a07ee85eecd1e0674a4681954c3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower_deck_tex.png-c1343a778fe4d41cee6c7a404ebd9256.ctex",
+      "sha256": "8f2842a9371cdfedff652cf8902291ffec9242ced80adbf3c8eddd26a4c5cbec",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower_deck_tex.png-c1343a778fe4d41cee6c7a404ebd9256.md5",
+      "sha256": "04dabb82161e5dd55ccd148683cf17d19d4c42df8c8b963c978c231798e36a95",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower_deck_tex_em.png-8c541ceb1f68b76519f6ce1ad950a831.ctex",
+      "sha256": "bc7c3eaf9ddfbd64361bfeaf068888009a698349f3ffeeb23f7ec38da61abe14",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tokyo_tower_deck_tex_em.png-8c541ceb1f68b76519f6ce1ad950a831.md5",
+      "sha256": "4ddb50778303211aa0d98a81f6052ba03bbf7b46cd1722f5e7ea06bfe693536d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck.glb-d2b61e47c8bfdd16e8a91283d2931090.md5",
+      "sha256": "9fa513554990fee409e58f2b0c428759562b641a05d162b6f86c07837fc41e28",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck.glb-d2b61e47c8bfdd16e8a91283d2931090.scn",
+      "sha256": "cc69f60eb282b3cad9016f9a5d6f5dc7b222712e5148c28e92e9ef2db6314520",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-76841529a6b83b36675f9e1faf5b28d7.ctex",
+      "sha256": "310978412e1d3a190b2a13981e1427f9e8889f24e254710b4de53aa73da9181f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-76841529a6b83b36675f9e1faf5b28d7.md5",
+      "sha256": "3a04ef1c7b5563cae0bbca95af374ed85cfe650345cc7e4f8c4257827137dcec",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-d9e65ddb06fbd3dbc7eb7b3374941c2e.ctex",
+      "sha256": "f8ad34c89837420bf459407a2f58219778331167035da38a5aaa29d601c9e016",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png-d9e65ddb06fbd3dbc7eb7b3374941c2e.md5",
+      "sha256": "c3b3a641d0e11063d54542a4e4f5b9ae328a94c91f0303e0a5aaba6787eb25eb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_boxtruck_color.png-e55a603406d4ae9b227e07b18bcfeb8d.ctex",
+      "sha256": "ce2dffbd34c1ed3a9322763de69cf56274f7a8d6d6007bbc1d0a7e65cb790746",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-boxtruck_boxtruck_color.png-e55a603406d4ae9b227e07b18bcfeb8d.md5",
+      "sha256": "7c71062af1e956d75c8e4729d9c16f9be640a26a7e57220f1580c4bb359cf6c6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus.glb-e915afe8293ecef6eb2b389a85090889.md5",
+      "sha256": "b123c69e0ac727414153fecdfaa1125ad09ddd43ac2919c65367d21c7f1ae0ba",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus.glb-e915afe8293ecef6eb2b389a85090889.scn",
+      "sha256": "cfcfe1327b216655a226d3848d78f9e53edac88d85385ee18165dc963189c795",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-d34e395d2429af9786936748c868cd85.ctex",
+      "sha256": "95844da6e87cad98629c2f8b75bfe64c2cce5a287fdfdb1a76f28f7aab3ae2f7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-d34e395d2429af9786936748c868cd85.md5",
+      "sha256": "57f28511b05e04e510b7a566de6a84c89acee9d9b74b3e1699f991340cc0cff3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-4bfe35f39f52b34089d9a18c07d7666f.ctex",
+      "sha256": "add670f800efa4878475158733507a477be4342889a4678c412341bf81137caf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png-4bfe35f39f52b34089d9a18c07d7666f.md5",
+      "sha256": "14a16e5504af4502eb79300920bb87d3b025104e17de011c62a25cf69f6f477d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_bus_color.png-fe8c02eb47ab718d731d2c9830327a56.ctex",
+      "sha256": "bdb31ab8d7385afcc39cbe431b40b7d07ea992ea5e5cd264dcc6ddbb345b9f86",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-bus_bus_color.png-fe8c02eb47ab718d731d2c9830327a56.md5",
+      "sha256": "0d796f4f96248b966260ec7fb9c374e03285de61745813ac6b650d93491f672b",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe.glb-daa7f7eb3a9f24938893fdba3f48cb45.md5",
+      "sha256": "442b6c45c327d5ae7b17c03a071a57a757f470c8cabb6679a3d3395286f2bf2f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe.glb-daa7f7eb3a9f24938893fdba3f48cb45.scn",
+      "sha256": "47c225fac21f5234eb0363af7a4f0907140edd4427e5338cef29d398860dc758",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png-181b230e4137e1bac3a815b16c469cd8.ctex",
+      "sha256": "0527c25b038589da8b82b0a4c18d95cded11e32f01818da3e3aedb3c515da01d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png-181b230e4137e1bac3a815b16c469cd8.md5",
+      "sha256": "2ac733b19f78f330705f8ae779b997a439d5d8dcdc8bdeb3493146f7b057b0f4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png-4601dc52d521619bab1468a9ac720d54.ctex",
+      "sha256": "6225885d854b28ac71d3fe7bcbe60f176cd07f2e77814d180bbe56979d3555fe",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png-4601dc52d521619bab1468a9ac720d54.md5",
+      "sha256": "a1a0d83dcfa6fa3c79dcafc74fbc3dd820e3286f19d8f7b4aabd05672786e1c7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_coupe_color.png-e8754e6420c0cccf13318057cf3e1a6c.ctex",
+      "sha256": "e3fa4716bc14b61a5ee36195ce5bf7f7efb18b84b17d0313b41717a103d15c7c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-coupe_coupe_color.png-e8754e6420c0cccf13318057cf3e1a6c.md5",
+      "sha256": "690fa9b71086ca81224621e6b949fd4fb875d55389092aceeffb10833bc44c57",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback.glb-d7fdb4ad364637342a25f3c9888dd801.md5",
+      "sha256": "a5565f4ab530088752092299f52381c22aacf29ff097588ba159c5c2fe27e4e5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback.glb-d7fdb4ad364637342a25f3c9888dd801.scn",
+      "sha256": "48ddb5389ecf36124ccd93046a78193d6eaf161b7f526bc038f5897796320a54",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png-550040f77deb144dd98a49bef3d3cc22.ctex",
+      "sha256": "c9de66bbfa0edb34fc892f9bbfd731c5842788b25c9bfd33665f2750a2941139",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png-550040f77deb144dd98a49bef3d3cc22.md5",
+      "sha256": "93646f4403159654371eb4875743830fc721e82b4ba7e4e43efccbcafbd38bd2",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_hatchback_ORM.png-f52b728142f821a9405ea4913200bab7.ctex",
+      "sha256": "a8ffacaff6a131b7770d0c3cac014570ce89d205c842ddaf96dae0900cf1655f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_hatchback_ORM.png-f52b728142f821a9405ea4913200bab7.md5",
+      "sha256": "d9b34786a55dcf2d8c9f821b6a8dac293523aec14384c1d03f018e95f986d0bb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_hatchback_color.png-25edbdc7860be61d9ecff23a8455530f.ctex",
+      "sha256": "53a385e5764c9647169ac6826007712e384ccd0519d61816eb0c43a8f1bbfb52",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-hatchback_hatchback_color.png-25edbdc7860be61d9ecff23a8455530f.md5",
+      "sha256": "124d8ce7d3c48c8d04e9213e4c1b03d3a82e2d8e3e29b1d5603f1ed5e90e6988",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar.glb-a497e30a894c7f49b4cb80ab768b5cfb.md5",
+      "sha256": "c90f6c8454d8a2fdbfd592200b4c70d6a0a32b37c51f70062e7c9ba865c56332",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar.glb-a497e30a894c7f49b4cb80ab768b5cfb.scn",
+      "sha256": "2e55876d371eb9b40beb06e8d5e166456594f5ffb2b4d05b16d71dc2b9b20cfe",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-781e44108b333d8ed5eaee2a177acde3.ctex",
+      "sha256": "2f50d5cda0b450b756e2b4ec6fb3de56f26b95005f20dc111333a7e1209b45fb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-781e44108b333d8ed5eaee2a177acde3.md5",
+      "sha256": "c7b2bfd91be38b011721d02440c210c41a5fe266e3f12226b07e0340f3787961",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-131757e93b987fb509edcb9518eb2fb3.ctex",
+      "sha256": "f369210229906fbe877c3810b15a1aef87bcd59933a8a08fc83a5126090f7a0d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png-131757e93b987fb509edcb9518eb2fb3.md5",
+      "sha256": "649215014dc578600f7396bbc88fc9d5c8a7c2dd772e587be299c300c5a665cd",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_keicar_color.png-2eb1b2c8f07bb3eb3dce095def4a9f11.ctex",
+      "sha256": "5657eeebb77f462706f3c59b277928ca1e5ef6651edcb90f2ded7f829624d5b0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-keicar_keicar_color.png-2eb1b2c8f07bb3eb3dce095def4a9f11.md5",
+      "sha256": "0eb0ea1319516da5dc819d82bafe2da9c3a73cebb8d8ace4f5fe071f6a26fc5a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury.glb-18819a52447ee4d2da6828e32371d6f1.md5",
+      "sha256": "6dc8c645015eefc4e4f193d913cea854c5166698f6a9f2fce08710af14f2eea5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury.glb-18819a52447ee4d2da6828e32371d6f1.scn",
+      "sha256": "167ccbdc734fe47b7919ace33b2ad0f49a244f4b0de6361700502fe8a63268fc",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png-be23418d229950938b89ac947ba3e709.ctex",
+      "sha256": "81b10be3d22def8fb689bf82495ee633aa7a30695b282033cd02334ec3bf9e52",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png-be23418d229950938b89ac947ba3e709.md5",
+      "sha256": "d3865bde3aaa5a2f156b2d070d319eb22a82d9f5fc2099e53d53b939301352f7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png-bbf561cadd88e1b407abde64ce13699e.ctex",
+      "sha256": "65b9aa1debce12538f88ec6ca1ecaf3b4ec81c1c4f6d09bf0c85dc65196660fa",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png-bbf561cadd88e1b407abde64ce13699e.md5",
+      "sha256": "86b9974b171d0223679f67187eff909da4e6c85443075d24f27e9db7d497fca7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_luxury_color.png-18387c86e56823948399c29ec2ef6aa0.ctex",
+      "sha256": "883d7e96d1ca1f81af4b5dde6a8de71e2bcb82e59fff04aacbeeac3fff0d41b9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-luxury_luxury_color.png-18387c86e56823948399c29ec2ef6aa0.md5",
+      "sha256": "0d981cb775ffcd90ee65664f3ba9752b8ed069384940ee85f890e85c05af9c7d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan.glb-980122419048dfd62913fc28645293a9.md5",
+      "sha256": "5c48dd20e88d712182a7e3be7f60cd03601344edaeb33d1968ef2056b1ea67bd",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan.glb-980122419048dfd62913fc28645293a9.scn",
+      "sha256": "92f5c6c620f312bf8aea3c833b19ba621e6abd74abe3f9096c641bc0cfd47ea4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-f3b5b464346418d270a72fe49ab66a8a.ctex",
+      "sha256": "bae0011896b62cd3776d6010e6b35810c5675deaab1c97feac59852b3bb25b5e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-f3b5b464346418d270a72fe49ab66a8a.md5",
+      "sha256": "17a4154f2af8f7f93e982a387ec8c895ba4310274637952d87f06f7067eed803",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-304610f6a33f07ea41a59c7639bfc967.ctex",
+      "sha256": "76c31dc33812de94d223ffe1365b422f53d682dda7eeb2c1d510473be08ed0db",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png-304610f6a33f07ea41a59c7639bfc967.md5",
+      "sha256": "e68ab79cec7e80f206861e92dccc267aa31d0ca217de4401730ddbee7b0f2c01",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_minivan_color.png-ecea22cdd1ee116c8abcf69f6c94002d.ctex",
+      "sha256": "f28746ca873516d73d5b43f0b393b2f61640772c17e73ac19282884f999082d8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-minivan_minivan_color.png-ecea22cdd1ee116c8abcf69f6c94002d.md5",
+      "sha256": "6e3d62074f03d4b6b91287c2c211bde5776ee29171e3f0b6be1d0babf53c3c1d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup.glb-3766181bb6eccbfcc4b1a78fc0f1a5e8.md5",
+      "sha256": "8b1dc93b5e034e06223fcd21531d44d100ab676e18b46cf7e00d503d8ba936de",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup.glb-3766181bb6eccbfcc4b1a78fc0f1a5e8.scn",
+      "sha256": "5274530f5a63766a09a72aa6eb1a007d6f45c613230d0652ac4129c3908e7bc0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-7da99ba5c1b47ceb01fa4a806f72a73b.ctex",
+      "sha256": "3df74345410572d1709785a9246cecb51c733ec9df9684fe61d5d1374e8daafd",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-7da99ba5c1b47ceb01fa4a806f72a73b.md5",
+      "sha256": "8b3e2199b0be9e3660c37c0cd6d80c38095489b445c6d824612e5fc25454e808",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-3007b956f5df91d07d59c185fe957950.ctex",
+      "sha256": "6bf162bb345f09964cee9a08c2f0ae64eb815175108a656073f6b7e99c52f178",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png-3007b956f5df91d07d59c185fe957950.md5",
+      "sha256": "c74dac5d6a7608f02735772309f3d98f988999ffb03ec32d68d4ba1b75a69bcb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_pickup_color.png-47d5d1e85d15f814d7dd877cc0ac1916.ctex",
+      "sha256": "61a3b1aa2e102d61c3e24c6472a2f22d96f178bc77cabb25b762ecb1a875e6e6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-pickup_pickup_color.png-47d5d1e85d15f814d7dd877cc0ac1916.md5",
+      "sha256": "5f8061b600e7a02e2d8603052b58029b95c425021654b63d2a1484d60ae9e585",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan.glb-612773e03c24815fdf6feef57999b70f.md5",
+      "sha256": "7a2ec2722c2507b36af4c98c2c574db64a7ae6454eb9d868a591002460d68cd0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan.glb-612773e03c24815fdf6feef57999b70f.scn",
+      "sha256": "1c085b83cfab3289f9023175b9eddb72373dc87cc3925e7a5f9b00d905807c6e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-3a50e2ca8a5633d7127ba7a68be10e75.ctex",
+      "sha256": "e2f7acf84dd20692250ea20ff354f2ff600eb3d5cbd8db7a0317ae92aee34e11",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-3a50e2ca8a5633d7127ba7a68be10e75.md5",
+      "sha256": "fef8c05fc04a1c1e7ca52277b7d57cb03d2daa171a330162cc2f8316a5945f95",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-f3494b60114376152bfcd11f1a6f5163.ctex",
+      "sha256": "090128fdb2f13a9a95b2b5b64b3b21d46b24e9d0d847a91caaaf509055c6e36f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png-f3494b60114376152bfcd11f1a6f5163.md5",
+      "sha256": "601fd0921a8f263e2b8a0c50a6732b7290e197ee8b54632ad52a09fa10891e5d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_sedan_color.png-931b8c3406a5a807c18f0c1124be0952.ctex",
+      "sha256": "cf1f277e969cc19530516b05314d97f9b56657b777a8d6deb4dec5236adc9d7b",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-sedan_sedan_color.png-931b8c3406a5a807c18f0c1124be0952.md5",
+      "sha256": "00e6de6cc3ca9cfd74e19c40f0ce9673488a7f68ad5040c9fde19b7dab15c4c6",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv.glb-efb76e9229731296d9d298d07da3876c.md5",
+      "sha256": "61cba222ad942ef27eb45a6d503baad96f8b858c4a77ae05e089c26412836084",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv.glb-efb76e9229731296d9d298d07da3876c.scn",
+      "sha256": "a48884bbdb6481c36d5d0be646209e7064fdf5326aee867ffe9a965797082065",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-c38a0e856b023dc4199612ee4df93065.ctex",
+      "sha256": "f6f4de96ac1e1580acec3e66be651382772793aea47bcf0ebc7d3374bf16176f",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-c38a0e856b023dc4199612ee4df93065.md5",
+      "sha256": "390eee80c8b28a210b967074af52970c2ab22fb29cdbf97553eebfa011da9521",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-01e683ad02e0f934795c2b37dd5bfc67.ctex",
+      "sha256": "c013960e501a7ebcf76829bdadf9384c8877eaa74b65ea47a325a43b62dffc0e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png-01e683ad02e0f934795c2b37dd5bfc67.md5",
+      "sha256": "cf49d503cd361591c53fd0b3cc0d7de6bc44cf48de4d4dd4ff4bd92978199970",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_suv_color.png-bd7b1f408cc3eb9a6cee50cfafb17113.ctex",
+      "sha256": "abd82a30ebccf1b9eceb88c52fd450449ca594fba28b9b651cd7d60710d29202",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-suv_suv_color.png-bd7b1f408cc3eb9a6cee50cfafb17113.md5",
+      "sha256": "703cf8266eba42ba14c03c05900dc2329b313465e82a4bcb0541b71e6f011642",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van.glb-7859ac52a94363c53b2dedb80248dabc.md5",
+      "sha256": "ee995d6bf6850d0ed9f8696597e4c5d2af4fc4ca831948490b6ebe03192788bf",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van.glb-7859ac52a94363c53b2dedb80248dabc.scn",
+      "sha256": "d34b491a871061a3721dabf3a9a11d491d7dab6e564ed7ce805b82e3a38ccc1d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-c78e80f24827ff06253f1ffd571b7011.ctex",
+      "sha256": "35392537d94bf2d5ed0b1cee7e74370627479989507d848eb47a72508b706ba7",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-c78e80f24827ff06253f1ffd571b7011.md5",
+      "sha256": "f208052da96969828e85c950e8ce81e63cea461eb191d61eed9b143851b509c9",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-8f712b9d02ee5647d7f8752d6e1935f5.ctex",
+      "sha256": "e640d5bfdd47aaf26ba23e2062a8dc2bb3220136d0177f815451190ea5fd3653",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png-8f712b9d02ee5647d7f8752d6e1935f5.md5",
+      "sha256": "ed8d69b44e1e580295a2042f4d8bd5563454ed884dcbc6c59d6e504cccefeaf1",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_van_color.png-dfb052385c5ca44aba32e6f7650165f5.ctex",
+      "sha256": "643bad794e3d5830904537da3a1de9e95bc48b0e7b42a3a4732ba1b8f1336bac",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-van_van_color.png-dfb052385c5ca44aba32e6f7650165f5.md5",
+      "sha256": "dee9a5eef08ff61e42b0ab19a514530d79bfbcce02bd3718941baf524ab93245",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon.glb-025a7c88f981441fb4551de2c35eace0.md5",
+      "sha256": "4c1bc8557064030abe246015aedda7019e2c5471ba87a69e7d851aadf6676d8d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon.glb-025a7c88f981441fb4551de2c35eace0.scn",
+      "sha256": "5ecc62ccecb6d8b46801d04789949062f5de4b4feef32d30b5ed80f2ab02c8d8",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-02eb51ea3ac8cc12eab32b24df45c4c5.ctex",
+      "sha256": "b0ca68df89cf287923885225d351b913c943e4687f96d8321836ae8252f9f41c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-02eb51ea3ac8cc12eab32b24df45c4c5.md5",
+      "sha256": "32e6f9d718443820c6bf4eb2281865785d69f4cb76e6c25a8c3d017b8d713420",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-58b764433de835912c3eede01113a07b.ctex",
+      "sha256": "32fa74a12c7426fa0c852a436f482984ed74ea894504057d35ea1d4e85609b80",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png-58b764433de835912c3eede01113a07b.md5",
+      "sha256": "b731a9b1b95efc5bd2010026a1dfdc795eae5a3b57b4a9e3b65f63a2c23dbf6e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_wagon_color.png-644f192d51fdd125e808a8c561e2f5aa.ctex",
+      "sha256": "d4a338756526018fe5b39543f17f7c40d148860dc19d1dc77caab362342ab9d3",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/tripo-wagon_wagon_color.png-644f192d51fdd125e808a8c561e2f5aa.md5",
+      "sha256": "f98b0adc18c48813d51c71ef203444364374ff65e56a2214e901b70a99001e45",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari.glb-905ec2dc97d3701cf857692a0c062fd6.md5",
+      "sha256": "da50580f8a850e1ed9e0dcc9014445bf28d47d215234c04223c723ba4ded8a7c",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari.glb-905ec2dc97d3701cf857692a0c062fd6.scn",
+      "sha256": "6ffbea601cd057d6fd3f80fb186df004f0103cc5ef8a3725d6c016c4cc5649ca",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_buttons.png-831434b94aeffb7b81449fe4dc654b79.ctex",
+      "sha256": "69d56071351e0fa57edb506275760420034bf8ae97f92921256aad5bfa48f295",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_buttons.png-831434b94aeffb7b81449fe4dc654b79.md5",
+      "sha256": "c8db2e8aaef08566c1eff1704c6bac1a3d49e5449e008a62c7a2d3cf13630490",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_front_pocari.png-926c5ee3e5f85c56c85805dd251c6dc1.ctex",
+      "sha256": "088958f941122f4e73b349dd20214584e4bfe26ba361583a94984906a8cb3fa4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_front_pocari.png-926c5ee3e5f85c56c85805dd251c6dc1.md5",
+      "sha256": "5102ef431364b7de8505e961e554dbac870315877ae928841a06f5f4707ff450",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_side_pocari.png-1373b988a5e0440710b23be5381c186c.ctex",
+      "sha256": "11b91aa842ce18c4b5430aff192478acd80d2d580840fb469ec0a9534978a3bd",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_pocari_vend_side_pocari.png-1373b988a5e0440710b23be5381c186c.md5",
+      "sha256": "108dd9be56d0351f8f7db8b2811ae13524331a146a7430928361e499a8a5bb81",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc.glb-86b21642a872832e55c81260dedd274c.md5",
+      "sha256": "d85d63fca95250ba529ceac51905bbf7f78851db5d4d4cd6fa4bdb2d74705139",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc.glb-86b21642a872832e55c81260dedd274c.scn",
+      "sha256": "e73d449f078e23e1637733330fa18511413b8841aa008c511b0d4e077f5168ee",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_buttons.png-db2304ba198124598081f644da3632a2.ctex",
+      "sha256": "69d56071351e0fa57edb506275760420034bf8ae97f92921256aad5bfa48f295",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_buttons.png-db2304ba198124598081f644da3632a2.md5",
+      "sha256": "c8db2e8aaef08566c1eff1704c6bac1a3d49e5449e008a62c7a2d3cf13630490",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_front_ucc.png-dff6f1cea37cbf39fc593ab28b53a814.ctex",
+      "sha256": "50445e4070392aa74712f442b8c091681c8e0c68a10709e893501f362cd4381e",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_front_ucc.png-dff6f1cea37cbf39fc593ab28b53a814.md5",
+      "sha256": "4c96035c11e7884844d9b1562894d6710c5b8e2381361384978c48fdf28851e5",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_side_ucc.png-49da1586405c2fd57c02f28afec3f810.ctex",
+      "sha256": "b4571c57ec26a2d6754cbd8a720c0e1371565febca7d388f9512ed052edf5202",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_button80s_ucc_vend_side_ucc.png-49da1586405c2fd57c02f28afec3f810.md5",
+      "sha256": "9963365c8d5f92d1bd0157e4a9fa0a26d14388bfe32c3798721d25d7163311c4",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola.glb-cf137ee68c2c98725baea10915511d88.md5",
+      "sha256": "224836b07988479e7a6d91afbb565108db4beea9857dd66deaa78506618b7c48",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola.glb-cf137ee68c2c98725baea10915511d88.scn",
+      "sha256": "a8d8db221cf66c43eb24539554e7de12ec564156f5165e00575888bfa5042134",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola_vend_front_cocacola.png-0ed1215db6ba9148edc3c0b02a7994f1.ctex",
+      "sha256": "72f35828d2c69a742cd8a6678886598e7f0c888101adf65f833925a123da6f6d",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola_vend_front_cocacola.png-0ed1215db6ba9148edc3c0b02a7994f1.md5",
+      "sha256": "dc42ddca37e1ef57b8da2ac8b538b3e28a13f97f7c8d8629f622e2aa48e8e9c0",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola_vend_side_cocacola.png-62256aa62bfda09e964cea118b5243aa.ctex",
+      "sha256": "20b708ee91f5cc796f383469fa7705ffe7675abb1673d89ae26386dd6eee4643",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_cocacola_vend_side_cocacola.png-62256aa62bfda09e964cea118b5243aa.md5",
+      "sha256": "b1cc48ccd2aad7df8b10a127ae43b2e035ef8300407c64ea35377dedac053e87",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka.glb-cbb2b869406d2f491f8374c8fc131b89.md5",
+      "sha256": "708b9bf50d87f791b7e09624f9f7fb0f49e2c1525c5a5cda0ac8e6ba7cac6bfb",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka.glb-cbb2b869406d2f491f8374c8fc131b89.scn",
+      "sha256": "205c7069476b57704f464f16b9e81333796030d78d52827742dd94182387f851",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka_vend_front_pokka.png-28cd2cbf53b3132d1973c69b8eaf072c.ctex",
+      "sha256": "3514fd3385d4af62fc0111c2712c96f1c40d81a24f8bdd1afa65124db5cd18da",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka_vend_front_pokka.png-28cd2cbf53b3132d1973c69b8eaf072c.md5",
+      "sha256": "8dc2b628cdb486ede7af4adc808324f06b6662b2b982839568b8e8435122d862",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka_vend_side_pokka.png-60dc1cb6700c51ce45a6cc3e5c230562.ctex",
+      "sha256": "d933f7028463f0f6fba1e95fc2a59ca2d35ac56407ed7ad5f24d964619a5179a",
+      "matches_td209": true
+    },
+    {
+      "path": ".godot/imported/vending_flat70s_pokka_vend_side_pokka.png-60dc1cb6700c51ce45a6cc3e5c230562.md5",
+      "sha256": "15ce7a98149301cbea1f964f38ba4f2ef54d278e4b36985c5a026ad70307e687",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_bridge_rail.png",
+      "sha256": "dc8f7891c37656304d527ed2f7e79eea78817d6f180347ed75d1db1921068ad9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_bridge_rail.png.import",
+      "sha256": "f3defe67a643152d4aa83e809fa30c3a511d4abf7cbb10752a3b4e31e2d979d6",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_bridge_road.png",
+      "sha256": "8d6ec77939ce38ac336eb77dd2d544d2e0410e813661cdf0926efe694c433884",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_bridge_road.png.import",
+      "sha256": "f4252d389b861f6cad085574e2a93a815b79997ce155e5cb520da550655835d3",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_truss_grime.png",
+      "sha256": "570f80babd15196727aed6db199233c925526ad196ffe5909db0d36e39184202",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/bridge_suspension_truss_grime.png.import",
+      "sha256": "b9068d8f3408b764c3817d212405b39128670b7fdc6556ffbae933503dde6bba",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_awning_diff.png",
+      "sha256": "f6b98e4406b68ca59b8fc6827bde9d12a267656f31254dff4eaf2c237fdcb45c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_awning_diff.png.import",
+      "sha256": "fd5de3067479ddb809e5b0b63e6db929ca0e76d3fd3f091b4ecc2c3bf4f6f624",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_open24_diff.png",
+      "sha256": "494b54ccf9c3e08b9506396f2f1bfa52fd844dc16f79e51fd8c46e865260fa37",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_open24_diff.png.import",
+      "sha256": "ef7c265670f1a09a8ea167b0acad60a2408f821caeb647d372389601154b890d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_open24_emis.png",
+      "sha256": "0b4b3f2fe4359745c2465a9a554bee0c03616e39970068e607ddcf4dba60f664",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_open24_emis.png.import",
+      "sha256": "0326a1c35bee1f5b236902fe2602d02c4c109fcaa23871d1392b50f77564cd81",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_uri_diff.png",
+      "sha256": "f29e2e658dfa3f897f0b3cf93deb588cd121dd2794308464c804e547480eacf7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_uri_diff.png.import",
+      "sha256": "c50a51ebcd105cb02c04261b46d99bc7d00079a485555e57730a71e25ce37a45",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_uri_emis.png",
+      "sha256": "99b82eda313fd1cb4f50af570874af55c44727e5c2fcf6d3ff61e0f9c561f262",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_bb_uri_emis.png.import",
+      "sha256": "e25ee1532088f750e576989568788425f35eebfce57ac130e52f09ded68b1fc8",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facA_diff.png",
+      "sha256": "82e91c1047afb428dd1cddac5fc7c6a2e2b4c1510ee07de17d0ac62a4db206d7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facA_diff.png.import",
+      "sha256": "8296781fa10782c43fd64019560861d1413a090df9a153ebaf700f0a8f2a4e51",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facA_emis.png",
+      "sha256": "f988673970c14eca0e4bdefc867f74ed609301b2bc634e46e46143bbbb922832",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facA_emis.png.import",
+      "sha256": "2cbed32ffdc96ce61601149ed7f2f15d986989c67805f55869bfd66ebc4bdb48",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facB_diff.png",
+      "sha256": "6f571e7300bbd0f9b88c35c92c1c451a9c9edbd663b58ff4fbd6ab8666fdaf9e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facB_diff.png.import",
+      "sha256": "0bf4e3289b3ca1b1bdd8acc70288c63e158abc7af72a39216b12ef74bd2661db",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facB_emis.png",
+      "sha256": "267bf410391cff376b28dcfa68be7463b21b69a3f1594d3ca548b89262bd852f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facB_emis.png.import",
+      "sha256": "26dea9d98127ea79894d6f46fb508fa53ece65b9a567fd27a1a05c738f4d4526",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facC_diff.png",
+      "sha256": "2c6806495419d6562a87d41173f5a245874ba868f857db198c8b4598b7e64dfe",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facC_diff.png.import",
+      "sha256": "2b261e85eda090fe287eda8c82d9de81ece6bad8f020e1a6f81a3a95c1345e6c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facC_emis.png",
+      "sha256": "256231bdea480de8ee80155e6ead35747f58f0f479f4247bd0ba8911a958578a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_facC_emis.png.import",
+      "sha256": "6e3158efc91f901eca048b25999f9384b417fec00ec61b07a6c273d68455900e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_podium_diff.png",
+      "sha256": "066f224ca394775f47a92cb03e226c1b70a61be46887224b5925d3e985bd4011",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_podium_diff.png.import",
+      "sha256": "a3fa6ce6c468ee849996a2babc3905fc617f7c7d0cea63850e303e68c6d8bbdf",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_podium_emis.png",
+      "sha256": "b63db5f82d24ffa3e5b0bbbab2cbc9fa1f9176aadf77eac4e3e887b59693c546",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_podium_emis.png.import",
+      "sha256": "b7a7ce871d1bf48b032ab3202b1b1ae0eb7f1d3db8ea7551e9a57ff23b243d27",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideA_diff.png",
+      "sha256": "6f5b7b6578916e8dc0b41ee4db845354d1c58475c0323eb03b6625e4e1420c9f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideA_diff.png.import",
+      "sha256": "f8215208a4da108c1b1cc09284e80cc38a9d2ce8a1690935e2606af0d10ebf74",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideA_emis.png",
+      "sha256": "a82ebcaed9ff6f5add0a6e42a4c4d57f142b6ac1abb278afafc8606e53b89cd0",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideA_emis.png.import",
+      "sha256": "b8de30e0d243df55b222782d8092963d0c6f68f3063c080f9aaa6ad20e6aa75b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideB_diff.png",
+      "sha256": "86635e12ee71e5b94d2c1a529307d9fd42e30073ecf3cadc48e2160504bdd02c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideB_diff.png.import",
+      "sha256": "2fa0c48cac1b2472c9d8aa7fdd59282d3cce07b0c57efd869d7c8e4f5aa0e2df",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideB_emis.png",
+      "sha256": "478475c195a1f45a6440f435d279405c5b8f7cc238cad7cd0df2b924030c3e17",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideB_emis.png.import",
+      "sha256": "39e6efe709ac854290cc6ce647b704995eccc5eda8b267fb814ca78d046bb71c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideC_diff.png",
+      "sha256": "89f33436a840c6b313d8726e21be088e6c7960cc7915a0f5bee56016c7c0a389",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideC_diff.png.import",
+      "sha256": "6c747ca2ffe9012d730f324d69b64af3644d31e1aeacf22d542a2c0ce5bf3864",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideC_emis.png",
+      "sha256": "77954d3c74112d01c6399dbbc5d91779857765695bbacdcd13a228faa865581a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sideC_emis.png.import",
+      "sha256": "c242905c2473d65b804a340c3e3aa53b42c1b741da61362ce2d40031fc221909",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_biyouin_diff.png",
+      "sha256": "f2f57a2609f3b1ac46e3fe0036a730217bdfb2fa03fdfa753e7ab2d98c97b5a2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_biyouin_diff.png.import",
+      "sha256": "7a53cd8b61823e7c0a8e88e272ab7600c14d0ce2412234c35250ead84fe6d676",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_biyouin_emis.png",
+      "sha256": "f8a2e70e887b76c278d57544a9b54fc787e5674b28c7e1199026b502cadde8a1",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_biyouin_emis.png.import",
+      "sha256": "97631b8d7c7034eb1ad15931afb41a11e3859be1420d4280d418adb900cd20f9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_game_diff.png",
+      "sha256": "765d5f401e9e066d86450e3c5bc032b4217a69bdc3a373c2e750332a43cc717a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_game_diff.png.import",
+      "sha256": "67a817d48cb0942ad42cc51704e4e2fd71fb2740553e77553446e7a1e74f4e04",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_game_emis.png",
+      "sha256": "18298dd16068488afafdced7a110af4047da0869c07a0cf98266c2db9705dbf8",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_game_emis.png.import",
+      "sha256": "617606ed9c9a83c8ba272c487f08b5b1357060eb5f292772c251c0c720125eee",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_izakaya_diff.png",
+      "sha256": "cc855fef2618989bc5ea2c8a55b19316b587ffc5a332b1fb6017fdb3614c294f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_izakaya_diff.png.import",
+      "sha256": "e41c4149c038f81a9ff9b1d122bbfc8fe9c6cdbf8967335b1679bb40d9441fea",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_izakaya_emis.png",
+      "sha256": "f82a4e2979b5c18de7ab590ab6412be39f5899fe7cba0fadb946d910970afbc4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_izakaya_emis.png.import",
+      "sha256": "88b72e480861b1ae14599db28a5969ee188c01c61f67c95ccefa8907d731ea51",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_karaoke_diff.png",
+      "sha256": "b89740f112983fc8d09a39a5bb40a15cbc67a55a07f6b9987b972c12e1c0e59b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_karaoke_diff.png.import",
+      "sha256": "ee880507ec7ba335bd490c2f51e0e6fe6aab8909e917ecd5d46181ccf4e2a341",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_karaoke_emis.png",
+      "sha256": "e2f27bac102f04e8833da51260d363030d45f0731c4fdff5e6b607458458d763",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_karaoke_emis.png.import",
+      "sha256": "1cbd3e4a14ffdc674953c2e68149551aba0734afb679b868b2383557353a21bc",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_kissaten_diff.png",
+      "sha256": "c59db03f489f1ec7d9eb8fdfe10ea25a5cf661daf4a116e64a9762257878069d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_kissaten_diff.png.import",
+      "sha256": "348426966e98a6d3bcbd80d42dac530f78f9a22e73e136fa41b700ee5b382b99",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_kissaten_emis.png",
+      "sha256": "38c9af6a7f3b46e70b862117359228485ac0a124d29e7e46a11f5ab7fcf2e1b7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_kissaten_emis.png.import",
+      "sha256": "a32e515ba87fba8623770299b70f893c0fd1c517e45a8e23bb7811544874d837",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_pachinko_diff.png",
+      "sha256": "e0372f45e6fe8e3cc377c60797ced793b1d1ebe50477034c4084f3c44070a076",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_pachinko_diff.png.import",
+      "sha256": "b6ce66ff3d0cb06a14b2dc84f37059ccb7cbdfe87016ef9a35f1f604a7f3afc2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_pachinko_emis.png",
+      "sha256": "ecc6e875adf3d31a672e9f322511101f19cc9e7075a1304d9ba8fe072739b5e2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_pachinko_emis.png.import",
+      "sha256": "2b7c0468e3c47a4170abacc92093f0476dea077990bc24dc58b0c3bad372f9f0",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shika_diff.png",
+      "sha256": "eefe3f1dae2a1353c41101bee3aabfe6b967e7ee1efaaabe4809b0c969e00955",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shika_diff.png.import",
+      "sha256": "830c1105250579c43891f87212b97498dd06ec58c3e1617b6ec230f6055d7cfc",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shika_emis.png",
+      "sha256": "96b11cc399a85c363772a58a5b29d11d62456914e749a298af988e107589f38c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shika_emis.png.import",
+      "sha256": "3ba85d931789eefabde95c5ae71d85c5765204840bd1567774a15aaee33c7b1c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shoten_diff.png",
+      "sha256": "ab015f3ece391e6112913bc807ed9a97b268a7a8d54639f0257f05b241dd6c4a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shoten_diff.png.import",
+      "sha256": "02fdc94277beca1409707f52c0050c08286dafe8f492dd3bab47da2bc68a0831",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shoten_emis.png",
+      "sha256": "a0dde0b15d735ea11ea46bb5c47d289f501af89817c03b7df5f3a63315a908ef",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_shoten_emis.png.import",
+      "sha256": "8f08b6e35a37b49174d72f40428a528a19235b377db41085b5d6b608e7d2b7dd",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_snack_diff.png",
+      "sha256": "6a26b59d29bc19f19ebcdbbb4fa6c4ee5129d080338ee7073bd248addfda8472",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_snack_diff.png.import",
+      "sha256": "39856c7014d2146627ac9ca92e0434a53d035574506e95a404e573596793d6da",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_snack_emis.png",
+      "sha256": "2e992bb9d9ab1423e15dd07f21d9ecbd3b87da28ecb7ecca812c986714fa332b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_snack_emis.png.import",
+      "sha256": "b9bfbec09e815e1e3000be904dc287ab7c410facaf4081aa9d1ef2b887b32d12",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_teishoku_diff.png",
+      "sha256": "51a96e6efd940fea7cfdd65953157786d866ff51cc69ae2d27509e27b5b87006",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_teishoku_diff.png.import",
+      "sha256": "6a25070daf9ef4f7ca483026292765d9a5d0650aba1344f146bbeb4541514a81",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_teishoku_emis.png",
+      "sha256": "a461d1f7b5a6f7b240f20541c6b9240c22e4080659095cd9d653f3a5e8c3d6cb",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_teishoku_emis.png.import",
+      "sha256": "0d3b3ee7a280fe2fdc1ed979a9eb75f35fc3b31122e3b47f7174c1a1e6882521",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_yakkyoku_diff.png",
+      "sha256": "d60ed9b7e1a609b1f1bab048288431b9dbe6df54887b426f65d9f20f9f357d32",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_yakkyoku_diff.png.import",
+      "sha256": "91d6694e85b00ae9faebc10d98b5f6f6b22efd514c6b83a5eeefbfdd73881c05",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_yakkyoku_emis.png",
+      "sha256": "e38fb37c5206790c2cb90c7e7ddeda6a1fbcadf3c059df0257a43c40e963775c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/downtown_facade_sign_yakkyoku_emis.png.import",
+      "sha256": "36dacc7fff9295bdccc67d468880ec9944cdada4399eb2cc1beb628427ec2e2f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_asphalt_diff.png",
+      "sha256": "a493367b81092aed836baf05f0d43c643958e7f068e3edf36ec182aeff1e2929",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_asphalt_diff.png.import",
+      "sha256": "f7905a35873fdefa45583726c5762cdb27d25ca8725ce96877d162c2a204ef81",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_asphalt_rough.png",
+      "sha256": "348d7d0eb51e7ebed502b420559c63120f8028e752e02c632b48af7c8077f7a1",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_asphalt_rough.png.import",
+      "sha256": "058cc292ef8258b5deee3da13ded7b1d58cf684870c5d84a00027d6734caf26a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_paint_worn.png",
+      "sha256": "ef2a667617ad9195ca821b659a6102078e7f51fe815a3bc93f5018aa579a7c13",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_paint_worn.png.import",
+      "sha256": "85562026a06c44463616a5bb1106d0ae700f629be6678db29dfd04074c69bba1",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_sidewalk_diff.png",
+      "sha256": "710091bfdaeb8a60abed7106b8484b5c6aabcd6ceccf88fea99e31e8d79ae66a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/scramble_crossing_sidewalk_diff.png.import",
+      "sha256": "08e19a468e4215951e6ad1df60fe9babffc06311efcf786e3a73ea0a4fc2e7b7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_chochin_diff.png",
+      "sha256": "49a367e108e55f012e54b4041be87bbda1ba9159b74b74eaa5a9bbeaef1a1afa",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_chochin_diff.png.import",
+      "sha256": "c143edaeb555b136e657b081b756580458cdeae3474fab738dcc4178921d0c0f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_chochin_emis.png",
+      "sha256": "778fce836fd4813f386fddc3ba07fa6e5a7a7fe357b6c0c0278dcdd5759a9b53",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_chochin_emis.png.import",
+      "sha256": "f5e780298d1efd4fa5456127ee4a2b4407d2c9013abe62d5662f409093d8cf9e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_a_diff.png",
+      "sha256": "7d7558a84373e72cc16f040d20cbc82aa5e1182bf9d97f39e8413d1291cd4b42",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_a_diff.png.import",
+      "sha256": "f870846f8a7452b88274e970e0d59229abc7e4f2fb19b39eb91b8dd9f02fafb4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_a_emis.png",
+      "sha256": "b8c26a5d3339184fbde4afb3acf27fc7a076253c89d82a791a2429f3e800e568",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_a_emis.png.import",
+      "sha256": "172972fc27dbba8486c994667da6afa5ad713346fde53a70b699aa549230b5f2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_b_diff.png",
+      "sha256": "4aba480ed9fbbf2d76440ae2b91a2afb1ea9bf185c71ce30ff7f940bc6753e25",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_b_diff.png.import",
+      "sha256": "184e32146fef520dd99d1ae125a3daf2d78ac6fcf146d63799f390ad3ad47b19",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_b_emis.png",
+      "sha256": "1b6510aef49bd1911dc8fb55f9eed3adfac0fa4514f6ee3d0c2aaca8b3b31d2b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_b_emis.png.import",
+      "sha256": "be93a4eb9183c2cca23b2162c0d3d4f78c21af825b1d914ffe271f2ba2c75d1c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_c_diff.png",
+      "sha256": "ee1a8d1da9634b38c086c5a938fe8f4122980aa5917732a597162e311803987b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_c_diff.png.import",
+      "sha256": "c80063ad1389b733cb293f4e612ffcb42e26f64d524055ec6785c0e006b0398e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_c_emis.png",
+      "sha256": "5e102ceb00ef19c0921b32bf30b961010620a4efccb862d61731f65c640befa5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_interior_c_emis.png.import",
+      "sha256": "f4ef8e22339ec2adf6c7b66935c76c9c4d1cca74cda4fccfdb5052ac5b8081d3",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_kawara_diff.png",
+      "sha256": "bb2935986768137a7e2cfb605391377d3c6089ffea0cc8ae67c19bfa793f33a0",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_kawara_diff.png.import",
+      "sha256": "44252c642705fd4a95d2e1e99ec7f033a000236f6ff04c507852017b7a6b06d5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_lattice_diff.png",
+      "sha256": "e23d179b5a1fc0d31484617cd3502fb09ea93bc57910b51fc4656dfb69f0fb02",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_lattice_diff.png.import",
+      "sha256": "ae4636278573bc69a368e70105091b1115dcd23bb7b0d99fbc0e98c3daca43be",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_lattice_emis.png",
+      "sha256": "a5dc99a0fd97ee76b9ff1ed44235a7d1f8f9151cf72fd1a6f8f5ffff71dd1b5f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_lattice_emis.png.import",
+      "sha256": "eb2797e3f6f55a1ac1d088b4e4a0441b2510a859578e1568732037ab482a024a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_ramen_diff.png",
+      "sha256": "0746d35776d6e7f4c944b9564fb9627f2c4cf5f270d2a8bc33dfd98a4d538e61",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_ramen_diff.png.import",
+      "sha256": "9476a7aa028cfeed70672bf2e9cf41a4da13a1e4796c0667859c3694159b870c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_ramen_emis.png",
+      "sha256": "6bd0c3e02a5ae7b93f31812d31fbc1c18f2823f171f42f4a907f2203bc4476b4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_ramen_emis.png.import",
+      "sha256": "f64186663d6f6db7e6e0556b2b1c5a6d0b0f86aff84a1b9b91880dff4671949d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sakaba_diff.png",
+      "sha256": "ab4fa86c4c479b5ddcc10ce1381156e0f845d08f7763ce5d5289692462205206",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sakaba_diff.png.import",
+      "sha256": "2e5c0d11cdf54a33960cd41a41afa60bb47d1734292563b5ef0ca12af718ddfa",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sakaba_emis.png",
+      "sha256": "907172a91093f64bd13004ffa750491e0f4fc64f8f50cce6b6c6813b189cc68b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sakaba_emis.png.import",
+      "sha256": "27b03084b05131975fd84d030213167516663e1b12c6a61ab3161639ac3296b5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sushi_diff.png",
+      "sha256": "aab6cf1fb7fa0c79b197ae1a39b8e39e90b391b01f5d0f08ccba656cab7543d1",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sushi_diff.png.import",
+      "sha256": "aadfbebad5b0e20db4590868f15cb680e68f6a5205f22082207eed0ea0a42022",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sushi_emis.png",
+      "sha256": "ceb3fd8c563a83c1d2e8a52b75ad7ba876fb451bc853600706865b5dbedcb5c9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_noren_sushi_emis.png.import",
+      "sha256": "f5710bc662322369b303f7bad062206cedde0bf0e9a5898d93d69cfdf574940c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_plaster_diff.png",
+      "sha256": "9607cd11f4bc30bc0ee001744c9eb17554fb71cc0c40594d76950fa1f34e2f4f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_plaster_diff.png.import",
+      "sha256": "933cb6aa8eca724cb72a4a8f621757159234fc5aaf80a241422fa1610f582d01",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sidewalk_diff.png",
+      "sha256": "710091bfdaeb8a60abed7106b8484b5c6aabcd6ceccf88fea99e31e8d79ae66a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sidewalk_diff.png.import",
+      "sha256": "083bd92f663458e82be3315ae0db57e0ea3207b96bf1b36b8e56927ebfa1c2b7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cafe_diff.png",
+      "sha256": "37ba726f367febec59e0270e79ae894398a89da8922a1b2ac40a03b7cb20149f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cafe_diff.png.import",
+      "sha256": "cd936183446e3a656f152b24500f07cbdf89c6a36ed5b9755aab8ce3a13b4205",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cafe_emis.png",
+      "sha256": "26a205a1409e22126dcab38f45dc7ebf96ba5b34a136fffc58bfb37cd364b223",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cafe_emis.png.import",
+      "sha256": "7e7670b15795db09e065226cfe64efa9f07dd7e2bc271a97d8c59d115253e1b4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cleaning_diff.png",
+      "sha256": "d919952ce8c4293c388c186c1ec31428f63ae78b2f4985707cc695471e36fbf5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cleaning_diff.png.import",
+      "sha256": "0db78987e8f820b7b4fdbcd23750b5bea12fa1137787a513daffde4713dccb45",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cleaning_emis.png",
+      "sha256": "74b35c9d3db7a122e9f318a52be6bc32b6206b03b2c4278d8d75d8c02ec93bd2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_cleaning_emis.png.import",
+      "sha256": "37ac9982580d325fa215ef4b969fb4afbd71072d85bc7dfbd8d7cff456c45e34",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_honya_diff.png",
+      "sha256": "95ca4b75b1197caafae8aea5b90bb3d333c8c086aacbad38adb0b05eb63e7ba2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_honya_diff.png.import",
+      "sha256": "22820855a93d2546dfebb93ebbc1095f6c16460c3a65288672a3b240490aa389",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_honya_emis.png",
+      "sha256": "aa68b3172d554c3bb27832c757a753b01a24d9e12485a283ac1f9d7e11e8037e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_honya_emis.png.import",
+      "sha256": "1a26ed0279ac6dde2bcf2a28a7c5912d00657bbc5e761832bd9262e2e461156d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_kissaten_diff.png",
+      "sha256": "c59db03f489f1ec7d9eb8fdfe10ea25a5cf661daf4a116e64a9762257878069d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_kissaten_diff.png.import",
+      "sha256": "f5fbaf606a47342a46af1abac68d45afe122643d8ac26ff2f951bc92f4e20f5a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_kissaten_emis.png",
+      "sha256": "38c9af6a7f3b46e70b862117359228485ac0a124d29e7e46a11f5ab7fcf2e1b7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_kissaten_emis.png.import",
+      "sha256": "6f770c24dfb002afd44529dc4b25ee59624126bfa98efc1d2728455e2ab936d4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_ramen_diff.png",
+      "sha256": "65f561dd393b20d54d7be040e97fd1686eb55e7ffbab08256f1a91991fbb0299",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_ramen_diff.png.import",
+      "sha256": "bc887c7f3af5b1b90e7d2044c7177e7286754599b74fa1509c957a664623adf8",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_ramen_emis.png",
+      "sha256": "a17217783730b6ae402cd254056617e8b6885eab147a214a18af0011b13d86e3",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_ramen_emis.png.import",
+      "sha256": "ac971b0e5ed930a437e6aec2336cc6267114536df64053958133d3e548494503",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sakaba_diff.png",
+      "sha256": "56b0011057b997ccfaf4a07d1ba4142046973f089090e992040cc34697d74be9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sakaba_diff.png.import",
+      "sha256": "ad9df013580fb8b9f55d87bea1d5b044874e291affc358b044d9716443e0c43a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sakaba_emis.png",
+      "sha256": "a2e4bc033fa7dd0349915a3e4887fa2f34f4df6fea5d523f208e482da3edd586",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sakaba_emis.png.import",
+      "sha256": "f48ed4c69d20b7b4eac0358e37864ace905ee3aced191d3248400b9d83f54d36",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_saketen_diff.png",
+      "sha256": "52a264bdb7ca5d693891e230f6ba111044bf35d2b8d3bd416c71d12d1de6a6ad",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_saketen_diff.png.import",
+      "sha256": "14fb6ffbd1f92c08c5567d527cc2a3c8b29b5304b79ade61451ee4457f06bb53",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_saketen_emis.png",
+      "sha256": "d593dcc5d74f3db5627b7fc6cffe59d571f051a9c4532aa9237dc27b5f5ed6b0",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_saketen_emis.png.import",
+      "sha256": "aa47096cffda1aea4d55414d86323f919c7311b180cfa1667fa1edd25d169c62",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_shika_diff.png",
+      "sha256": "eefe3f1dae2a1353c41101bee3aabfe6b967e7ee1efaaabe4809b0c969e00955",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_shika_diff.png.import",
+      "sha256": "f730d67bdaa647bec6cb7f699c008a61c300b18cb7265062c2f84d24c493d06a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_shika_emis.png",
+      "sha256": "96b11cc399a85c363772a58a5b29d11d62456914e749a298af988e107589f38c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_shika_emis.png.import",
+      "sha256": "ff1e8255e40755a90d15fd96238e0560338c449072067e5ef22a7449251b510d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_soba_diff.png",
+      "sha256": "59ee82110668a1bc461074879d6aa1894275b5301e06b30368744f4e526afd69",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_soba_diff.png.import",
+      "sha256": "d1a578424766c7dab5aabd049d4fa2551239093515420cf1cfb9acbcf7202ea3",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_soba_emis.png",
+      "sha256": "84f5c23b2ac6a0943b1002876fc361d93f773560cd3db701df1ef60818fd9d36",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_soba_emis.png.import",
+      "sha256": "01214f22677fb2746ec1d6ed8ed899d403857e365e6a2f3ada12d064c5000778",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sushi_diff.png",
+      "sha256": "29a99c06008d0e97c24343f82df0c806e00222227415a2e51048408dfcd2267a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sushi_diff.png.import",
+      "sha256": "7e2e0b79aa7ca03fb752c8b927603837d463106cd93e1bf53ee8d2d74f5be6d6",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sushi_emis.png",
+      "sha256": "4ef27fe19d20349da57252d877dfeaf4595fc206bc48e9fee9ded281ed2f8529",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_sushi_emis.png.import",
+      "sha256": "be5fd9898fbd808ceb07d1cc4b23071ecd41d3ba10cbdd1a1ccc7e772b4ca6a2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_tabako_diff.png",
+      "sha256": "9a9045b7dddaff12afd06a04709c49764e4ab7c8d4971a0e2efc8b8081856d55",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_tabako_diff.png.import",
+      "sha256": "d4906a696b03bffbce99d4f8e743786e23ce5a87bdc71f437d212bc9f0356397",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_tabako_emis.png",
+      "sha256": "875858a3782fe1bf109fa1bee0284246bf34d685b08abfe5b9b29dae4c1a27b5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_tabako_emis.png.import",
+      "sha256": "e911cf4c51016a56489ec3de30f9746265b1f319f3216308feeb4f9a0b920c34",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_teishoku_diff.png",
+      "sha256": "51a96e6efd940fea7cfdd65953157786d866ff51cc69ae2d27509e27b5b87006",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_teishoku_diff.png.import",
+      "sha256": "088d9d4f2a5212b1f15624552d70421e7656551881ae3f4fb23e69b29c05650d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_teishoku_emis.png",
+      "sha256": "a461d1f7b5a6f7b240f20541c6b9240c22e4080659095cd9d653f3a5e8c3d6cb",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_teishoku_emis.png.import",
+      "sha256": "1b72c4e57f8aea5d1f18832d8cbc0ce62abd0f4283fca977ccb2449ca52c415c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_udon_diff.png",
+      "sha256": "79bbbac6e0e50fa978b2f6560355e6ecb90ca84c7069d516133deceb6af49a08",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_udon_diff.png.import",
+      "sha256": "aceda098626e50b31e4ce61f73a862b34497c349dfab0fad024ee0bb1f61b5be",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_udon_emis.png",
+      "sha256": "92a8b5282fb75f4e24a659b08f9b31d7750896c656252f5c557b3ea8c8e5e3c7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_udon_emis.png.import",
+      "sha256": "b07ee2bd7719c690757b83d53f17b463f0b67057b36ba150111ffe351b214963",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_yakiniku_diff.png",
+      "sha256": "2a67f3e2f3897d9fdec5b6b61c8081855a900c1ca6a56dee002f0ca9691d4fca",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_yakiniku_diff.png.import",
+      "sha256": "a65087facb52df3d624c6038e0e5cd63ea0d522a27b348f747fe847a91f3dfb4",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_yakiniku_emis.png",
+      "sha256": "22b29d90d50f791739d44e80b662710c1419cd40f62ff5cd3e26d101fc32246d",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_sign_yakiniku_emis.png.import",
+      "sha256": "6a6cb3e57a37e8a78da555f8e05ad3ce259c719c62c54c8d18c0fb56e3c848b6",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_wood_diff.png",
+      "sha256": "e888ed639c1b03fd6074ac58553c2ebdb1dc7fefe8a038df1f58ceca81cd2a1b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/shotengai_storefront_wood_diff.png.import",
+      "sha256": "08b2b16e216268e92637e7b37f75cc42c4a499eaaa0feaa46a0e93a6617338a6",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_A.png",
+      "sha256": "5c80b39f492db57c804026f0eec7cbe5372e0364b830fa2dcca6ff2d26f6b4b6",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_A.png.import",
+      "sha256": "86526631820aa3fb4e79f465db1c7669c78ec68c8bf4a1dfe9a0cf93e0a0fa39",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_B.png",
+      "sha256": "cd97aad701193a5ef6bdc42538423395769323396b44da8f28ca29f8e34afa5c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_B.png.import",
+      "sha256": "efb9fbe252c02578848571710d5b141c822c15215bc42c2f6cdd3000b07282a8",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_C.png",
+      "sha256": "fa8b70ff6256105678f047c7e6cf47b49f97135598e4c5fdddee96d3af845e39",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_C.png.import",
+      "sha256": "6a17a7c523e2a00bc1727c729cc2d3711af3ca5bcb4a8c2482efc5449cc59247",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_yellow.png",
+      "sha256": "5b9e4dcd41177bf193af5e26f3c4b3ccabf90889cefe2c8d926cfd037bb87b65",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/signal_gantry_gantry_yellow.png.import",
+      "sha256": "25f0014ce6f4e1744ac58016d137acdaa19e5112e23998c89bfc251eded2e79e",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/tokyo_tower_deck_tex.png",
+      "sha256": "5296434620df005977e75bdb7aae78d19ec27cc2f06f1e6e061b9d0b7d832452",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/tokyo_tower_deck_tex.png.import",
+      "sha256": "268bdc9bd94b52a72247606405e4bf582a7fa7045b5e15d2373c57adb98f1b51",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/tokyo_tower_deck_tex_em.png",
+      "sha256": "2b3f49c321f2f9f8e394d42ccf3866f113334eb00b1ab166a3c04ce31864a6ab",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-119/tokyo_tower_deck_tex_em.png.import",
+      "sha256": "f997eae1a8a7e8c23199f0c71bc97fc5ac6bc4490d3ab65cb71cfc6f4db92bb2",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/bottle_crate_crate.png",
+      "sha256": "7a767ccaae5b13ee785938b97f52daec5344c8b03ab4ac5d70dc34a1e17c3d36",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/bottle_crate_crate.png.import",
+      "sha256": "1865bec523da6e2457711ef2cc4b746d118c0242e4c7d2cbeed08c55e38f9336",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/light_pool_light_pool_warm.png",
+      "sha256": "a53cac430e9800d74db9a776e97b2338c7a03db69f342d3815f4bcdbcb94baa7",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/light_pool_light_pool_warm.png.import",
+      "sha256": "0816653b91766eff30c405520c4ea46059771d92b66143f15d8704400ff0da51",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/phone_booth_pillar_booth_sign_red.png",
+      "sha256": "0f071fd29b17fe14cb39aba930c26757ba59197ffc8888c4f4619fb3164706ec",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/phone_booth_pillar_booth_sign_red.png.import",
+      "sha256": "ae0338d5ce380b38e2392671e7705e1b4a322ba416a5034ea89fbae282f109cd",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/phone_booth_square_booth_sign_ntt.png",
+      "sha256": "2c67ee5c0dba9218aa3c97896e711692adb91e7d52939812b7f8a846b50e5261",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/phone_booth_square_booth_sign_ntt.png.import",
+      "sha256": "98d8fd5671280ea2ecc6962c37f40c402af9c32ca47a0903c6a27335c71a991b",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_buttons.png",
+      "sha256": "03fa566677f6bff453c467f11c22b8269c0ee0bc601163c5a8bdb5b12b7fe198",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_buttons.png.import",
+      "sha256": "7f9c7952ca879658ba3f3d376731667c0e3f4d4cabd1c12f24f30e7029867937",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_front_pocari.png",
+      "sha256": "cfc535ab2a9268167bcdd472e3892326b6f02fbb9e201875b00240f620c1b9b5",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_front_pocari.png.import",
+      "sha256": "b975a29937149358a15fe20aa5d244f2f914e0d6d6f268511da8f869e1c049ee",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_side_pocari.png",
+      "sha256": "4e16bed50f512b6a28cb3e89053c6589cfbc5d31f636f4fc564f4e5c4b673622",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_pocari_vend_side_pocari.png.import",
+      "sha256": "4d1fe8b67755368bcc6acb1526218a3a1d95c5faf6167861bc4555a4652759ac",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_buttons.png",
+      "sha256": "03fa566677f6bff453c467f11c22b8269c0ee0bc601163c5a8bdb5b12b7fe198",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_buttons.png.import",
+      "sha256": "202a7a048d31583b7d3fc6e3e69dfb3283e8b5dc31f46120408332eda936d25f",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_front_ucc.png",
+      "sha256": "4734eefd41efa73163be5e44121cad2c172fd92198460086eeff9e195686592a",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_front_ucc.png.import",
+      "sha256": "82339793658680313006e85935b67cf2fdfc3baec10d884cd268a45c25159718",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_side_ucc.png",
+      "sha256": "b8b4a82eec9453361b056bf1ed5297fd47c60e9e45caf16920026e64ddfcb238",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_button80s_ucc_vend_side_ucc.png.import",
+      "sha256": "0a789eca35db74f0c87e27085e0a2e6ae66282a1db34078c072a514b0af673c8",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_cocacola_vend_front_cocacola.png",
+      "sha256": "b7646631414722237aa6cb48d48357a9db7db0fc53f7fdee3dbf29bf104aa4ee",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_cocacola_vend_front_cocacola.png.import",
+      "sha256": "d5c6ba49122d788cd290e2e5f1f8d8da09337f30abaac6cb4afa330c577097b9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_cocacola_vend_side_cocacola.png",
+      "sha256": "7e392e9cbe5a775bf8632e2bc2cf94be4dbe8715b128b8acafb2d0901128d99c",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_cocacola_vend_side_cocacola.png.import",
+      "sha256": "376c27d20323c725fd6febccccb6c7539edc2282ea6cddb1473232610eb9a368",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_pokka_vend_front_pokka.png",
+      "sha256": "269fc5591ab81100b68331330b6ef512f318970f1d210751b2bb84f17ba8c970",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_pokka_vend_front_pokka.png.import",
+      "sha256": "a185d1fe6f0eedb5849712aad842351151ab98acb26033d1bcb58c0600ed7ce9",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_pokka_vend_side_pokka.png",
+      "sha256": "18c575d0a07819c44bd1687c2b5b247a59e0c79852c6af6bd46c8316b69d8829",
+      "matches_td209": true
+    },
+    {
+      "path": "assets/td-165/vending_flat70s_pokka_vend_side_pokka.png.import",
+      "sha256": "4d9329952d5d2664f585a6446a63d4bd86d47fb2eb66bce3396e2959328ca290",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png",
+      "sha256": "93c8bd8be5840312d0f4cd4787178adc6a2515df0204b0e6b0e981243c6fc788",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_NormalGL_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png.import",
+      "sha256": "5653302378a027084bddaa9ae744ee65375f065ea37179f4af8e30929be2c2ca",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png",
+      "sha256": "202ad34e53fbae613e2db2a7a44da6c1e1d423a84b5e1f5fabf1ca72865dcd1c",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_ORM_c7e1dc33-58f0-462e-ba8e-e48caf03c892.png.import",
+      "sha256": "bc3805382e7a51ade088c3db142c49d3969ea45e8f71f7adcf50d25330504bf6",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_boxtruck_color.png",
+      "sha256": "29f9c7f31b7604c86dcc8ce92d6d6d7efc77cf8ac6d7ec8146e3a332f95d554f",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-boxtruck_boxtruck_color.png.import",
+      "sha256": "4480646a7066d582391f6d3b8eaa1bb7220591c99a011f4b8a1eb9bcc4a2f07e",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png",
+      "sha256": "7d78c49c3f5d5d64a47aa28d68d30f1ddca5ff1102331388e1b49936318eda91",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_NormalGL_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png.import",
+      "sha256": "a8783177bea0104f241897e31fd3f98045b88b945545ac5300615969f4761509",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png",
+      "sha256": "c8cf03a307adc4362edb450562c2de92ed8efd71eee09da0bb33fa6e56c3e93c",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_ORM_a89a4f4c-feb7-45be-8a82-315ea24c7d13.png.import",
+      "sha256": "ac59fca9a1b2ea8777ed74cc4a9d725eaa53a87cec9c729a40894fdc44fe6604",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_bus_color.png",
+      "sha256": "072fc18e24eaa9d34f7210e0e8edee23709c56b3926d7108e398a83828299570",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-bus_bus_color.png.import",
+      "sha256": "e5fc3582929073bc34d383e14ce389c7b68cd0817edee6024248f35f56955c86",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png",
+      "sha256": "28cc30eebb5401192876a346579439a1498e8d6dd67371a85a53a6de7b30cadd",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png.import",
+      "sha256": "da4e6a728f1df1666351a879230074673102bf6a8fed13e9ab3fcc24f1ebe9ed",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png",
+      "sha256": "f80800bb097f111ccc5353bde7b241d04acd6df0d07b2c4b31e098a0396ff736",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png.import",
+      "sha256": "07284884d0761f1b20729000e869b6090dcd9125e60c5fb398b0254a0784c693",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_coupe_color.png",
+      "sha256": "8f3bff00be55091825ec5acc6f654db9dda8a16d2633b5c52b76e42d4aeca8d1",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-coupe_coupe_color.png.import",
+      "sha256": "a18c891d9b7b2e450e108d943bd6ff12ee07da3024a877f22a9d68f87459c1c4",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png",
+      "sha256": "d1dc3ba269046905e04fcea83034f0883c5d7c72f340c33d4dcafe47f5576824",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_NormalGL_190af030-f1a5-4577-aa18-bdb548fd2b9f.png.import",
+      "sha256": "c01ed2566b3a1b0c87ca757002a3194ce09a93377094ce51b724a9fee36ff538",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_hatchback_ORM.png",
+      "sha256": "54287af29502b30a6aed0a8b6e50b973205ec86c2e9768fa731ddfaa3cfe2326",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_hatchback_ORM.png.import",
+      "sha256": "8f8949d749f7fb55255b91267411d17ad1591d4969a348c6e918610f44b800b4",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_hatchback_color.png",
+      "sha256": "a8a081f802fd04f2766f887fcc08c556c66cc2690070a68a9086e5f3e03d2e65",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-hatchback_hatchback_color.png.import",
+      "sha256": "5bec30544c822a93d3c2cd759519af1e73284549127896ebe54f3c0dd0e44d6f",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png",
+      "sha256": "1cd6fe2cc33182f58771195eaf96524d7783730d6441bf886de19c2506627235",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_NormalGL_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png.import",
+      "sha256": "5c9e53fa8fddaa24018cadd5e1e6538cd3241165cd5211014a1d6843bde30f50",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png",
+      "sha256": "0b99957c1525e28e74b8f053c26ddc12bcf98d7fe4ddc84988db87cae4f4e30f",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_ORM_aa29fc0d-386a-465e-a1ea-41fe2438b1fc.png.import",
+      "sha256": "ec13c1d0bae64d336b24a29cc71489ac5004577280d6e23e0482718f3f843a79",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_keicar_color.png",
+      "sha256": "ab1546eed9f359dfb56fc3fb6715d5a55601896d9e3e0ff1dda75b3972a101b9",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-keicar_keicar_color.png.import",
+      "sha256": "ce5678f3f4df6c55fde41896a048462deff7b8984c55a6082385b0c0dd7d999b",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png",
+      "sha256": "87d38d008f37a5738d071b8f1ab6c9496c7658418a91029a073c81320d8b2a05",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_NormalGL_8081eb70-41e0-4708-8b82-608dbd0cb818.png.import",
+      "sha256": "e70a047c594ff3db229d6236b6eb196acd735765c05f3bbe5a1faed6654a4b94",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png",
+      "sha256": "eed6b3335932a04c7c2be6c91581b392e841f5ee2cfe1177b877ebd972e6e4f6",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_ORM_8081eb70-41e0-4708-8b82-608dbd0cb818.png.import",
+      "sha256": "ac76cb9b5455fae83be4fdaaec8b64e4d3061df3856cf2de1d18ae26da0d6ce9",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_luxury_color.png",
+      "sha256": "93a5208787e5e698c9d80450b92d884a034214b1030c6e7af3a2b85b6b0cdc92",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-luxury_luxury_color.png.import",
+      "sha256": "21f946e9ea6e05789dbb687926ab4dd2338388122bfb5614c774988f658e2c66",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png",
+      "sha256": "ac9ac47ba21ce6298c7c7f65b34a9d1080a1eecfcacb1d55c659cf736587e07b",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_NormalGL_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png.import",
+      "sha256": "a476df8c38505fb8d7097264c0aefe7d0187378fcff83d6ca8f0d704d02b6616",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png",
+      "sha256": "aa89ee05e49ba4812e31ff2ac046cf16a35831b6b37602e7ac9f6d3c4c24b98e",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_ORM_21d1fd92-ea32-44f3-b0b3-e84a6de25181.png.import",
+      "sha256": "cd28ca9361a6a6f7db78a763611c6b161150a303f662ab3de3b38465d975a24d",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_minivan_color.png",
+      "sha256": "89e3f896ea4b64b3ac37d2d3080b704efce4673061df95b647db76e592866b22",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-minivan_minivan_color.png.import",
+      "sha256": "250720b61c44be923d6c8092f218400c86577b2c6798148ffe417f2e57876697",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png",
+      "sha256": "58f5d487615730578d1df122d51d6db52a51d1ca6809d47dd530b09fac0019e4",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_NormalGL_82253d55-4db0-4511-aab5-aec6c1f7fad9.png.import",
+      "sha256": "243b110d0d896f55de5ab3954b5a36044507c6d2143f5410fa1300beff308bb9",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png",
+      "sha256": "007da5ba9ec20ab2139b00abc004385410d8c3457f03e8241ca8b73da49131c3",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_ORM_82253d55-4db0-4511-aab5-aec6c1f7fad9.png.import",
+      "sha256": "41c276c1eb8de764f1f74c432238b03abfd628c87d8520ab0f523a439135de35",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_pickup_color.png",
+      "sha256": "eda36171d39a0338e1c0f79d52424ea89e024d544526c74f46d22e957031ed4b",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-pickup_pickup_color.png.import",
+      "sha256": "d37784bcab1be5e27f9012252d277aa7b18d94c96f0fa6c47f1c7c6e1f2d85d4",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png",
+      "sha256": "d33b1461c06445b62589334a12de68f2b84a3e4f342b9cc6313d02498f7a4b17",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png.import",
+      "sha256": "d79f7d69e7a8ca20b84783df09df6779ae0133d8c73afadb1d95b73d9a50725e",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png",
+      "sha256": "0ef38851a36accfe58c46c9578f1c018f407214c689ba75599e4da76d1b98f2c",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png.import",
+      "sha256": "759b6eb926d8feb25980733f80e8deec6be84cdde224c0ac2b4dd4cb4dbfa1aa",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_sedan_color.png",
+      "sha256": "4a824f765d5cf7281de1e43a4d4b1a7cf17c17dd164c97f5f2ac58206e9d6727",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-sedan_sedan_color.png.import",
+      "sha256": "b4ea7f841b69c47e1fed3c113d141a53597366d8a5f05d9508b4ab5eff83e951",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png",
+      "sha256": "1d0111f87b43c1d5fafad1721bd64c537c1d2ecc9c67de7d6beddb463eb2ddd7",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_NormalGL_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png.import",
+      "sha256": "3e87990c805ba5157c4f6ddf8cc3d07173e4551cef7a048b825622fb450e8c28",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png",
+      "sha256": "a877b0258458ff420d06062e14ef88dc574c9c33e64344fc83c48a6ff216b743",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_ORM_7f02e486-c112-4d80-a95e-d2eb9dfcd5f1.png.import",
+      "sha256": "3327dc8a0e35079f4b1cf2120b3bb0d2372e38330f3feb6c063eacc9809a413f",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_suv_color.png",
+      "sha256": "96780aff831edcf1283c92dd95fa8b0dbb80021444c7ef48be1d6776e00b36b9",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-suv_suv_color.png.import",
+      "sha256": "5bea6195a50f0a18ae091a6081ae36ef7b66197e6422eab4d09b3b3519e07821",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png",
+      "sha256": "0771d3f69f181212ea24d347d9617976df4748ff90e2080fbea0c4b865e78d1e",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_NormalGL_236f62a2-f447-47e7-ba6b-77b2c23811b7.png.import",
+      "sha256": "0eeb28762563a359572c9de6ea2758a7fc01350491739d51e2bdc7c7979ffe10",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png",
+      "sha256": "4f15787a16c18ce668651bc35879c388a9de4358757991014455b5c3277db7e9",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_ORM_236f62a2-f447-47e7-ba6b-77b2c23811b7.png.import",
+      "sha256": "6e1c8964051dc6ead609bc98f69857e6f3014b2910fee449d4b3142aedc5f275",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_van_color.png",
+      "sha256": "f1815c9ae0980eca9d40755587d27a262bea5173bb78c8c40b6e3edcff460088",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-van_van_color.png.import",
+      "sha256": "1eca7da3201c11403c1bb8e7dd8febf2a046020951b02ff364c44fd2d63a0280",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png",
+      "sha256": "b391f56c138255c718f21b23043533d4c47b5b1f073aeedc668d7c49cbf4b883",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_NormalGL_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png.import",
+      "sha256": "77acfc9fb50c5450a44950ecb9c717ad24a0777351bc591a627c49d25d2e2a9d",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png",
+      "sha256": "c57d4e3a79eda13128f91e0475c82350147d59a6bc26641c26ef113068452e64",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_ORM_9cd83bf5-b91c-4b1a-ab8d-7557cb40f55c.png.import",
+      "sha256": "40c1c03dd9c734baed887406387d398b8ffb33106774a22091b42333a61fcc7f",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_wagon_color.png",
+      "sha256": "cf5216daca53ab97a0586ad93853d9148ee5a888deabf4bf890e5e805bb22536",
+      "matches_td209": true
+    },
+    {
+      "path": "models/cars/tripo/tripo-wagon_wagon_color.png.import",
+      "sha256": "ded6193841a1d264238b16cb02d30af4cfaf3c0c60e80f27f5dac3f3439c0cd3",
+      "matches_td209": true
+    }
+  ],
+  "import_mappings": 692
+}

@@ -1,0 +1,1332 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium)) - Compatibility - Using Device: WebKit - WebKit WebGL
+Build configuration: Emscripten 4.0.20, single-threaded, no GDExtension support.
+WARNING: 'res://scenes/cop_car.tscn': In external resource #0, invalid UID: 'uid://bv1a8jlijkcus' - using text path instead: 'res://scripts/cop_car.gd'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #0, invalid UID: 'uid://egcm71hs27ga' - using text path instead: 'res://assets/td-168/sento_Mat_Dark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #1, invalid UID: 'uid://brgbamfxasyt7' - using text path instead: 'res://assets/td-168/sento_Mat_Outline_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #2, invalid UID: 'uid://bl4u4jlsepvdj' - using text path instead: 'res://assets/td-168/sento_Mat_WoodDark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #3, invalid UID: 'uid://dx7t6sj8clmgr' - using text path instead: 'res://assets/td-168/sento_sento_roof.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #4, invalid UID: 'uid://bs4hgodn60ll5' - using text path instead: 'res://assets/td-168/sento_Mat_Concrete_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #5, invalid UID: 'uid://813y3joxai58' - using text path instead: 'res://assets/td-168/sento_sento_chimney.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #6, invalid UID: 'uid://djet4nap6eeqy' - using text path instead: 'res://assets/td-168/sento_sento_wall.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #7, invalid UID: 'uid://bd116prdghg6d' - using text path instead: 'res://assets/td-168/sento_sento_noren.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #8, invalid UID: 'uid://cf3lp5acno7r5' - using text path instead: 'res://assets/td-168/sento_Mat_WindowDark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/sento.glb': In external resource #9, invalid UID: 'uid://cmhnimwl1af4u' - using text path instead: 'res://assets/td-168/sento_Mat_WindowLit_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_WoodDark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_sento_roof.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_sento_chimney.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_sento_wall.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_sento_noren.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_WindowDark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/sento_Mat_WindowLit_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #0, invalid UID: 'uid://mn0khmjy5ugi' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #1, invalid UID: 'uid://bqjef78s4ecq1' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Dark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #2, invalid UID: 'uid://c7csr08xo3yy6' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Outline_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #3, invalid UID: 'uid://bmrn24nsocoas' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_Concrete_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #4, invalid UID: 'uid://ckwr07t0x4bex' - using text path instead: 'res://assets/td-168/koban_concrete_koban_clock.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #5, invalid UID: 'uid://ctouybauu3woh' - using text path instead: 'res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #6, invalid UID: 'uid://cei6npf43w28m' - using text path instead: 'res://assets/td-168/koban_concrete_koban_concrete.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #7, invalid UID: 'uid://dunnpmkyxvnw5' - using text path instead: 'res://assets/td-168/koban_concrete_koban_sign.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_concrete.glb': In external resource #8, invalid UID: 'uid://cgfkxkv7fwk48' - using text path instead: 'res://assets/td-168/koban_concrete_koban_window.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_Mat_BikeBlack_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_koban_clock.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_Mat_LampGlow_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_koban_concrete.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_koban_sign.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_concrete_koban_window.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #0, invalid UID: 'uid://c2dkieqmo1v3q' - using text path instead: 'res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #1, invalid UID: 'uid://bw67vhypf5s3r' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Dark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #2, invalid UID: 'uid://c4uoiolumprbm' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Outline_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #3, invalid UID: 'uid://c6t10wt7cdubp' - using text path instead: 'res://assets/td-168/koban_brick_sento_roof.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #4, invalid UID: 'uid://co7gmbxdnp5lb' - using text path instead: 'res://assets/td-168/koban_brick_Mat_Concrete_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #5, invalid UID: 'uid://l0ptwlqrnddw' - using text path instead: 'res://assets/td-168/koban_brick_koban_clock.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #6, invalid UID: 'uid://l3h7i3nye3e8' - using text path instead: 'res://assets/td-168/koban_brick_Mat_LampGlow_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #7, invalid UID: 'uid://elq11pbke8o3' - using text path instead: 'res://assets/td-168/koban_brick_koban_brick.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #8, invalid UID: 'uid://b2ahr4kspa0rb' - using text path instead: 'res://assets/td-168/koban_brick_koban_sign.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/koban_brick.glb': In external resource #9, invalid UID: 'uid://brlalriqbfk1s' - using text path instead: 'res://assets/td-168/koban_brick_koban_window.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_Mat_BikeBlack_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_sento_roof.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_Mat_Concrete_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_koban_clock.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_Mat_LampGlow_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_koban_brick.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_koban_sign.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/koban_brick_koban_window.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #0, invalid UID: 'uid://q8y6hdb81jt0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #1, invalid UID: 'uid://dsu450x8e5fn0' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #2, invalid UID: 'uid://bs2w04rtjbr4q' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #3, invalid UID: 'uid://c7eo8u8qyy6hk' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_wood.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #4, invalid UID: 'uid://bhwwdj666xdru' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Outline_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #5, invalid UID: 'uid://br0mkq8gxa3iy' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_granite.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #6, invalid UID: 'uid://d0jpdfqlp71fw' - using text path instead: 'res://assets/td-168/jizo_hokora_jizo_bib.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #7, invalid UID: 'uid://d3vybvvaayanp' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #8, invalid UID: 'uid://dylcb8f0akry7' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #9, invalid UID: 'uid://bo1fhqlg2ymgx' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Sake_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #10, invalid UID: 'uid://o4drl2uhk7tk' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Dark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_hokora.glb': In external resource #11, invalid UID: 'uid://bsctxpuoea40g' - using text path instead: 'res://assets/td-168/jizo_hokora_Mat_Vase_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_FlowerP_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_FlowerY_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_FlowerW_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_jizo_wood.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_jizo_granite.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_jizo_bib.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Jizo_Stone_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Jizo_Red_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Sake_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_hokora_Mat_Vase_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #0, invalid UID: 'uid://dwfohvr0dutkc' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #1, invalid UID: 'uid://cvu4tumk00y8x' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #2, invalid UID: 'uid://d7kik2qkxs6r' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #3, invalid UID: 'uid://1kgjljf7iot2' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_bib.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #4, invalid UID: 'uid://dikh4v4oxqa0t' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Outline_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #5, invalid UID: 'uid://lv61jlkwb12l' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #6, invalid UID: 'uid://bj6bo8kaepmk7' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #7, invalid UID: 'uid://bllbqt8mx55o6' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Sake_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #8, invalid UID: 'uid://c13qnap4orrvf' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_wood.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #9, invalid UID: 'uid://cg511ya3pumbo' - using text path instead: 'res://assets/td-168/jizo_shed_jizo_tin.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #10, invalid UID: 'uid://b5dp1y7gifxn5' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Dark_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://assets/td-168/jizo_shed.glb': In external resource #11, invalid UID: 'uid://br0k1yg4kdbd3' - using text path instead: 'res://assets/td-168/jizo_shed_Mat_Vase_flat.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_FlowerP_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_FlowerY_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_FlowerW_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_jizo_bib.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Outline_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Jizo_Stone_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Jizo_Red_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Sake_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_jizo_wood.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_jizo_tin.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Dark_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+ERROR: No loader found for resource: res://assets/td-168/jizo_shed_Mat_Vase_flat.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] run (res://scripts/qa/td210_capture.gd:50)
+WARNING: 'res://scenes/city_traffic.tscn': In external resource #0, invalid UID: 'uid://csayqyhd8g7ou' - using text path instead: 'res://scripts/traffic/city_traffic.gd'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:173)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:49)
+       [2] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://scenes/cop_manager.tscn': In external resource #0, invalid UID: 'uid://2puw7wpup7hw' - using text path instead: 'res://scripts/cop_manager.gd'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:195)
+       [1] _ready (res://scripts/lower_city/lower_city.gd:50)
+       [2] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_forecourt_pad_tex_pad.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof_tex_canopy_top.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof_tex_canopy_under.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island_tex_island.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_side_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_side_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island_tex_island.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_side_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #0, invalid UID: 'uid://1v8v1xt4dmh3' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_side_red.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_red.glb': In external resource #1, invalid UID: 'uid://bvp0pfuy88e1h' - using text path instead: 'res://models/props/td174/gas_pump_red_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_side_red.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_red_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_kiosk_tex_kiosk.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_forecourt_pad.glb': In external resource #0, invalid UID: 'uid://i3rnhtody5cd' - using text path instead: 'res://models/props/td174/gas_forecourt_pad_tex_pad.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_forecourt_pad_tex_pad.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:21)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #0, invalid UID: 'uid://bq0l4qlyto4kp' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_top.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_canopy_roof.glb': In external resource #1, invalid UID: 'uid://cpkl6ligudc8i' - using text path instead: 'res://models/props/td174/gas_canopy_roof_tex_canopy_under.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof_tex_canopy_top.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_canopy_roof_tex_canopy_under.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:22)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_column.glb': In external resource #0, invalid UID: 'uid://clxu2kfv8d5jt' - using text path instead: 'res://models/props/td174/gas_column_tex_column.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_column_tex_column.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:26)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island_tex_island.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_island.glb': In external resource #0, invalid UID: 'uid://dcho3lyeets8g' - using text path instead: 'res://models/props/td174/gas_pump_island_tex_island.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_island_tex_island.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:29)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #0, invalid UID: 'uid://lgl8tk3q7epf' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_pump_blue.glb': In external resource #1, invalid UID: 'uid://d2wugsqasuuwj' - using text path instead: 'res://models/props/td174/gas_pump_blue_tex_pump_face.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_side_blue.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_pump_blue_tex_pump_face.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:32)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_hose_boom.glb': In external resource #0, invalid UID: 'uid://tj3osxy5uj7g' - using text path instead: 'res://models/props/td174/gas_hose_boom_tex_hose.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_hose_boom_tex_hose.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:33)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+WARNING: 'res://models/props/td174/gas_kiosk.glb': In external resource #0, invalid UID: 'uid://34abtuvmnbf8' - using text path instead: 'res://models/props/td174/gas_kiosk_tex_kiosk.png'.
+   at: open (core/io/resource_format_binary.cpp:1028)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+ERROR: No loader found for resource: res://models/props/td174/gas_kiosk_tex_kiosk.png (expected type: Texture2D)
+   at: _load (core/io/resource_loader.cpp:332)
+   GDScript backtrace (most recent call first):
+       [0] _part (res://scripts/lower_city/fuel_station.gd:60)
+       [1] _ready (res://scripts/lower_city/fuel_station.gd:34)
+       [2] setup (res://scripts/lower_city/fuel_service.gd:32)
+       [3] _ready (res://scripts/lower_city/lower_city.gd:55)
+       [4] run (res://scripts/qa/td210_capture.gd:51)
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[837.799987792969,3.04999804496765,-736.0]},"car":[837.799987792969,-0.150001913309097,-745.0],"draw_calls":2436,"file":"routes/kamome-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":297.055,"hud":true,"objects":2568,"street":"kamome","triangles":326790,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[837.799987792969,3.04999804496765,-736.0]},"car":[837.799987792969,-0.150001913309097,-745.0],"draw_calls":1075,"file":"routes/kamome-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":363.89,"hud":false,"objects":1075,"street":"kamome","triangles":267692,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[842.200012207031,3.04999804496765,-754.0]},"car":[842.200012207031,-0.150001913309097,-745.0],"draw_calls":1599,"file":"routes/kamome-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":201.165,"hud":true,"objects":1731,"street":"kamome","triangles":140887,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[842.200012207031,3.04999804496765,-754.0]},"car":[842.200012207031,-0.150001913309097,-745.0],"draw_calls":239,"file":"routes/kamome-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":249.075,"hud":false,"objects":239,"street":"kamome","triangles":81791,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[829.0,3.04999995231628,-467.799987792969]},"car":[820.0,-0.150000005960464,-467.799987792969],"draw_calls":1523,"file":"routes/seri1-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":203.865,"hud":true,"objects":1655,"street":"seri1","triangles":139835,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[829.0,3.04999995231628,-467.799987792969]},"car":[820.0,-0.150000005960464,-467.799987792969],"draw_calls":163,"file":"routes/seri1-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":212.6,"hud":false,"objects":163,"street":"seri1","triangles":80739,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-0.00000339084203915263,0.0,1.0],[0.216930449008942,0.97618705034256,0.000000735576861643494],[-0.97618705034256,0.216930449008942,-0.00000331009619003453]],"fov":70.0,"position":[811.0,3.04999995231628,-472.200042724609]},"car":[820.0,-0.150000005960464,-472.200012207031],"draw_calls":1799,"file":"routes/seri1-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":382.95,"hud":true,"objects":1931,"street":"seri1","triangles":243416,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-0.00000339084203915263,0.0,1.0],[0.216930449008942,0.97618705034256,0.000000735576861643494],[-0.97618705034256,0.216930449008942,-0.00000331009619003453]],"fov":70.0,"position":[811.0,3.04999995231628,-472.200042724609]},"car":[820.0,-0.150000005960464,-472.200012207031],"draw_calls":439,"file":"routes/seri1-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":468.755,"hud":false,"objects":439,"street":"seri1","triangles":184320,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.643400251865387,0.765530049800873,0.0],[0.765530049800873,0.643400251865387,0.0]],"fov":70.0,"position":[882.379638671875,3.04999995231628,-927.799987792969]},"car":[880.0,-0.150000005960464,-927.799987792969],"draw_calls":1443,"file":"routes/seri3-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":789.745,"hud":true,"objects":1575,"street":"seri3","triangles":105799,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.643400251865387,0.765530049800873,0.0],[0.765530049800873,0.643400251865387,0.0]],"fov":70.0,"position":[882.379638671875,3.04999995231628,-927.799987792969]},"car":[880.0,-0.150000005960464,-927.799987792969],"draw_calls":83,"file":"routes/seri3-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":749.755,"hud":false,"objects":83,"street":"seri3","triangles":46703,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999995231628,-932.200012207031]},"car":[880.0,-0.150000005960464,-932.200012207031],"draw_calls":1958,"file":"routes/seri3-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":3042.505,"hud":true,"objects":2115,"street":"seri3","triangles":469632,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999995231628,-932.200012207031]},"car":[880.0,-0.150000005960464,-932.200012207031],"draw_calls":637,"file":"routes/seri3-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":356.72,"hud":false,"objects":637,"street":"seri3","triangles":410912,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.312891483306885,0.949788928031921,0.0],[0.949788868427277,0.312891483306885,0.0]],"fov":70.0,"position":[736.072143554688,3.04999995231628,-1237.80004882812]},"car":[730.0,-0.150000005960464,-1237.80004882812],"draw_calls":1381,"file":"routes/seri5-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":287.89,"hud":true,"objects":1538,"street":"seri5","triangles":128715,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.312891483306885,0.949788928031921,0.0],[0.949788868427277,0.312891483306885,0.0]],"fov":70.0,"position":[736.072143554688,3.04999995231628,-1237.80004882812]},"car":[730.0,-0.150000005960464,-1237.80004882812],"draw_calls":142,"file":"routes/seri5-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":384.14,"hud":false,"objects":142,"street":"seri5","triangles":71063,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[721.0,3.04999995231628,-1242.19995117188]},"car":[730.0,-0.150000005960464,-1242.19995117188],"draw_calls":2358,"file":"routes/seri5-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":203.945,"hud":true,"objects":2515,"street":"seri5","triangles":330070,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[721.0,3.04999995231628,-1242.19995117188]},"car":[730.0,-0.150000005960464,-1242.19995117188],"draw_calls":1119,"file":"routes/seri5-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":558.44,"hud":false,"objects":1119,"street":"seri5","triangles":272418,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.00000678168407830526],[0.00000147115372328699,0.97618705034256,-0.216930449008942],[-0.00000662019238006906,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[637.799926757812,3.04999804496765,-516.0]},"car":[637.799987792969,-0.150001913309097,-525.0],"draw_calls":2957,"file":"routes/uogashi1-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":2869.635,"hud":true,"objects":3089,"street":"uogashi1","triangles":373354,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.00000678168407830526],[0.00000147115372328699,0.97618705034256,-0.216930449008942],[-0.00000662019238006906,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[637.799926757812,3.04999804496765,-516.0]},"car":[637.799987792969,-0.150001913309097,-525.0],"draw_calls":1723,"file":"routes/uogashi1-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":208.675,"hud":false,"objects":1723,"street":"uogashi1","triangles":317456,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[642.200012207031,3.04999995231628,-534.0]},"car":[642.200012207031,-0.150000005960464,-525.0],"draw_calls":1475,"file":"routes/uogashi1-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":264.41,"hud":true,"objects":1607,"street":"uogashi1","triangles":126576,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[642.200012207031,3.04999995231628,-534.0]},"car":[642.200012207031,-0.150000005960464,-525.0],"draw_calls":236,"file":"routes/uogashi1-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":319.74,"hud":false,"objects":236,"street":"uogashi1","triangles":69078,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[762.200012207031,3.04999995231628,-764.0]},"car":[762.200012207031,-0.150000005960464,-755.0],"draw_calls":1760,"file":"routes/uogashi2b-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":593.295,"hud":true,"objects":1892,"street":"uogashi2b","triangles":193726,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[762.200012207031,3.04999995231628,-764.0]},"car":[762.200012207031,-0.150000005960464,-755.0],"draw_calls":523,"file":"routes/uogashi2b-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":452.62,"hud":false,"objects":523,"street":"uogashi2b","triangles":136232,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.895263195037842,-0.445537656545639],[0.0,0.445537656545639,0.895263195037842]],"fov":70.0,"position":[757.799987792969,3.04999995231628,-750.981201171875]},"car":[757.799987792969,-0.150000005960464,-755.0],"draw_calls":1891,"file":"routes/uogashi2b-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":94.045,"hud":true,"objects":2023,"street":"uogashi2b","triangles":211563,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.895263195037842,-0.445537656545639],[0.0,0.445537656545639,0.895263195037842]],"fov":70.0,"position":[757.799987792969,3.04999995231628,-750.981201171875]},"car":[757.799987792969,-0.150000005960464,-755.0],"draw_calls":654,"file":"routes/uogashi2b-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":572.825,"hud":false,"objects":654,"street":"uogashi2b","triangles":154069,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[937.799987792969,3.04999995231628,-636.0]},"car":[937.799987792969,-0.150000005960464,-645.0],"draw_calls":2083,"file":"routes/uogashi3-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":476.53,"hud":true,"objects":2215,"street":"uogashi3","triangles":350653,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[937.799987792969,3.04999995231628,-636.0]},"car":[937.799987792969,-0.150000005960464,-645.0],"draw_calls":805,"file":"routes/uogashi3-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":613.145,"hud":false,"objects":805,"street":"uogashi3","triangles":292625,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[942.200012207031,3.05000185966492,-654.0]},"car":[942.200012207031,-0.149998098611832,-645.0],"draw_calls":1719,"file":"routes/uogashi3-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":321.445,"hud":true,"objects":1851,"street":"uogashi3","triangles":365304,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[942.200012207031,3.05000185966492,-654.0]},"car":[942.200012207031,-0.149998098611832,-645.0],"draw_calls":441,"file":"routes/uogashi3-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":568.235,"hud":false,"objects":441,"street":"uogashi3","triangles":307276,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[1022.20001220703,3.05000185966492,-894.0]},"car":[1022.20001220703,-0.149998098611832,-885.0],"draw_calls":2243,"file":"routes/uogashi4-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":725.455,"hud":true,"objects":2375,"street":"uogashi4","triangles":510439,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[1022.20001220703,3.05000185966492,-894.0]},"car":[1022.20001220703,-0.149998098611832,-885.0],"draw_calls":1007,"file":"routes/uogashi4-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":691.24,"hud":false,"objects":1007,"street":"uogashi4","triangles":454691,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[1017.79998779297,3.04999995231628,-876.0]},"car":[1017.79998779297,-0.150000005960464,-885.0],"draw_calls":1925,"file":"routes/uogashi4-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":822.265,"hud":true,"objects":2057,"street":"uogashi4","triangles":543614,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[1017.79998779297,3.04999995231628,-876.0]},"car":[1017.79998779297,-0.150000005960464,-885.0],"draw_calls":606,"file":"routes/uogashi4-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":533.055,"hud":false,"objects":606,"street":"uogashi4","triangles":485052,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[671.0,3.04999995231628,-1042.19995117188]},"car":[680.0,-0.150000005960464,-1042.19995117188],"draw_calls":2424,"file":"routes/reizo-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":622.79,"hud":true,"objects":2556,"street":"reizo","triangles":299335,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[671.0,3.04999995231628,-1042.19995117188]},"car":[680.0,-0.150000005960464,-1042.19995117188],"draw_calls":1105,"file":"routes/reizo-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":657.84,"hud":false,"objects":1105,"street":"reizo","triangles":240773,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[689.0,3.04999804496765,-1037.80004882812]},"car":[680.0,-0.150001913309097,-1037.80004882812],"draw_calls":1510,"file":"routes/reizo-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":346.51,"hud":true,"objects":1642,"street":"reizo","triangles":154687,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[689.0,3.04999804496765,-1037.80004882812]},"car":[680.0,-0.150001913309097,-1037.80004882812],"draw_calls":217,"file":"routes/reizo-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":462.26,"hud":false,"objects":217,"street":"reizo","triangles":97489,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.600005865097046,0.0,0.799995601177216],[0.231140732765198,0.957350969314575,-0.17335818707943],[-0.765876531600952,0.288927495479584,0.574416220188141]],"fov":70.0,"position":[583.378479003906,3.04999995231628,-580.283813476562]},"car":[588.679992675781,-0.150000005960464,-584.260009765625],"draw_calls":2707,"file":"routes/uroko-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":423.33,"hud":true,"objects":2839,"street":"uroko","triangles":339380,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.600005865097046,0.0,0.799995601177216],[0.231140732765198,0.957350969314575,-0.17335818707943],[-0.765876531600952,0.288927495479584,0.574416220188141]],"fov":70.0,"position":[583.378479003906,3.04999995231628,-580.283813476562]},"car":[588.679992675781,-0.150000005960464,-584.260009765625],"draw_calls":1388,"file":"routes/uroko-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":637.67,"hud":false,"objects":1388,"street":"uroko","triangles":280818,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-0.600001096725464,0.0,-0.799999177455902],[-0.173543751239777,0.976187169551849,0.130158185958862],[0.78094893693924,0.216929912567139,-0.585713446140289]],"fov":70.0,"position":[598.52001953125,3.04999995231628,-586.140014648438]},"car":[591.320007324219,-0.150000005960464,-580.739990234375],"draw_calls":1483,"file":"routes/uroko-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":616.52,"hud":true,"objects":1615,"street":"uroko","triangles":139314,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[-0.600001096725464,0.0,-0.799999177455902],[-0.173543751239777,0.976187169551849,0.130158185958862],[0.78094893693924,0.216929912567139,-0.585713446140289]],"fov":70.0,"position":[598.52001953125,3.04999995231628,-586.140014648438]},"car":[591.320007324219,-0.150000005960464,-580.739990234375],"draw_calls":164,"file":"routes/uroko-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":400.425,"hud":false,"objects":164,"street":"uroko","triangles":80752,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[746.0,3.04999995231628,-622.200012207031]},"car":[755.0,-0.150000005960464,-622.200012207031],"draw_calls":1740,"file":"routes/ichiba-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":486.885,"hud":true,"objects":1872,"street":"ichiba","triangles":196491,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[746.0,3.04999995231628,-622.200012207031]},"car":[755.0,-0.150000005960464,-622.200012207031],"draw_calls":422,"file":"routes/ichiba-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":533.59,"hud":false,"objects":422,"street":"ichiba","triangles":137941,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[764.0,3.04999995231628,-617.799987792969]},"car":[755.0,-0.150000005960464,-617.799987792969],"draw_calls":1753,"file":"routes/ichiba-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":605.545,"hud":true,"objects":1885,"street":"ichiba","triangles":213772,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.216930449008942,0.97618705034256,0.0],[0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[764.0,3.04999995231628,-617.799987792969]},"car":[755.0,-0.150000005960464,-617.799987792969],"draw_calls":450,"file":"routes/ichiba-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":407.365,"hud":false,"objects":450,"street":"ichiba","triangles":156136,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999804496765,-992.200012207031]},"car":[880.0,-0.150001913309097,-992.200012207031],"draw_calls":1919,"file":"routes/kori-forward-hud-1280/td-210-criterion-2-before.png","host_frame_ms":676.405,"hud":true,"objects":2076,"street":"kori","triangles":328088,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999804496765,-992.200012207031]},"car":[880.0,-0.150001913309097,-992.200012207031],"draw_calls":557,"file":"routes/kori-forward-world-1280/td-210-criterion-2-before.png","host_frame_ms":681.845,"hud":false,"objects":557,"street":"kori","triangles":268834,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0000000000000035527136788005,0.0,-1.0],[-0.730570912361145,0.682836830615997,-0.0000000000000025955092736792],[0.682836830615997,0.730570912361145,0.00000000000000242592374851823]],"fov":70.0,"position":[881.869323730469,3.05000185966492,-987.799987792969]},"car":[880.0,-0.149998098611832,-987.799987792969],"draw_calls":1445,"file":"routes/kori-reverse-hud-1280/td-210-criterion-2-before.png","host_frame_ms":410.985,"hud":true,"objects":1602,"street":"kori","triangles":105541,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[0.0000000000000035527136788005,0.0,-1.0],[-0.730570912361145,0.682836830615997,-0.0000000000000025955092736792],[0.682836830615997,0.730570912361145,0.00000000000000242592374851823]],"fov":70.0,"position":[881.869323730469,3.05000185966492,-987.799987792969]},"car":[880.0,-0.149998098611832,-987.799987792969],"draw_calls":83,"file":"routes/kori-reverse-world-1280/td-210-criterion-2-before.png","host_frame_ms":258.6,"hud":false,"objects":83,"street":"kori","triangles":46287,"view":"actual ChaseCam, parked","viewport":[1280,720]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[837.799987792969,3.04999804496765,-736.0]},"car":[837.799987792969,-0.150001913309097,-745.0],"draw_calls":2428,"file":"routes/kamome-forward-hud-844/td-210-criterion-2-before.png","host_frame_ms":321.765,"hud":true,"objects":2574,"street":"kamome","triangles":341908,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[1.0,0.0,0.0],[0.0,0.97618705034256,-0.216930449008942],[0.0,0.216930449008942,0.97618705034256]],"fov":70.0,"position":[837.799987792969,3.04999804496765,-736.0]},"car":[837.799987792969,-0.150001913309097,-745.0],"draw_calls":1058,"file":"routes/kamome-forward-world-844/td-210-criterion-2-before.png","host_frame_ms":400.14,"hud":false,"objects":1058,"street":"kamome","triangles":280898,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[842.200012207031,3.04999804496765,-754.0]},"car":[842.200012207031,-0.150001913309097,-745.0],"draw_calls":1904,"file":"routes/kamome-reverse-hud-844/td-210-criterion-2-before.png","host_frame_ms":244.99,"hud":true,"objects":2050,"street":"kamome","triangles":184942,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[-1.0,0.0,0.0],[0.0,0.97618705034256,0.216930449008942],[0.0,0.216930449008942,-0.97618705034256]],"fov":70.0,"position":[842.200012207031,3.04999804496765,-754.0]},"car":[842.200012207031,-0.150001913309097,-745.0],"draw_calls":529,"file":"routes/kamome-reverse-world-844/td-210-criterion-2-before.png","host_frame_ms":218.36,"hud":false,"objects":529,"street":"kamome","triangles":122860,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.643400251865387,0.765530049800873,0.0],[0.765530049800873,0.643400251865387,0.0]],"fov":70.0,"position":[882.379638671875,3.04999995231628,-927.799987792969]},"car":[880.0,-0.150000005960464,-927.799987792969],"draw_calls":1523,"file":"routes/seri3-forward-hud-844/td-210-criterion-2-before.png","host_frame_ms":262.615,"hud":true,"objects":1669,"street":"seri3","triangles":141561,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,-1.0],[-0.643400251865387,0.765530049800873,0.0],[0.765530049800873,0.643400251865387,0.0]],"fov":70.0,"position":[882.379638671875,3.04999995231628,-927.799987792969]},"car":[880.0,-0.150000005960464,-927.799987792969],"draw_calls":153,"file":"routes/seri3-forward-world-844/td-210-criterion-2-before.png","host_frame_ms":166.675,"hud":false,"objects":153,"street":"seri3","triangles":81137,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999995231628,-932.200012207031]},"car":[880.0,-0.150000005960464,-932.200012207031],"draw_calls":1935,"file":"routes/seri3-reverse-hud-844/td-210-criterion-2-before.png","host_frame_ms":487.065,"hud":true,"objects":2081,"street":"seri3","triangles":432996,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_SHOT {"camera":{"basis":[[0.0,0.0,1.0],[0.216930449008942,0.97618705034256,0.0],[-0.97618705034256,0.216930449008942,0.0]],"fov":70.0,"position":[871.0,3.04999995231628,-932.200012207031]},"car":[880.0,-0.150000005960464,-932.200012207031],"draw_calls":565,"file":"routes/seri3-reverse-world-844/td-210-criterion-2-before.png","host_frame_ms":445.54,"hud":false,"objects":565,"street":"seri3","triangles":372572,"view":"actual ChaseCam, parked","viewport":[844,390]}
+TD210_CAPTURE_DONE 56

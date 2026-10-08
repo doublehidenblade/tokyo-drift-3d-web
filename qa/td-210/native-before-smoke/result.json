@@ -1,0 +1,107 @@
+{
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "frames": [
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.0000000437113882867379,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            -0.0000000437113882867379
+          ]
+        ],
+        "fov": 75.0,
+        "position": [
+          1019.03747558594,
+          4.42000007629395,
+          -643.64501953125
+        ]
+      },
+      "car": [
+        1019.03747558594,
+        -0.149998098611832,
+        -643.64501953125
+      ],
+      "draw_calls": 66,
+      "file": "lots/1022/td-210-criterion-1-before.png",
+      "height_m": 8.84,
+      "host_frame_ms": 148.449,
+      "hud": false,
+      "lot": 1022,
+      "objects": 66,
+      "ortho_size": 33.2899780273438,
+      "street": "uogashi4",
+      "triangles": 192639,
+      "view": "fixed front orthographic lot survey",
+      "viewport": [
+        960,
+        960
+      ]
+    }
+  ],
+  "phase": "before",
+  "physical_phone": false,
+  "scope": "Actual Lower City with production traffic/peds; fixed parked diagnostic cameras, not a driven performance claim.",
+  "seed": 185,
+  "source": "0b2652bc86b6824444af277fdb34af5bdd981066",
+  "web": false,
+  "world_stats": {
+    "build_ms": 4116,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "eaves": 311,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 718,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 251124,
+        "place_us": 912620,
+        "slice_us": 1555827
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 92656
+  }
+}

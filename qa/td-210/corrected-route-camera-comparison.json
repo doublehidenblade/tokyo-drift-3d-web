@@ -1,0 +1,12 @@
+{
+  "native": {
+    "paired_frames": 56,
+    "matching_names": true,
+    "camera_or_car_differences": []
+  },
+  "browser": {
+    "paired_frames": 56,
+    "matching_names": true,
+    "camera_or_car_differences": []
+  }
+}

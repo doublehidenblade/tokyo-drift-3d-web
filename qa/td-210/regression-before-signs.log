@@ -1,0 +1,63 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/traffic/city_traffic.gd:319)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/cop_manager.gd:80)
+SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus
+          at: GDScript::reload (res://scripts/lower_city/wanted_hud.gd:51)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://scripts/lower_city/lower_city.gd:0)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+          at: GDScript::reload (res://tools/test_lower_city_signs.gd:0)
+ERROR: Failed to load script "res://tools/test_lower_city_signs.gd" with error "Compilation failed".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_traffic (res://scripts/lower_city/lower_city.gd:174)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:49)
+              [2] run (res://tools/test_lower_city_signs.gd:32)
+SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.
+          at: LowerCity._spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+          GDScript backtrace (most recent call first):
+              [0] _spawn_cops (res://scripts/lower_city/lower_city.gd:196)
+              [1] _ready (res://scripts/lower_city/lower_city.gd:50)
+              [2] run (res://tools/test_lower_city_signs.gd:32)
+signs built { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 1312 }
+TD185_SIGNS_TABLE {"fails_by_pair":{"->depots":1,"->kotobuki":1,"chidori->depots":65,"chidori->kamome":21,"chidori->kotobuki":25,"shinkai->depots":5,"shinkai->kamome":4},"median_time_vs_best":1.0,"mode":"signs only","ok":3715,"trials":3837}
+TD185_SIGNS_TABLE {"fails_by_pair":{},"median_time_vs_best":1.0,"mode":"signs+map","ok":3837,"trials":3837}
+TD185_TRIP {"arcs":5,"driven_m":477,"from":"asahi_hq","ok":true,"recoveries":0,"route":"銀行通り > 天神大通り > 商社通り","signed_decisions":4,"stuck":0,"time_s":32.6,"to":"kamome"}
+TD185_TRIP {"arcs":10,"driven_m":1103,"from":"kenji_hall","ok":true,"recoveries":0,"route":"市場通り > 河岸通り > 銀行通り > 星通り","signed_decisions":9,"stuck":0,"time_s":66.2,"to":"chidori"}
+TD185_TRIP {"arcs":17,"driven_m":1823,"from":"starlight","ok":true,"recoveries":0,"route":"星通り > 楓通り > 北千鳥通り > 操車場通り","signed_decisions":15,"stuck":0,"time_s":105.3,"to":"kotobuki"}
+TD185_TRIP {"arcs":19,"driven_m":1839,"from":"mariko","ok":true,"recoveries":0,"route":"寿二丁目小路 > 寿西通り > 西門通り > 商社通り > 河岸通り > 産業道路","signed_decisions":18,"stuck":0,"time_s":113.3,"to":"shinkai"}
+TD185_TRIP {"arcs":3,"driven_m":446,"from":"kettle_lab","ok":true,"recoveries":0,"route":"産業道路 > 第二工場通り","signed_decisions":3,"stuck":0,"time_s":28.1,"to":"daikoku"}
+TD185_TRIP {"arcs":18,"driven_m":1872,"from":"gate2","ok":false,"recoveries":0,"route":"第二ゲート通り > コンテナ横丁 > 第三ゲート通り > 埠頭大通り > 検数通り > 臨港通り > 天神大通り","signed_decisions":12,"stuck":7,"time_s":150.2,"to":"depots"}
+FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":5,"driven_m":0,"from":"yard_shed","ok":false,"recoveries":0,"route":"貨物ヤード通り > 操車場通り","signed_decisions":4,"stuck":7,"time_s":31.2,"to":"tenjin"}
+FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":10,"driven_m":0,"from":"hotel_lantern","ok":false,"recoveries":0,"route":"運河通り > 楓通り > 第二工場通り","signed_decisions":7,"stuck":7,"time_s":31.2,"to":"daikoku"}
+FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":16,"driven_m":0,"from":"rinse4","ok":false,"recoveries":0,"route":"洗浄横丁 > 市場通り > 河岸通り > 銀行通り > 星通り","signed_decisions":14,"stuck":7,"time_s":31.2,"to":"chidori"}
+FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":9,"driven_m":0,"from":"shaft1_dock","ok":false,"recoveries":0,"route":"第一昇降塔前 > 臨港通り","signed_decisions":7,"stuck":7,"time_s":31.2,"to":"kamome"}
+FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":15,"driven_m":0,"from":"t2_queue","ok":false,"recoveries":0,"route":"第二昇降塔前 > 天神大通り > 操車場通り","signed_decisions":10,"stuck":7,"time_s":31.2,"to":"kotobuki"}
+FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)
+TD185_TRIP {"arcs":12,"driven_m":0,"from":"seri_window","ok":false,"recoveries":0,"route":"競り小路 > 魚河岸横丁 > 西門通り > 商社通り > 河岸通り > 産業道路","signed_decisions":9,"stuck":7,"time_s":31.2,"to":"shinkai"}
+FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)
+TD185_SIGNS {"drive_min":11.38,"failures":7,"km":7.56,"trips":12}
+WARNING: 637 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+   at: cleanup (core/object/object.cpp:2536)
+ERROR: 467 resources still in use at exit (run with --verbose for details).
+   at: clear (core/io/resource.cpp:822)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE
+   at: ~PagedAllocator (./core/templates/paged_allocator.h:170)
+ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.
+ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.
+ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.
+ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.
+ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.
+ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.

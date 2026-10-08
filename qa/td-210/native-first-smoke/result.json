@@ -1,0 +1,224 @@
+{
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "frames": [
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.0000000437113882867379,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            -0.0000000437113882867379
+          ]
+        ],
+        "fov": 75.0,
+        "position": [
+          1019.03747558594,
+          4.42000007629395,
+          -643.64501953125
+        ]
+      },
+      "car": [
+        1019.03747558594,
+        -0.149998098611832,
+        -643.64501953125
+      ],
+      "draw_calls": 102,
+      "file": "lots/1022/td-210-criterion-1-after.png",
+      "height_m": 8.84,
+      "host_frame_ms": 1921.22,
+      "hud": false,
+      "lot": 1022,
+      "objects": 102,
+      "ortho_size": 33.2899780273438,
+      "street": "uogashi4",
+      "triangles": 222568,
+      "view": "fixed front orthographic lot survey",
+      "viewport": [
+        960,
+        960
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.0000000437113882867379,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            -0.0000000437113882867379
+          ]
+        ],
+        "fov": 75.0,
+        "position": [
+          1019.03747558594,
+          5.26000022888184,
+          -673.035034179688
+        ]
+      },
+      "car": [
+        1019.03747558594,
+        -0.150000005960464,
+        -673.035034179688
+      ],
+      "draw_calls": 105,
+      "file": "lots/1023/td-210-criterion-1-after.png",
+      "height_m": 10.52,
+      "host_frame_ms": 1921.22,
+      "hud": false,
+      "lot": 1023,
+      "objects": 105,
+      "ortho_size": 39.4900512695312,
+      "street": "uogashi4",
+      "triangles": 234404,
+      "view": "fixed front orthographic lot survey",
+      "viewport": [
+        960,
+        960
+      ]
+    },
+    {
+      "camera": {
+        "basis": [
+          [
+            -0.0000000437113882867379,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            -0.0000000437113882867379
+          ]
+        ],
+        "fov": 75.0,
+        "position": [
+          1103.02502441406,
+          3.61999988555908,
+          -673.205017089844
+        ]
+      },
+      "car": [
+        1103.02502441406,
+        -0.150001913309097,
+        -673.205017089844
+      ],
+      "draw_calls": 154,
+      "file": "lots/1024/td-210-criterion-1-after.png",
+      "height_m": 7.24,
+      "host_frame_ms": 213.409,
+      "hud": false,
+      "lot": 1024,
+      "objects": 154,
+      "ortho_size": 39.1500244140625,
+      "street": "nishitenjin",
+      "triangles": 140227,
+      "view": "fixed front orthographic lot survey",
+      "viewport": [
+        960,
+        960
+      ]
+    }
+  ],
+  "phase": "after",
+  "physical_phone": false,
+  "scope": "Actual Lower City with production traffic/peds; fixed parked diagnostic cameras, not a driven performance claim.",
+  "seed": 185,
+  "source": "working",
+  "web": false,
+  "world_stats": {
+    "build_ms": 5350,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "kamome": {
+      "donor_bands": 504,
+      "frontages": 345,
+      "lots": 345,
+      "max_lot_triangles": 3949,
+      "mesh_instances": 488,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 53886,
+        "place_us": 154676,
+        "slice_us": 886319
+      },
+      "module_variants": 4533,
+      "props": 546,
+      "sharing": {
+        "cells": 464,
+        "expanded_triangles": 841924,
+        "placements": 2395,
+        "unique_meshes": 25,
+        "unique_triangles": 11889
+      },
+      "storefronts": 217,
+      "triangles": 925837
+    },
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 1204,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 260362,
+        "place_us": 928009,
+        "slice_us": 1570944
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 104302
+  }
+}
