@@ -12,4 +12,4 @@ Known limitations and open checks:
 
 Delivery uses 8 MiB chunks with per-chunk and assembled-pack SHA256 checks. Only the matching chunk-size constants changed in the existing packager and loader; runtime game source was not changed for publication. See `packaging-provenance.json` at site root.
 
-The prior v46 client is retained at `../live-v46-4ecd2089/index.html`. Prior files and unrelated galleries are preserved.
+The prior v46 client is retained at `releases/live-v46-4ecd2089/index.html`. Prior files and unrelated galleries are preserved.
