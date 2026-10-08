@@ -1,0 +1,44 @@
+[
+  {
+    "phase": "before",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/td209-baseline/godot",
+      "-s",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/snapshot.gd",
+      "--",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/review/snapshot-before.json"
+    ],
+    "returncode": 0
+  },
+  {
+    "phase": "after",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "-s",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/snapshot.gd",
+      "--",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/review/snapshot-after.json"
+    ],
+    "returncode": 0
+  },
+  {
+    "phase": "after-repeat",
+    "command": [
+      "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+      "--headless",
+      "--path",
+      "/workspace/tokyo-drift-3d/godot",
+      "-s",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/snapshot.gd",
+      "--",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/review/snapshot-after-repeat.json"
+    ],
+    "returncode": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "phase": "before",
+    "command": [
+      "node",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/ordinary_entry.mjs",
+      "/workspace/tokyo-drift-3d/build/td209-base-native-import",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/review/ordinary-entry-before"
+    ],
+    "exit": 1,
+    "log": "independent-ordinary-before.log",
+    "completed_at": "2026-10-08T00:47:30.838037+00:00"
+  },
+  {
+    "phase": "after",
+    "command": [
+      "node",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/ordinary_entry.mjs",
+      "/workspace/tokyo-drift-3d/build/td209-final-released",
+      "/workspace/tokyo-drift-3d/godot/qa/td-209/review/ordinary-entry-after"
+    ],
+    "exit": 1,
+    "log": "independent-ordinary-after.log",
+    "completed_at": "2026-10-08T00:49:11.264613+00:00"
+  }
+]

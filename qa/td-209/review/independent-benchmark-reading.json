@@ -1,0 +1,72 @@
+{
+  "before": {
+    "build_ms": [
+      930,
+      938,
+      897
+    ],
+    "median_build_ms": 930,
+    "static_memory_bytes": [
+      132969630
+    ],
+    "static_memory_peak_bytes": [
+      181060554
+    ],
+    "mesh_instances": [
+      656
+    ],
+    "cache_counts": [
+      null,
+      null,
+      null
+    ],
+    "retained_evidence": [
+      null,
+      null,
+      null
+    ]
+  },
+  "after": {
+    "build_ms": [
+      3808,
+      4066,
+      3866
+    ],
+    "median_build_ms": 3866,
+    "static_memory_bytes": [
+      294592615
+    ],
+    "static_memory_peak_bytes": [
+      526660996
+    ],
+    "mesh_instances": [
+      718
+    ],
+    "cache_counts": [
+      {
+        "assets": 0,
+        "batches": 0,
+        "donors": 0,
+        "modules": 0
+      },
+      {
+        "assets": 0,
+        "batches": 0,
+        "donors": 0,
+        "modules": 0
+      },
+      {
+        "assets": 0,
+        "batches": 0,
+        "donors": 0,
+        "modules": 0
+      }
+    ],
+    "retained_evidence": [
+      0,
+      0,
+      0
+    ],
+    "three_mesh_sets_identical": true
+  }
+}

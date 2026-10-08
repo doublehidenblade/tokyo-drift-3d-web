@@ -1,0 +1,39 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+stats { "ground_tris": 25304, "merge_lanes": 12, "ramp_mouths": 12, "buildings": 4502, "dressing": { "eaves": 311, "cornices": 77, "blade_signs": 1010, "repair_bays": 169, "arc_lights": 107, "pipe_gantries": 59, "quay_cranes": 6, "flood_masts": 82 }, "lamps_cleared": 36, "mesh_instances": 656, "drive_tris": 31070, "wall_tris": 88626, "build_ms": 931 }
+ok: ground triangulated (25304 tris)
+ok: buildings extruded (4502)
+ok: drivable collider has ground + ribbons + ring
+ok: walls collider (88626 tris)
+ok: mesh families present
+ok: street lamps (621)
+ok: landmark beacons (122)
+ok: Tenjin Odori at Shosha-dori at h 0.00 (expected 0.00)
+ok: trench floor under the deck at h -5.00 (expected -5.00)
+ok: Ring lid over the trench at h 0.50 (expected 0.50)
+ok: Ring north leg deck at h 7.00 (expected 7.00)
+ok: Ni-no-hashi crown at h 0.79 (expected 0.80)
+ok: Kotobuki dip ramp mid-grade at h -2.50 (expected -2.50)
+ok: open ramp spans over streets ([["tenjinkita_ic_outer_on", "tenjin", 3.91], ["tenjinkita_ic_inner_off", "tenjin", 3.91]])
+ok: Tenjin Odori clear under the Ring and its ramps at x 1212.0 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1215.2 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1224.8 ()
+ok: Tenjin Odori clear under the Ring and its ramps at x 1228.0 ()
+ok: dressing: blade_signs (1010)
+ok: dressing: eaves (311)
+ok: dressing: pipe_gantries (59)
+ok: dressing: quay_cranes (6)
+ok: dressing: flood_masts (82)
+ok: dressing: arc_lights (107)
+ok: dressing: cornices (77)
+ok: Chidori is night (sun 0.16)
+ok: Tenjin is dusty day (sun 0.85)
+ok: the trench floor under the Ring is dark (sun 0.22)
+ok: light blends between Tenjin and Chidori (sun 0.52)
+signs { "gantry": 154, "gantry_as_post": 58, "pointer": 88, "post_guide": 195, "exp_advance": 16, "exp_exit": 8, "exp_entrance": 8, "stop": 94, "one_way": 106, "no_entry": 106, "warn_grade": 8, "warn_narrow": 28, "warn_tram": 2, "warn_merge": 6, "pipe_gantry": 10, "height_limit": 2, "street_plate": 191, "gateway": 77, "blade_letters": 1010, "gig_bays": 19, "meshes": 804, "post_tris": 11184, "signs": 1099, "missing_glyphs": 0, "build_ms": 904 }
+ok: every plan sign built (1099 of 1099)
+ok: the font has every glyph the signs use
+ok: no sign post stands in a carriageway ([])
+ok: guide signs registered by approach (445)
+ok: every runtime script still compiles ([])
+TD185_BUILD failures=0

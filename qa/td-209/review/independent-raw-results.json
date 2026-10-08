@@ -1,0 +1,1517 @@
+{
+  "regressions": {
+    "build": {
+      "before": {
+        "path": "logs/base-lower-city-build-restored.log",
+        "events": {},
+        "failures": [],
+        "build_summary": [
+          "TD185_BUILD failures=0"
+        ],
+        "error_counts": {}
+      },
+      "after": {
+        "path": "logs/released-lower-city-build.log",
+        "events": {},
+        "failures": [],
+        "build_summary": [
+          "TD185_BUILD failures=0"
+        ],
+        "error_counts": {}
+      },
+      "failure_lines_equal": true,
+      "event_differences": []
+    },
+    "ramps": {
+      "before": {
+        "path": "logs/base-lower-city-ramps.log",
+        "events": {
+          "TD185_RAMP": [
+            {
+              "end_y": -5.6360936164856,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_outer_on",
+              "merge_lane_m": 0.0,
+              "min_y_after_top": -5.6360936164856,
+              "past_top": 142.822875976562,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "closed": false,
+              "closest_m": -0.03,
+              "inside_m": 114.09,
+              "mouth": "tenjinkita_ic_outer_off",
+              "v_max": 24.3
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 117.028564453125,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.283569335938,
+              "recoveries": 0,
+              "v_top": 29.9605903625488
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "kashi_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.171264648438,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "kashi_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 202.660278320312,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "daikoku_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.167175292969,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "daikoku_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.192993164062,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "closed": true,
+              "closest_m": -2.16,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.16,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.6,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.55,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_inner_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.55,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_inner_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.6,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.54,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_inner_on",
+              "v_max": 23.4
+            }
+          ],
+          "TD185_RAMPS": [
+            {
+              "checks": 25,
+              "failures": 0
+            }
+          ]
+        },
+        "failures": [],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-sedan_sedan_color.png (expected type: Texture2D)": 1,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-sedan_ORM_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png (expected type: Texture2D)": 1,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-sedan_NormalGL_6ea8a232-82a6-4b5e-838d-1cf1b8702d44.png (expected type: Texture2D)": 1,
+          "ERROR: Can't load dependency: 'res://models/cars/tripo/tripo-sedan_sedan_color.png'.": 1,
+          "ERROR: Failed loading resource: res://.godot/imported/tripo-sedan.glb-612773e03c24815fdf6feef57999b70f.scn.": 1,
+          "ERROR: Failed loading resource: res://models/cars/tripo/tripo-sedan.glb.": 1,
+          "ERROR: res://scenes/tripo_car_sedan.tscn:23 - Parse Error: [ext_resource] referenced non-existent resource at: res://models/cars/tripo/tripo-sedan.glb.": 1,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_ramps.gd\" with error \"Compilation failed\".": 1,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_coupe_color.png (expected type: Texture2D)": 1,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_ORM_557ade52-bb43-491b-8c08-4db80f18231a.png (expected type: Texture2D)": 1,
+          "ERROR: Resource file not found: res://models/cars/tripo/tripo-coupe_NormalGL_557ade52-bb43-491b-8c08-4db80f18231a.png (expected type: Texture2D)": 1,
+          "ERROR: Can't load dependency: 'res://models/cars/tripo/tripo-coupe_coupe_color.png'.": 1,
+          "ERROR: Failed loading resource: res://.godot/imported/tripo-coupe.glb-daa7f7eb3a9f24938893fdba3f48cb45.scn.": 1,
+          "ERROR: Failed loading resource: res://models/cars/tripo/tripo-coupe.glb.": 1,
+          "ERROR: res://scenes/tripo_car_coupe.tscn:23 - Parse Error: [ext_resource] referenced non-existent resource at: res://models/cars/tripo/tripo-coupe.glb.": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 4,
+          "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.": 20,
+          "ERROR: 458 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 56 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 283 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 57 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 2 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "after": {
+        "path": "logs/released-lower-city-ramps.log",
+        "events": {
+          "TD185_RAMP": [
+            {
+              "end_y": -5.6360936164856,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_outer_on",
+              "merge_lane_m": 0.0,
+              "min_y_after_top": -5.6360936164856,
+              "past_top": 142.822875976562,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "closed": false,
+              "closest_m": -0.03,
+              "inside_m": 114.09,
+              "mouth": "tenjinkita_ic_outer_off",
+              "v_max": 24.3
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 117.028564453125,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "tenjinkita_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.282836914062,
+              "recoveries": 0,
+              "v_top": 29.9605808258057
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "kashi_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.171264648438,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "kashi_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 202.6591796875,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "daikoku_ic_outer_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.164001464844,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "end_y": 7.0,
+              "h_top": 7.0,
+              "id": "daikoku_ic_inner_on",
+              "merge_lane_m": 70.0,
+              "min_y_after_top": 7.0,
+              "past_top": 203.192993164062,
+              "recoveries": 0,
+              "v_top": 29.961145401001
+            },
+            {
+              "closed": true,
+              "closest_m": -2.16,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.16,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.51,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.55,
+              "inside_m": 0.0,
+              "mouth": "tenjinkita_ic_inner_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.55,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "kashi_ic_inner_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.54,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_outer_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -1.54,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_outer_on",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_inner_off",
+              "v_max": 23.4
+            },
+            {
+              "closed": true,
+              "closest_m": -2.15,
+              "inside_m": 0.0,
+              "mouth": "daikoku_ic_inner_on",
+              "v_max": 23.4
+            }
+          ],
+          "TD185_RAMPS": [
+            {
+              "checks": 25,
+              "failures": 0
+            }
+          ]
+        },
+        "failures": [],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_ramps.gd\" with error \"Compilation failed\".": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 4,
+          "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.": 20,
+          "ERROR: 467 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 2 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "failure_lines_equal": true,
+      "event_differences": [
+        {
+          "event": "TD185_RAMP",
+          "index": 3,
+          "fields": {
+            "past_top": [
+              203.283569335938,
+              203.282836914062
+            ],
+            "v_top": [
+              29.9605903625488,
+              29.9605808258057
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 5,
+          "fields": {
+            "past_top": [
+              202.660278320312,
+              202.6591796875
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 6,
+          "fields": {
+            "past_top": [
+              203.167175292969,
+              203.164001464844
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 10,
+          "fields": {
+            "closest_m": [
+              -1.6,
+              -1.51
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 16,
+          "fields": {
+            "closest_m": [
+              -1.6,
+              -1.54
+            ]
+          }
+        }
+      ]
+    },
+    "drive": {
+      "before": {
+        "path": "logs/base-lower-city-drive-isolated.log",
+        "events": {
+          "TD185_LEG": [
+            {
+              "arcs": 4,
+              "avg_kmh": 50.7,
+              "classes": {
+                "arterial": 1,
+                "avenue": 2,
+                "street": 1
+              },
+              "driven_m": 407,
+              "from": "asahi_hq",
+              "leg": 1,
+              "max_y": -0.11,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 43.1,
+              "recoveries": 0,
+              "streets": "ginko > tenjin > shosha",
+              "stuck": 0,
+              "time_s": 28.9,
+              "to": "paper_exch"
+            },
+            {
+              "arcs": 7,
+              "avg_kmh": 54.7,
+              "classes": {
+                "arterial": 1,
+                "ramp": 2,
+                "ring": 1,
+                "street": 3
+              },
+              "driven_m": 1399,
+              "from": "paper_exch",
+              "leg": 2,
+              "max_y": 6.86,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 112.4,
+              "recoveries": 0,
+              "streets": "shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba",
+              "stuck": 0,
+              "time_s": 92.1,
+              "to": "kenji_hall"
+            },
+            {
+              "arcs": 7,
+              "avg_kmh": 46.2,
+              "classes": {
+                "alley": 3,
+                "arterial": 2,
+                "street": 2
+              },
+              "driven_m": 486,
+              "from": "kenji_hall",
+              "leg": 3,
+              "max_y": -0.14,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 83.2,
+              "recoveries": 0,
+              "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+              "stuck": 0,
+              "time_s": 37.9,
+              "to": "seri_window"
+            },
+            {
+              "arcs": 6,
+              "avg_kmh": 53.4,
+              "classes": {
+                "alley": 2,
+                "arterial": 3,
+                "lane": 1
+              },
+              "driven_m": 638,
+              "from": "seri_window",
+              "leg": 4,
+              "max_y": -0.15,
+              "min_y": -5.15,
+              "ok": true,
+              "plan_s": 86.6,
+              "recoveries": 0,
+              "streets": "seri3 > uogashi2b > nishimon > senjo1",
+              "stuck": 0,
+              "time_s": 43.0,
+              "to": "rinse4"
+            },
+            {
+              "arcs": 8,
+              "avg_kmh": 50.2,
+              "classes": {
+                "arterial": 3,
+                "lane": 3,
+                "street": 1,
+                "trench": 1
+              },
+              "driven_m": 721,
+              "from": "rinse4",
+              "leg": 5,
+              "max_y": -0.12,
+              "min_y": -5.15,
+              "ok": true,
+              "plan_s": 115.4,
+              "recoveries": 0,
+              "streets": "senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2",
+              "stuck": 0,
+              "time_s": 51.8,
+              "to": "mariko"
+            },
+            {
+              "arcs": 6,
+              "avg_kmh": 48.0,
+              "classes": {
+                "arterial": 3,
+                "lane": 1,
+                "street": 2
+              },
+              "driven_m": 696,
+              "from": "mariko",
+              "leg": 6,
+              "max_y": -0.13,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 85.2,
+              "recoveries": 0,
+              "streets": "slum2 > kotobuki_w > nishimon",
+              "stuck": 0,
+              "time_s": 52.1,
+              "to": "west_gate"
+            },
+            {
+              "arcs": 9,
+              "avg_kmh": 57.2,
+              "classes": {
+                "arterial": 2,
+                "avenue": 1,
+                "lane": 1,
+                "street": 5
+              },
+              "driven_m": 990,
+              "from": "west_gate",
+              "leg": 7,
+              "max_y": -0.12,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 110.9,
+              "recoveries": 0,
+              "streets": "nishimon > kotobuki_w > futo > gate2",
+              "stuck": 0,
+              "time_s": 62.3,
+              "to": "gate2"
+            },
+            {
+              "arcs": 9,
+              "avg_kmh": 53.3,
+              "classes": {
+                "alley": 1,
+                "avenue": 3,
+                "lane": 2,
+                "ramp": 1,
+                "ring": 1,
+                "street": 1
+              },
+              "driven_m": 1429,
+              "from": "gate2",
+              "leg": 8,
+              "max_y": 6.86,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 127.6,
+              "recoveries": 0,
+              "streets": "gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring",
+              "stuck": 0,
+              "time_s": 96.6,
+              "to": "arc:627"
+            },
+            {
+              "arcs": 4,
+              "avg_kmh": 35.8,
+              "classes": {
+                "ring": 4
+              },
+              "driven_m": 793,
+              "from": "arc:627",
+              "leg": 9,
+              "max_y": 6.85,
+              "min_y": 0.35,
+              "ok": false,
+              "plan_s": 85.9,
+              "recoveries": 0,
+              "streets": "ring",
+              "stuck": 7,
+              "time_s": 79.6,
+              "to": "arc:622"
+            }
+          ],
+          "TD185_DRIVE": [
+            {
+              "drive_min": 7.74,
+              "failures": 1,
+              "km": 6.77,
+              "legs": 21
+            }
+          ]
+        },
+        "failures": [
+          "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+        ],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_drive.gd\" with error \"Compilation failed\".": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 2,
+          "ERROR: 465 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "after": {
+        "path": "logs/released-lower-city-drive.log",
+        "events": {
+          "TD185_LEG": [
+            {
+              "arcs": 4,
+              "avg_kmh": 50.7,
+              "classes": {
+                "arterial": 1,
+                "avenue": 2,
+                "street": 1
+              },
+              "driven_m": 407,
+              "from": "asahi_hq",
+              "leg": 1,
+              "max_y": -0.11,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 43.1,
+              "recoveries": 0,
+              "streets": "ginko > tenjin > shosha",
+              "stuck": 0,
+              "time_s": 28.9,
+              "to": "paper_exch"
+            },
+            {
+              "arcs": 7,
+              "avg_kmh": 54.7,
+              "classes": {
+                "arterial": 1,
+                "ramp": 2,
+                "ring": 1,
+                "street": 3
+              },
+              "driven_m": 1399,
+              "from": "paper_exch",
+              "leg": 2,
+              "max_y": 6.86,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 112.4,
+              "recoveries": 0,
+              "streets": "shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba",
+              "stuck": 0,
+              "time_s": 92.1,
+              "to": "kenji_hall"
+            },
+            {
+              "arcs": 7,
+              "avg_kmh": 46.2,
+              "classes": {
+                "alley": 3,
+                "arterial": 2,
+                "street": 2
+              },
+              "driven_m": 486,
+              "from": "kenji_hall",
+              "leg": 3,
+              "max_y": -0.14,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 83.2,
+              "recoveries": 0,
+              "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+              "stuck": 0,
+              "time_s": 37.9,
+              "to": "seri_window"
+            },
+            {
+              "arcs": 6,
+              "avg_kmh": 53.4,
+              "classes": {
+                "alley": 2,
+                "arterial": 3,
+                "lane": 1
+              },
+              "driven_m": 638,
+              "from": "seri_window",
+              "leg": 4,
+              "max_y": -0.15,
+              "min_y": -5.15,
+              "ok": true,
+              "plan_s": 86.6,
+              "recoveries": 0,
+              "streets": "seri3 > uogashi2b > nishimon > senjo1",
+              "stuck": 0,
+              "time_s": 43.0,
+              "to": "rinse4"
+            },
+            {
+              "arcs": 8,
+              "avg_kmh": 50.2,
+              "classes": {
+                "arterial": 3,
+                "lane": 3,
+                "street": 1,
+                "trench": 1
+              },
+              "driven_m": 721,
+              "from": "rinse4",
+              "leg": 5,
+              "max_y": -0.12,
+              "min_y": -5.15,
+              "ok": true,
+              "plan_s": 115.4,
+              "recoveries": 0,
+              "streets": "senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2",
+              "stuck": 0,
+              "time_s": 51.8,
+              "to": "mariko"
+            },
+            {
+              "arcs": 6,
+              "avg_kmh": 48.0,
+              "classes": {
+                "arterial": 3,
+                "lane": 1,
+                "street": 2
+              },
+              "driven_m": 696,
+              "from": "mariko",
+              "leg": 6,
+              "max_y": -0.13,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 85.2,
+              "recoveries": 0,
+              "streets": "slum2 > kotobuki_w > nishimon",
+              "stuck": 0,
+              "time_s": 52.1,
+              "to": "west_gate"
+            },
+            {
+              "arcs": 9,
+              "avg_kmh": 57.2,
+              "classes": {
+                "arterial": 2,
+                "avenue": 1,
+                "lane": 1,
+                "street": 5
+              },
+              "driven_m": 990,
+              "from": "west_gate",
+              "leg": 7,
+              "max_y": -0.12,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 110.9,
+              "recoveries": 0,
+              "streets": "nishimon > kotobuki_w > futo > gate2",
+              "stuck": 0,
+              "time_s": 62.3,
+              "to": "gate2"
+            },
+            {
+              "arcs": 9,
+              "avg_kmh": 53.3,
+              "classes": {
+                "alley": 1,
+                "avenue": 3,
+                "lane": 2,
+                "ramp": 1,
+                "ring": 1,
+                "street": 1
+              },
+              "driven_m": 1429,
+              "from": "gate2",
+              "leg": 8,
+              "max_y": 6.86,
+              "min_y": -0.15,
+              "ok": true,
+              "plan_s": 127.6,
+              "recoveries": 0,
+              "streets": "gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring",
+              "stuck": 0,
+              "time_s": 96.6,
+              "to": "arc:627"
+            },
+            {
+              "arcs": 4,
+              "avg_kmh": 35.8,
+              "classes": {
+                "ring": 4
+              },
+              "driven_m": 793,
+              "from": "arc:627",
+              "leg": 9,
+              "max_y": 6.85,
+              "min_y": 0.35,
+              "ok": false,
+              "plan_s": 85.9,
+              "recoveries": 0,
+              "streets": "ring",
+              "stuck": 7,
+              "time_s": 79.6,
+              "to": "arc:622"
+            }
+          ],
+          "TD185_DRIVE": [
+            {
+              "drive_min": 7.74,
+              "failures": 1,
+              "km": 6.77,
+              "legs": 21
+            }
+          ]
+        },
+        "failures": [
+          "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+        ],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_drive.gd\" with error \"Compilation failed\".": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 2,
+          "ERROR: 467 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "failure_lines_equal": true,
+      "event_differences": []
+    },
+    "signs": {
+      "before": {
+        "path": "logs/base-lower-city-signs.log",
+        "events": {
+          "TD185_SIGNS_TABLE": [
+            {
+              "fails_by_pair": {
+                "->depots": 1,
+                "->kotobuki": 1,
+                "chidori->depots": 65,
+                "chidori->kamome": 21,
+                "chidori->kotobuki": 25,
+                "shinkai->depots": 5,
+                "shinkai->kamome": 4
+              },
+              "median_time_vs_best": 1.0,
+              "mode": "signs only",
+              "ok": 3715,
+              "trials": 3837
+            },
+            {
+              "fails_by_pair": {},
+              "median_time_vs_best": 1.0,
+              "mode": "signs+map",
+              "ok": 3837,
+              "trials": 3837
+            }
+          ],
+          "TD185_TRIP": [
+            {
+              "arcs": 5,
+              "driven_m": 477,
+              "from": "asahi_hq",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u9280\u884c\u901a\u308a > \u5929\u795e\u5927\u901a\u308a > \u5546\u793e\u901a\u308a",
+              "signed_decisions": 4,
+              "stuck": 0,
+              "time_s": 32.6,
+              "to": "kamome"
+            },
+            {
+              "arcs": 10,
+              "driven_m": 1103,
+              "from": "kenji_hall",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+              "signed_decisions": 9,
+              "stuck": 0,
+              "time_s": 66.2,
+              "to": "chidori"
+            },
+            {
+              "arcs": 17,
+              "driven_m": 1823,
+              "from": "starlight",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u661f\u901a\u308a > \u6953\u901a\u308a > \u5317\u5343\u9ce5\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 15,
+              "stuck": 0,
+              "time_s": 105.3,
+              "to": "kotobuki"
+            },
+            {
+              "arcs": 19,
+              "driven_m": 1869,
+              "from": "mariko",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u5bff\u4e8c\u4e01\u76ee\u5c0f\u8def > \u5bff\u897f\u901a\u308a > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+              "signed_decisions": 18,
+              "stuck": 0,
+              "time_s": 115.6,
+              "to": "shinkai"
+            },
+            {
+              "arcs": 3,
+              "driven_m": 446,
+              "from": "kettle_lab",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u7523\u696d\u9053\u8def > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+              "signed_decisions": 3,
+              "stuck": 0,
+              "time_s": 28.1,
+              "to": "daikoku"
+            },
+            {
+              "arcs": 18,
+              "driven_m": 1842,
+              "from": "gate2",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+              "signed_decisions": 12,
+              "stuck": 7,
+              "time_s": 150.2,
+              "to": "depots"
+            },
+            {
+              "arcs": 5,
+              "driven_m": 0,
+              "from": "yard_shed",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u8ca8\u7269\u30e4\u30fc\u30c9\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 4,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "tenjin"
+            },
+            {
+              "arcs": 10,
+              "driven_m": 0,
+              "from": "hotel_lantern",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u904b\u6cb3\u901a\u308a > \u6953\u901a\u308a > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+              "signed_decisions": 7,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "daikoku"
+            },
+            {
+              "arcs": 16,
+              "driven_m": 0,
+              "from": "rinse4",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u6d17\u6d44\u6a2a\u4e01 > \u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+              "signed_decisions": 14,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "chidori"
+            },
+            {
+              "arcs": 9,
+              "driven_m": 0,
+              "from": "shaft1_dock",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e00\u6607\u964d\u5854\u524d > \u81e8\u6e2f\u901a\u308a",
+              "signed_decisions": 7,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "kamome"
+            },
+            {
+              "arcs": 15,
+              "driven_m": 0,
+              "from": "t2_queue",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e8c\u6607\u964d\u5854\u524d > \u5929\u795e\u5927\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 10,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "kotobuki"
+            },
+            {
+              "arcs": 12,
+              "driven_m": 0,
+              "from": "seri_window",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7af6\u308a\u5c0f\u8def > \u9b5a\u6cb3\u5cb8\u6a2a\u4e01 > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+              "signed_decisions": 9,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "shinkai"
+            }
+          ],
+          "TD185_SIGNS": [
+            {
+              "drive_min": 11.42,
+              "failures": 7,
+              "km": 7.56,
+              "trips": 12
+            }
+          ]
+        },
+        "failures": [
+          "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+        ],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_signs.gd\" with error \"Compilation failed\".": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 2,
+          "ERROR: 465 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "after": {
+        "path": "logs/released-lower-city-signs.log",
+        "events": {
+          "TD185_SIGNS_TABLE": [
+            {
+              "fails_by_pair": {
+                "->depots": 1,
+                "->kotobuki": 1,
+                "chidori->depots": 65,
+                "chidori->kamome": 21,
+                "chidori->kotobuki": 25,
+                "shinkai->depots": 5,
+                "shinkai->kamome": 4
+              },
+              "median_time_vs_best": 1.0,
+              "mode": "signs only",
+              "ok": 3715,
+              "trials": 3837
+            },
+            {
+              "fails_by_pair": {},
+              "median_time_vs_best": 1.0,
+              "mode": "signs+map",
+              "ok": 3837,
+              "trials": 3837
+            }
+          ],
+          "TD185_TRIP": [
+            {
+              "arcs": 5,
+              "driven_m": 477,
+              "from": "asahi_hq",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u9280\u884c\u901a\u308a > \u5929\u795e\u5927\u901a\u308a > \u5546\u793e\u901a\u308a",
+              "signed_decisions": 4,
+              "stuck": 0,
+              "time_s": 32.6,
+              "to": "kamome"
+            },
+            {
+              "arcs": 10,
+              "driven_m": 1103,
+              "from": "kenji_hall",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+              "signed_decisions": 9,
+              "stuck": 0,
+              "time_s": 66.2,
+              "to": "chidori"
+            },
+            {
+              "arcs": 17,
+              "driven_m": 1823,
+              "from": "starlight",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u661f\u901a\u308a > \u6953\u901a\u308a > \u5317\u5343\u9ce5\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 15,
+              "stuck": 0,
+              "time_s": 105.3,
+              "to": "kotobuki"
+            },
+            {
+              "arcs": 19,
+              "driven_m": 1839,
+              "from": "mariko",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u5bff\u4e8c\u4e01\u76ee\u5c0f\u8def > \u5bff\u897f\u901a\u308a > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+              "signed_decisions": 18,
+              "stuck": 0,
+              "time_s": 113.3,
+              "to": "shinkai"
+            },
+            {
+              "arcs": 3,
+              "driven_m": 446,
+              "from": "kettle_lab",
+              "ok": true,
+              "recoveries": 0,
+              "route": "\u7523\u696d\u9053\u8def > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+              "signed_decisions": 3,
+              "stuck": 0,
+              "time_s": 28.1,
+              "to": "daikoku"
+            },
+            {
+              "arcs": 18,
+              "driven_m": 1872,
+              "from": "gate2",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+              "signed_decisions": 12,
+              "stuck": 7,
+              "time_s": 150.2,
+              "to": "depots"
+            },
+            {
+              "arcs": 5,
+              "driven_m": 0,
+              "from": "yard_shed",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u8ca8\u7269\u30e4\u30fc\u30c9\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 4,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "tenjin"
+            },
+            {
+              "arcs": 10,
+              "driven_m": 0,
+              "from": "hotel_lantern",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u904b\u6cb3\u901a\u308a > \u6953\u901a\u308a > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+              "signed_decisions": 7,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "daikoku"
+            },
+            {
+              "arcs": 16,
+              "driven_m": 0,
+              "from": "rinse4",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u6d17\u6d44\u6a2a\u4e01 > \u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+              "signed_decisions": 14,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "chidori"
+            },
+            {
+              "arcs": 9,
+              "driven_m": 0,
+              "from": "shaft1_dock",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e00\u6607\u964d\u5854\u524d > \u81e8\u6e2f\u901a\u308a",
+              "signed_decisions": 7,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "kamome"
+            },
+            {
+              "arcs": 15,
+              "driven_m": 0,
+              "from": "t2_queue",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7b2c\u4e8c\u6607\u964d\u5854\u524d > \u5929\u795e\u5927\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+              "signed_decisions": 10,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "kotobuki"
+            },
+            {
+              "arcs": 12,
+              "driven_m": 0,
+              "from": "seri_window",
+              "ok": false,
+              "recoveries": 0,
+              "route": "\u7af6\u308a\u5c0f\u8def > \u9b5a\u6cb3\u5cb8\u6a2a\u4e01 > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+              "signed_decisions": 9,
+              "stuck": 7,
+              "time_s": 31.2,
+              "to": "shinkai"
+            }
+          ],
+          "TD185_SIGNS": [
+            {
+              "drive_min": 11.38,
+              "failures": 7,
+              "km": 7.56,
+              "trips": 12
+            }
+          ]
+        },
+        "failures": [
+          "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+          "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+        ],
+        "build_summary": [],
+        "error_counts": {
+          "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus": 3,
+          "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.": 2,
+          "ERROR: Failed to load script \"res://tools/test_lower_city_signs.gd\" with error \"Compilation failed\".": 1,
+          "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.": 2,
+          "ERROR: 467 resources still in use at exit (run with --verbose for details).": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools12BucketMediumE": 1,
+          "ERROR: Pages in use exist at exit in PagedAllocator: N12VariantPools11BucketSmallE": 1,
+          "ERROR: 57 RID allocations of type 'N13RendererDummy15MaterialStorage13DummyMaterialE' were leaked at exit.": 1,
+          "ERROR: 5 RID allocations of type 'N13RendererDummy15MaterialStorage11DummyShaderE' were leaked at exit.": 1,
+          "ERROR: 285 RID allocations of type 'N13RendererDummy9DummyMeshE' were leaked at exit.": 1,
+          "ERROR: 60 RID allocations of type 'PN13RendererDummy14TextureStorage12DummyTextureE' were leaked at exit.": 1,
+          "ERROR: 3 RID allocations of type 'PN18TextServerAdvanced22ShapedTextDataAdvancedE' were leaked at exit.": 1,
+          "ERROR: 4 RID allocations of type 'PN18TextServerAdvanced12FontAdvancedE' were leaked at exit.": 1
+        }
+      },
+      "failure_lines_equal": true,
+      "event_differences": [
+        {
+          "event": "TD185_SIGNS",
+          "index": 0,
+          "fields": {
+            "drive_min": [
+              11.42,
+              11.38
+            ]
+          }
+        },
+        {
+          "event": "TD185_TRIP",
+          "index": 3,
+          "fields": {
+            "driven_m": [
+              1869,
+              1839
+            ],
+            "time_s": [
+              115.6,
+              113.3
+            ]
+          }
+        },
+        {
+          "event": "TD185_TRIP",
+          "index": 5,
+          "fields": {
+            "driven_m": [
+              1842,
+              1872
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "render_telemetry": {
+    "native": {
+      "before": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 498.0,
+          "max_draw_calls": 1549,
+          "median_triangles": 144689.5,
+          "max_triangles": 295634
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1741.0,
+          "max_draw_calls": 2838,
+          "median_triangles": 202360.5,
+          "max_triangles": 353126
+        }
+      },
+      "after": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 513.0,
+          "max_draw_calls": 1573,
+          "median_triangles": 461036.0,
+          "max_triangles": 711009
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1761.0,
+          "max_draw_calls": 2862,
+          "median_triangles": 519728.0,
+          "max_triangles": 768503
+        }
+      }
+    },
+    "browser": {
+      "before": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 480.5,
+          "max_draw_calls": 1488,
+          "median_triangles": 134020.5,
+          "max_triangles": 333448
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1837.0,
+          "max_draw_calls": 2853,
+          "median_triangles": 192353.5,
+          "max_triangles": 378216
+        }
+      },
+      "after": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 467.5,
+          "max_draw_calls": 1512,
+          "median_triangles": 445681.0,
+          "max_triangles": 698205
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1830.0,
+          "max_draw_calls": 2872,
+          "median_triangles": 504321.0,
+          "max_triangles": 757301
+        }
+      }
+    }
+  },
+  "telemetry_matches_author": true,
+  "focused_summary": {
+    "checks": 82,
+    "passed": 82,
+    "failures": 0,
+    "lots": 77,
+    "edges": 1220,
+    "exposed_edges": 918,
+    "arcades": 74,
+    "storefront_counts": {
+      "kissaten": 8,
+      "ramen_window": 4,
+      "sakaya": 5,
+      "yakkyoku": 10,
+      "tabako_kiosk": 6
+    },
+    "prop_count": 116,
+    "max_complete_building": {
+      "lot": 1442,
+      "triangles": 14138
+    },
+    "module_placements": 19131,
+    "negative_controls": [
+      {
+        "check": "Negative control: omitted lot fails coverage",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: out-of-lot module is rejected",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: a second ink pass fails material check",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: an inserted invisible frontage wall is detected by the same arcade ray",
+        "detail": null,
+        "ok": true
+      }
+    ]
+  },
+  "limits": [
+    "Regressions are independently parsed author runs, not new validator drive/sign/ramp runs.",
+    "Standalone ramp/drive/sign logs contain CrimeBus compile and Nil traffic/cop spawn errors; ramp baseline also predates importer restoration and includes missing car textures.",
+    "Identical failure sets establish no new observed regression, not complete successful driving coverage.",
+    "Capture telemetry is software-rendered parked-scene evidence; traffic and HUD vary with elapsed simulation time. No phone FPS claim."
+  ]
+}

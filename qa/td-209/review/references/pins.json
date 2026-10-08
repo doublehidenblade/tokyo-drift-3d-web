@@ -1,0 +1,17 @@
+[
+  {
+    "path": "art-book/lower-city/mock-tenjin.png",
+    "commit": "77c86fed8b8ea21f1a8eebc8fe84cb2bfb7c14bc",
+    "sha256": "bbace4f28bef7b067d1ab8ab25849e37a423ab7db25e4b261d6723ddd7d4b558"
+  },
+  {
+    "path": "art-book/lower-city/impl-tenjin.png",
+    "commit": "77c86fed8b8ea21f1a8eebc8fe84cb2bfb7c14bc",
+    "sha256": "f2f5594ed1e06b060a2655a27096081caa37aa6539aaadf00b4e484df6158ae3"
+  },
+  {
+    "path": "art-book/lower-city/chapter.md",
+    "commit": "77c86fed8b8ea21f1a8eebc8fe84cb2bfb7c14bc",
+    "sha256": "e8cbba8e675365f02e54e573a4d77b1bbff390d30ab2e84f7f6416553ec067ba"
+  }
+]

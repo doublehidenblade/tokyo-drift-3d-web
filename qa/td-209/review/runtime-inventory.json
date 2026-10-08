@@ -1,0 +1,1162 @@
+{
+  "construction_caches": {
+    "assets": 0,
+    "batches": 0,
+    "donors": 0,
+    "modules": 0
+  },
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "materials": [
+    {
+      "albedo": "res://assets/td-186/buildings/tenjin_slab/tenjin_slab_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/buildings/tenjin_slab/tenjin_slab_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 12
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 12
+    },
+    {
+      "albedo": "res://assets/td-186/storefronts/kissaten/kissaten_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/storefronts/kissaten/kissaten_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    },
+    {
+      "albedo": "res://assets/td-186/props/tube_pedestal/tube_pedestal_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/props/tube_pedestal/tube_pedestal_emission.jpg",
+      "name": "Mat_Prop",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 12
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 12
+    },
+    {
+      "albedo": "res://assets/td-186/props/beacon_pylon/beacon_pylon_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/props/beacon_pylon/beacon_pylon_emission.jpg",
+      "name": "Mat_Prop",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 10
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 10
+    },
+    {
+      "albedo": "res://assets/td-186/props/curve_mirror/curve_mirror_albedo.jpg",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Prop",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 8
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 8
+    },
+    {
+      "albedo": "res://assets/td-186/storefronts/ramen_window/ramen_window_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/storefronts/ramen_window/ramen_window_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 2
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 2
+    },
+    {
+      "albedo": "res://assets/td-186/storefronts/sakaya/sakaya_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/storefronts/sakaya/sakaya_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    },
+    {
+      "albedo": "res://assets/td-186/storefronts/yakkyoku/yakkyoku_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/storefronts/yakkyoku/yakkyoku_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 6
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 6
+    },
+    {
+      "albedo": "res://assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_albedo.jpg",
+      "cull_back": true,
+      "emission": "res://assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_emission.jpg",
+      "name": "Mat_Facade",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    },
+    {
+      "albedo": "",
+      "cull_back": true,
+      "emission": "",
+      "name": "Mat_Ink_Outline",
+      "next_pass_null": true,
+      "opaque": true,
+      "surface_uses": 4
+    }
+  ],
+  "mesh_count": 62,
+  "nodes": [
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        168.660034179688,
+        57.1700019836426,
+        117.660034179688
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-7",
+      "surfaces": 2,
+      "triangles": 50137,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        139.940063476562,
+        3.94000005722046,
+        73.8250732421875
+      ],
+      "children": 0,
+      "family": "shop_kissaten",
+      "name": "Kit_shop_kissaten_6_-7",
+      "surfaces": 2,
+      "triangles": 1716,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        51.3160400390625,
+        1.37999999523163,
+        51.39111328125
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-7",
+      "surfaces": 2,
+      "triangles": 996,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        168.660034179688,
+        72.0810089111328,
+        234.5
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-6",
+      "surfaces": 2,
+      "triangles": 101002,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        137.795532226562,
+        1.37999999523163,
+        140.295532226562
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-6",
+      "surfaces": 2,
+      "triangles": 2988,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        108.079833984375,
+        4.73000001907349,
+        90.3048095703125
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_6_-6",
+      "surfaces": 2,
+      "triangles": 552,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        137.264770507812,
+        3.10545086860657,
+        139.764770507812
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_6_-6",
+      "surfaces": 2,
+      "triangles": 832,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        165.160034179688,
+        68.0110015869141,
+        80.6399841308594
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-2",
+      "surfaces": 2,
+      "triangles": 36060,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        65.8304443359375,
+        1.37999999523163,
+        29.5711059570312
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-2",
+      "surfaces": 2,
+      "triangles": 664,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        168.660034179688,
+        69.3300018310547,
+        226.239990234375
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-3",
+      "surfaces": 2,
+      "triangles": 91194,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        137.795532226562,
+        1.37999999523163,
+        157.981109619141
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-3",
+      "surfaces": 2,
+      "triangles": 3320,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        97.1748046875,
+        4.73000001907349,
+        118.760009765625
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_6_-3",
+      "surfaces": 2,
+      "triangles": 736,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        139.683227539062,
+        3.94000005722046,
+        85.114990234375
+      ],
+      "children": 0,
+      "family": "shop_ramen_window",
+      "name": "Kit_shop_ramen_window_6_-3",
+      "surfaces": 2,
+      "triangles": 2124,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.8900146484375,
+        3.98000001907349,
+        4.5938720703125
+      ],
+      "children": 0,
+      "family": "shop_sakaya",
+      "name": "Kit_shop_sakaya_6_-3",
+      "surfaces": 2,
+      "triangles": 640,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        15.6456298828125,
+        3.10545086860657,
+        73.7254333496094
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_6_-3",
+      "surfaces": 2,
+      "triangles": 416,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        168.660034179688,
+        70.5599975585938,
+        228.5
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-4",
+      "surfaces": 2,
+      "triangles": 91532,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6500244140625,
+        3.94000005722046,
+        4.5799560546875
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_6_-3",
+      "surfaces": 2,
+      "triangles": 564,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        107.571044921875,
+        1.37999999523163,
+        136.870544433594
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-4",
+      "surfaces": 2,
+      "triangles": 2656,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        76.2698974609375,
+        4.73000001907349,
+        17.879638671875
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_6_-4",
+      "surfaces": 2,
+      "triangles": 368,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        168.660034179688,
+        69.5410003662109,
+        236.5
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_6_-5",
+      "surfaces": 2,
+      "triangles": 84810,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.9400634765625,
+        3.94000005722046,
+        147.080017089844
+      ],
+      "children": 0,
+      "family": "shop_kissaten",
+      "name": "Kit_shop_kissaten_6_-6",
+      "surfaces": 2,
+      "triangles": 1144,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        58.5799560546875,
+        3.94000005722046,
+        120.56494140625
+      ],
+      "children": 0,
+      "family": "shop_tabako_kiosk",
+      "name": "Kit_shop_tabako_kiosk_6_-6",
+      "surfaces": 2,
+      "triangles": 868,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        137.795532226562,
+        1.37999999523163,
+        178.52001953125
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_6_-5",
+      "surfaces": 2,
+      "triangles": 3652,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        110.300048828125,
+        3.94000005722046,
+        147.965026855469
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_6_-6",
+      "surfaces": 2,
+      "triangles": 1692,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        106.86474609375,
+        4.73000001907349,
+        177.379638671875
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_6_-5",
+      "surfaces": 2,
+      "triangles": 920,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        139.650024414062,
+        3.94000005722046,
+        101.375
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_6_-4",
+      "surfaces": 2,
+      "triangles": 1128,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        32.0,
+        3.94000005722046,
+        43.465087890625
+      ],
+      "children": 0,
+      "family": "shop_tabako_kiosk",
+      "name": "Kit_shop_tabako_kiosk_6_-4",
+      "surfaces": 2,
+      "triangles": 868,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        108.024169921875,
+        3.10545086860657,
+        71.4669189453125
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_6_-4",
+      "surfaces": 2,
+      "triangles": 416,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6500244140625,
+        3.94000005722046,
+        4.5799560546875
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_6_-5",
+      "surfaces": 2,
+      "triangles": 564,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.2647705078125,
+        3.10545086860657,
+        0.6868896484375
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_6_-5",
+      "surfaces": 2,
+      "triangles": 208,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        32.0,
+        3.94000005722046,
+        96.4450073242188
+      ],
+      "children": 0,
+      "family": "shop_kissaten",
+      "name": "Kit_shop_kissaten_6_-5",
+      "surfaces": 2,
+      "triangles": 1144,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        73.0599975585938,
+        233.409973144531
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-6",
+      "surfaces": 2,
+      "triangles": 58704,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        79.406005859375,
+        1.37999999523163,
+        158.52001953125
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-6",
+      "surfaces": 2,
+      "triangles": 2324,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        54.6410026550293,
+        114.160034179688
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-7",
+      "surfaces": 2,
+      "triangles": 22250,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.7955322265625,
+        1.37999999523163,
+        55.9615478515625
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-7",
+      "surfaces": 2,
+      "triangles": 664,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.479736328125,
+        4.73000001907349,
+        0.64990234375
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-7",
+      "surfaces": 2,
+      "triangles": 184,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.2647705078125,
+        3.10545086860657,
+        0.68701171875
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_5_-7",
+      "surfaces": 2,
+      "triangles": 208,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        74.2548828125,
+        4.73000001907349,
+        17.879638671875
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-6",
+      "surfaces": 2,
+      "triangles": 552,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6832275390625,
+        3.94000005722046,
+        3.679931640625
+      ],
+      "children": 0,
+      "family": "shop_ramen_window",
+      "name": "Kit_shop_ramen_window_5_-6",
+      "surfaces": 2,
+      "triangles": 708,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        70.5200042724609,
+        230.590026855469
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-5",
+      "surfaces": 2,
+      "triangles": 44338,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        79.3160400390625,
+        1.37999999523163,
+        191.231018066406
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-5",
+      "surfaces": 2,
+      "triangles": 2324,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.479736328125,
+        4.73000001907349,
+        0.6500244140625
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-5",
+      "surfaces": 2,
+      "triangles": 184,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        14.5106201171875,
+        3.10545086860657,
+        137.256286621094
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_5_-5",
+      "surfaces": 2,
+      "triangles": 624,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        4.580078125,
+        3.94000005722046,
+        2.6500244140625
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_5_-6",
+      "surfaces": 2,
+      "triangles": 564,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.8900146484375,
+        3.98000001907349,
+        4.5938720703125
+      ],
+      "children": 0,
+      "family": "shop_sakaya",
+      "name": "Kit_shop_sakaya_6_-6",
+      "surfaces": 2,
+      "triangles": 640,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        50.9610023498535,
+        228.5
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-4",
+      "surfaces": 2,
+      "triangles": 53752,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.8900146484375,
+        3.98000001907349,
+        141.528869628906
+      ],
+      "children": 0,
+      "family": "shop_sakaya",
+      "name": "Kit_shop_sakaya_5_-4",
+      "surfaces": 2,
+      "triangles": 1280,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        64.4759521484375,
+        1.37999999523163,
+        115.52001953125
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-4",
+      "surfaces": 2,
+      "triangles": 2656,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        45.244873046875,
+        4.73000001907349,
+        96.9796142578125
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-4",
+      "surfaces": 2,
+      "triangles": 552,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        1.8770751953125,
+        3.10545086860657,
+        103.764770507812
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_5_-4",
+      "surfaces": 2,
+      "triangles": 416,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        69.3899993896484,
+        222.5
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-3",
+      "surfaces": 2,
+      "triangles": 51794,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6199951171875,
+        3.94000005722046,
+        1.8800048828125
+      ],
+      "children": 0,
+      "family": "shop_tabako_kiosk",
+      "name": "Kit_shop_tabako_kiosk_5_-3",
+      "surfaces": 2,
+      "triangles": 434,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.9400634765625,
+        3.94000005722046,
+        4.57998657226562
+      ],
+      "children": 0,
+      "family": "shop_kissaten",
+      "name": "Kit_shop_kissaten_6_-3",
+      "surfaces": 2,
+      "triangles": 572,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        81.341064453125,
+        1.37999999523163,
+        139.981536865234
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-3",
+      "surfaces": 2,
+      "triangles": 1992,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        20.8270263671875,
+        3.10545086860657,
+        16.505615234375
+      ],
+      "children": 0,
+      "family": "prop_curve_mirror",
+      "name": "Kit_prop_curve_mirror_5_-3",
+      "surfaces": 2,
+      "triangles": 416,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6500244140625,
+        3.94000005722046,
+        63.2550354003906
+      ],
+      "children": 0,
+      "family": "shop_yakkyoku",
+      "name": "Kit_shop_yakkyoku_5_-3",
+      "surfaces": 2,
+      "triangles": 1128,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        85.474853515625,
+        4.73000001907349,
+        91.9299011230469
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-3",
+      "surfaces": 2,
+      "triangles": 368,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        101.660034179688,
+        62.1410026550293,
+        72.6600036621094
+      ],
+      "children": 0,
+      "family": "tenjin",
+      "name": "Kit_tenjin_5_-2",
+      "surfaces": 2,
+      "triangles": 21345,
+      "visibility_end": 420.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        2.6199951171875,
+        3.94000005722046,
+        1.8800048828125
+      ],
+      "children": 0,
+      "family": "shop_tabako_kiosk",
+      "name": "Kit_shop_tabako_kiosk_6_-3",
+      "surfaces": 2,
+      "triangles": 434,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        4.59375,
+        3.98000001907349,
+        2.8900146484375
+      ],
+      "children": 0,
+      "family": "shop_sakaya",
+      "name": "Kit_shop_sakaya_5_-2",
+      "surfaces": 2,
+      "triangles": 640,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.7955322265625,
+        1.37999999523163,
+        0.7115478515625
+      ],
+      "children": 0,
+      "family": "prop_tube_pedestal",
+      "name": "Kit_prop_tube_pedestal_5_-2",
+      "surfaces": 2,
+      "triangles": 332,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    },
+    {
+      "baked_ink": true,
+      "bounds_size": [
+        0.479736328125,
+        4.73000001907349,
+        0.6500244140625
+      ],
+      "children": 0,
+      "family": "prop_beacon_pylon",
+      "name": "Kit_prop_beacon_pylon_5_-2",
+      "surfaces": 2,
+      "triangles": 184,
+      "visibility_end": 170.0,
+      "visibility_margin": 20.0
+    }
+  ],
+  "ordinary_retain_placement_flag": false,
+  "retained_placement_records": 0,
+  "source_runtime": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "surface_count": 124,
+  "triangles_from_mesh_arrays": 758474,
+  "unique_material_resources": 18,
+  "unsafe_materials": [],
+  "world_stats": {
+    "build_ms": 4031,
+    "buildings": 4502,
+    "dressing": {
+      "arc_lights": 107,
+      "blade_signs": 1010,
+      "cornices": 77,
+      "eaves": 311,
+      "flood_masts": 82,
+      "pipe_gantries": 59,
+      "quay_cranes": 6,
+      "repair_bays": 169
+    },
+    "drive_tris": 31070,
+    "ground_tris": 25304,
+    "lamps_cleared": 36,
+    "merge_lanes": 12,
+    "mesh_instances": 718,
+    "ramp_mouths": 12,
+    "tenjin": {
+      "collision_triangles": 6470,
+      "donor_bands": 142,
+      "frontages": 918,
+      "lots": 77,
+      "max_lot_triangles": 14090,
+      "mesh_instances": 62,
+      "missing": 0,
+      "module_timings_us": {
+        "flush_us": 249640,
+        "place_us": 930231,
+        "slice_us": 1496638
+      },
+      "module_variants": 5384,
+      "props": 116,
+      "storefronts": 33,
+      "triangles": 758474
+    },
+    "wall_tris": 92656
+  }
+}

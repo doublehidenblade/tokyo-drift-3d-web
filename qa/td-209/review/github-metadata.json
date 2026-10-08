@@ -1,0 +1,33 @@
+{
+  "pr489": {
+    "command": [
+      "gh",
+      "pr",
+      "view",
+      "489",
+      "--repo",
+      "doublehidenblade/tokyo-drift-3d",
+      "--json",
+      "url,state,isDraft,baseRefName,headRefName,headRefOid,mergedAt"
+    ],
+    "returncode": 0,
+    "stdout": "{\"baseRefName\":\"integration/craig-playtest-20261007\",\"headRefName\":\"feat/td-209-tenjin-live-buildings\",\"headRefOid\":\"bcaf46b86702848f4ae2259af6ca107592f7dcb9\",\"isDraft\":true,\"mergedAt\":null,\"state\":\"OPEN\",\"url\":\"https://github.com/doublehidenblade/tokyo-drift-3d/pull/489\"}\n",
+    "stderr": ""
+  },
+  "issue491": {
+    "command": [
+      "gh",
+      "issue",
+      "view",
+      "491",
+      "--repo",
+      "doublehidenblade/tokyo-drift-3d",
+      "--json",
+      "url,state,title,body"
+    ],
+    "returncode": 0,
+    "stdout": "{\"body\":\"Craig has approved live integration of ready building and prop kits throughout the city. Tenjin is the first bounded district and does not complete that request.\\n\\n- [ ] Tenjin: all 77 lots implemented in draft PR #489, final runtime `6f7818b45cd09ade3ca621354ce4eb116050a66b`, evidence `bcaf46b86702848f4ae2259af6ca107592f7dcb9`. Matched native/browser package is complete; independent acceptance and physical-phone assessment remain pending. [Review guide](https://github.com/doublehidenblade/tokyo-drift-3d/blob/bcaf46b86702848f4ae2259af6ca107592f7dcb9/godot/qa/td-209/README.md).\\n- [ ] Kamome: completed live market architecture/storefront/prop coverage and street-clearance evidence.\\n- [ ] Chidori: completed live terraces/retail/prop coverage and street-clearance evidence.\\n- [ ] Kotobuki: completed live repair-bay architecture/prop coverage and street-clearance evidence.\\n- [ ] Daikoku: completed live container/tally/industrial architecture and prop coverage.\\n- [ ] Shinkai: district architecture/industrial props integrated into actual drivable streets.\\n- [ ] North Rail Depots: goods-shed/yard architecture and prop coverage.\\n\\nUse the reusable measured-module/bounded-batching path where appropriate; record all-lot manifests, matched native and browser evidence, actual exports and independent review for each district. The Tenjin implementation adds material mesh/build/memory cost, so phone profiling and resource scaling must precede indiscriminate whole-city replication. Assets present on disk, existing pedestrians/traffic, or the two Fuel stations are not whole-city building completion.\\n\\nParent integration PR #488 remains draft. Preserve its separate HUD/Claude, vehicle-asset and Fuel owners. No publication, deployment, Actions dispatch or main merge is authorized by this backlog issue. Follow the parent coordinator for district assignment; this issue does not create parallel implementation owners.\\n\\nCanonical Tenjin contract: https://github.com/doublehidenblade/tokyo-drift-3d/blob/bcaf46b86702848f4ae2259af6ca107592f7dcb9/godot/docs/tasks/td-209.md\\n\",\"state\":\"OPEN\",\"title\":\"Whole-city live building and prop integration backlog after Tenjin\",\"url\":\"https://github.com/doublehidenblade/tokyo-drift-3d/issues/491\"}\n",
+    "stderr": ""
+  },
+  "checked_at": "2026-10-08T00:41:23.160552+00:00"
+}

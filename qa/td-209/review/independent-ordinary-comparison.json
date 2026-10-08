@@ -1,0 +1,126 @@
+{
+  "strict_harness_status": [
+    "failed",
+    "failed"
+  ],
+  "pack_sha256": [
+    "05bd88b54afe9cdf8816fb1335476f57fcaef8e0afad8efc7cf6c160fcec613e",
+    "b85112efa5d2e4fde81e9cf580791f962bd0a4947babb62ed438b422eb6d4933"
+  ],
+  "pack_hashes_match_author": true,
+  "menu_and_live_city_reached": true,
+  "real_keyboard_first_observed_speed_above_3_kmh": [
+    4.7,
+    4.7
+  ],
+  "initial_probe_state_equal": true,
+  "engine_error_counts": [
+    48,
+    48
+  ],
+  "engine_error_multisets_equal": true,
+  "engine_errors_match_author_before": true,
+  "engine_errors_match_author_after": true,
+  "errors": [
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+      "count_each": 22
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7",
+      "count_each": 9
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+      "count_each": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+      "count_each": 1
+    }
+  ],
+  "per_phase_counts": {
+    "menu": 26,
+    "lower-city": 22
+  },
+  "scope": "Unmodified actual shipping pack at /, menu -> KeyL -> ordinary Lower City; no diagnostic scene, game-state injection or production edits. Chromium151/SwiftShader. The intentional 49th error record is the harness failure explaining the 48 engine errors. Keyboard observations establish input response, not comparable acceleration. No phone FPS or touch test claim."
+}

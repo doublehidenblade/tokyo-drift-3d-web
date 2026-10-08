@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-10-08T00:34:33.907172+00:00",
+  "role": "independent validator /root/tenjin_validator",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "max",
+  "selection_evidence": "Frozen validator brief and dispatcher record say model-selecting spawn accepted gpt-6-astra/max. Runtime internals are not independently exposed; no downgrade requested or observed.",
+  "evidence_head": "bcaf46b86702848f4ae2259af6ca107592f7dcb9",
+  "runtime": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "base": "2227f71e784f581d11ace8f90e7201fbb59b1f63",
+  "baseline_checkout": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+  "allowed_output": "New files under qa/td-209/review and validator status/verdict/work-log only. No implementation edits, commit/push, main merge, Actions or deployment.",
+  "status": "validated",
+  "completed_at": "2026-10-08T00:55:48.749221+00:00",
+  "criteria_passed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images_opened": 68,
+  "report": "report.md"
+}

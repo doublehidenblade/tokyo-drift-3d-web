@@ -2,12 +2,12 @@
 
 Tenjin’s 77 slab lots now use completed modular architecture. This is the first bounded district of the approved whole-city building/prop work. Other districts and full asset placement remain open.
 
-- Runtime source: `6f7818b45cd09ade3ca621354ce4eb116050a66b`.
+- Runtime source: `6f7818b45cd09ade3ca621354ce4eb116050a66b`. Independent review commit: `0b2652bc86b6824444af277fdb34af5bdd981066`.
 - [Private implementation PR489](https://github.com/doublehidenblade/tokyo-drift-3d/pull/489); [source evidence](https://github.com/doublehidenblade/tokyo-drift-3d/tree/bcaf46b86702848f4ae2259af6ca107592f7dcb9/godot/qa/td-209).
 - Final images are copied byte-for-byte; [mirror manifest](mirror-manifest.json) records every hash.
 - 137 native before/after views per phase: all 77 lots plus 60 street/HUD views. Browser evidence covers the same 60 street/HUD views.
 - Lot surveys are diagnostic orthographic views. Street views use the actual game ChaseCam; ordinary HUD and HUD-hidden views are separate.
-- Independent review is pending. Hardware phone performance and whole-city completion are not established.
+- **Independent Astra/max review: all five bounded criteria PASS.** [Read the cited verdict](REVIEW.md), [82/82 focused rerun](review/independent-focused.json), and [exact image-inspection record](review/opened-images.json). All 39 sheets covering 197 matched pairs were inspected. Physical-phone performance and whole-city completion remain open.
 - Bespoke T2/Paper Exchange and the other districts remain outside this bounded slab-lot integration.
 - This branch contains QA evidence only. No game deployment, main change or PCK publication.
 
@@ -15,8 +15,10 @@ Tenjin’s 77 slab lots now use completed modular architecture. This is the firs
 
 - [Package audit](package-summary.json): 108,704,384-byte final PCK, 3,846,784 bytes over the temporary 100 MiB route. Required art retained; publication route remains open.
 - [Build and memory benchmark](benchmark.json) · [memory reduction](memory-release-summary.json) · [render telemetry](render-telemetry-summary.json). Software-host evidence is not phone performance.
-- [Focused checks](focused-tests.json) · [protected geometry](protected-comparison.json) · [regression comparison](regression-comparison.json). Inherited drive/sign and ordinary-entry failures remain visible.
+- [Current independent focused checks: 82/82](review/independent-focused.json); [historical author 80-check summary](focused-tests.json) · [protected geometry](protected-comparison.json) · [regression comparison](regression-comparison.json). Inherited drive/sign and ordinary-entry failures remain visible.
 - [Camera comparison](camera-comparison.json) · [import provenance](native-import-provenance.json) · [source hashes](final-source-pins.json).
+
+The review preserves two corrections to the frozen author record: current focused checks are **82/82**, and matching outside-Tenjin wall geometry is **86,145 triangles**. The older 80-check JSON/prose and 86,159 prose count are retained as historical evidence. [Review details](REVIEW.md).
 
 ## All-lot comparisons
 

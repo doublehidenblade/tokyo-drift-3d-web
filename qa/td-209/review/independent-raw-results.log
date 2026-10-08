@@ -1,0 +1,183 @@
+{
+  "focused": {
+    "checks": 82,
+    "passed": 82,
+    "failures": 0,
+    "lots": 77,
+    "edges": 1220,
+    "exposed_edges": 918,
+    "arcades": 74,
+    "storefront_counts": {
+      "kissaten": 8,
+      "ramen_window": 4,
+      "sakaya": 5,
+      "yakkyoku": 10,
+      "tabako_kiosk": 6
+    },
+    "prop_count": 116,
+    "max_complete_building": {
+      "lot": 1442,
+      "triangles": 14138
+    },
+    "module_placements": 19131,
+    "negative_controls": [
+      {
+        "check": "Negative control: omitted lot fails coverage",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: out-of-lot module is rejected",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: a second ink pass fails material check",
+        "detail": null,
+        "ok": true
+      },
+      {
+        "check": "Negative control: an inserted invisible frontage wall is detected by the same arcade ray",
+        "detail": null,
+        "ok": true
+      }
+    ]
+  },
+  "telemetry_matches_author": true,
+  "regression_summary": {
+    "build": {
+      "failures_before": [],
+      "failures_after": [],
+      "failure_lines_equal": true,
+      "event_differences": []
+    },
+    "ramps": {
+      "failures_before": [],
+      "failures_after": [],
+      "failure_lines_equal": true,
+      "event_differences": [
+        {
+          "event": "TD185_RAMP",
+          "index": 3,
+          "fields": {
+            "past_top": [
+              203.283569335938,
+              203.282836914062
+            ],
+            "v_top": [
+              29.9605903625488,
+              29.9605808258057
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 5,
+          "fields": {
+            "past_top": [
+              202.660278320312,
+              202.6591796875
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 6,
+          "fields": {
+            "past_top": [
+              203.167175292969,
+              203.164001464844
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 10,
+          "fields": {
+            "closest_m": [
+              -1.6,
+              -1.51
+            ]
+          }
+        },
+        {
+          "event": "TD185_RAMP",
+          "index": 16,
+          "fields": {
+            "closest_m": [
+              -1.6,
+              -1.54
+            ]
+          }
+        }
+      ]
+    },
+    "drive": {
+      "failures_before": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+      ],
+      "failures_after": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+      ],
+      "failure_lines_equal": true,
+      "event_differences": []
+    },
+    "signs": {
+      "failures_before": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "failures_after": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "failure_lines_equal": true,
+      "event_differences": [
+        {
+          "event": "TD185_SIGNS",
+          "index": 0,
+          "fields": {
+            "drive_min": [
+              11.42,
+              11.38
+            ]
+          }
+        },
+        {
+          "event": "TD185_TRIP",
+          "index": 3,
+          "fields": {
+            "driven_m": [
+              1869,
+              1839
+            ],
+            "time_s": [
+              115.6,
+              113.3
+            ]
+          }
+        },
+        {
+          "event": "TD185_TRIP",
+          "index": 5,
+          "fields": {
+            "driven_m": [
+              1842,
+              1872
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

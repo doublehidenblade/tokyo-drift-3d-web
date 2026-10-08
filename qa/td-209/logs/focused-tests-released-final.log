@@ -1,0 +1,85 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ok: Tenjin architecture module exists 
+ok: Opt-in footprint evidence accounts for every placed triangle 
+ok: Construction caches are released after flush 
+ok: All 77 original lots have nonempty unique completed coverage 
+ok: Negative control: omitted lot fails coverage 
+ok: Every complete building including existing lip, baked ink and details is below 15k triangles []
+ok: Every perimeter edge has floor architecture through the original height []
+ok: Deterministic height/tint/floor/retail variation with all five ready storefronts ["kissaten", "ramen_window", "sakaya", "yakkyoku", "tabako_kiosk"]
+ok: Ground modules stay within lot plus 23cm ink; upper ribbon returns fit the existing 60cm cornice envelope []
+ok: Original skyline retained; mechanical caps stay within old cornice height 0.0
+ok: Negative control: out-of-lot module is rejected 
+ok: Chunk range Kit_tenjin_6_-7 
+ok: Chunk range Kit_shop_kissaten_6_-7 
+ok: Chunk range Kit_prop_tube_pedestal_6_-7 
+ok: Chunk range Kit_tenjin_6_-6 
+ok: Chunk range Kit_prop_tube_pedestal_6_-6 
+ok: Chunk range Kit_prop_beacon_pylon_6_-6 
+ok: Chunk range Kit_prop_curve_mirror_6_-6 
+ok: Chunk range Kit_tenjin_6_-2 
+ok: Chunk range Kit_prop_tube_pedestal_6_-2 
+ok: Chunk range Kit_tenjin_6_-3 
+ok: Chunk range Kit_prop_tube_pedestal_6_-3 
+ok: Chunk range Kit_prop_beacon_pylon_6_-3 
+ok: Chunk range Kit_shop_ramen_window_6_-3 
+ok: Chunk range Kit_shop_sakaya_6_-3 
+ok: Chunk range Kit_prop_curve_mirror_6_-3 
+ok: Chunk range Kit_tenjin_6_-4 
+ok: Chunk range Kit_shop_yakkyoku_6_-3 
+ok: Chunk range Kit_prop_tube_pedestal_6_-4 
+ok: Chunk range Kit_prop_beacon_pylon_6_-4 
+ok: Chunk range Kit_tenjin_6_-5 
+ok: Chunk range Kit_shop_kissaten_6_-6 
+ok: Chunk range Kit_shop_tabako_kiosk_6_-6 
+ok: Chunk range Kit_prop_tube_pedestal_6_-5 
+ok: Chunk range Kit_shop_yakkyoku_6_-6 
+ok: Chunk range Kit_prop_beacon_pylon_6_-5 
+ok: Chunk range Kit_shop_yakkyoku_6_-4 
+ok: Chunk range Kit_shop_tabako_kiosk_6_-4 
+ok: Chunk range Kit_prop_curve_mirror_6_-4 
+ok: Chunk range Kit_shop_yakkyoku_6_-5 
+ok: Chunk range Kit_prop_curve_mirror_6_-5 
+ok: Chunk range Kit_shop_kissaten_6_-5 
+ok: Chunk range Kit_tenjin_5_-6 
+ok: Chunk range Kit_prop_tube_pedestal_5_-6 
+ok: Chunk range Kit_tenjin_5_-7 
+ok: Chunk range Kit_prop_tube_pedestal_5_-7 
+ok: Chunk range Kit_prop_beacon_pylon_5_-7 
+ok: Chunk range Kit_prop_curve_mirror_5_-7 
+ok: Chunk range Kit_prop_beacon_pylon_5_-6 
+ok: Chunk range Kit_shop_ramen_window_5_-6 
+ok: Chunk range Kit_tenjin_5_-5 
+ok: Chunk range Kit_prop_tube_pedestal_5_-5 
+ok: Chunk range Kit_prop_beacon_pylon_5_-5 
+ok: Chunk range Kit_prop_curve_mirror_5_-5 
+ok: Chunk range Kit_shop_yakkyoku_5_-6 
+ok: Chunk range Kit_shop_sakaya_6_-6 
+ok: Chunk range Kit_tenjin_5_-4 
+ok: Chunk range Kit_shop_sakaya_5_-4 
+ok: Chunk range Kit_prop_tube_pedestal_5_-4 
+ok: Chunk range Kit_prop_beacon_pylon_5_-4 
+ok: Chunk range Kit_prop_curve_mirror_5_-4 
+ok: Chunk range Kit_tenjin_5_-3 
+ok: Chunk range Kit_shop_tabako_kiosk_5_-3 
+ok: Chunk range Kit_shop_kissaten_6_-3 
+ok: Chunk range Kit_prop_tube_pedestal_5_-3 
+ok: Chunk range Kit_prop_curve_mirror_5_-3 
+ok: Chunk range Kit_shop_yakkyoku_5_-3 
+ok: Chunk range Kit_prop_beacon_pylon_5_-3 
+ok: Chunk range Kit_tenjin_5_-2 
+ok: Chunk range Kit_shop_tabako_kiosk_6_-3 
+ok: Chunk range Kit_shop_sakaya_5_-2 
+ok: Chunk range Kit_prop_tube_pedestal_5_-2 
+ok: Chunk range Kit_prop_beacon_pylon_5_-2 
+ok: Actual AnimeLook pass retains opaque backface culling and never adds double ink; all texture budgets hold []
+ok: Spatial batches are bounded around 200m cells with fewer than 80 mesh instances []
+ok: Negative control: a second ink pass fails material check 
+ok: Every arcade is free of an invisible frontage plane; pilotis and inset glazing have matching simple proxies []
+ok: Negative control: an inserted invisible frontage wall is detected by the same arcade ray 
+ok: Tenjin centre/both lane rays match the pinned baseline; no new collision obstruction { "segments": 27, "hits": [["kashi", 0, 0.0, "(1360.0, 1.2, -409.9205)"], ["kashi", 0, 2.2, "(1357.8, 1.2, -1251.257)"]], "baseline": [["kashi", 0, 0.0, "(1360.0, 1.2, -409.9205)"], ["kashi", 0, 2.2, "(1357.8, 1.2, -1251.257)"]] }
+ok: Fuel service lane remains clear quay_west 
+ok: Fuel service lane remains clear quay_east 
+ok: Both existing Fuel stations retain all 44 original kit instances 44
+TD209_TEST failures=0 stats={ "lots": 77, "frontages": 918, "storefronts": 33, "props": 116, "missing": 0, "mesh_instances": 62, "triangles": 758474, "collision_triangles": 6470, "max_lot_triangles": 14090, &"donor_bands": 142, &"module_variants": 5384, &"module_timings_us": { "slice_us": 1760343, "place_us": 1410457, "flush_us": 302000 } }

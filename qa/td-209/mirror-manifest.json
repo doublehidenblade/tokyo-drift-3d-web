@@ -11,17 +11,49 @@
     "browser-before": 60,
     "browser-after": 60
   },
-  "independent_review": "pending",
+  "independent_review": {
+    "status": "validated",
+    "reviewer": "/root/tenjin_validator",
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "max",
+    "accepted_dispatch": true,
+    "runtime_internals": "not independently exposed",
+    "review_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+    "criteria": "1–5 PASS",
+    "report": "REVIEW.md",
+    "verbatim_report": "review/report.md",
+    "opened_images": "review/opened-images.json",
+    "phone_gate": "open",
+    "whole_city": "open"
+  },
   "files": [
+    {
+      "path": "BUILD_SHEET.md",
+      "bytes": 6075,
+      "sha256": "f3cc743d8247785da3d280722e5f9b803c35aecd9dd0d830693d0b9dece0d003",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/BUILD_SHEET.md"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 5184,
+      "sha256": "c865be651e569f9efaee60b517a6c9abb0fa5cb4348c913750458e8546cda28a",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/REPRODUCE.md"
+    },
     {
       "path": "benchmark.json",
       "bytes": 4799,
-      "sha256": "3d0b850e0bfff48e862669cb596cb657a1e784427ac640b25c6e7ff078d565aa"
+      "sha256": "3d0b850e0bfff48e862669cb596cb657a1e784427ac640b25c6e7ff078d565aa",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/benchmark.json"
     },
     {
       "path": "browser-after/result.json",
       "bytes": 64213,
-      "sha256": "1c128f22fc4369e6e0f71c50d22844450dbb6cdc43a4669e8884f5a4ebeb6933"
+      "sha256": "1c128f22fc4369e6e0f71c50d22844450dbb6cdc43a4669e8884f5a4ebeb6933",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/browser-after/result.json"
     },
     {
       "path": "browser-after/routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
@@ -201,7 +233,9 @@
     {
       "path": "browser-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
       "bytes": 210415,
-      "sha256": "5cd7bf00d577f7ad3ad262ea5b08ec22cd33fdc5673772803ecd930dce170d6e"
+      "sha256": "5cd7bf00d577f7ad3ad262ea5b08ec22cd33fdc5673772803ecd930dce170d6e",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/browser-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png"
     },
     {
       "path": "browser-after/routes/tenjin-reverse-hud-1280/td-209-criterion-2-after.png",
@@ -216,7 +250,9 @@
     {
       "path": "browser-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
       "bytes": 445306,
-      "sha256": "512079635089139ea16e767d7a5a9e4a2136a306027ef5987cc0c8607e7e092a"
+      "sha256": "512079635089139ea16e767d7a5a9e4a2136a306027ef5987cc0c8607e7e092a",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/browser-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png"
     },
     {
       "path": "browser-after/routes/tenjin-reverse-world-844/td-209-criterion-2-after.png",
@@ -506,7 +542,9 @@
     {
       "path": "browser-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png",
       "bytes": 107695,
-      "sha256": "4d4b25d492cc6ce1325ffa600d0dd007dff53f4d00b81d7c6e484b9e1d06952b"
+      "sha256": "4d4b25d492cc6ce1325ffa600d0dd007dff53f4d00b81d7c6e484b9e1d06952b",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/browser-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png"
     },
     {
       "path": "browser-before/routes/tenjin-reverse-hud-1280/td-209-criterion-2-before.png",
@@ -521,7 +559,9 @@
     {
       "path": "browser-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png",
       "bytes": 190639,
-      "sha256": "0bb8bf0eef7ccba82138d347223f96e43a6e2e9f77f7bda2b4c55bf482d48eab"
+      "sha256": "0bb8bf0eef7ccba82138d347223f96e43a6e2e9f77f7bda2b4c55bf482d48eab",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/browser-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png"
     },
     {
       "path": "browser-before/routes/tenjin-reverse-world-844/td-209-criterion-2-before.png",
@@ -636,7 +676,9 @@
     {
       "path": "coverage.json",
       "bytes": 420357,
-      "sha256": "b739ce05cb0c360f2b13be212a9714dfed6b4fc4a0dea1d5810b93916624b033"
+      "sha256": "b739ce05cb0c360f2b13be212a9714dfed6b4fc4a0dea1d5810b93916624b033",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/coverage.json"
     },
     {
       "path": "evidence-manifest.json",
@@ -654,9 +696,18 @@
       "sha256": "560eb0dbdde6cbedd018caabe2d7d518fa212ef9bcac852cc25ab51ac50263b9"
     },
     {
+      "path": "logs/focused-tests-released-final.log",
+      "bytes": 4767,
+      "sha256": "bfbfe40fe483938ca34f67dba38d6dedcf0d77354c8f3245b08c6802f738a5c2",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/logs/focused-tests-released-final.log"
+    },
+    {
       "path": "memory-release-summary.json",
       "bytes": 2759,
-      "sha256": "4c595bafe840443777b92d2b86efadb7c25b5ae5e48b6eb6a0366b99fcc85896"
+      "sha256": "4c595bafe840443777b92d2b86efadb7c25b5ae5e48b6eb6a0366b99fcc85896",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/memory-release-summary.json"
     },
     {
       "path": "native-after/lots/1367/td-209-criterion-1-after.png",
@@ -1046,7 +1097,9 @@
     {
       "path": "native-after/result.json",
       "bytes": 128891,
-      "sha256": "d354fbb960e0b9fd3071c4a06ad71c8ca4be141376a3c642c23181299aeedce0"
+      "sha256": "d354fbb960e0b9fd3071c4a06ad71c8ca4be141376a3c642c23181299aeedce0",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/native-after/result.json"
     },
     {
       "path": "native-after/routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
@@ -1081,7 +1134,9 @@
     {
       "path": "native-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
       "bytes": 414938,
-      "sha256": "df4ce9e1b2469a5c12b6f4351a1f73316b665c4b2cc7268692c8c2afdce8d268"
+      "sha256": "df4ce9e1b2469a5c12b6f4351a1f73316b665c4b2cc7268692c8c2afdce8d268",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/native-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png"
     },
     {
       "path": "native-after/routes/ginko-reverse-world-844/td-209-criterion-2-after.png",
@@ -1771,7 +1826,9 @@
     {
       "path": "native-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png",
       "bytes": 184320,
-      "sha256": "af0abc091ad21887ef86bba5d7bd0d604d27e2b2ec4c747383a40ceb40e16fc0"
+      "sha256": "af0abc091ad21887ef86bba5d7bd0d604d27e2b2ec4c747383a40ceb40e16fc0",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/native-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png"
     },
     {
       "path": "native-before/routes/ginko-reverse-world-844/td-209-criterion-2-before.png",
@@ -2044,26 +2101,6 @@
       "sha256": "00b67f188028b880b5356dd54f6f455db4759cba557f1520b7c1e17553c4ec05"
     },
     {
-      "path": "ordinary-entry/ordinary-hud-1280.png",
-      "bytes": 397504,
-      "sha256": "125e3740234917cc3f4079312680d4133aa378eed3ae193ac8d89a00b7b76d8d"
-    },
-    {
-      "path": "ordinary-entry/ordinary-hud-844.png",
-      "bytes": 198716,
-      "sha256": "67aecd3fecee16ab38dbdc401dbaf91555edb0edcaaf18f4c2df13ff482e8561"
-    },
-    {
-      "path": "ordinary-entry/ordinary-menu.png",
-      "bytes": 81051,
-      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
-    },
-    {
-      "path": "ordinary-entry/result.json",
-      "bytes": 8716,
-      "sha256": "efadf7725cb7f1ccb76a8df936ad4b4359d5ab3662581c2bde2e2a554f5652d9"
-    },
-    {
       "path": "ordinary-entry-before/ordinary-hud-1280.png",
       "bytes": 166756,
       "sha256": "37884ce624f36bda41fcc699eae0e303717032bacbb061c9a76dcbe106b035dd"
@@ -2089,9 +2126,31 @@
       "sha256": "5f19cf995dd9d39617f317f9ca8497fbeacc104c01a3fe535563b5c317683905"
     },
     {
+      "path": "ordinary-entry/ordinary-hud-1280.png",
+      "bytes": 397504,
+      "sha256": "125e3740234917cc3f4079312680d4133aa378eed3ae193ac8d89a00b7b76d8d"
+    },
+    {
+      "path": "ordinary-entry/ordinary-hud-844.png",
+      "bytes": 198716,
+      "sha256": "67aecd3fecee16ab38dbdc401dbaf91555edb0edcaaf18f4c2df13ff482e8561"
+    },
+    {
+      "path": "ordinary-entry/ordinary-menu.png",
+      "bytes": 81051,
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
+    },
+    {
+      "path": "ordinary-entry/result.json",
+      "bytes": 8716,
+      "sha256": "efadf7725cb7f1ccb76a8df936ad4b4359d5ab3662581c2bde2e2a554f5652d9"
+    },
+    {
       "path": "package-summary.json",
       "bytes": 1389,
-      "sha256": "7515729e94c3c510b1777e74c2d83ef347ca91a9348b4fc66f91056674b552db"
+      "sha256": "7515729e94c3c510b1777e74c2d83ef347ca91a9348b4fc66f91056674b552db",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/package-summary.json"
     },
     {
       "path": "protected-comparison.json",
@@ -2306,8 +2365,483 @@
     {
       "path": "review-sheets/manifest.json",
       "bytes": 49405,
-      "sha256": "4292a76c4848115e93d1393762e5fa8125c1cf0455c389085695aab4b206a481"
+      "sha256": "4292a76c4848115e93d1393762e5fa8125c1cf0455c389085695aab4b206a481",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review-sheets/manifest.json"
+    },
+    {
+      "path": "review/REPRODUCE.md",
+      "bytes": 2093,
+      "sha256": "4f1b9ae4b5a77d776b6dc8681d82e64d2ca144b329d3230603e49f36a97d1952",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/REPRODUCE.md"
+    },
+    {
+      "path": "review/audit_frozen_evidence.py",
+      "bytes": 6319,
+      "sha256": "bc0c07b08318d320661de73b2eb646e475f7f7f49f00bfc4bd229f0e6e6e54df",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/audit_frozen_evidence.py"
+    },
+    {
+      "path": "review/audit_ordinary_entry.py",
+      "bytes": 2512,
+      "sha256": "36e1c743ce786b70d7f1915d8abe4e34688720b9e51a1f1717889a66868e1bf2",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/audit_ordinary_entry.py"
+    },
+    {
+      "path": "review/audit_raw_results.py",
+      "bytes": 5085,
+      "sha256": "424047a93ad5c16946a036979631b237daac24670b709238cc40d0a7b5ce2e02",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/audit_raw_results.py"
+    },
+    {
+      "path": "review/final-verification.json",
+      "bytes": 374,
+      "sha256": "0ef228c7580d8e21694235d8df790452a3154fecd77d07dfb3073985f190725d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/final-verification.json"
+    },
+    {
+      "path": "review/frozen-evidence-audit.json",
+      "bytes": 5303,
+      "sha256": "cfc840d8eaf7a6a739c47f56b13b96df03b9251cf1d6fc9f939eea378340c49d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/frozen-evidence-audit.json"
+    },
+    {
+      "path": "review/frozen-evidence-audit.log",
+      "bytes": 5303,
+      "sha256": "cfc840d8eaf7a6a739c47f56b13b96df03b9251cf1d6fc9f939eea378340c49d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/frozen-evidence-audit.log"
+    },
+    {
+      "path": "review/github-metadata.json",
+      "bytes": 3200,
+      "sha256": "fc9118a8e250891d3ea57840812416cfea2b190e3d8926d8dc0c6f5bebf682ae",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/github-metadata.json"
+    },
+    {
+      "path": "review/independent-benchmark-reading.json",
+      "bytes": 1078,
+      "sha256": "5f0c66683becafd80e19faf5222f4a5bd4503ffaf08cd53b75259b8d78b8f809",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-benchmark-reading.json"
+    },
+    {
+      "path": "review/independent-build-after.log",
+      "bytes": 2784,
+      "sha256": "20c07cf59d380213dda99679820785d719814d80775cc2cc92c2da0e9c86ae0d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-build-after.log"
+    },
+    {
+      "path": "review/independent-build-before.log",
+      "bytes": 2456,
+      "sha256": "6ebc8a83ca3bd57473b11c0062e58bdf49b9339eaaa486919a27a7fdc3ceedcc",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-build-before.log"
+    },
+    {
+      "path": "review/independent-build-runs.json",
+      "bytes": 699,
+      "sha256": "93840de647e2818a477e3bba20f25f1778d11a20afc7f69b75158a1229dedd43",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-build-runs.json"
+    },
+    {
+      "path": "review/independent-focused-run.json",
+      "bytes": 378,
+      "sha256": "340d06a4d01db5050fa9ac572f8cbbedc62dff8dbb4f381f20caf87d1dd9a732",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-focused-run.json"
+    },
+    {
+      "path": "review/independent-focused.json",
+      "bytes": 432765,
+      "sha256": "85ddd67c87378119ba3b440e6545335eed6874811e820e69a55cc9e149011b4b",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-focused.json"
+    },
+    {
+      "path": "review/independent-focused.log",
+      "bytes": 4767,
+      "sha256": "dcbc941fd56ff998d42c8a4fe3f90200f4b689913ffc817cd36d1b89f0340e25",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-focused.log"
+    },
+    {
+      "path": "review/independent-ordinary-after.log",
+      "bytes": 6770,
+      "sha256": "fa3be98acc3e52aaf9cccc372ecf4cb46c0114499db8e973c5c6fc0ac471b9ce",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-ordinary-after.log"
+    },
+    {
+      "path": "review/independent-ordinary-before.log",
+      "bytes": 6769,
+      "sha256": "fe8f3608ffed62b3633658cec114829a6448dcc637a878aacdedf998716226bd",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-ordinary-before.log"
+    },
+    {
+      "path": "review/independent-ordinary-comparison.json",
+      "bytes": 3942,
+      "sha256": "5b7cf374fc643b69caf306650212210e5d5f1201a2f39f3d912e2b7d7905bb16",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-ordinary-comparison.json"
+    },
+    {
+      "path": "review/independent-ordinary-comparison.log",
+      "bytes": 1038,
+      "sha256": "3b0ef893f4680b0b96f9f321b19fc1d85a63af0289c2536996c2ffdf9f6e812e",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-ordinary-comparison.log"
+    },
+    {
+      "path": "review/independent-ordinary-runs.json",
+      "bytes": 798,
+      "sha256": "55e0711149bdb8a506644833353637d8f957d54693d9a28ac9a8420cf1756e4a",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-ordinary-runs.json"
+    },
+    {
+      "path": "review/independent-pack-comparison.json",
+      "bytes": 7522,
+      "sha256": "058ceb36c6ec33472facfe935987433c911c1d3b4dcde1401ca6c9d7f8e4e63e",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-pack-comparison.json"
+    },
+    {
+      "path": "review/independent-protected-and-determinism.json",
+      "bytes": 1435,
+      "sha256": "e117c0515efa81d3c61f4f39c601104e4e0e72b75fe7fea9836c23bd479cc769",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-protected-and-determinism.json"
+    },
+    {
+      "path": "review/independent-raw-results.json",
+      "bytes": 53479,
+      "sha256": "088b29c8f0d67585b1692266e2b6919057fee47401e40b4f0f1e6e40cda71c59",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-raw-results.json"
+    },
+    {
+      "path": "review/independent-raw-results.log",
+      "bytes": 5042,
+      "sha256": "7af813b9a0ece994d997174a4f34efaf63260e9d4340522cf5f6c43849aae3b1",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/independent-raw-results.log"
+    },
+    {
+      "path": "review/opened-images.json",
+      "bytes": 16017,
+      "sha256": "99c9a75816fdbaad55f3c55ae5af66bc2e162df1c0f2c7b70a271fd31b846644",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/opened-images.json"
+    },
+    {
+      "path": "review/ordinary-entry-after/ordinary-hud-1280.png",
+      "bytes": 397515,
+      "sha256": "fcef2f5b216a78e59f9d793378b0c191935c5363386a105dc47f13ba34ab60df",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-after/ordinary-hud-1280.png"
+    },
+    {
+      "path": "review/ordinary-entry-after/ordinary-hud-844.png",
+      "bytes": 198744,
+      "sha256": "be1a4789d451414336f4187d5a2ab365c790b834c1d147d641703ba5111cffc1",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-after/ordinary-hud-844.png"
+    },
+    {
+      "path": "review/ordinary-entry-after/ordinary-menu.png",
+      "bytes": 81051,
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-after/ordinary-menu.png"
+    },
+    {
+      "path": "review/ordinary-entry-after/raw-console.log",
+      "bytes": 64002,
+      "sha256": "de704620fa7b9036bfcea76b77b5c910f062796785296c8b74f3aa4bbb37b51d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-after/raw-console.log"
+    },
+    {
+      "path": "review/ordinary-entry-after/result.json",
+      "bytes": 8716,
+      "sha256": "a9996cac4e40eff7aef261654bac9c6839e66b117ce2ada6de6646aac1a0627e",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-after/result.json"
+    },
+    {
+      "path": "review/ordinary-entry-before/ordinary-hud-1280.png",
+      "bytes": 166823,
+      "sha256": "fd6f46331206f84f8dcfae787293660fa73e3baa069bd056b9c886c4514bb770",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-before/ordinary-hud-1280.png"
+    },
+    {
+      "path": "review/ordinary-entry-before/ordinary-hud-844.png",
+      "bytes": 99584,
+      "sha256": "3b6aac435ac8e97f132b1b08dc23f51bbecf9db0d842427ad960f167ca96f912",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-before/ordinary-hud-844.png"
+    },
+    {
+      "path": "review/ordinary-entry-before/ordinary-menu.png",
+      "bytes": 81051,
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-before/ordinary-menu.png"
+    },
+    {
+      "path": "review/ordinary-entry-before/raw-console.log",
+      "bytes": 63857,
+      "sha256": "4eb1d72b1a5914ed2655b6fdafefb28fe7b3f7d8133d7f6f09a2f3a238188fa8",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-before/raw-console.log"
+    },
+    {
+      "path": "review/ordinary-entry-before/result.json",
+      "bytes": 8715,
+      "sha256": "3b93d1c247f8fe4c7eb8f7d71a61303761503dfcfb380d4b224b5ec8f06cd8e6",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/ordinary-entry-before/result.json"
+    },
+    {
+      "path": "review/pack-after.json",
+      "bytes": 257780,
+      "sha256": "bca0526e66e1c1ff714b69e832b095a265c6e315bca4bf0e55bb6764d241643f",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/pack-after.json"
+    },
+    {
+      "path": "review/pack-after.log",
+      "bytes": 119,
+      "sha256": "4a68741e091ba3467bb67dd73f77ff817b327cae3fea3962cfb4c3777c04beea",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/pack-after.log"
+    },
+    {
+      "path": "review/pack-before.json",
+      "bytes": 245812,
+      "sha256": "030c6ec86c9de194618678c2e6af138521db13ffbbc99228dba3af7119c2bd2b",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/pack-before.json"
+    },
+    {
+      "path": "review/pack-before.log",
+      "bytes": 120,
+      "sha256": "dd0818cbdd39307d4e31c09e9838ba700d6305ee518eeda158d27b74b7c5e223",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/pack-before.log"
+    },
+    {
+      "path": "review/pack-runs.json",
+      "bytes": 1076,
+      "sha256": "02b6b8eb8cae558453d7a2056b3ac04449bd858425b59c27af1e415faffb6d11",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/pack-runs.json"
+    },
+    {
+      "path": "review/progress.md",
+      "bytes": 281,
+      "sha256": "57b32b4f74df18488d7fcc15fde56f150cdc09bae07ac6cb3a0037596081fb3d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/progress.md"
+    },
+    {
+      "path": "review/references/chapter.md",
+      "bytes": 41602,
+      "sha256": "e8cbba8e675365f02e54e573a4d77b1bbff390d30ab2e84f7f6416553ec067ba",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/references/chapter.md"
+    },
+    {
+      "path": "review/references/impl-tenjin.png",
+      "bytes": 1790672,
+      "sha256": "f2f5594ed1e06b060a2655a27096081caa37aa6539aaadf00b4e484df6158ae3",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/references/impl-tenjin.png"
+    },
+    {
+      "path": "review/references/mock-tenjin.png",
+      "bytes": 2049228,
+      "sha256": "bbace4f28bef7b067d1ab8ab25849e37a423ab7db25e4b261d6723ddd7d4b558",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/references/mock-tenjin.png"
+    },
+    {
+      "path": "review/references/pins.json",
+      "bytes": 595,
+      "sha256": "2109f5eb14cc31f077b1ba1571d0a1917f29c7a3a8048b7d6f311aa99a9a1acf",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/references/pins.json"
+    },
+    {
+      "path": "review/report.md",
+      "bytes": 16426,
+      "sha256": "0ef4478d817816c653c493c9520cc346953c97719be24568645943e829257508",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/report.md"
+    },
+    {
+      "path": "review/review-manifest.json",
+      "bytes": 8709,
+      "sha256": "2eac9aeb31ea5117d7a030f23de439e3132e9657341d8a9ae1e00985e1a2cadc",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/review-manifest.json"
+    },
+    {
+      "path": "review/review-session.json",
+      "bytes": 990,
+      "sha256": "67cd3da9d854ffea739c7f82787d2400d6158385700284c97461c70ff3369026",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/review-session.json"
+    },
+    {
+      "path": "review/runtime-inventory.json",
+      "bytes": 27652,
+      "sha256": "30f0e6d1da37c56b5979bb7b7dad6ac0402ffe3b9f6b9fcf7825eb4a5e5099dc",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/runtime-inventory.json"
+    },
+    {
+      "path": "review/runtime-inventory.log",
+      "bytes": 180,
+      "sha256": "203a0ac030351fb66475ac6491e8c55865649aa79d6a10b35928eb9add03854b",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/runtime-inventory.log"
+    },
+    {
+      "path": "review/runtime_inventory.gd",
+      "bytes": 3180,
+      "sha256": "ff3eb004ae4fd7e6908a21403a7a1444845488548588247e0de612731a19e043",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/runtime_inventory.gd"
+    },
+    {
+      "path": "review/snapshot-after-repeat.json",
+      "bytes": 79167,
+      "sha256": "e21a3fa0a873df3e26e217a70148b8d9b2e9ea8f7a7a1f6de0c04533d0dd246c",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-after-repeat.json"
+    },
+    {
+      "path": "review/snapshot-after-repeat.log",
+      "bytes": 188,
+      "sha256": "753f54b39c5ca8aef30ba4af93f4a79c03bfe62517fb8e912c1b6475ce75c49d",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-after-repeat.log"
+    },
+    {
+      "path": "review/snapshot-after.json",
+      "bytes": 79167,
+      "sha256": "f22d11a9100adb573204ea0915ff7f61f845c73883729c59b4a384fbaf781130",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-after.json"
+    },
+    {
+      "path": "review/snapshot-after.log",
+      "bytes": 181,
+      "sha256": "40e8afacd6ec1a598399d44f7ebe0c2e249e6cde44456aef1c5c32faeb60b280",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-after.log"
+    },
+    {
+      "path": "review/snapshot-before.json",
+      "bytes": 71458,
+      "sha256": "f4b7bf5a0b5ea7e54102f0a990889e723062cfc38d5bf93204e5fefe9f38f7c5",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-before.json"
+    },
+    {
+      "path": "review/snapshot-before.log",
+      "bytes": 182,
+      "sha256": "5cb3f0dda0f11bd0bacaf1b26ed82ac09f1725116e82c2557688572a318f003a",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-before.log"
+    },
+    {
+      "path": "review/snapshot-runs.json",
+      "bytes": 1192,
+      "sha256": "6d70bbbaaf6eae17e947c546a0c4eaf6f74b8405aa231bae372e3a274c581b55",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/snapshot-runs.json"
+    },
+    {
+      "path": "review/verdict.json",
+      "bytes": 5390,
+      "sha256": "5e03a0255037f8b737b0655cba340b0a1348b94c4ad5c345eb660c14720ffd52",
+      "source_commit": "0b2652bc86b6824444af277fdb34af5bdd981066",
+      "source_path": "godot/qa/td-209/review/verdict.json"
     }
   ],
-  "publication": "QA-only branch; no game PCK, site entry, main update, merge or deployment"
+  "publication": "QA-only branch; no game PCK, site entry, main update, merge or deployment",
+  "derived_navigation": {
+    "path": "REVIEW.md",
+    "sha256": "b956d6e4eeff2f06778ed2a69b1079323792044db6a9c36528e61cbe82bfa995",
+    "source_report": "review/report.md",
+    "transformation": "Added provenance sentence and rebased Markdown citation targets only; verdict prose unchanged.",
+    "citation_targets": {
+      "review-session.json": "review/review-session.json",
+      "frozen-evidence-audit.json": "review/frozen-evidence-audit.json",
+      "audit_frozen_evidence.py": "review/audit_frozen_evidence.py",
+      "frozen-evidence-audit.log": "review/frozen-evidence-audit.log",
+      "../coverage.json": "coverage.json",
+      "../review-sheets/manifest.json": "review-sheets/manifest.json",
+      "independent-focused.json": "review/independent-focused.json",
+      "opened-images.json": "review/opened-images.json",
+      "../native-after/result.json": "native-after/result.json",
+      "../browser-after/result.json": "browser-after/result.json",
+      "../native-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png": "native-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png",
+      "../native-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png": "native-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
+      "../browser-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png": "browser-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png",
+      "../browser-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png": "browser-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
+      "../browser-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png": "browser-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png",
+      "../browser-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png": "browser-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
+      "references/pins.json": "review/references/pins.json",
+      "references/mock-tenjin.png": "review/references/mock-tenjin.png",
+      "references/impl-tenjin.png": "review/references/impl-tenjin.png",
+      "references/chapter.md": "review/references/chapter.md",
+      "independent-protected-and-determinism.json": "review/independent-protected-and-determinism.json",
+      "snapshot-before.json": "review/snapshot-before.json",
+      "snapshot-after.json": "review/snapshot-after.json",
+      "snapshot-after-repeat.json": "review/snapshot-after-repeat.json",
+      "../../../tools/test_tenjin_buildings.gd": "https://github.com/doublehidenblade/tokyo-drift-3d/blob/0b2652bc86b6824444af277fdb34af5bdd981066/godot/tools/test_tenjin_buildings.gd",
+      "independent-focused.log": "review/independent-focused.log",
+      "independent-raw-results.json": "review/independent-raw-results.json",
+      "independent-build-runs.json": "review/independent-build-runs.json",
+      "independent-build-before.log": "review/independent-build-before.log",
+      "independent-build-after.log": "review/independent-build-after.log",
+      "audit_raw_results.py": "review/audit_raw_results.py",
+      "runtime-inventory.json": "review/runtime-inventory.json",
+      "runtime-inventory.log": "review/runtime-inventory.log",
+      "runtime_inventory.gd": "review/runtime_inventory.gd",
+      "../../../scripts/lower_city/city_kit_batch.gd": "https://github.com/doublehidenblade/tokyo-drift-3d/blob/0b2652bc86b6824444af277fdb34af5bdd981066/godot/scripts/lower_city/city_kit_batch.gd",
+      "../../../scripts/lower_city/city_tenjin_buildings.gd": "https://github.com/doublehidenblade/tokyo-drift-3d/blob/0b2652bc86b6824444af277fdb34af5bdd981066/godot/scripts/lower_city/city_tenjin_buildings.gd",
+      "independent-benchmark-reading.json": "review/independent-benchmark-reading.json",
+      "../benchmark.json": "benchmark.json",
+      "../memory-release-summary.json": "memory-release-summary.json",
+      "independent-pack-comparison.json": "review/independent-pack-comparison.json",
+      "pack-runs.json": "review/pack-runs.json",
+      "../package-summary.json": "package-summary.json",
+      "independent-ordinary-comparison.json": "review/independent-ordinary-comparison.json",
+      "independent-ordinary-runs.json": "review/independent-ordinary-runs.json",
+      "ordinary-entry-before/raw-console.log": "review/ordinary-entry-before/raw-console.log",
+      "ordinary-entry-after/raw-console.log": "review/ordinary-entry-after/raw-console.log",
+      "ordinary-entry-before/ordinary-hud-844.png": "review/ordinary-entry-before/ordinary-hud-844.png",
+      "ordinary-entry-after/ordinary-hud-844.png": "review/ordinary-entry-after/ordinary-hud-844.png",
+      "github-metadata.json": "review/github-metadata.json",
+      "../REPRODUCE.md": "REPRODUCE.md",
+      "../BUILD_SHEET.md": "BUILD_SHEET.md",
+      "../logs/focused-tests-released-final.log": "logs/focused-tests-released-final.log"
+    }
+  }
 }

@@ -1,0 +1,57 @@
+{
+  "before_after": {
+    "drive_sha256": true,
+    "walls_outside_tenjin_sha256": true,
+    "walls_outside_tenjin_triangles": true,
+    "protected_meshes": true,
+    "protected_building_triangles": true,
+    "protected_buildings_sha256": true,
+    "road_hits": true
+  },
+  "after_repeat": {
+    "drive_sha256": true,
+    "walls_outside_tenjin_sha256": true,
+    "walls_outside_tenjin_triangles": true,
+    "protected_meshes": true,
+    "protected_building_triangles": true,
+    "protected_buildings_sha256": true,
+    "road_hits": true,
+    "tenjin_meshes": true
+  },
+  "current_matches_author": {
+    "drive_sha256": true,
+    "walls_outside_tenjin_sha256": true,
+    "walls_outside_tenjin_triangles": true,
+    "protected_meshes": true,
+    "protected_building_triangles": true,
+    "protected_buildings_sha256": true,
+    "road_hits": true,
+    "tenjin_meshes": true
+  },
+  "base_matches_author": {
+    "drive_sha256": true,
+    "walls_outside_tenjin_sha256": true,
+    "walls_outside_tenjin_triangles": true,
+    "protected_meshes": true,
+    "protected_building_triangles": true,
+    "protected_buildings_sha256": true,
+    "road_hits": true
+  },
+  "wall_triangles_outside": 86145,
+  "building_triangles_outside": 75669,
+  "road_hits": [
+    [
+      "kashi",
+      0,
+      0.0,
+      "(1360.0, 1.2, -409.9205)"
+    ],
+    [
+      "kashi",
+      0,
+      2.2,
+      "(1357.8, 1.2, -1251.257)"
+    ]
+  ],
+  "tenjin_batches": 62
+}

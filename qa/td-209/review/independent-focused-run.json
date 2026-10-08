@@ -1,0 +1,14 @@
+{
+  "command": [
+    "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+    "--headless",
+    "--path",
+    "/workspace/tokyo-drift-3d/godot",
+    "-s",
+    "tools/test_tenjin_buildings.gd",
+    "--",
+    "/workspace/tokyo-drift-3d/godot/qa/td-209/review/independent-focused.json"
+  ],
+  "returncode": 0,
+  "completed_at": "2026-10-08T00:35:03.687822+00:00"
+}

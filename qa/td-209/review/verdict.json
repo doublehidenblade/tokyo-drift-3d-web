@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-08T00:55:48.749221+00:00",
+  "reviewer": "/root/tenjin_validator",
+  "result": "validated",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "max",
+  "selection_evidence": "Dispatcher/brief records accepted Astra/max selection. Runtime internals and billing are not independently exposed; no downgrade requested or observed.",
+  "tested_runtime": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "author_evidence_head": "bcaf46b86702848f4ae2259af6ca107592f7dcb9",
+  "report": "godot/qa/td-209/review/report.md",
+  "criteria": [
+    {
+      "id": 1,
+      "result": "PASS",
+      "finding": "All 77 source lots (1367–1443), 1,220 perimeter edges and 918 exposed frontages are accounted for. Every lot pair was inspected; no unexplained near-road full-height placeholder remains.",
+      "evidence": [
+        "godot/qa/td-209/coverage.json",
+        "godot/qa/td-209/review-sheets/manifest.json",
+        "godot/qa/td-209/review/frozen-evidence-audit.json",
+        "godot/qa/td-209/review/independent-focused.json",
+        "godot/qa/td-209/review/opened-images.json"
+      ]
+    },
+    {
+      "id": 2,
+      "result": "PASS",
+      "finding": "All final native/browser HUD and world sheets plus suitable original details match camera/seed and show credible measured slab/podium architecture, warm recessed lobbies and five mounted storefront types with preserved silhouette. Pinned references personally inspected.",
+      "evidence": [
+        "godot/qa/td-209/native-before/result.json",
+        "godot/qa/td-209/native-after/result.json",
+        "godot/qa/td-209/browser-before/result.json",
+        "godot/qa/td-209/browser-after/result.json",
+        "godot/qa/td-209/review/frozen-evidence-audit.json",
+        "godot/qa/td-209/review/references/pins.json",
+        "godot/qa/td-209/review/opened-images.json"
+      ]
+    },
+    {
+      "id": 3,
+      "result": "PASS",
+      "finding": "Independent source/geometry snapshots, focused footprint/proxy/negative-control/Fuel checks and base/final build reruns show no new protected-system or road obstruction. Two baseline Kashi hits, the inherited drive/sign failures and standalone harness limitations remain explicit.",
+      "evidence": [
+        "godot/qa/td-209/review/independent-protected-and-determinism.json",
+        "godot/qa/td-209/review/independent-focused.log",
+        "godot/qa/td-209/review/independent-build-runs.json",
+        "godot/qa/td-209/review/independent-raw-results.json",
+        "godot/qa/td-209/review/independent-ordinary-comparison.json"
+      ]
+    },
+    {
+      "id": 4,
+      "result": "PASS",
+      "finding": "Independent inventory confirms 62 bounded meshes, 124 surfaces, 18 shared opaque backface-culled materials, no doubled ink, 758,474 kit triangles and zero retained production placement records. Complete-building maximum is 14,138 including existing lip; texture limits pass. PCK audit and measured native/browser/memory costs are documented.",
+      "evidence": [
+        "godot/qa/td-209/review/runtime-inventory.json",
+        "godot/qa/td-209/review/independent-focused.json",
+        "godot/qa/td-209/review/independent-raw-results.json",
+        "godot/qa/td-209/review/independent-pack-comparison.json",
+        "godot/qa/td-209/review/frozen-evidence-audit.json",
+        "godot/qa/td-209/review/independent-benchmark-reading.json"
+      ]
+    },
+    {
+      "id": 5,
+      "result": "PASS",
+      "finding": "Complete source/evidence pins and reproducible commands were inspected; 1,357 evidence hashes match. Read-only metadata confirms PR489 remains open/draft at the frozen HEAD targeting the integration branch, and whole-city issue491 remains open. Only review files and task validator fields were changed.",
+      "evidence": [
+        "godot/qa/td-209/REPRODUCE.md",
+        "godot/qa/td-209/BUILD_SHEET.md",
+        "godot/qa/td-209/review/frozen-evidence-audit.json",
+        "godot/qa/td-209/review/github-metadata.json",
+        "godot/qa/td-209/review/REPRODUCE.md",
+        "godot/qa/td-209/review/report.md"
+      ]
+    }
+  ],
+  "independent_checks": "82/82 focused checks; repeated world snapshots; base/final build; both PCKs audited from an empty project; production-default mesh/material inventory; both ordinary shipping-entry browser paths rerun. All 39 sheets (197 pairs), five reference images and 24 original/detail/entry images personally opened.",
+  "frozen_record_corrections": [
+    "focused-tests.json and old author prose retain 80 checks; frozen released-final raw log and independent current-source rerun include two added checks and pass 82/82.",
+    "Outside-Tenjin wall triangles are 86,145 in final raw snapshots and independent reruns; README 86,159 is stale."
+  ],
+  "remaining_gates": [
+    "Craig physical-phone appearance/performance gate remains open; software-renderer evidence is not phone FPS.",
+    "Both ordinary-entry strict console checks still fail on the same 48 inherited engine errors; broad drive/sign failures remain, with standalone CrimeBus/Nil-spawn limitations.",
+    "Final PCK is 108,704,384 bytes (+5,926,528), 3,846,784 bytes above 100 MiB; existing publishing route remains blocked.",
+    "Construction and retained-memory costs are material; other districts and bespoke T2/Paper Exchange remain open. No whole-city completion, main merge, Actions or deployment is authorized."
+  ]
+}
