@@ -1,0 +1,8 @@
+{
+  "REVIEW_PUBLIC.md": {
+    "source": "REVIEW.md",
+    "source_sha256": "8ddb1440a6384caf96371bd3b747216448692c72916257704c2d22148040df5c",
+    "derived_sha256": "f99ddd3b2e31775e4ef30ad4c7278b19ba988cde43bce5f2d22c6f2a0ee7e475",
+    "transformation": "Only two relative source-code links replaced by immutable GitHub runtime links. All verdict text unchanged. Exact reviewer-authored REVIEW.md remains byte-for-byte preserved."
+  }
+}

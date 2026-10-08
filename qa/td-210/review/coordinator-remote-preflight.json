@@ -1,0 +1,27 @@
+{
+  "checked_at_utc": "2026-10-08T03:16:48.472545+00:00",
+  "method": "Read-only gh pr view / gh issue view with explicit JSON fields",
+  "pr494": {
+    "state": "OPEN",
+    "isDraft": true,
+    "baseRefName": "feat/td-209-tenjin-live-buildings",
+    "headRefName": "feat/td-210-kamome-live-buildings",
+    "headRefOid": "dd0fe14672a92990193194741b5fc5580040fafc"
+  },
+  "pr489": {
+    "state": "OPEN",
+    "isDraft": true,
+    "headRefOid": "0b2652bc86b6824444af277fdb34af5bdd981066"
+  },
+  "issue491": {
+    "state": "OPEN",
+    "title": "Whole-city live building and prop integration backlog after Tenjin"
+  },
+  "central_pr350": {
+    "state": "OPEN",
+    "isDraft": true,
+    "headRefOid": "d0edf2b931d32f039a5e240a75f2b306c0286885"
+  },
+  "qa_mirror": "9202dcfadfd4b32e1cbaf84b3f9208cdc52843de",
+  "mutations_performed": false
+}

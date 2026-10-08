@@ -1,0 +1,348 @@
+{
+  "before": {
+    "signs": {
+      "log": "godot/qa/td-210/regression-before-signs.log",
+      "assertion_failures": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_SIGNS {\"drive_min\":11.38,\"failures\":7,\"km\":7.56,\"trips\":12}"
+      ],
+      "emitted_rows": 12,
+      "failed_rows": [
+        {
+          "arcs": 18,
+          "driven_m": 1872,
+          "from": "gate2",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+          "signed_decisions": 12,
+          "stuck": 7,
+          "time_s": 150.2,
+          "to": "depots"
+        },
+        {
+          "arcs": 5,
+          "driven_m": 0,
+          "from": "yard_shed",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u8ca8\u7269\u30e4\u30fc\u30c9\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+          "signed_decisions": 4,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "tenjin"
+        },
+        {
+          "arcs": 10,
+          "driven_m": 0,
+          "from": "hotel_lantern",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u904b\u6cb3\u901a\u308a > \u6953\u901a\u308a > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+          "signed_decisions": 7,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "daikoku"
+        },
+        {
+          "arcs": 16,
+          "driven_m": 0,
+          "from": "rinse4",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u6d17\u6d44\u6a2a\u4e01 > \u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+          "signed_decisions": 14,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "chidori"
+        },
+        {
+          "arcs": 9,
+          "driven_m": 0,
+          "from": "shaft1_dock",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e00\u6607\u964d\u5854\u524d > \u81e8\u6e2f\u901a\u308a",
+          "signed_decisions": 7,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "kamome"
+        },
+        {
+          "arcs": 15,
+          "driven_m": 0,
+          "from": "t2_queue",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e8c\u6607\u964d\u5854\u524d > \u5929\u795e\u5927\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+          "signed_decisions": 10,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "kotobuki"
+        },
+        {
+          "arcs": 12,
+          "driven_m": 0,
+          "from": "seri_window",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7af6\u308a\u5c0f\u8def > \u9b5a\u6cb3\u5cb8\u6a2a\u4e01 > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+          "signed_decisions": 9,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "shinkai"
+        }
+      ]
+    },
+    "drive": {
+      "log": "godot/qa/td-210/regression-before-drive.log",
+      "assertion_failures": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+      ],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_DRIVE {\"drive_min\":7.74,\"failures\":1,\"km\":6.77,\"legs\":21}"
+      ],
+      "emitted_rows": 9,
+      "failed_rows": [
+        {
+          "arcs": 4,
+          "avg_kmh": 35.8,
+          "classes": {
+            "ring": 4
+          },
+          "driven_m": 793,
+          "from": "arc:627",
+          "leg": 9,
+          "max_y": 6.85,
+          "min_y": 0.35,
+          "ok": false,
+          "plan_s": 85.9,
+          "recoveries": 0,
+          "streets": "ring",
+          "stuck": 7,
+          "time_s": 79.6,
+          "to": "arc:622"
+        }
+      ]
+    },
+    "ramps": {
+      "log": "godot/qa/td-210/regression-before-ramps.log",
+      "assertion_failures": [],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_RAMPS {\"checks\":25,\"failures\":0}"
+      ],
+      "emitted_rows": 20,
+      "failed_rows": []
+    }
+  },
+  "after": {
+    "signs": {
+      "log": "godot/qa/td-210/regression-after-signs.log",
+      "assertion_failures": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_SIGNS {\"drive_min\":11.42,\"failures\":7,\"km\":7.56,\"trips\":12}"
+      ],
+      "emitted_rows": 12,
+      "failed_rows": [
+        {
+          "arcs": 18,
+          "driven_m": 1857,
+          "from": "gate2",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e8c\u30b2\u30fc\u30c8\u901a\u308a > \u30b3\u30f3\u30c6\u30ca\u6a2a\u4e01 > \u7b2c\u4e09\u30b2\u30fc\u30c8\u901a\u308a > \u57e0\u982d\u5927\u901a\u308a > \u691c\u6570\u901a\u308a > \u81e8\u6e2f\u901a\u308a > \u5929\u795e\u5927\u901a\u308a",
+          "signed_decisions": 12,
+          "stuck": 7,
+          "time_s": 150.2,
+          "to": "depots"
+        },
+        {
+          "arcs": 5,
+          "driven_m": 0,
+          "from": "yard_shed",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u8ca8\u7269\u30e4\u30fc\u30c9\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+          "signed_decisions": 4,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "tenjin"
+        },
+        {
+          "arcs": 10,
+          "driven_m": 0,
+          "from": "hotel_lantern",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u904b\u6cb3\u901a\u308a > \u6953\u901a\u308a > \u7b2c\u4e8c\u5de5\u5834\u901a\u308a",
+          "signed_decisions": 7,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "daikoku"
+        },
+        {
+          "arcs": 16,
+          "driven_m": 0,
+          "from": "rinse4",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u6d17\u6d44\u6a2a\u4e01 > \u5e02\u5834\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u9280\u884c\u901a\u308a > \u661f\u901a\u308a",
+          "signed_decisions": 14,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "chidori"
+        },
+        {
+          "arcs": 9,
+          "driven_m": 0,
+          "from": "shaft1_dock",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e00\u6607\u964d\u5854\u524d > \u81e8\u6e2f\u901a\u308a",
+          "signed_decisions": 7,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "kamome"
+        },
+        {
+          "arcs": 15,
+          "driven_m": 0,
+          "from": "t2_queue",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7b2c\u4e8c\u6607\u964d\u5854\u524d > \u5929\u795e\u5927\u901a\u308a > \u64cd\u8eca\u5834\u901a\u308a",
+          "signed_decisions": 10,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "kotobuki"
+        },
+        {
+          "arcs": 12,
+          "driven_m": 0,
+          "from": "seri_window",
+          "ok": false,
+          "recoveries": 0,
+          "route": "\u7af6\u308a\u5c0f\u8def > \u9b5a\u6cb3\u5cb8\u6a2a\u4e01 > \u897f\u9580\u901a\u308a > \u5546\u793e\u901a\u308a > \u6cb3\u5cb8\u901a\u308a > \u7523\u696d\u9053\u8def",
+          "signed_decisions": 9,
+          "stuck": 7,
+          "time_s": 31.2,
+          "to": "shinkai"
+        }
+      ]
+    },
+    "drive": {
+      "log": "godot/qa/td-210/regression-after-drive.log",
+      "assertion_failures": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 794.110051259398, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85309743881226 })"
+      ],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_DRIVE {\"drive_min\":7.74,\"failures\":1,\"km\":6.77,\"legs\":21}"
+      ],
+      "emitted_rows": 9,
+      "failed_rows": [
+        {
+          "arcs": 4,
+          "avg_kmh": 35.9,
+          "classes": {
+            "ring": 4
+          },
+          "driven_m": 794,
+          "from": "arc:627",
+          "leg": 9,
+          "max_y": 6.85,
+          "min_y": 0.35,
+          "ok": false,
+          "plan_s": 85.9,
+          "recoveries": 0,
+          "streets": "ring",
+          "stuck": 7,
+          "time_s": 79.6,
+          "to": "arc:622"
+        }
+      ]
+    },
+    "ramps": {
+      "log": "godot/qa/td-210/regression-after-ramps.log",
+      "assertion_failures": [],
+      "script_errors": [
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Identifier not found: CrimeBus",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Compile Error: Failed to compile depended scripts.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'.",
+        "SCRIPT ERROR: Invalid assignment of property or key 'name' with value of type 'StringName' on a base object of type 'Nil'."
+      ],
+      "summary": [
+        "TD185_RAMPS {\"checks\":25,\"failures\":0}"
+      ],
+      "emitted_rows": 20,
+      "failed_rows": []
+    }
+  }
+}

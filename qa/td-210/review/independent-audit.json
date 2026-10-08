@@ -1,0 +1,4805 @@
+{
+  "frozen_head": "dd0fe14672a92990193194741b5fc5580040fafc",
+  "evidence_manifest_files": 3247,
+  "evidence_hash_mismatches": [],
+  "protected": [
+    {
+      "path": "godot/assets/ATTRIBUTION.md",
+      "sha256": "830d45d4197d169a75eda8fa412d3705067b0be0f43459480ede1909a2ace13f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/README.md",
+      "sha256": "96e194f09bd5cc9e50d243a7b96012dbb67c691d911af7f975eb0a78992a1168",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/.gdignore",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/README.md",
+      "sha256": "6133572fd9bd2c13abf36d735c1998a4fc90ed3541e61c9f27c536e313d4b1c5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-bridge-ref-2026-09-19/rainbow-bridge-reference.jpg",
+      "sha256": "fd60dfbec9496c32bd6d78579e0abfe53c41d9a8bdfa3fec82fceb0975f87d92",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-bridge-ref-2026-09-19/rainbow-bridge-reference.jpg.import",
+      "sha256": "a1324782c34bf0162884f58e41656f134e4c66ee35e50c41114791c3d9168e1c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/01-black-walls.jpg",
+      "sha256": "0db0d609a7875da7892d1a28d62116d90df9323f9e0d6cb032f811629ad623ec",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/01-black-walls.jpg.import",
+      "sha256": "93477bb59ba9ecb94010dda50e874a52ead356b37cc570d35dc067dabea4b3ed",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/02-bridge-rails-blue-boxes.jpg",
+      "sha256": "9b2ee568e4ba6d428f996a320c8a4bd35cf4ff6bd8d5923e8e6cc3559f44dd6f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/02-bridge-rails-blue-boxes.jpg.import",
+      "sha256": "1386ef4e0293656e201f1b2d5c423d3cf1434cb69b0f0f0ab7c920d01d5a5d57",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/03-building-in-road.jpg",
+      "sha256": "4fc93db128005715cd91c5e399460dfc5d4e4690b7007b757c97147eedcde0d2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/03-building-in-road.jpg.import",
+      "sha256": "cad5ef8a47c9368648511695591050a723eb7fc4a0ca2d822bfa22a8725d035f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/04-ghost-cars.jpg",
+      "sha256": "c147de91e016f9bb41d893be90cd52123123dd9e85aaa74b93348d9db6a4114e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/04-ghost-cars.jpg.import",
+      "sha256": "0942171c4944d33699d2d5fa20b11f1f82b730651a6e599ee193d2a41c835e7f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/05-tunnel-entry-blue-flares.jpg",
+      "sha256": "f2d8ed9204aac84dfd98167c56a950e5ac1350f68e5e6e29a095aa4d65c35c3d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/05-tunnel-entry-blue-flares.jpg.import",
+      "sha256": "f258a8be59bfd92452568d3f3e8ff020b5ae03b1925b78ef9e8d9d863028b7c0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/06-tunnel-exit-orange-flares.jpg",
+      "sha256": "b02fdb301b00fc31dc28d9d3d442e8aef988208594fe75f791664cf299c5fbb2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/06-tunnel-exit-orange-flares.jpg.import",
+      "sha256": "2a61a6bc59c02ee97eeb8c6a02704c2a50fa19604b53a15ac2c793392eb5e786",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/07-godot-race-car-controller-ref.jpg",
+      "sha256": "db6c93026f61e4d7e31f45aaaec6eb3b41cb7aef98b3b58398937df9ff31daf1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/07-godot-race-car-controller-ref.jpg.import",
+      "sha256": "a3086d9fd4f63eff9e1ad112333bd6ca6bc80eb17127f309b818615a19a3dd09",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/08-leartes-cyberpunk-city-ref.jpg",
+      "sha256": "8fb02310151eaae5bc0b84f74879cacb2fca7d2ec6cda0eb207cdaef33b5c174",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/08-leartes-cyberpunk-city-ref.jpg.import",
+      "sha256": "1a622f886e67ce1c4a70661f3e8e4f2c110a8b3abb5518e4a41b315b035220cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/craig-phone-qa-2026-09-18/README.md",
+      "sha256": "b942d33300d1d34424110a94f1eb81053cd8c9960fcb72d36e34a4cfe0692627",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/01-drift-city-street.jpg",
+      "sha256": "0882fdca6e48b083adb729b7542c7beadcab6b08c85d0c96a78669449f044596",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/01-drift-city-street.jpg.import",
+      "sha256": "1bd7e30006f4c113237bf613f4e069a8a72d522d1e057b9417ad1f016a4bf444",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/02-synthwave-ferrari.jpg",
+      "sha256": "bbbe67d9a6052d9a5fbcd802c23362f91c642bf08464c948429106acd5569253",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/02-synthwave-ferrari.jpg.import",
+      "sha256": "44e4ac0aaf39b70bd6cb11061aa6ece5a8fc5888a4d12c52c21ebc87382aeac6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/03-city-pop-car.jpg",
+      "sha256": "cfc664d3a10b82054cba2c5755192c34732dfad66b812e70627a9ca85406cc1f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/03-city-pop-car.jpg.import",
+      "sha256": "a5f2d00666de45ee81de5d0d071193c13bee675d0aa8bcfa714e8e364fa14a69",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/04-rainy-rooftop.jpg",
+      "sha256": "838bbb03bacca262e2e40b074d0ec510f6e6d8ad2454bade4caaca2561edb1b4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/04-rainy-rooftop.jpg.import",
+      "sha256": "a572e5f8f932084f2bbe98a9892787fb641e0166a2074f2e7a71e5fc098dbe4e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/05-tokyo-tower-dusk.jpg",
+      "sha256": "b74449e56605d5eba03911635819a439bc7e29a69ad4cb37ed6ba38d77d1cdb5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/05-tokyo-tower-dusk.jpg.import",
+      "sha256": "86129bd2e957ee19f808c68041140cc925ca799a41b63282ceb9c6429c322302",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/06-citypop-poster-tengenji-ginza.jpg",
+      "sha256": "42d4496e54b1e5a6a668951ecacdb83866c1cc3d980bcb1e6ba5a0facb4fab3d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/06-citypop-poster-tengenji-ginza.jpg.import",
+      "sha256": "3e2b78c673d2a914030569df28b38faec78abdab664ee26b7d01625f9a601a81",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/07-synthwave-street-racer.jpg",
+      "sha256": "ab1ba36c5046165f7f8f78c5076242756a5c93cfd0c362b8990e9f5059c2d227",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/07-synthwave-street-racer.jpg.import",
+      "sha256": "6b7913b8efa34b8d699590cde6aa7217f7187b888d6f0aa56f7bfe0663024131",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/retro-tokyo-80s/README.md",
+      "sha256": "c3548e0d3e09dd307a1465703c1b790d9c12f462fc72fc9e1f393b7197de84d5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/01-sakura-street-night.jpg",
+      "sha256": "378518c282c39203e2a97dd54065a11bbd545e2660095153639b321a7dab2cbb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/01-sakura-street-night.jpg.import",
+      "sha256": "114c793b09c9c74cf3d22166e249fc8e4ae2e8aa1a88fab0247a301bffb3bb07",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/02-shibuya-crossing-coupe.jpg",
+      "sha256": "a0c8098c80b840c86770d76e6166d8e22c92a11153f3957a78f51abac5dc9c5b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/02-shibuya-crossing-coupe.jpg.import",
+      "sha256": "67cad5bd31aa57cd31c584e756fa2167a9e49ff46363a35929484bafe177c090",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/03-rainbow-bridge-highway.jpg",
+      "sha256": "be803bf53f0a1f9eb99d3ccaa85775f3d02ed7cb0ce4815057d3d6d668ddd43c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/03-rainbow-bridge-highway.jpg.import",
+      "sha256": "855cfc27697e56d93ce3c9f899a176d6efe0e34e5e91a7cc958c68fd0fd39413",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/04-waterfront-skyline.jpg",
+      "sha256": "fa7a30933d8d65d73e78708abb49cc29e2ccb098e8f5a10af9d9ef3a43fcccaa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/04-waterfront-skyline.jpg.import",
+      "sha256": "26e7e7aae68bce625e34f19362678ae5b501aecd71cb60b6d9cf4dbdfe1888cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/06-tunnel-night-run.jpg",
+      "sha256": "c01f8848477f71471b83490c6bb048b895c37f3cbc591e6803d71adb03c3a879",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/06-tunnel-night-run.jpg.import",
+      "sha256": "8a954c1734486ef5c29fcf3fbeea5e7f2e8593b401ab3d21d07b1885fdd172bc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/08-rainbow-bridge-night-lights.jpg",
+      "sha256": "4fe5960e78448239ac95db3767d8308c2c907c1b3c9726a52e35a60b16fec1cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/08-rainbow-bridge-night-lights.jpg.import",
+      "sha256": "ae121bf7c46b8f8bb575b4e334517129dbb589c3265ddce8eb254033625dc3b6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/art-reference/tokyo-night-real/README.md",
+      "sha256": "c61a6b71f38e7829486a7aca25c288e371e22cf17288b6bdaa3baf85e82da14d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/hero_portrait.png",
+      "sha256": "394c9b594afbe0c3101915474de99aef9714e9653b22db0d00db009301b1b00e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/hero_portrait.png.import",
+      "sha256": "68b1286f5a811defa1003d491d396936dfa41fcad7002195f8187bce135c8c12",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/hero_portrait_loading.webp",
+      "sha256": "6d33117b30c55ae3ed7d0a5ad754562c2dc1ebb1fed4cb21cd469146df7ba1c7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/hero_portrait_loading.webp.import",
+      "sha256": "c1ca323ab7c3496286970a826ca18c617b21aa5f0b027580a4be8588b6fe0531",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/skyline_panorama.png",
+      "sha256": "514a8408d63cf3d4d0548c11d410dcfd15e51260e3e0990307b43561454af1b2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/backdrop/skyline_panorama.png.import",
+      "sha256": "1b73e17c5be7d4c2d08c62c856f6e40d90c569932071a26c6a165ae1a373b159",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/README.md",
+      "sha256": "7ed18d0101764216c8c0adf77e2ca65ae7967cb5245fd43c0727f720b53d3c22",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/Textures/colormap.png",
+      "sha256": "a48e2962661ae44368ffddf3054f80ed8491d082b757dcc3011184cd9a98b185",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/Textures/colormap.png.import",
+      "sha256": "39032686130629fbbdd320fab15713b76ed0f53fadd75f13e0e377d629a4c9d5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/construction-barrier.glb",
+      "sha256": "906f73a6d62d8de58a4c5a19e76ff95b460c42b37e5fa37478b8612f06793f26",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/construction-barrier.glb.import",
+      "sha256": "ab9501216fd4dbe0016fab1454aef76484b64ac8fc40e26e6ccc522a379e4bb0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/construction-cone.glb",
+      "sha256": "50ceae45cd1d71f738a8f7c40f8b6b46f360063c2754bf717aae54013d6f2ee4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/construction-cone.glb.import",
+      "sha256": "0009317b20cf9110b038287490bd4c668b8962ed12b6203c671de33bbfb94008",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-sign-warning.glb",
+      "sha256": "db8049a51eb60c77e40253e8b5a9d41359a49d2a9083223dce361cfb0605c3a9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-sign-warning.glb.import",
+      "sha256": "7f853ea1a4416dc4d8b87511a874131bde4f6ad53587ba314a924fcd8aefd16f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-straight-barrier-half.glb",
+      "sha256": "6f850dedf540f9aadc618cf70c24af317a69a35e10cefd2da16df2c85311b994",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-straight-barrier-half.glb.import",
+      "sha256": "662727476cd649917c8153483cd049ed5c547bf05a4d6a46df748579457f4970",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-straight-barrier.glb",
+      "sha256": "eeaf5469bb34b94e3edaf71c5d7c9da152c0a398f86c9ec6c234a82a42833e4e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/road-straight-barrier.glb.import",
+      "sha256": "38e68a00d329071aa2fc0ee2cae013e2a675890e731822a0d97461974520e17a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/sign-highway.glb",
+      "sha256": "95858108df403b7051f97598a78b93ddc398ac6cac85ad8abc0bf9198a9fe282",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/sign-highway.glb.import",
+      "sha256": "8a36c1524b970655e68da288f366157280f5df9acf1a66839cdc8602b08e7326",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/traffic-light.glb",
+      "sha256": "6c9ee253b7370e1043168493b2e662b349484a0cdd02100cff04d9d8d1bd9abb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/kenney_city_kit_roads/traffic-light.glb.import",
+      "sha256": "1fefb587206bdc38d8db9534ba72779e272e3a495e2e64a1175ff182c560476e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/packs/quaternius_nature/README.md",
+      "sha256": "e891efc9bca0d0d73eb87435ee7805bd7226854e134d59daad314949eca766ba",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_AmbientOcclusion.png",
+      "sha256": "0c0d204a59b24b2904cb04b57982d3c3d12cd8a66eaa63c3372af6da9c6ef111",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_AmbientOcclusion.png.import",
+      "sha256": "74bb5a3dbc1155d2244d29035f118105112fc13f2da72ca9bce8747308c3954b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Color.png",
+      "sha256": "d78c1403025a558602d4ce350434c04ea935bc52523140f7bd6e6a2ca300fdce",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Color.png.import",
+      "sha256": "761be6c225c96dfead7ba22b442befc56c57c4e752c300cc2fc045be3defbb31",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Displacement.png",
+      "sha256": "725ea1e5dde910f6ca450c8560fcbdfc86a6b7afb41caa2a22052578cb601f49",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Displacement.png.import",
+      "sha256": "39a3c11fafe9ccc86a564dddafa0aced01a55720b2863f485c4b09e5beed32e1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_NormalGL.png",
+      "sha256": "84a5dd6e7c4a0df5090af13be34293b2b2501e8456d91152ae9ed4ae63588152",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_NormalGL.png.import",
+      "sha256": "986fa1bb409edde0fa7bf35de2902069c3ae002a661a154924b64ddf572c7a0a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Roughness.png",
+      "sha256": "90e810baffc611f8f4d3ea6203aa4efe1b3479340780551df182e170acd5013a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/asphalt/Asphalt033_2K-PNG_Roughness.png.import",
+      "sha256": "81d88d0118b5234a92e7c0d6781b319f5a5a2f1e1af00aa162dc92534470d3d7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Color.png",
+      "sha256": "a609425b2055e21ad3a47ad0001edb4025dc5c4132ca321247df3234bc71698b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Color.png.import",
+      "sha256": "79723c99d6f54b3b39af6735976f5e63211356450cc278cec45b7d624d82f1d4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Displacement.png",
+      "sha256": "10a8677c991dffafe04eadc92ee7ec8f234bca80ae7c26e9ead1e8935457b29f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Displacement.png.import",
+      "sha256": "c77219170828280687fc59c249cf186751af48775fdf07b6807a54efd4104221",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_NormalGL.png",
+      "sha256": "3a29a53188b803ab988cb75f995e696d482128fa5a233c73ca3cc435879bc380",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_NormalGL.png.import",
+      "sha256": "bc17dd30531c4161d99c3d6c441a0827dac7b05787ba8d25d91adac8fc811059",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Roughness.png",
+      "sha256": "a3e5a5e2eba0597145ab68acc2bd1134898ee45142a6e991e6503f893f5af938",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/concrete/Concrete034_2K-PNG_Roughness.png.import",
+      "sha256": "fa0247e624523dc39658c8ab1030cca5bad486bf54d40fde5f4964e9ee0114e9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_AmbientOcclusion.png",
+      "sha256": "6a20bf1b19c1409efe72800fe579b616dacfdc38df6762c6966a218eba071dab",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_AmbientOcclusion.png.import",
+      "sha256": "80d0d277cec883a4fe8df5a3b4ee6858ade5cbf5dc99a363ebab2b66d7dc07cd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Color.png",
+      "sha256": "ca24269dd900a0bc5ab9aa7baf4d28404bd8c03380a2e59d2d5f03194cf7cb6c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Color.png.import",
+      "sha256": "5a22b790eeef1e0df8230bd570169da2d1045a4d12ee1699a65414e36c3f8ce6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Displacement.png",
+      "sha256": "8d3cae11f9cfede14c642bb6382457345f64928768fc9e9ef5f93e949e61baa7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Displacement.png.import",
+      "sha256": "34ca3b790bd39699493092e14313d6372c30b39367034d5f1d861f1b34a1d1cd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_NormalGL.png",
+      "sha256": "cbd44495ba3e68d294c0004e332319d5f7a8930872f80060abf159da395fb423",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_NormalGL.png.import",
+      "sha256": "f299732af45f029c7498862a8e76177abc61eb68a28de319f56fa8314e64f806",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Roughness.png",
+      "sha256": "c9d44ba11879b8d39588bd5e50c1753ba8735ccc216e0801072888e48a0e0405",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/grass/Grass005_2K-PNG_Roughness.png.import",
+      "sha256": "99ba11a1fe1810b514d4413d23afd91ab5e2cac6cea7bcd34d7d636b24fb562e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_AmbientOcclusion.png",
+      "sha256": "96c7adce660592282439ee21b5fec6f1261b74c8194f3e9f0df37d4382f61186",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_AmbientOcclusion.png.import",
+      "sha256": "88873a373e31c77c8e0c0de31b408fa58dbc7f2d5fe7b38bc568b0c9d9369c9d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Color.png",
+      "sha256": "17a503836a9cec15f456d6f8a99b662ab8f59d3cc6719e2cc9a4e9e5e77829a2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Color.png.import",
+      "sha256": "fd3e8f03c1000e4498b8eb3c395cdf8e6142e0e906c3573bdefe06e1b6b87397",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Displacement.png",
+      "sha256": "932b0572720cdcecc42de09201b524ffd2deb212ab4f1974130ddcb1029189ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Displacement.png.import",
+      "sha256": "353c8e5830c3a9fd86473a9d7dec2de6a907fe2ecc4d6fe5b435d51263b127fa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_NormalGL.png",
+      "sha256": "c85375dd0c1d34c2242a1639cb1dabc9e9ad91a98bb4561497dc10d88ce0fa09",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_NormalGL.png.import",
+      "sha256": "46bad0ae92d702ba649e732ec22b7df23bdcb44ee47e920ba586e1d990e71700",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Roughness.png",
+      "sha256": "d5debebd7fb19b086e44e9f8bfcee5e2ea2a06f113364d8bd6281c72a76011d4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/gravel/Gravel043_2K-PNG_Roughness.png.import",
+      "sha256": "569a2c0aa56ca1d942cef2a96924b98ec45bd93f25b1e0eadf1b269b0559ec90",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_AmbientOcclusion.png",
+      "sha256": "4a4fab4b3bdc3221fdf397bdae95164cf717c465e129184106a48746395400de",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_AmbientOcclusion.png.import",
+      "sha256": "83c692736809db33bfd5a8dfba50484fd4b6f0933cbe8b6530c775627ee4c87c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Color.png",
+      "sha256": "4924d695fef331632c7be66acae1fd327a0285fdd67513b21568e861f6e9ce0a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Color.png.import",
+      "sha256": "da143a58f22c95e21856d45fbaf7b2b511103e493c56bb79c228932163de194c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Displacement.png",
+      "sha256": "9a2f76ed408706a22c4ee2042bd82ab07bda797611468bb341093bc91331bb56",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Displacement.png.import",
+      "sha256": "3fbb6ed261a00e250eccb4a76522e38d0420e1d5418beb35fa4c8585f0d14610",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_NormalGL.png",
+      "sha256": "8ff4643284af1611cb59d9cba789b652cfa53d6a88143f3752b7bb1739882c90",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_NormalGL.png.import",
+      "sha256": "df13431ee4196a3f780bf6fc76bc729c88a6ce7f09e8313677bf64481a824f47",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Roughness.png",
+      "sha256": "5d13296db03f6edac3d78125a4bd6393b61b75dfc45f5b9319002ed010f12579",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/ambientcg/ground/Ground109_2K-PNG_Roughness.png.import",
+      "sha256": "ef92594e43a9b93ca1874c756478768069a6960f3fd60428105648a9685de1b8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/asphalt_graphic.png",
+      "sha256": "98bda550a206113450af22d24c170451f14762771555bbe1fe8a433ea8427526",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/asphalt_graphic.png.import",
+      "sha256": "29b42cb00f97c9307631db87f9c9d2e5bb8c32ea6010cbaa06eeb67f9d65652d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/facade_panel.png",
+      "sha256": "0ee7aec6f8f09638307f2ebcb743ce5bae6221ba84efbd4c7b24d1b7681c007e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/facade_panel.png.import",
+      "sha256": "6b6ddd25677b87db2ea830ad96303efd1a0340c8105a6ee4f4bf490a10a45c42",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/foliage_mottle.png",
+      "sha256": "801022367c32c38cb29a7ff3e229e8ca30e824550473ca88d7410b23fee7a9eb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/foliage_mottle.png.import",
+      "sha256": "ba6a577ec91d1078d64c8ebfe979de0536cb6d8b85a7a63c6ba6c095be179505",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/ground_aggregate.png",
+      "sha256": "cc8a86fa98dd2a318fd84b4fffcbe9251f02b7cf00b9a5d686c7b9c9828b6c98",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/ground_aggregate.png.import",
+      "sha256": "b4e2899db4833959e4add75ada7122aa8013508446207587711dc68cc63adf83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/metal_panel_albedo.png",
+      "sha256": "7ea1d4243f48532c1f0afbfd7a339d892ff60e64b215422dceca38284ddaf9c4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/metal_panel_albedo.png.import",
+      "sha256": "022a7743ed77ffd6a60a9d2afe10d0b90780ff03fb64de7059f3e8f7ff7e8fe1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/painted_trim_albedo.png",
+      "sha256": "7e8786d54edc026c05d4990f0d9f791cbed20aab1a3cd2760e48d35894346619",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/painted_trim_albedo.png.import",
+      "sha256": "6e565fddd73e50706a341b1849d8e2f4717941a0646cfd216197fe6968d53ad7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/signage_panel_albedo.png",
+      "sha256": "66fa843744704385f693e060ed965460af105f959b330f66e699d9817d5a27ad",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/signage_panel_albedo.png.import",
+      "sha256": "4db8164253966f80525fbe4da98583d12838b0305677c78c251cf1d4b5d2ce3e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/wood_grain_albedo.png",
+      "sha256": "5a33b3a56e6a1fc402b6d1c66a5994a90d0be2e8f93a517c50755db450220f0b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/pbr/stylized/wood_grain_albedo.png.import",
+      "sha256": "2b3d239516760e30a6c918dae09ff294e3efe056d9f0f8ca9bb8eee1580221b7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/README.md",
+      "sha256": "4d14fe5b686b96b89918a6cea824c54d8fba529f3138ae76c0adfa4265300732",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/SOURCES.md",
+      "sha256": "98b14e0df91572a354feeb6465d5f84ca0e5969ca6c39119f873417c2e61cfa8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/japan-city/NOT_DOWNLOADED.md",
+      "sha256": "660c76288c1b0f883226965a4a42376d9a24707ddbf7e3c67b4803e096694b2f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/japan-city/README.md",
+      "sha256": "e1d27c76756fa16ea6e4de651d3d304e33a79812598f424abd551d7b830b2ca0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/README.md",
+      "sha256": "e33c49cc68bb5bdba021edf50bd2a33250445681e7b1243a8d90a870d5e44800",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/README.md",
+      "sha256": "48f1b964b7abf171d1bd915391349e0c1a8accdff212492b634444e8da966c6e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-tokyo-tower-ref-0-74d4c879-0f9d-45a4-9318-749ad2cf3270.webp",
+      "sha256": "c421d14bf37081718c3ec437bcb537528d73c41ce6d24aeffa6e0b08e8763f8e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-tokyo-tower-ref-0-74d4c879-0f9d-45a4-9318-749ad2cf3270.webp.import",
+      "sha256": "b5dba50fd65a4eadb2a1833b054605f1fe1cf8b72163a7f78754792137501969",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-tokyo-tower-ref-1789740294.json",
+      "sha256": "62acddb5fab7d8d474ca5c1d711684ee7d572f5b3124373557ad3ef7e2f96375",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-torii-gate-ref-0-f17a5aab-8db7-45e6-9a6b-8b5dbfa4f828.webp",
+      "sha256": "5278b55189f76a9d763956d38549c5f99868f37f308db2d1930db26cd9d07391",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-torii-gate-ref-0-f17a5aab-8db7-45e6-9a6b-8b5dbfa4f828.webp.import",
+      "sha256": "0ce714f229b3c503708862161e1437ea8d8797d0c435c1a03019316f5e1a7084",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/media-generation-torii-gate-ref-1789740288.json",
+      "sha256": "9bba1a5ba9a947aad4fd314a3f59eb48d839a61f93f8338663d4fb5c5ec1a0d7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/tokyo-tower-ref.png",
+      "sha256": "1a0f2e7212deb29aec9d3f495c575287fbcb99754288e9d37538b3d4a7672b5b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/tokyo-tower-ref.png.import",
+      "sha256": "cb27bdfc243e5c25b581f708bbbc3b3835df36d5552dd99607bf352f0bb2485b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/torii-gate-ref.png",
+      "sha256": "3aceb1460987f59771fd874fecf69bb71c63fbc0dd7f67b8acc4f5af92a55e60",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/refs/torii-gate-ref.png.import",
+      "sha256": "ce46b8227fd8a9d9f2581014875c5773b69e604147e3f0ef2e0cf05b75d42227",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/tokyo_tower_stats.json",
+      "sha256": "6fe2f52cd106d767150308266b6fe2928ecc5f41a1aab7f912a6b95578a41950",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/tokyo_tower_triposr.glb",
+      "sha256": "ca857ce389515d6397ea01e5c2a98fd478dccbe89f1bd7e0b2963d3128f858a5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/tokyo_tower_triposr.glb.import",
+      "sha256": "5bfe3e4739b7b151c855da655d2fea8484bf881889a315bbb66fdad232cf8f26",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/tokyo_tower_views.png",
+      "sha256": "0a4be8841b69f26b9b932ba341f68b75de95d032d75c90eb31ed990d003db899",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/tokyo_tower_views.png.import",
+      "sha256": "7d8501a7d04e4068c3cff4c512fc17bd8f30a7e8b4c467f1931453b7500cd2a6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/torii_gate_stats.json",
+      "sha256": "1bc80de28a71eb042592c021634547fa9aa8e33b3d56324770e365c7607768df",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/torii_gate_triposr.glb",
+      "sha256": "7d814b4d5695e867b085c54706e79ab599c8a7ad5a97b6831da85a0c39a3d338",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/torii_gate_triposr.glb.import",
+      "sha256": "2af590d0577c97ad828cd7dd50386f8bea23ec3ef50598096677e2941ea54f24",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/torii_gate_views.png",
+      "sha256": "cadc15e9bbc4c607d94a90a80a03bb4ecfb95316e5c78bc08df7b9935991e7e6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/prototypes/reconstructed/torii_gate_views.png.import",
+      "sha256": "db1edfd99b8b710d0a28e3a873dfdd594c7b77babb854fe75c15eff3b02ce670",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/enamel_atlas.png",
+      "sha256": "bdfde7b429e7e0cea640504f46f1080b8a3c7577b81606610d3875d97be4d1a5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_izakaya.png",
+      "sha256": "14940dee8d428baa78a6ce31e18c0b155e9dc67ac4d1a46f80e24fbb1fbdf8a3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_kissaten.png",
+      "sha256": "6294e64c08cacb316b70ed96515fa74a1bb9f56e921fdefe5ac646de1da6a0cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_pachinko.png",
+      "sha256": "8000e6c6579b47b7f9605367c751d1e8a5dfa52285a6eba1b77b55964505fe4a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_sakaya.png",
+      "sha256": "851a93385132e4a979dbaaf7824db414de540def22fc795ba24df70be4f2b99e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_soba.png",
+      "sha256": "40c8264745a68793521399084edfeda7b01b2a4683799f07b45a75402f018dd7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_sushi.png",
+      "sha256": "fbee04b77c4d7512b6a38adbbc9f362bb83f644d25274d3e2f9a8198f21961c8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_tabako.png",
+      "sha256": "b6a881c50d0bd83945cb1610a5e9a88392ea071058403c57e34d7e029694099f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/showa/tex/sode_yakkyoku.png",
+      "sha256": "45423aaea3a8c98bb07531d73ccb5385b601c87746ba2b36dda5bbbaa5aacb41",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_hamazakibashi_c1.png",
+      "sha256": "6c73ec0e68291c2fff591ed10ede2601d6634cfb741380bd0f34686aa7998b04",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_hamazakibashi_c1.png.import",
+      "sha256": "abd54be8ca71103ded1cbe63f7c2965d943aa933e9bc3d6fbc80733d3a0c1f35",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_hamazakibashi_r1.png",
+      "sha256": "525c6dea92bb5e379c867d1329d1acace60f5d7d007afaf3b95ffb1a5b0488ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_hamazakibashi_r1.png.import",
+      "sha256": "5c3254d065d3c1e985f91492424c530d4fc1c499c8fd610103e2cf8670e43957",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_shibakoen_exit.png",
+      "sha256": "5fb69b2ad44a623898ff59da5710a8de7af4a0716672d2a553cbeae92a851d07",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/adv_shibakoen_exit.png.import",
+      "sha256": "4dab66ebdc64183905089b9887ffdaaa9c0b31ee40e9fe05ca6adf76bd5bd30d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/c1_route_marker.png",
+      "sha256": "69d4201b302eb781fae919dae1540af2743bc6a961ae88701e3a575336f431a6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/c1_route_marker.png.import",
+      "sha256": "67c676d506316e038869c28b10e336f0caffa76eeeb5cd7e06718a6de533272b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/exit_shibakoen.png",
+      "sha256": "822d235d0077ce2e62935158d8d7d5f6c926b74388b391dff826f4cf66917c05",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/exit_shibakoen.png.import",
+      "sha256": "7c8fe9821945c32f1a727b5828e1dc149dbe5e749345b00337f2ac1d8d8cbfd4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/jct_hamazakibashi_c1.png",
+      "sha256": "1dcb04a1136089048992a77315518735826dc364830e5407e39d7ad7410ffa9a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/jct_hamazakibashi_c1.png.import",
+      "sha256": "a71143600466dd0d00012273206685cc5c6f604e2d4c6964cc590fdfb2975ce7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/jct_hamazakibashi_r1.png",
+      "sha256": "9c00886f9febdd2f70c747b7621263c833f7bdf742161bc7a8f8b6c2ab094352",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/jct_hamazakibashi_r1.png.import",
+      "sha256": "86b418905e585a50ce965c76c97f1fd17f9439cd84219d95f6d3c4e5969879b2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_hamazakibashi_c1.png",
+      "sha256": "129f515408b26c5f96733a6de25477c35d415998514a09b2039ccb508ba39bd7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_hamazakibashi_c1.png.import",
+      "sha256": "6b8fbded1ce965ace867d0db241f234b8fd63beb77f5b0e5032362a8243d589b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_hamazakibashi_r1.png",
+      "sha256": "bfd8789cc219f5f317624650a0eddc6e68556e05870803d5a52404d25fcc94df",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_hamazakibashi_r1.png.import",
+      "sha256": "2b02735b71c410acb8360435d548d2ccd22ba700f34c418187cd155d8bb4945c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_shibakoen_exit.png",
+      "sha256": "69e9100b860a945ef3cee9faf2c5f7608d3b0f5d05dc414f058c3cce4ba439ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/adv_shibakoen_exit.png.import",
+      "sha256": "0b75d6bba7e11678565cc7ff0e2955f223393b9dfa22dfea957550c12b18335e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/c1_route_marker.png",
+      "sha256": "49ff8534133c2e3d47de040d6f10dc3b73569f9eeff7e69c91b2489f3cabf3fb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/c1_route_marker.png.import",
+      "sha256": "03173e56df0182eed28a5c0197e8956ae467d5d7a6f5e6380a634463badccf99",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/exit_shibakoen.png",
+      "sha256": "1c1b3bbe36dcd7456db4317ad9c63914b477f35d4b84a73de1bda90318cb0597",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/exit_shibakoen.png.import",
+      "sha256": "a2c8528dec7f4aac473d2e5e919009ea7c5b0d0e6f3c70f46d59b3b60ab9c9ed",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/jct_hamazakibashi_c1.png",
+      "sha256": "8828c292ff68f78833a753448a2bfa97c9bc9e33395d8f153611ddbeaad70a12",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/jct_hamazakibashi_c1.png.import",
+      "sha256": "df843a14918e1adf8840dd49feadc7fb737c3c8e246b6ed548206a2d25f75931",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/jct_hamazakibashi_r1.png",
+      "sha256": "b7a13a33b4dcdbdd9811ddd1b5001918f8d7782c85af4cb92da175cf807c9bc6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/jct_hamazakibashi_r1.png.import",
+      "sha256": "e2f1595bc48ebb0748233b35c53f012aea5838ac9b3a2521d713ed5616b0b14d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/placeholder/signs.json",
+      "sha256": "d65c399479a8b0ef7b4c515a8668d9c4d276ad272f3bccc735afd940d3ab2b83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/shuto_c1/signs/signs.json",
+      "sha256": "d65c399479a8b0ef7b4c515a8668d9c4d276ad272f3bccc735afd940d3ab2b83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-101/street_tree_ginkgo.glb",
+      "sha256": "8fc34122efa4e9aa3b1492aab02daafda022acf5aa1cb56d997ce0f60494c3a6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-101/street_tree_plane.glb",
+      "sha256": "a81bcee035231ef97f18a5484ce0bbc0c4db93e8a98c59761f47bddd4d1126ba",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-101/street_tree_zelkova.glb",
+      "sha256": "633712ef1f67881dde42d582db2437633055b74ea05a8f94abf8ba7ec8a52a30",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/bridge_suspension.glb",
+      "sha256": "8f7580eab501a043f87e9dc8b8e61637bad4756650b65ad1f68481104b4d08c3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/downtown_facade.glb",
+      "sha256": "8cfde6ca7b983f35e7b6b1ea7f2dc2fdc93e33480c99a807b2057b182cdfbed8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/downtown_facade.glb.import",
+      "sha256": "698c9e9e6a246155ca71c36da7e6e634e074661996e98c8a31fdf1e76191632c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/port_crane.glb",
+      "sha256": "c2ef7c202f273a520e5ae9b3057f620f53e8a1cd186cd9b129586aeb34924914",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/scramble_crossing.glb",
+      "sha256": "530c5b9ceba48b596bab395526f017388806d652f5a31c17868c3b61ca870c82",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/scramble_crossing.glb.import",
+      "sha256": "0ff2461af4de6ebbfd3685d8f814f43b72c20cd2f42bd3adebdbbdc4704e549a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/shotengai_storefront.glb",
+      "sha256": "155edf3b934cdefe4ed5da3cb16f3304026ecd231eb73f6250308037fae8fedb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/shotengai_storefront.glb.import",
+      "sha256": "26c73f8e516474a9a8bb0edf2d7dcf1b46868d56eb3baf01a59c89bdf2eadb47",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/signal_gantry.glb",
+      "sha256": "840f491d86f5b221a09d4eeb13f8df358f942921e9a1430b0ba85443690805c8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/.gdignore",
+      "sha256": "b94b8a84c634fb924d22c066952b62cde1979b149e5e07c4a4eec40e01da686b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/bridge_suspension.blend",
+      "sha256": "e480b38ae9eb30edc8050d2e8fa163417188a76f593e0587e6350337c9c34e65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/downtown_facade.blend",
+      "sha256": "a7e8829770f750898ac8112337894677f7db0930b4d8353d2f3fa1abc4631049",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/port_crane.blend",
+      "sha256": "d014ed2bfd45f9c25304781befff7f038f67ee00eed3474bf9d0e85fcb07de48",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/scramble_crossing.blend",
+      "sha256": "338769a3568ec90b985c73f5d0344e99d7afda8ae90091a3cd2e2d5f882a7ffa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/shotengai_storefront.blend",
+      "sha256": "fd56651b289272d3c60f44d14850e1df2820ee5a1bb1cd531342364569af71fd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/signal_gantry.blend",
+      "sha256": "4e97d1cccfa7f93468f9dd3208b1f72d56a4774594dcb109262ab0718867ec62",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/street_lamp.blend",
+      "sha256": "0f0b1223024c2232921a097a76d29b822ceb56afe23335076c8e26b9c4aa64de",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/street_tree.blend",
+      "sha256": "5a99aed280047d79c6cfcdcbc63d749f0c8ee8df303e993dc05be9912c03bd39",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/source/tokyo_tower.blend",
+      "sha256": "45469d74b716655fd577a08b1278f4baec65e2d1885693b13409e7dd7dcb3f46",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/street_lamp.glb",
+      "sha256": "2dfa460287193f592f274a35c75509972fff755632cec454f198121e97969fc9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/street_tree.glb",
+      "sha256": "9fdd06d8ce8b4645e1d891ce643ac7266219865a0362c344151274897fd4bd81",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/asphalt_diff.jpg",
+      "sha256": "87c414d9e0a063cdd800de7e6730212da26b768b3b8b4ce0e3e41fbe1a9c5a65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/asphalt_rough.png",
+      "sha256": "26adcf90849c54a4854d193ae872dd3ada0cd256bfaf587e567b0dd082e5a03d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/awning_diff.png",
+      "sha256": "f6b98e4406b68ca59b8fc6827bde9d12a267656f31254dff4eaf2c237fdcb45c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bb_open24_diff.jpg",
+      "sha256": "098ed064582ac0d61d427e4958ffdbf51f5989cec26c7ff9fb67141968ea0c66",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bb_open24_emis.png",
+      "sha256": "0b4b3f2fe4359745c2465a9a554bee0c03616e39970068e607ddcf4dba60f664",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bb_uri_diff.jpg",
+      "sha256": "c8480f01b54bdee794e76fcad946f236f8b973665758bcb5bcc89d7ee4efa31d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bb_uri_emis.png",
+      "sha256": "99b82eda313fd1cb4f50af570874af55c44727e5c2fcf6d3ff61e0f9c561f262",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bridge_rail.png",
+      "sha256": "dc8f7891c37656304d527ed2f7e79eea78817d6f180347ed75d1db1921068ad9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/bridge_road.png",
+      "sha256": "8d6ec77939ce38ac336eb77dd2d544d2e0410e813661cdf0926efe694c433884",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/chochin_diff.png",
+      "sha256": "49a367e108e55f012e54b4041be87bbda1ba9159b74b74eaa5a9bbeaef1a1afa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/chochin_emis.png",
+      "sha256": "778fce836fd4813f386fddc3ba07fa6e5a7a7fe357b6c0c0278dcdd5759a9b53",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facA_diff.jpg",
+      "sha256": "b196957e447fe59a24f143de27f1b47e0779b6d33c1848186cfd201aa76559b3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facA_emis.png",
+      "sha256": "f988673970c14eca0e4bdefc867f74ed609301b2bc634e46e46143bbbb922832",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facB_diff.jpg",
+      "sha256": "f9661041b04ef48fd2f854eb08e1e807a3754bc1c648e2948c0eac8611cb1d52",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facB_emis.png",
+      "sha256": "267bf410391cff376b28dcfa68be7463b21b69a3f1594d3ca548b89262bd852f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facC_diff.jpg",
+      "sha256": "d1d8212f2435b82970fe51718600858648fe0f55eaa692ec2c128d7c2d63ffe3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/facC_emis.png",
+      "sha256": "256231bdea480de8ee80155e6ead35747f58f0f479f4247bd0ba8911a958578a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/gantry_A.png",
+      "sha256": "5c80b39f492db57c804026f0eec7cbe5372e0364b830fa2dcca6ff2d26f6b4b6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/gantry_B.png",
+      "sha256": "cd97aad701193a5ef6bdc42538423395769323396b44da8f28ca29f8e34afa5c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/gantry_C.png",
+      "sha256": "fa8b70ff6256105678f047c7e6cf47b49f97135598e4c5fdddee96d3af845e39",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/gantry_topper.png",
+      "sha256": "8a0f6a5c4ebb6acbaff4b9518abc6cf2650c611ec0e8feaefddc5c4a0458151e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/gantry_yellow.png",
+      "sha256": "5b9e4dcd41177bf193af5e26f3c4b3ccabf90889cefe2c8d926cfd037bb87b65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_a_diff.png",
+      "sha256": "7d7558a84373e72cc16f040d20cbc82aa5e1182bf9d97f39e8413d1291cd4b42",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_a_emis.png",
+      "sha256": "b8c26a5d3339184fbde4afb3acf27fc7a076253c89d82a791a2429f3e800e568",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_b_diff.png",
+      "sha256": "4aba480ed9fbbf2d76440ae2b91a2afb1ea9bf185c71ce30ff7f940bc6753e25",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_b_emis.png",
+      "sha256": "1b6510aef49bd1911dc8fb55f9eed3adfac0fa4514f6ee3d0c2aaca8b3b31d2b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_c_diff.png",
+      "sha256": "ee1a8d1da9634b38c086c5a938fe8f4122980aa5917732a597162e311803987b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/interior_c_emis.png",
+      "sha256": "5e102ceb00ef19c0921b32bf30b961010620a4efccb862d61731f65c640befa5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/kawara_diff.png",
+      "sha256": "bb2935986768137a7e2cfb605391377d3c6089ffea0cc8ae67c19bfa793f33a0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/lattice_diff.png",
+      "sha256": "e23d179b5a1fc0d31484617cd3502fb09ea93bc57910b51fc4656dfb69f0fb02",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/lattice_emis.png",
+      "sha256": "a5dc99a0fd97ee76b9ff1ed44235a7d1f8f9151cf72fd1a6f8f5ffff71dd1b5f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_ramen_diff.png",
+      "sha256": "0746d35776d6e7f4c944b9564fb9627f2c4cf5f270d2a8bc33dfd98a4d538e61",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_ramen_emis.png",
+      "sha256": "6bd0c3e02a5ae7b93f31812d31fbc1c18f2823f171f42f4a907f2203bc4476b4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_sakaba_diff.png",
+      "sha256": "ab4fa86c4c479b5ddcc10ce1381156e0f845d08f7763ce5d5289692462205206",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_sakaba_emis.png",
+      "sha256": "907172a91093f64bd13004ffa750491e0f4fc64f8f50cce6b6c6813b189cc68b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_sushi_diff.png",
+      "sha256": "aab6cf1fb7fa0c79b197ae1a39b8e39e90b391b01f5d0f08ccba656cab7543d1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/noren_sushi_emis.png",
+      "sha256": "ceb3fd8c563a83c1d2e8a52b75ad7ba876fb451bc853600706865b5dbedcb5c9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/paint_worn.png",
+      "sha256": "ef2a667617ad9195ca821b659a6102078e7f51fe815a3bc93f5018aa579a7c13",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/plaster_diff.png",
+      "sha256": "9607cd11f4bc30bc0ee001744c9eb17554fb71cc0c40594d76950fa1f34e2f4f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/podium_diff.jpg",
+      "sha256": "5612f73b93be884c8ee675fa67e2f0fca7811df0a519ae4320ed833bb71a0a6e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/podium_emis.png",
+      "sha256": "b63db5f82d24ffa3e5b0bbbab2cbc9fa1f9176aadf77eac4e3e887b59693c546",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideA_diff.jpg",
+      "sha256": "6081a48d1d928cdb534ea1957c317beaf15704fa0dc787767c8810a2e3a54128",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideA_emis.png",
+      "sha256": "a82ebcaed9ff6f5add0a6e42a4c4d57f142b6ac1abb278afafc8606e53b89cd0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideB_diff.jpg",
+      "sha256": "a5a80c74477568dc5f512490a68eb038ed22a600acd2628578e3f1db0068b87e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideB_emis.png",
+      "sha256": "478475c195a1f45a6440f435d279405c5b8f7cc238cad7cd0df2b924030c3e17",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideC_diff.jpg",
+      "sha256": "77644c3de0f161b0ce1d2651b4b51ff202a2e3a2b614da6b8070c48c3f3ceeec",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sideC_emis.png",
+      "sha256": "77954d3c74112d01c6399dbbc5d91779857765695bbacdcd13a228faa865581a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sidewalk_diff.jpg",
+      "sha256": "8de660f5713af299c2be48e134784a68da5906ef94b80bd2a20e9188ad84d91e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_biyouin_diff.png",
+      "sha256": "f2f57a2609f3b1ac46e3fe0036a730217bdfb2fa03fdfa753e7ab2d98c97b5a2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_biyouin_emis.png",
+      "sha256": "f8a2e70e887b76c278d57544a9b54fc787e5674b28c7e1199026b502cadde8a1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_cafe_diff.png",
+      "sha256": "37ba726f367febec59e0270e79ae894398a89da8922a1b2ac40a03b7cb20149f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_cafe_emis.png",
+      "sha256": "26a205a1409e22126dcab38f45dc7ebf96ba5b34a136fffc58bfb37cd364b223",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_cleaning_diff.png",
+      "sha256": "d919952ce8c4293c388c186c1ec31428f63ae78b2f4985707cc695471e36fbf5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_cleaning_emis.png",
+      "sha256": "74b35c9d3db7a122e9f318a52be6bc32b6206b03b2c4278d8d75d8c02ec93bd2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_game_diff.png",
+      "sha256": "765d5f401e9e066d86450e3c5bc032b4217a69bdc3a373c2e750332a43cc717a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_game_emis.png",
+      "sha256": "18298dd16068488afafdced7a110af4047da0869c07a0cf98266c2db9705dbf8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_honya_diff.png",
+      "sha256": "95ca4b75b1197caafae8aea5b90bb3d333c8c086aacbad38adb0b05eb63e7ba2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_honya_emis.png",
+      "sha256": "aa68b3172d554c3bb27832c757a753b01a24d9e12485a283ac1f9d7e11e8037e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_izakaya_diff.png",
+      "sha256": "cc855fef2618989bc5ea2c8a55b19316b587ffc5a332b1fb6017fdb3614c294f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_izakaya_emis.png",
+      "sha256": "f82a4e2979b5c18de7ab590ab6412be39f5899fe7cba0fadb946d910970afbc4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_karaoke_diff.png",
+      "sha256": "b89740f112983fc8d09a39a5bb40a15cbc67a55a07f6b9987b972c12e1c0e59b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_karaoke_emis.png",
+      "sha256": "e2f27bac102f04e8833da51260d363030d45f0731c4fdff5e6b607458458d763",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_kissaten_diff.png",
+      "sha256": "c59db03f489f1ec7d9eb8fdfe10ea25a5cf661daf4a116e64a9762257878069d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_kissaten_emis.png",
+      "sha256": "38c9af6a7f3b46e70b862117359228485ac0a124d29e7e46a11f5ab7fcf2e1b7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_pachinko_diff.png",
+      "sha256": "e0372f45e6fe8e3cc377c60797ced793b1d1ebe50477034c4084f3c44070a076",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_pachinko_emis.png",
+      "sha256": "ecc6e875adf3d31a672e9f322511101f19cc9e7075a1304d9ba8fe072739b5e2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_ramen_diff.png",
+      "sha256": "65f561dd393b20d54d7be040e97fd1686eb55e7ffbab08256f1a91991fbb0299",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_ramen_emis.png",
+      "sha256": "a17217783730b6ae402cd254056617e8b6885eab147a214a18af0011b13d86e3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_sakaba_diff.png",
+      "sha256": "56b0011057b997ccfaf4a07d1ba4142046973f089090e992040cc34697d74be9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_sakaba_emis.png",
+      "sha256": "a2e4bc033fa7dd0349915a3e4887fa2f34f4df6fea5d523f208e482da3edd586",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_saketen_diff.png",
+      "sha256": "52a264bdb7ca5d693891e230f6ba111044bf35d2b8d3bd416c71d12d1de6a6ad",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_saketen_emis.png",
+      "sha256": "d593dcc5d74f3db5627b7fc6cffe59d571f051a9c4532aa9237dc27b5f5ed6b0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_shika_diff.png",
+      "sha256": "eefe3f1dae2a1353c41101bee3aabfe6b967e7ee1efaaabe4809b0c969e00955",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_shika_emis.png",
+      "sha256": "96b11cc399a85c363772a58a5b29d11d62456914e749a298af988e107589f38c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_shoten_diff.png",
+      "sha256": "ab015f3ece391e6112913bc807ed9a97b268a7a8d54639f0257f05b241dd6c4a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_shoten_emis.png",
+      "sha256": "a0dde0b15d735ea11ea46bb5c47d289f501af89817c03b7df5f3a63315a908ef",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_snack_diff.png",
+      "sha256": "6a26b59d29bc19f19ebcdbbb4fa6c4ee5129d080338ee7073bd248addfda8472",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_snack_emis.png",
+      "sha256": "2e992bb9d9ab1423e15dd07f21d9ecbd3b87da28ecb7ecca812c986714fa332b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_soba_diff.png",
+      "sha256": "59ee82110668a1bc461074879d6aa1894275b5301e06b30368744f4e526afd69",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_soba_emis.png",
+      "sha256": "84f5c23b2ac6a0943b1002876fc361d93f773560cd3db701df1ef60818fd9d36",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_sushi_diff.png",
+      "sha256": "29a99c06008d0e97c24343f82df0c806e00222227415a2e51048408dfcd2267a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_sushi_emis.png",
+      "sha256": "4ef27fe19d20349da57252d877dfeaf4595fc206bc48e9fee9ded281ed2f8529",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_tabako_diff.png",
+      "sha256": "9a9045b7dddaff12afd06a04709c49764e4ab7c8d4971a0e2efc8b8081856d55",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_tabako_emis.png",
+      "sha256": "875858a3782fe1bf109fa1bee0284246bf34d685b08abfe5b9b29dae4c1a27b5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_teishoku_diff.png",
+      "sha256": "51a96e6efd940fea7cfdd65953157786d866ff51cc69ae2d27509e27b5b87006",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_teishoku_emis.png",
+      "sha256": "a461d1f7b5a6f7b240f20541c6b9240c22e4080659095cd9d653f3a5e8c3d6cb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_udon_diff.png",
+      "sha256": "79bbbac6e0e50fa978b2f6560355e6ecb90ca84c7069d516133deceb6af49a08",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_udon_emis.png",
+      "sha256": "92a8b5282fb75f4e24a659b08f9b31d7750896c656252f5c557b3ea8c8e5e3c7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_yakiniku_diff.png",
+      "sha256": "2a67f3e2f3897d9fdec5b6b61c8081855a900c1ca6a56dee002f0ca9691d4fca",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_yakiniku_emis.png",
+      "sha256": "22b29d90d50f791739d44e80b662710c1419cd40f62ff5cd3e26d101fc32246d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_yakkyoku_diff.png",
+      "sha256": "d60ed9b7e1a609b1f1bab048288431b9dbe6df54887b426f65d9f20f9f357d32",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/sign_yakkyoku_emis.png",
+      "sha256": "e38fb37c5206790c2cb90c7e7ddeda6a1fbcadf3c059df0257a43c40e963775c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck1.png",
+      "sha256": "08314d2ad3cdd2c9c3caa46a17c4c76ed262e2cbafc531a2cf37bef1f4f5cfdd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck2.png",
+      "sha256": "9c00dcbb6fb74cc59389a9d9460d72af3eff0e8c2973fe739562aef0d623e463",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck_v2_a.png",
+      "sha256": "3712a8b4afa071de01a0c2e0372f362107d9014eb096d7a7654df1273ee89766",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck_v2_a_em.png",
+      "sha256": "9618ab017a5bb990f583b3e2ce102f78149cff98323a3a650218dec78e10579a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck_v2_b.png",
+      "sha256": "f9545caa29517cfad7ec4e29af4584df624240c238ee81c497b2cb8bc6406a54",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/tower_deck_v2_b_em.png",
+      "sha256": "bc192ebff4d62071bf27f702557053982fe33c2b8e618b585cd9b1eb07611c8a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/truss_grime.png",
+      "sha256": "570f80babd15196727aed6db199233c925526ad196ffe5909db0d36e39184202",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tex/wood_diff.png",
+      "sha256": "e888ed639c1b03fd6074ac58553c2ebdb1dc7fefe8a038df1f58ceca81cd2a1b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tokyo_tower.glb",
+      "sha256": "cf1feafe8cfd6afbddd48c33ea9bd2965ee1fb06f723f8214f2cf442909bdc8f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-119/tokyo_tower.glb.import",
+      "sha256": "0296ce66ef3de0c13afecd7d3f0936b9b1c9a4a40f1d0ccd8937b00485a3fc23",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/bottle_crate.glb",
+      "sha256": "49e927cb53087db0c57d52137f2bb38fec24d16a4bf6ea167f524299eea10779",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/bottle_crate.glb.import",
+      "sha256": "d238e4bd59133ef057d96af1b618c8011d42eee40c4cc6975450a2528d36bb5f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/light_pool.glb",
+      "sha256": "0cc0ae8d450c13dd702a59b85f3796c356f06fd905c354d688faf886d08c533d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/light_pool.glb.import",
+      "sha256": "bffa3134ca12cb320b7d7eb37823f3ad869f767902bad7664bb8ab7c6c5f1381",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/phone_booth_pillar.glb",
+      "sha256": "483e66d5aa57699f96737a15cc26c8d7e02d9a79323bdc2b86a0d128cb04bd0e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/phone_booth_pillar.glb.import",
+      "sha256": "44093560832cb2b351da09480f3b40504399e39b96eec303f4fb74d30986287a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/phone_booth_square.glb",
+      "sha256": "6e20e67059545854c7de625ecb33ca725cbd584f70fcd2a073fe4e7868a8f9cd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/phone_booth_square.glb.import",
+      "sha256": "4e23196ac19d0ec9f049e9239d1b7671d2f0842f30e29ea49a961c2b3d9f9115",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_button80s_pocari.glb",
+      "sha256": "52d67926446f3ebfece11f73169200d115379abffbf3038c14ee08354d7c882f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_button80s_pocari.glb.import",
+      "sha256": "f5e7a970db0ca321aa78458f8c9785e981b1161e45a709d5b1c8b7cc93e1fa1a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_button80s_ucc.glb",
+      "sha256": "5da94e4df0e0234d7b7703e9dac8aaedb36be212f3bcff114a3c6f7b99bc54a8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_button80s_ucc.glb.import",
+      "sha256": "eadc3a620bf1b12ae8349f4ab23b826ef8a7a06d4d73c5c201181884212eff14",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_flat70s_cocacola.glb",
+      "sha256": "906ee7efd3f1fdf0fbed78b70acc19dbab5c22862164f0c168202f84d569ea46",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_flat70s_cocacola.glb.import",
+      "sha256": "7c3fdcfe19176ab7f44904022db4f56accf0e3ea8389d10ed59b8126ec6f1b64",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_flat70s_pokka.glb",
+      "sha256": "4a84dcb8edc1ee3a3eb244489790760276606d2ceb03578adf188e04fa72bed5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-165/vending_flat70s_pokka.glb.import",
+      "sha256": "01a57aee231475a4e60bd24c6420104ab22c8ef20eb5ca71abefcc1420a272ac",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/jizo_hokora.glb",
+      "sha256": "1ec78179f6759cf33c582399cda9513f076cdc56a8c4406ee8ff4636899ed08a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/jizo_shed.glb",
+      "sha256": "95f7eaf1b1f208eeb0bafc9a5b3f15c254f2afbb513c587d0fb48e25831c6d05",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/koban_brick.glb",
+      "sha256": "7560a6a6c39e7ed86d70061fc80e97f05d21913d59b4872132a6ac242e2bc075",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/koban_concrete.glb",
+      "sha256": "308a1aaa97fd704f9e9e3412d55026ac4631d21bf91111a04370df2ae432b407",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/sento.glb",
+      "sha256": "75d1a9326c0c01f7f426d0f9202aa9951000af778c5c339312d063231b610c2a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/.gdignore",
+      "sha256": "57f15a0d5cff478db60de7e6fe9107ff0ce9a48c4edaa02cc1d10934b0e155a1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/jizo_hokora.blend",
+      "sha256": "41b366123702f5ee2706b289e7dcf69bfdff3b9a0e53bae0c3849ba6eb478df1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/jizo_shed.blend",
+      "sha256": "276a15f8d7b8e9e5a1bee46d4670e0b021ecb30fbce743d384dc9bedde4f19bc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/koban_brick.blend",
+      "sha256": "ac3c05f73c8bb29e383dd3b5d39eac523713343fb9f99fe2b10acc770675d7a9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/koban_concrete.blend",
+      "sha256": "899b97ae5cddebb7c3901afe9b2989b69ac4a57a4361b2d212b4bc188763adaa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-168/source/sento.blend",
+      "sha256": "57766e3ac8e478cac7ff7bf7c986b15beb508556533fd5f6900e9a84da1a5f93",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/ASSET_INDEX.md",
+      "sha256": "8a81bff3c7395c5d9486155da19f14a72e98fccfeb123b63609e8d798a406cdb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/CONVENTIONS.md",
+      "sha256": "bfef0cdb190b404e2cd5097fa23b18aead6a138c37377973df62ab5bce966a72",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace.glb",
+      "sha256": "77cd273ef7da0c89bb04db8266d6ba10a322022d6b51ac280015262c1b419459",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace.glb.import",
+      "sha256": "b454360d4c9cd2a7d99c00d7ab650cbd47ae3d0997a3680a2d3087d9fbbb70ce",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace_albedo.jpg",
+      "sha256": "452c471804592aff4cdf683793992af723a1feb6d1437ca7427d30b513352bcf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace_albedo.jpg.import",
+      "sha256": "869973c1291eb6ae2914b25083ed719fdc2c4ffc005c8264f48cf74be79184d5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace_emission.jpg",
+      "sha256": "997a954d6f8ffc0d0131f6f4e7dc112debedf7346a8efb3e28bc01624039e3d2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/chidori_terrace/chidori_terrace_emission.jpg.import",
+      "sha256": "39a9f5fa20530f31e12e7b92e34d8735e479988ed4600db64824cab80c465e3a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_beige/daikoku_container_20ft_beige.glb",
+      "sha256": "370bf697b0d57de138aa394e5b5bd02a020cb41191828bb29091af79d145d84b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_beige/daikoku_container_20ft_beige.glb.import",
+      "sha256": "2099d981772657de6793b10ad44a277ec3bb5adf56b145f9e8b565079a596b71",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_beige/daikoku_container_20ft_beige_albedo.jpg",
+      "sha256": "435d9db4d33d53bbe2900a6eff040e5d6d7a8389e46abc8eecd09a5bd062c83c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_beige/daikoku_container_20ft_beige_albedo.jpg.import",
+      "sha256": "cc66abe46807334657a51b49492f618f6c2ba8f500c0c6c868d0348ee5a907df",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_primer/daikoku_container_20ft_primer.glb",
+      "sha256": "c21768bfce64a6f1741c3f97b646fda6aceaa6b9731f6e9f0e40f12b7eb15b40",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_primer/daikoku_container_20ft_primer.glb.import",
+      "sha256": "834da9f53f637526dbdac09e5f1c5874747dc7a2b3052d7aa10f36978d09700b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_primer/daikoku_container_20ft_primer_albedo.jpg",
+      "sha256": "539fe6b693fff86ea560de8c496f13e66105d82818818596e251233de4211f03",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_primer/daikoku_container_20ft_primer_albedo.jpg.import",
+      "sha256": "06bbd85b520050a1ae4039651f9be64715dd929435b60036d5d9efe416eb2605",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_rust/daikoku_container_20ft_rust.glb",
+      "sha256": "92ac0af3eff53871880f14451809158f25af02fdcef53f7c9f1895f01136d13c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_rust/daikoku_container_20ft_rust.glb.import",
+      "sha256": "dc9bc0f5718ac1ee9f7540af2960b7f3ba971132040b897ab62026e4f1f4102b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_rust/daikoku_container_20ft_rust_albedo.jpg",
+      "sha256": "ff116c9697a5b31404bf23104991cea945557be308169bebc27dafd7e95d387c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_container_20ft_rust/daikoku_container_20ft_rust_albedo.jpg.import",
+      "sha256": "954367c410efb0cbae03bee108d04641e6fe77b4b26376c19de6c896b6235b2d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office.glb",
+      "sha256": "0d2a69c966084425d1c2ad726b58a735f76029ce1ea6cc5cf448a2ab4d1cfb10",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office.glb.import",
+      "sha256": "77f238720f0b68225a5d106b2d09f0ada54453f5bd06c87103c5c9d49bd4e978",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office_albedo.jpg",
+      "sha256": "5f6f05ae9f1f1739590d52fdd054332f856184ecf5e0df4fb13c9fb6163ab9af",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office_albedo.jpg.import",
+      "sha256": "d456069a7d3e7e0d8e7fa0f477750174111165dcfcc1da0406e771646dbcf33c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office_emission.jpg",
+      "sha256": "2f9499aeee638a1e171f661c37716684b391e5572e737b11feb63052551144ff",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/daikoku_tally_office/daikoku_tally_office_emission.jpg.import",
+      "sha256": "af80a5a98cdf17456d92d497dbc987967d90add62c797238057f99b65f328083",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed.glb",
+      "sha256": "0092fd6def2e301a1a7b50c7a2d4b9e565d45dab6d63b13de926c6aab9a56e70",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed.glb.import",
+      "sha256": "2bec9ba6e3fa081e7493d05d6cbf23c7a74947f440cc720cd66e01067eab640e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed_albedo.jpg",
+      "sha256": "d0dae1d017ac310e408e325710a521d5ff6df08b2070fd2071967ff99a3c1172",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed_albedo.jpg.import",
+      "sha256": "46198fc524f875c55dcf2b127f2f3c69380f54901255d3ffbebc26577df5e45d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed_emission.jpg",
+      "sha256": "8bf5dbcb103139b8de9bbd436789f4536f69bcaeab111ea56a3fb96282ea980e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/depots_goods_shed/depots_goods_shed_emission.jpg.import",
+      "sha256": "06449da3f59b91c8ef206cd536eacf1376de307e3944bd4d1f5887ec91a08ced",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall.glb",
+      "sha256": "4707eb96452f4ff4a2f5538f7f8744195907fa589883f4ad348a2835af4a30aa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall.glb.import",
+      "sha256": "55584715d02eb9920ece6254a64f445006569b3b1b804ddd97e073c26581128e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_albedo.jpg",
+      "sha256": "6a9b2a65f799134867cd94cd674b77cf6af80292dabf139933d66dbe3193fb9e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_albedo.jpg.import",
+      "sha256": "c1a708f818e8059a51ab74b8edba64a13aefa5c06e781472bb8ff7103f5400b8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_emission.jpg",
+      "sha256": "8c05e31fba4faf13d288ff9628f2e7be3ace9eb31f98f4cd6068c55588f54218",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_emission.jpg.import",
+      "sha256": "87a44e3c0d7f12c812ac3228cea82fd25550e93928804838b1661fcba91d006a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay.glb",
+      "sha256": "d3c9b665a4920793356c83f51f21e91fcd4b67f9fff14566c0f47ecb23c30bef",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay.glb.import",
+      "sha256": "53746171f82ae49c5d8a2e7beea41360652d23c820bb02359b766d1f6533b9d9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay_albedo.jpg",
+      "sha256": "39794bf398f3cc1f02c58225f9f4cfdcd61d6659676f7d26c615b25a8f72f685",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay_albedo.jpg.import",
+      "sha256": "c1807c4d81dcfc65e1234731b8376d950a8286f40fc98e42817aa7152ff75946",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay_emission.jpg",
+      "sha256": "c9317dca6bb2e893b794fd6d971b5ce56008f79d6a9ad7645733168be8f3a2ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/kotobuki_bay/kotobuki_bay_emission.jpg.import",
+      "sha256": "3c5e89d2298999e18de7daa0b01268d1527fcab40640957df54d4763cb23bf9f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab.glb",
+      "sha256": "29d5211d9c07d5846330adc5addd4473a640833e7ecef4b27cfbfd41a3dc3526",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab.glb.import",
+      "sha256": "23c572ee89b069b40790b4100af43c5d0ca2fcd570dc0b2a4f5971f028421691",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab_albedo.jpg",
+      "sha256": "f1fd64cd90ccd3427f89b3d57722282f93e83c944dde565d592fb0ae087bd0e5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab_albedo.jpg.import",
+      "sha256": "bb924d30865d72e496df5703aad291f31b0ab797b2b169e1fe524a220050e755",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab_emission.jpg",
+      "sha256": "65c3821e6b21904d69f644ce468746613d59633d79705314350a0d745a351db8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/buildings/tenjin_slab/tenjin_slab_emission.jpg.import",
+      "sha256": "bd1fe798cb9e2420a8c1f4aa2f0301cc952f20d69a6308b557205835bf9b26ae",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/pedestrian_spec.json",
+      "sha256": "32fbe39d13da9a91da383e29282141cc9ec043089d7acba943769f0ea4e5b94b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/mixamo/README.md",
+      "sha256": "226d208cf612eea6854587da6d69b8feb4f7b120cadf68f99db8c740df86dffd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/mixamo/fixture_character.fbx",
+      "sha256": "bc97de0e2d53ad3f5c948e6d388ece7cec1804689ad84fda576029e61bd437ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/mixamo/fixture_character.fbx.import",
+      "sha256": "9ecefee8fc82f1f6db8e5361aeaf7dc0b0eee12f054d66cf6cee29a707f2ef0b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/mixamo/fixture_walk_inplace.fbx",
+      "sha256": "96316d8a5dca6f731f3ff461b4c8243230a477ae8ebc77a0e03339f2c07ad440",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/mixamo/fixture_walk_inplace.fbx.import",
+      "sha256": "24825601eb57f75c15028e6e3f0bbfcd171ea6f7a5f2c97ad23f8c74abbad7d2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker.glb",
+      "sha256": "85a39dedfd2f0d147ff814bcef63aecc0bde6e531b4c0f6215b9f16f246b8e6a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker.glb.import",
+      "sha256": "2711ebe59a8ef0f57538d51f9feff423f36d2df89befcdd8892d0ab170065008",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker_albedo.jpg",
+      "sha256": "5ee14352925789fef4b12cd0f6e7dd43e6f5f0743748651d5d86e1ef2411fdda",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker_albedo.jpg.import",
+      "sha256": "0700bd82c66d5639ff6f0e238eb5d780a6b6d2e26b2f9aba1857d807c64857fa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker_emission.jpg",
+      "sha256": "5665f886779474814e4f67d1746735bf7ab4093993cbaa9e72d361707325a73d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_dock_worker_emission.jpg.import",
+      "sha256": "c634e67cabaa6466c30c5d930e1cf4d042cef4c183329e76192acfd19b9f5e58",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer.glb",
+      "sha256": "c569e1c24afc30bbe28847e99308c5bff4ac31a114b340f577ecbd268e1bfb1e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer.glb.import",
+      "sha256": "110085be689f3a4304e38016e725e8f3ac70f252922ecbbf5fffa604fb28416f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer_albedo.jpg",
+      "sha256": "0daedfc942b3f9e485d8311d2619a5ca4a58a6cb35af689b7b0cd81c5607138f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer_albedo.jpg.import",
+      "sha256": "2d066df196a8cddf226cad68039472f325e7619559c876a21a044dbbbbff43a0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer_emission.jpg",
+      "sha256": "82a193442ce23e800833856f6724a498c011c2b679e474a885be77d7895d7a83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_patrol_officer_emission.jpg.import",
+      "sha256": "377b017df7ebba7aaa5e7a21565b5218622446a73cc3707a3cd49be99add9d87",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker.glb",
+      "sha256": "571b7995227b80f8be74169d644de3fbb7439a6ef45cf7172005cc9d82a2768d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker.glb.import",
+      "sha256": "db65b7cacf344174322462de47001cc8ff8958b5e335de3c75b7a8659f3df0c0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker_albedo.jpg",
+      "sha256": "0212626871280521aa75cb55f1ee84810c25c44c7285c0d26695fccd0231b919",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker_albedo.jpg.import",
+      "sha256": "eae5e543bccbc37193437e7740f9e93d98e6757cbfc91f69ebd3f71504a53ea9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker_emission.jpg",
+      "sha256": "82a193442ce23e800833856f6724a498c011c2b679e474a885be77d7895d7a83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_suited_worker_emission.jpg.import",
+      "sha256": "7dd72135307fb562a3d2c7b8741cfa4f0592aa800b903d93cf8f72cf960e49a7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor.glb",
+      "sha256": "4bfaeb6ac1c57533c9e01efaa18874b7085ee43a3b114dc092c20986f3a36edb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor.glb.import",
+      "sha256": "6efb62b6c8bb13fbb8e4f73e1f1146dda625fa8fef1e2a25b4f5d7a68969cb35",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor_albedo.jpg",
+      "sha256": "f2d2f99a28cbf435b727d44a1782ef11e038ff73015ba9c9915e057410836287",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor_albedo.jpg.import",
+      "sha256": "416b7ec020d21409412bc5a16baa01784aa90ccce30d1f677d679374b356c3bc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor_emission.jpg",
+      "sha256": "82a193442ce23e800833856f6724a498c011c2b679e474a885be77d7895d7a83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/ped_vendor_emission.jpg.import",
+      "sha256": "c77abf0fed667cd72deb08298c0f51b71456dd48cb155db5f71160dd5e599ee1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/rig/mixamo_bonemap.tres",
+      "sha256": "150cd9e2f01f2e239b4bf34d9270f60f1b4423ad4b2dd113b37e610b7ca601a1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/peds/rig/td186_humanoid_bonemap.tres",
+      "sha256": "398409820d1e495eed07c1cb4b3ecc1692036ccd8c5fdc6772c5ab64766dab97",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/airlance_boom/airlance_boom.glb",
+      "sha256": "18ecb0b349606b19e79fa25099dcad368975117c070d4ba2a533ea8ebec451f8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/airlance_boom/airlance_boom.glb.import",
+      "sha256": "28e1d320e1435e666e3e6cfaae97f9de46027118659d17b666a84b65ea3944b2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/airlance_boom/airlance_boom_albedo.jpg",
+      "sha256": "9e8667efd6ec9aee6db89e85b6c42eaf1380b07c4f2723bfc6493afa8e1c38ca",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/airlance_boom/airlance_boom_albedo.jpg.import",
+      "sha256": "25b5e829998dd3e602863cd4b74e71909c3957724251e5c91ee49dd03b084ea1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon.glb",
+      "sha256": "c15352f743d72fdf7687701ad771f1684d3eabdeaf379a0bb1883436f23841d2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon.glb.import",
+      "sha256": "e3afecf459d1761ca954ca6dbb553ae315f6cf4a9185f689056e75b192050cb5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon_albedo.jpg",
+      "sha256": "44b9bf1a1324b4712d559018e327c025a3493e9954beed6484552154884ad1fa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon_albedo.jpg.import",
+      "sha256": "6c4eef015edd07248fa05067b552ce518aa536d555948d26d3a6f1fe69a506b4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon_emission.jpg",
+      "sha256": "3552db41264cd747e4f015acf68c67944de2e648d0522b21ed658ec02ab07b65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/beacon_pylon/beacon_pylon_emission.jpg.import",
+      "sha256": "4f5b29871370d0153567ff1849c87ef21727a4475619414efae0ea99715a78a5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/canister_pyramid/canister_pyramid.glb",
+      "sha256": "b78c646e46eba66ed226a7121064fe6737b7fd85004bc2fe5cb78f2ff6f70f0a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/canister_pyramid/canister_pyramid.glb.import",
+      "sha256": "fc591ec16398b2658485fbae9de2b39b886e17958fdd419342ba3eba1bd599f0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/canister_pyramid/canister_pyramid_albedo.jpg",
+      "sha256": "7b7faae134a1611a4a93dcb91065c27ef57d044d0364f7a582e9fd97ee4d4b69",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/canister_pyramid/canister_pyramid_albedo.jpg.import",
+      "sha256": "74c2045fadb9c2d2b6bb577e4a7f47ed79b6a79248caa7be027f394e2819ef43",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/curve_mirror/curve_mirror.glb",
+      "sha256": "f9751cea67821ddc48f53a7192b0a26d4317be5cd4aabf85a88baef722af8e54",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/curve_mirror/curve_mirror.glb.import",
+      "sha256": "5dd75416c2eda924c1814c47aa42b570b2652c537f9792cf3ba29ffe04d89acd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/curve_mirror/curve_mirror_albedo.jpg",
+      "sha256": "d88eba199af5c1d6abb159e24178375a808b503d3860fc1564a867e15b8eb2b5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/curve_mirror/curve_mirror_albedo.jpg.import",
+      "sha256": "930be065105d12c7f98543a5bcba79658c8a2d8f631fd8a389ae42724e3b5ef9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_barrier/drum_barrier.glb",
+      "sha256": "b5aae3037557ed7eb0a236550da7e1ecb9562204ade6302312b15619560c9684",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_barrier/drum_barrier.glb.import",
+      "sha256": "17467e9e1281ca60e535d8c26aa6e8744823d491af3040112eb85a3c0e9d2d6b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_barrier/drum_barrier_albedo.jpg",
+      "sha256": "2ce5aff90b211d4eccfe57c69622bdd11095ae345bf5ca5ade015997dcd84a06",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_barrier/drum_barrier_albedo.jpg.import",
+      "sha256": "c7ff9de02a5e457c6b3a22bc5fb0f056e0dec70c900d659786bb9d9487e8fa03",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove.glb",
+      "sha256": "1508110c3a2775a760fa4687b5012d2cdc04ae53477e6ff8f59a6b4f8a3b8e7a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove.glb.import",
+      "sha256": "929e3bb359f685efc59431f39e33fb855327ed92a076236704a2d14424f48c8b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove_albedo.jpg",
+      "sha256": "42eb2cee31e4a08238e0b3443846a4a9b6a6fc5978bc4be3496306cc916a6654",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove_albedo.jpg.import",
+      "sha256": "a11e3c5f441207aaf5c54aac9a601135c55c324c7c805eb61c5a829266a355aa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove_emission.jpg",
+      "sha256": "1d8f3543965e5b466145c62dfa5ae427a029e0801103efa25eb6dcfa8b36b150",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/drum_stove/drum_stove_emission.jpg.import",
+      "sha256": "f93df2ba5798f54248bd0a3d479eeeb78c399399b7e58b3a0b1524f25befa325",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/fish_crates/fish_crates.glb",
+      "sha256": "ff6e61e53d650c4fc01d34a47d855e57358370563070fff281b468dd905968a5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/fish_crates/fish_crates.glb.import",
+      "sha256": "56e6e62bae26ae475b7edfaee7d10862c8db32d57579a147b870ca58f962a777",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/fish_crates/fish_crates_albedo.jpg",
+      "sha256": "65afda1bdbd4f3a90f24e59afa71d715f0ebcd303edbc6029e1e3e99b573abda",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/fish_crates/fish_crates_albedo.jpg.import",
+      "sha256": "f0f67bc91b2746763da5977dc43df4cd7bdbcbe73ffdc6217b38f3d6ba3663de",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hand_trucks/hand_trucks.glb",
+      "sha256": "75ceec9e062f68d71c7d14870fd43bfc880e3ed87cd907f0b6c5fa2e5fced889",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hand_trucks/hand_trucks.glb.import",
+      "sha256": "d0854f2f68168e5e59caa62b8e1f6f767dcb66a7a6a9b406239e1be94008c966",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hand_trucks/hand_trucks_albedo.jpg",
+      "sha256": "6b16f0c4deb6aead72d8c6cfa1f02d463e9c457cfd426ce07b3755b241c216a1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hand_trucks/hand_trucks_albedo.jpg.import",
+      "sha256": "d829661269e4e805cb73b027fd0fec1ae2d8f0ca611398c0db0aed4addf7ac53",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hawser_pallets/hawser_pallets.glb",
+      "sha256": "57164cdde1294f7569b512beeda5e9d4ea289f326f1b6ca01dc05261e70c46c8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hawser_pallets/hawser_pallets.glb.import",
+      "sha256": "c13e8ebacefcb12dedba01a06b98b82a2492bdaa8c18f975bbf3d69a912b804d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hawser_pallets/hawser_pallets_albedo.jpg",
+      "sha256": "530dfbf0352038099762ce91e529930f49cc9fe871cb6e993e505bc14eabe98a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/hawser_pallets/hawser_pallets_albedo.jpg.import",
+      "sha256": "bd1e249f29b931bdc196c539d64c9c278b1a6e784938b6429c5a5d3848065ae5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/lead_drums/lead_drums.glb",
+      "sha256": "f5db88542fa2e09f44699659fe789c87a7505d7ebde0a839462819c0b8cb45c5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/lead_drums/lead_drums.glb.import",
+      "sha256": "adde34cb1c10008bf0979585e4051cd3c011b062ffa807ab4fcd2b306c47550e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/lead_drums/lead_drums_albedo.jpg",
+      "sha256": "0f48b19837e4101ae32d75394b2d383460fd2e3179d3f0c432c7cf1b5915ef41",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/lead_drums/lead_drums_albedo.jpg.import",
+      "sha256": "735913883bdae6ade2c290af65534d08a5e65af6bfef9d78356b7c49ff2e664c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/slag_windrow/slag_windrow.glb",
+      "sha256": "8420403115e4e775021b62ce0c02dcf8ff135a9373bed25579dddd054bf7f714",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/slag_windrow/slag_windrow.glb.import",
+      "sha256": "3c9c3523a13c0991cac56cea31adcce99981b63b8eeb81edc4e03bc5b23faf63",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/slag_windrow/slag_windrow_albedo.jpg",
+      "sha256": "5793f36edecb4305b26279399395fc76b9b7cbffe47e0265a0c0d9eacef7142f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/slag_windrow/slag_windrow_albedo.jpg.import",
+      "sha256": "6ec7034ac4dff195b4750a6793d1070608920c752cc2e8862a61b664ee354ebf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower.glb",
+      "sha256": "57b9e692174b379e0a2499070d60a76fd16183725028cf74f66b7f6afb04cb45",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower.glb.import",
+      "sha256": "638c963e34b4cc84a0269700f8d7af3445cd7f4e496375e28b70749b0711a2f9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower_albedo.jpg",
+      "sha256": "7eb345f6fd6fd0afdf2faf281859c4726aa0caeeb9c6aa52ff41649fcbb58b8f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower_albedo.jpg.import",
+      "sha256": "b39a052ad95fb7cf93c815840093c53311091aeb2fb1b61afc0004600cc1a3d4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower_emission.jpg",
+      "sha256": "34dd90b482f4be0325d2a66966ec8cde98c5fe61d4e81ce9adfb099aa6b20f54",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/sol88_tower/sol88_tower_emission.jpg.import",
+      "sha256": "8320c2e9a2bc2fccba11bb663d66c583c90a8e1a775ea69d752abbe3f2ebf56b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tally_aframe/tally_aframe.glb",
+      "sha256": "dcd85d454a413417d8268be75088ebeaf557ca90e698ebbdeef72d2a070b45c7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tally_aframe/tally_aframe.glb.import",
+      "sha256": "6eb4a3320f2da6051424c6d687783fcff7bc5b841cda7753fc6358b03c9d3e69",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tally_aframe/tally_aframe_albedo.jpg",
+      "sha256": "98a09dae58f4fcef916cdcdada0fddcf6801a61b08fd4b86bfda9356f4b6fa10",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tally_aframe/tally_aframe_albedo.jpg.import",
+      "sha256": "55c8765c880ddc08ab52228245bac8bfdf3d3c48923fccb7f0650a3cc235acfd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal.glb",
+      "sha256": "1c5c4205c0b62fcf53f5c11f0fb1eb2eec70924d677891dbffd64e7857b98ebb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal.glb.import",
+      "sha256": "a19005a755a4d843fa3a353eef6982fbe3f595541d10e287083d7e74a24ac93e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_albedo.jpg",
+      "sha256": "c69c67af4bb6969f5675fa59f84f311816ed331b2a33334f0b5bbc764d74cfef",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_albedo.jpg.import",
+      "sha256": "2de6b47261fb0b439e6409dade4fe3048dc2f1c031f9c8dedca00c6048b2ed22",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_emission.jpg",
+      "sha256": "51758a21fc887f767f2cd40e08247f9e7c00c9808d77118c3102830de0af9ba0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_emission.jpg.import",
+      "sha256": "a3c134c46476236cebd6d24589b54fc8bd72c6c2e591f41f1413aa5c9b1a2031",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tyre_wall/tyre_wall.glb",
+      "sha256": "ce19b2e8741297d0695af9b0c027537250d5c5e9490e1f60cbbf8659339ce2a9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tyre_wall/tyre_wall.glb.import",
+      "sha256": "cfa17ee9fdb77cf16697e8137d802aa101fa8768484fc3d8d0d8cb6a0d52a7ac",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tyre_wall/tyre_wall_albedo.jpg",
+      "sha256": "c9f1871ba0ea971bff5b72c588ca2737c2ccee29ee3f9f90795a83595655c233",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/tyre_wall/tyre_wall_albedo.jpg.import",
+      "sha256": "b60c702713e9a64d25af9605b2ff353cf217e894ab2d6cc2235dfc28f4a7c564",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/velvet_rope/velvet_rope.glb",
+      "sha256": "6c6daede4a56a5ce93e834dbd2020b27cae6dbc2551eee1d01ce2fea8e531124",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/velvet_rope/velvet_rope.glb.import",
+      "sha256": "e50e872a45fff147e185ab57ac27b20de7cf66aa781b345e817ee7ca2348856c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/velvet_rope/velvet_rope_albedo.jpg",
+      "sha256": "0c93f2ad4863382ee72c26d9a8648eb1d93faf0f5e0c9dfb15e0d95d1b70e572",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/props/velvet_rope/velvet_rope_albedo.jpg.import",
+      "sha256": "e296a0a2a011beeb290f1e7edfecc65a6be0f17e9b05f5c7fde798ef3202c940",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/.gdignore",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_chidori.py",
+      "sha256": "eb7bb5ac99300d5d970984434285026e70748f8ae0ac6533e80df9d08babb994",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_daikoku.py",
+      "sha256": "aea25b1d7e66252a0c89d599a7244a9c5461583c058a3a477d04ac52198bfbb4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_depots.py",
+      "sha256": "d405f9eeb48581500945d43dd660929f615e7cda9095b8584a31154d546ecc53",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_kamome.py",
+      "sha256": "5924aa26d02e1dfe13e33aa57366b051974a57b2e31b486173565e55e4f6fada",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_kotobuki.py",
+      "sha256": "0f1a9b46d5c7fc5592d8f175e63afb32ef82b8903e5c5ddd91c1de52dcf99e6e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_peds.py",
+      "sha256": "e78a616f352674b279af7c85db70c5247e2ba229a7aac7976a7d0f95c8d58bbc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_props.py",
+      "sha256": "db559fb1370b05009d1414e5e6080464780305bb2f14f44d5828639dc36c35cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_storefronts.py",
+      "sha256": "7216669077598e1bb4bbb46042655d35b2aeabe7906dbdc90d5dca7f7ac4f132",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_tenjin.py",
+      "sha256": "59100adabea66ab09fba5cb70413d23f9ae82cc437f5a2349669a29a81e7e5e9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/bld_vehicles.py",
+      "sha256": "e8b6197276cea9a4dcd6bbc5404d9f8201f62337367eecf75933fc280463c2fd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/compose_triptych.py",
+      "sha256": "10a0ccad65b5e2030d2b2cc4ebfd41a37f9ec9f9c5d20bb73ae0254ba6e71a39",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/gemini_mock.py",
+      "sha256": "2b375897934e7702d5fd193fd05d87645d2cb22b742f5773fb9119046b941555",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/mixamo_fixture.py",
+      "sha256": "75e10b6b9cff0a3bdc60db4d5e01d2383b011235efa54084074547d6d845063e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/mixamo_import.py",
+      "sha256": "dab4c7f87e24c9c934b5045b7efff80921af88c7c5876687b5ea0c116c977f59",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/ped_layouts.py",
+      "sha256": "16a5bfbb7fd28da8db98ac2a35b92534fbd7f57565b1a9a2a4e8e2a4710128ec",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/research.py",
+      "sha256": "e6ddca344121e9d05939985222923e5e14b297a85f9a6dede2338ccc1e7f492d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/__init__.py",
+      "sha256": "29ff30948825583710b54c733bf5dd7b4ae75e317dc38c2929ce482cb39872ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/asset.py",
+      "sha256": "f6112048961e919e1eb274b7440a2a468418a7c448077d1a26ee8b212f180604",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/atlas.py",
+      "sha256": "67c22c5a8a10a13109d9180edf5dfaf3f547a77c161cafcf975135a0386c358c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/blend.py",
+      "sha256": "a3faf1856e91745d49d1a099f9ee6655fb10a931665690b19d33c6dfa071d389",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/car.py",
+      "sha256": "1f016e96850a029bf401b056b01e9c763002fbdc3b16c60cd96bb389475a5b88",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/geo.py",
+      "sha256": "984ad0662f20e06eab388de1b6bf0e358a4decf1ab9e4e62e45259e8c4f87ba1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/kit.py",
+      "sha256": "acc1dff2d3187b254f64915cec1f3f114a6bd32b94294a3cb6cb4cd1c309e5d7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/paint.py",
+      "sha256": "e84651a58e26610d09b8aaaa801088493dcaf1b72f34093a53c5db77084adeb2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/pal.py",
+      "sha256": "3db77d0f6c640ec13f9190f0ea7f673335e70e147f02d4eec0919dc9deda0f10",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/td186lib/rig.py",
+      "sha256": "cecbdd274b078ada4b7e7ae4429d31367c062fe923641440d86a0b10ba1a780a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/tripo_rig.py",
+      "sha256": "50271f245c6cbc80e026bbd633caa4d6e96597970deefad48d8e9e138d057039",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/triptychs.py",
+      "sha256": "800047fb724c3ea5d06aafcf364aa6d5a1cb21e9c6c0120f2dd1efbbd013e02a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/vehicle_layouts.py",
+      "sha256": "8d32142d6202e6d7df05ec816493a500b586db888b8eed3b08ad104c45fa5a89",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/source/vehicle_targets.py",
+      "sha256": "a8d5d32c5b711a2b56d3f50057e3d422758f21ad93fdbec87f8e02da13c42296",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya.glb",
+      "sha256": "8a4e6b7e9cbcdd4698463de77e657f2f958058bc3eae27515102d8e53f01b98b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya.glb.import",
+      "sha256": "1f06705f2b1be2533ad6777eeab155107eb530e057d960535cb1d45992526247",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya_albedo.jpg",
+      "sha256": "901a8052434858cd637278bd335938ae9309e1dc3d3765fc7098dc131bf1ed55",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya_albedo.jpg.import",
+      "sha256": "fe367179d6702638d9b041cf23bca27859e7ab779e9484908d01e1a3c0d59c54",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya_emission.jpg",
+      "sha256": "1c9e4e84a8afed6a0a38241134fd1607794a05cf41446b26b70ac0e43d0c20fe",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/izakaya/izakaya_emission.jpg.import",
+      "sha256": "452278a98e148b75dd4ac7bd94d0230a21a671e5e497d7fbe8ef7770ece0a78f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten.glb",
+      "sha256": "55b8eb0acaf3a8af51ddc758b1f144c5ffd0fbf3d652e1999561278cec64ca6c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten.glb.import",
+      "sha256": "70d822a39c268804ab988a364839bb9eb73927c1c83663f0d021f9a9949a867e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten_albedo.jpg",
+      "sha256": "6b9f105c07364210a668f19a109fa0d6c1b0a895a934208ff669573efd405795",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten_albedo.jpg.import",
+      "sha256": "65bcac2f62eaf821368bc2671a7d3aaf950f8d31b42bd7b33d4540edad920a49",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten_emission.jpg",
+      "sha256": "6e4383b7013f47e280ce9290edc0f6c3eca0190db091ca1f32bbcbd168350d76",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/kissaten/kissaten_emission.jpg.import",
+      "sha256": "47b1257a71f18851310a4e22a503a734c792f01798a0113deafd875c5c67236b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front.glb",
+      "sha256": "da395dcc430acfab8c5e7c40340d65ef6668f4e74c137819b0db088f18742c8d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front.glb.import",
+      "sha256": "0ba5c802a6fb63ff2df426456f8eca997f72a56e49e539797464756aa5ccb277",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front_albedo.jpg",
+      "sha256": "cd0ac15f1b6c80454b8ae327dd1ca164cd297d9cc042606689db7cd6efc34c0c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front_albedo.jpg.import",
+      "sha256": "60fe866e5709d8650fdac2d018a3129847580bb354a48c026249b4caeef5b913",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front_emission.jpg",
+      "sha256": "f9b79a60f1a148bda45fc51b1dd43f20cf8aba9b406319e0cfe9359957ce1627",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/pachinko_front/pachinko_front_emission.jpg.import",
+      "sha256": "2f9029c55ceb21563f8cac489902e72e27242631be58c8544179e247d852a231",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window.glb",
+      "sha256": "cee7e4c4f0017f6233784661470c22f3fdaf0115e7f6bac89a7be8cfbe332ad5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window.glb.import",
+      "sha256": "e0996afdfd8217b5f5d1da478fdcbe0bf40054d41f04c1487302365ff1c2b925",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window_albedo.jpg",
+      "sha256": "f24955a3cdf794f9ccbb388c68336741eaf522a5691ebeb5d4717c979a4b65fb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window_albedo.jpg.import",
+      "sha256": "1b5feb3753482a0a31ab49cbaf478397ec00a0e7c509ea2935e07a7936fe3988",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window_emission.jpg",
+      "sha256": "d42aec024130e63af097fcd60e946055b10211163f0391cea71e96a3be56c75b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/ramen_window/ramen_window_emission.jpg.import",
+      "sha256": "b45470c9e970f2246344e3c186a876275e3982fd4936be2434eaf629c8ad5d98",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya.glb",
+      "sha256": "db6e0c9c91262f99245105cc53bcb880a3bda52dbc41e549f2c32ae9ee96d918",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya.glb.import",
+      "sha256": "2461e95f2a47cd39a018b4ed59200d3d6a0f53a287af80fe130b56736c954924",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya_albedo.jpg",
+      "sha256": "0c6b03608dab099fe9da03a902c01981ef96ee21f6e3bd97cc45972bde28ec4a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya_albedo.jpg.import",
+      "sha256": "0c9217237313c5abf55d69b5884b0b883987b1ad0d6f5e28866ce9978adf573e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya_emission.jpg",
+      "sha256": "c8e95aa95fe0d61b5f310e64f2cbb6693afd90331409785892f087b33a754661",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sakaya/sakaya_emission.jpg.import",
+      "sha256": "8f2e4a317ec9da1286dd95ef4b08a0d085b53cee850fb5f1a344d99fe6bafc5e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall.glb",
+      "sha256": "326715f608711523cd0436c2bab22ee4144ec9359157a97e058c8e2033d6dadb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall.glb.import",
+      "sha256": "1a2eed60da17ad77d25469686e68b764568de72968921c13f5b30ed0b702c47a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_albedo.jpg",
+      "sha256": "1b7434fe7ada93fa67bf21dcff2d2ca9e3334d1d83103e38b0bbc80613a3b753",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_albedo.jpg.import",
+      "sha256": "ff755fb22785003288bed94b9fece8be4361e60a510a4d2db70b2314699a8742",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_emission.jpg",
+      "sha256": "7034ced4885a3898b303cd28bbb8c890be1d7d4a7ab1c73874780034f0c3ef1c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_emission.jpg.import",
+      "sha256": "b6f4fa5d4579be7e6815b8c1623ba92c332d5cace883a3c72ef94ad2d7fc34c9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk.glb",
+      "sha256": "35b6770aed7e337dc29aa0c5172c4d669f4a60537edbbf048386dd6d8499e556",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk.glb.import",
+      "sha256": "ef74449b5f57367fee5c95dde6c55b31a84183be15734743c35a65aef997f443",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_albedo.jpg",
+      "sha256": "bd0207b00ad69b022507c03084a8e1163cb8f28823bbaee70a9bd92724ce31c2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_albedo.jpg.import",
+      "sha256": "1372ebfcf16145f2c0249962888fa2f8ef6e5e6c2f1e8ae59462fcb553cd58fd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_emission.jpg",
+      "sha256": "f510ea4b5cc42e845ed806b6db6c57a7ce94c5c0bb003ebd36c9d1f45c6874fa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_emission.jpg.import",
+      "sha256": "97f74201c2c0c45793a2e0f3329deae5b00f8a2edcaeda475e45d2aa6fe59133",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku.glb",
+      "sha256": "360153fcce81f1ba3eb73af326d51004484da98e872e68eb931fe1c7fb48b36a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku.glb.import",
+      "sha256": "d7c4de181a2f0f0ce990e2319cd0fa93feaa94806bb77a534ffe7e0e162c77f5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku_albedo.jpg",
+      "sha256": "e3b8e6efc576180cb51dbfe56fa2de6b195322032eb5bd8583dc7216bf5800c4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku_albedo.jpg.import",
+      "sha256": "18b444127e4066f0e6987222b06f25b8a1c7a73db0bc03b334b1d82e58e64cc6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku_emission.jpg",
+      "sha256": "e6efef30c7144a06eb086d491ba6b149eda34ecd780bac7ce17525ffced80f4b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/storefronts/yakkyoku/yakkyoku_emission.jpg.import",
+      "sha256": "dd084a331b36b0bc6abc1a80e3a69cc5d0529524321b5570c73a639c0c8bf38a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck.glb",
+      "sha256": "36434ead098233a06533238e68aa090b64a9580560c67e2b19a9d72e58f5c540",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck.glb.import",
+      "sha256": "b21496f5f89afcee5702bab83d193c46ececd3a1471cc224d598cc1aeb064ee2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck_albedo.jpg",
+      "sha256": "0b05c3ef7cee18736feeea5a832281b656d89f1b09305ebdc2dd52b4301396b5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck_albedo.jpg.import",
+      "sha256": "4a4e91721e3afadb92f29888c496d670ab399ce3325d2d5957a018f709cb0446",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck_emission.jpg",
+      "sha256": "70ba5ad5322063a33d7229560dd0dee2d0fc9508bbd6e93444478ea5710a78dc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/box_truck_emission.jpg.import",
+      "sha256": "d10674a1fd9691eac0928c591198016d0a5d98a772bf60a0f52793a3c780987c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/box_truck/vehicle_spec.json",
+      "sha256": "39de3e00c4467c0a9f876f4e8f5b44526a1901574f9dfbf9bbe8b4bff25dc969",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus.glb",
+      "sha256": "7624b00af0338e45837f5081dc57559f0dffbafd817958c54c79e10bd9ed9f47",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus.glb.import",
+      "sha256": "67b927e7f7265276e9d945d66ffdb763f33f2357de5188ebf983986ac9e69cca",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus_albedo.jpg",
+      "sha256": "925d9590d1e0626f6b6dd2506a87d17bc9e087a0a5d9846cfc3ae7329fb2d506",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus_albedo.jpg.import",
+      "sha256": "ab22d0ef28eb25ba6c0e845f7924ae8fa8697e20573324701618c12d07528baa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus_emission.jpg",
+      "sha256": "c4b954d18b6ef023f18cddcf887d23a4a82d09bc8abcbe763b7b9ab8a0224383",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/bus_emission.jpg.import",
+      "sha256": "ca23d3466f5bdc2d42bcfaac8acc1100b617890930ecb4d87ea4e2534a9a73a7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/bus/vehicle_spec.json",
+      "sha256": "a8a6b9160d351a511d88884fbe12d4de4301b8dcfaaf4b44de1b7a24f9c229b3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike.glb",
+      "sha256": "37579ffe4e52e9c20fb8cfcadb56551ba397cf2613e6b83d37019e3bb3820903",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike.glb.import",
+      "sha256": "4449539c272dbd210f8cfcea29dba770b690a5df9d2bfb1b9e36f91fef1f2a0c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike_albedo.jpg",
+      "sha256": "e1cf0ba62ea81bb23fc72ec308f5976e2a2925eb8d693d5e20142753db23046e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike_albedo.jpg.import",
+      "sha256": "9dafb60a7098712f2df042575d9a1de56c1582405d88a010924a886035497ca2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike_emission.jpg",
+      "sha256": "b4a6a1aeb377c508bda4e2261b75cadbb3feb8cefcacd7f44a724c061d46ea06",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/kei_trike_emission.jpg.import",
+      "sha256": "eddb1cf71f1c361233422f1ea5fd4d65118d0d1b8e02b2b9b9bc4c76ef9b85a7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_trike/vehicle_spec.json",
+      "sha256": "2d0d92d770edd311e0c53e60c8687f71e7e86bc7a6b1967f69fc9b4992c71cd7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck.glb",
+      "sha256": "baee12633663b4ef9e2595ed86aaa4b8a21cd52d47d11ef93863b117550ed0d9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck.glb.import",
+      "sha256": "49a4aeaf70e82fb97be9c66d832936947c57e4b6999e04e9f4db56c9b010efb1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck_albedo.jpg",
+      "sha256": "5f7e52fdd6e3d28a2da439357b566f037396bb15d4cb718c38a63b706e32c8cd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck_albedo.jpg.import",
+      "sha256": "cf6ff6d7829ebac39828c01239967052e403a1392024696a96e1c5a68f0d0858",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck_emission.jpg",
+      "sha256": "217634c055243d37eca36a502a4363fdcfeb1d10b5d58be679228c20ec9ef501",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/kei_truck_emission.jpg.import",
+      "sha256": "dcd67dd5b373de969cb0636cb2ec89dd43af1f3027bda1780611ace4b951fa42",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_truck/vehicle_spec.json",
+      "sha256": "a304e86a5a45e7d4684c2fe7af93a928255b409bbec626a29261645e73396183",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van.glb",
+      "sha256": "341c4857f5724706acd92bf42f8d9bdb06aed4881fea22a401ace533cf8de04e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van.glb.import",
+      "sha256": "4dcfb429e37f604735ad51c1a762245eade6f3d0e8c9e40b67d9b6a049132298",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van_albedo.jpg",
+      "sha256": "66a01f3783a3031f3082ebbbaa7daeb26624d08c1413c671e39583197ebd3804",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van_albedo.jpg.import",
+      "sha256": "3db63d2dd7d707d70b4119d01f7988a3a80ab25951d900c9263960cf1654f178",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van_emission.jpg",
+      "sha256": "01f033040c96f7ae926b4afdfe1a0272490157147f91d5add38a9d64d03486b3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/kei_van_emission.jpg.import",
+      "sha256": "d01547da1eb7fa569d375f93bd579fedbffe784e062e37ee79d7cb94eba727d9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/kei_van/vehicle_spec.json",
+      "sha256": "41b5d937ec38a5fcf659730685e19210f76370e142412c24a6b6bd4985c9a28d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan.glb",
+      "sha256": "ba2286baa7f8298384aeebc1f4ba8e92555e428da76850246168672f458d992d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan.glb.import",
+      "sha256": "67af42959896f2477ddc367a4ba31e3a98543e07d3a5b477a55a00f426119848",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan_albedo.jpg",
+      "sha256": "e4094ac35ae126797f4f4f50ef5afd036c25f0e4a26ef7e038bb812d176e6323",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan_albedo.jpg.import",
+      "sha256": "00cb206ec119bbf475f029aae97528d5173c16c9e5fd16e6f5e306629d9b0701",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan_emission.jpg",
+      "sha256": "820dac20b0da4ea01ae4bfa36c8714861d2356ba8639e0f85065f786919bd138",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/sedan_emission.jpg.import",
+      "sha256": "1a6b78955349d186724d39f6b5f1355ed2d217be19efc18369d9dd2d59bc4c3e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/sedan/vehicle_spec.json",
+      "sha256": "9a9c960b82bdeeba9a152b1e7fb00aaa84e361738b6536f42d7a156b298a1f98",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi.glb",
+      "sha256": "49702fd8a3faebdeb81d31739c21b873d5275001f41c27d0fa556f50d3285cb8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi.glb.import",
+      "sha256": "fa3360e908624d19fee219322ff19b95e2d79b2109bfdffa84f409d6757d2371",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi_albedo.jpg",
+      "sha256": "75daaca1c4b3e0ec607a4d5e698d0634b9b1b1e3de686fcd7407d1c9ba4c6e80",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi_albedo.jpg.import",
+      "sha256": "d3f1c3a930df2f907fc2e127b3051d40b864654b8fb5e356c03343ca39bd4493",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi_emission.jpg",
+      "sha256": "cda7587b23021eca80420686e5cdeb197335fd756515253f92328fa4421ee5de",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/taxi_emission.jpg.import",
+      "sha256": "03834f923593d5e7bcefb865b53dffe8e97dbd898e753b83001c5645b9f8e33d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/assets/td-186/vehicles/taxi/vehicle_spec.json",
+      "sha256": "9a1fff0096a5f31a92f9fda43281388580a9813dba89dcb5d311abd80f3d27ab",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/anime/day.tres",
+      "sha256": "e5d5d94e244054aa05bba92301c216b61fbeea9848dd846e3a1639028b1ea431",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/anime/night.tres",
+      "sha256": "f919d7b715c8760a87993680ed03d65a88bc3a83dbfeac328ba6193c5e697d26",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/anime/shuto_night.tres",
+      "sha256": "6082c2d4ed9f035d455bf2d42058bb0f2fbcf438f99f6e7796941b89f7bcfb9a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/anime/trench.tres",
+      "sha256": "76928ad4c67ca51298d48b2b4c22e81597485d8144b9655ac2fe6c9598875cf2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/fuel/starter_coupe.tres",
+      "sha256": "b2b14262c4ea699c6d219e18c9c288e0dbc1315e16f2593818490f52943d47f8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/fuel/stations.json",
+      "sha256": "2112bb609d6f4a02339cc400f870b729709f6cf5f745a71e1133633fe95c79db",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/lower_city/city.json",
+      "sha256": "4688c2b0778041b4eec4a685510759918626a7d8af022790fcc677577ce13b17",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/shuto_c1/ATTRIBUTION.md",
+      "sha256": "2924d8f2ee1dea60605efd573df601f04172ebe82479b39b6fe714a2b05fceec",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/shuto_c1/scene.json",
+      "sha256": "49a554b7410f130ee8aeeb5990232d00e7d652c1b709b1c6c8c6221e1b061c02",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/slice_route.json",
+      "sha256": "b608f2dca4c7a2d15901a497b503f4beb6634b13368102010391b60c18d10a98",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/track_waypoints.tres",
+      "sha256": "99e56fc334cd612b4ccc3a3c0e363e05b764dff28709688310f851165f626e57",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/traffic/sample_roads.json",
+      "sha256": "f188f28b6b8c4139ce3fe1a309344aab154a8ece0fb2dc021ce77c557aaf2699",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/traffic_fleet.tres",
+      "sha256": "1bfe5fb78f6e3cb3354523f569339250492103c9db5b6fad7a90bf431c062075",
+      "matches_base": true
+    },
+    {
+      "path": "godot/data/vehicles/vehicle_spec.json",
+      "sha256": "781d621abaf717144011c501891f924ef29d2609b263d63242515c24b136fe53",
+      "matches_base": true
+    },
+    {
+      "path": "godot/project.godot",
+      "sha256": "32da85ac5e3b13458ce1da0674d04f863f8746b74fe9a0d390c6372994c79e76",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/city_traffic.tscn",
+      "sha256": "96f6fecf6e60713b307207843430aa22ff88ac4e7a223edc7ed63e6fe358aca9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/cop_car.tscn",
+      "sha256": "dc182c46db0dce9d92989fdd5d6b46a6ab30736a3fb69b034d82de39fb3dd6f3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/cop_manager.tscn",
+      "sha256": "1ac3c154caf8a8e32a08a685e5570a1e9083d6c8c4b1d7d82bcc680052bd1505",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/districts/bay_strait.tscn",
+      "sha256": "ab00ebd8b7103f1ca2f23aa854f17860a0c5145ee1b2dc47f4da67c2a6d63d36",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/districts/harbor_west.tscn",
+      "sha256": "a660189b24a30d2d403207cfdf1e344604970bf28ba5a5ad6558b90ad9704366",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/harbor_slice.tscn",
+      "sha256": "15503752d5a89c75715f6fdc875437de147fc3691c94583d07727c84d0c60f1e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/arrest_sequence.tscn",
+      "sha256": "8d2808f7e508026455c6dc5023e22cd186dc45a63bf2618f9230017e4373339f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/city_atmosphere.tscn",
+      "sha256": "58ca454c6c8e79f758b4215b260a637602c9dcdd05950887b812f82f5753dc00",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/city_signs.tscn",
+      "sha256": "a875f4f0c21dc52e460e92255489847f43c714c5e0f3328c24c31e3fafa2430a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/city_world.tscn",
+      "sha256": "18c130178fe311b66a57213dc429770959fc756d57f19632c5fcb7417e53ea7a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/gig_dispatch.tscn",
+      "sha256": "bc2aba8027a2e703d52526e5a9680bf5a68dc17d4ad7e81530264fd1e9fc219c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/gig_hud.tscn",
+      "sha256": "b5a64f25667082da8a92b6eab0bc36a56f074a62a54815bdb1cc864791ce25ed",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/gig_menu.tscn",
+      "sha256": "f820c11b909ad127a277c747d97380c3c2102d7ac618073660a8b181980674e1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/lower_city.tscn",
+      "sha256": "25f6e61d21c8002a81cb13b18960ae4569cebc4cdd66bc505d9fbe02bc30c335",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/minimap.tscn",
+      "sha256": "94cf5df9d3ead65b253fa8042735cb75c6b4dd8536b69eae58d3e144903be658",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/paper_map.tscn",
+      "sha256": "db714be75dde247979a65018c339822ca034826c1fdf7f31189fee15909c17ab",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/lower_city/wanted_hud.tscn",
+      "sha256": "085d80503d36d29afef88d0f0bffd23dbfa91d915df6f50cf73204b9d44ab77a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/main.tscn",
+      "sha256": "ecba4149141e4dced1707d2f6b4fd29cc6cd0dc6af83c5ee04f24252deabe93f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/main_menu.tscn",
+      "sha256": "27dd0c60cbbe65c6ddc299fca9dd0cd5ece88e2f4f1752381d77d150b345c5df",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/mp_race.tscn",
+      "sha256": "f9bae2d304ce617f256a45f5e7259a7e53368a081c601ee10ad7ef862cdd9dcb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/nitro-flame-process-material.tres",
+      "sha256": "da4719f548831b0fcd6e06ff6a5f267b74eee3bbe9cb8b6dfc4f0cd74d384bf9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/pedestrian.tscn",
+      "sha256": "e77d3a738f41abced28c51becc942b7dd99b8055babf399c88c3243783cc3d60",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/pedestrian_manager.tscn",
+      "sha256": "2cc76762dd5e569de9a7ba39040b6b0cf08af159e682ea50db9210b00e4a8a5b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/police_livery.tres",
+      "sha256": "3fb1bd43f46501f59c2ff8a96c03e46c682718285a90187e69fb906a7255467b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/police_trim.tres",
+      "sha256": "fe5ceb9d667b54ae08a30771c51881a5d18c374a35d8733cb2f4cb4b00be02ac",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/sedan-nitro.tres",
+      "sha256": "b46d9f9e88c674397488701e10a631e253a9e39d14f0ae3a34f24e0cc794fbc9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/shuto_c1/shuto_c1.tscn",
+      "sha256": "a4aa22259a280623fd433a1a659a0231fa50f8ddf857a6a16e1b56a42896c282",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/td186/td186_car_taxi.tscn",
+      "sha256": "ecb8f26a1f2b8334c4913b957588085cf0b503c637f9fa16c05fa599b906c8a7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/td186/td186_pedestrian.tscn",
+      "sha256": "0b5a00235cf2ae4fac758c5f814d98f7a58368772451eee3c1d34a178dba42ca",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tokyo_car.tscn",
+      "sha256": "472eecd26c7fecc119cf88330de497772eabc9991448657c9163220144493af4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tokyo_car_config.tres",
+      "sha256": "07a58609880bd3eeec8bdccddd981a38e5481addae419aa9025a354179b70475",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tokyo_sedan.tscn",
+      "sha256": "84d065972d17af1b1c933bb78728caef0fae2fae4a39b939dafd5bd46b4a221b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tokyo_tripo_coupe.tscn",
+      "sha256": "397d45e32a1fed1987003443d9eb0d5ef2467f4f858dc45f2d97884469f977fa",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tokyo_vehicle.tscn",
+      "sha256": "f50b1837f5999f616efc803d717abe432f46424a53bbc28462115a17768d1798",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/toon_test.gd",
+      "sha256": "fd93463c4a1125a8429cc4e284f5cd07bd663bdd879cbbe06b781efa6add6b55",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/toon_test.tscn",
+      "sha256": "98d348f25e92cfb00f3e471f782ab411b6caf844d5fcccf8527d4d2109ecbabe",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/trail-process-material.tres",
+      "sha256": "9364ec506a07fe63a942724684d45dbd9f078a2a93bb854c6d75fd98a03552c6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/trail-smoke-material.tres",
+      "sha256": "49d513b3ae4b6dcff58283fd883277a5e1aa57b4ec3bd7a851f35663ddb3cbf8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_boxtruck.tscn",
+      "sha256": "600542df0e197c6f8e5c13f142e72aaac3335e3b7ded89adb1c434576fb610ce",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_bus.tscn",
+      "sha256": "29f57d624ce225c2e8806251bdda3fd61b119f8afd4615a638af44cd08bf5a33",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_coupe.tscn",
+      "sha256": "27ec2988b86b412b3fd7ce67fc76fdb6077e03ab7cff9c56b7bcbdb4cfef4a2a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_hatchback.tscn",
+      "sha256": "86e24961a171e22bdfc51675205e4bec5c43be8fe5e26b9bf65eb6f820aa2cdf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_keicar.tscn",
+      "sha256": "eb76b4df6c21cd4e20e431ab0df28131a81a0d355783281df3296cd1f676832e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_luxury.tscn",
+      "sha256": "afd9b06a03e0079a03fb9d2b9578a36feac6ead21aafdb9ceb3a30bd39e17673",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_minivan.tscn",
+      "sha256": "03f74d3edad92c37859224a895b9068e3d62108a3eaa730184d5a73e819d0318",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_pickup.tscn",
+      "sha256": "ee85021134976857fc2c04cd3653c616f662461783e20624a499e3efe7ea05d2",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_sedan.tscn",
+      "sha256": "77c9c602770a8125eb989518a95ebc81648084ad8d9fe449fbf9a9ecc5d97f5d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_suv.tscn",
+      "sha256": "6e847266c38aa34559ef84c6cf6ed958f01914ea75fd8f293ddde54f471b8126",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_van.tscn",
+      "sha256": "b53d8725f1d2ce30476c649779c23ceb9b5696b32ed2fddc5fc2efe3a4686dae",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scenes/tripo_car_wagon.tscn",
+      "sha256": "78b468a4bd10d8d882bd4a55f6289e2831f97a8f6a6a25fbc8377aeed2383a97",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter.gd",
+      "sha256": "3a47777e1fb4975743a375339e2d2039f6433eb6c739d1899e4256a6520d4890",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter.gd.uid",
+      "sha256": "e5b060a2d21822036333ff54670426097abd763c193ce4a20745a6db15f846e8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_lower_city.gd",
+      "sha256": "0e410c29e49f5b4e2d4788e640877e70972005f211720c9c158e4f6b9a0c595d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_lower_city.gd.uid",
+      "sha256": "e7c4a6f49b464ae0d2b39376a28f78e891642bc07dbb5a523694ee53ede4e4a4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_shuto.gd",
+      "sha256": "3fdf1a6d127e707d36faf107561013f94d801f746daa6b4d9c06a2d6da8d96fe",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_shuto.gd.uid",
+      "sha256": "573f4143a6c98385f352a6e7ebcfbb00c06f16f56345199ada6766813b09301b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_slice.gd",
+      "sha256": "e88d746e01d58915813d4bac2991ecdef75c3d743f70c962089de59faa37f767",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_adapter_slice.gd.uid",
+      "sha256": "ddf7ce1020473b0fb362fc01b8f33d0a1a014b98345289b92334cffb79afe49c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_palette.gd",
+      "sha256": "461bca48bcdff04e6fc26d9248f48f6c097ad838edd7635ed85ef375b0500e5c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/anime/anime_palette.gd.uid",
+      "sha256": "273cc7677a793a2e0f83a2aa90b4643f9689d435ebe94bb46c3d1f650cfabee3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/chase_camera.gd",
+      "sha256": "baed4a1504868f4452ad09ec9d01fa6cbc1939bffb420076290c83a4202bb96a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/chase_camera.gd.uid",
+      "sha256": "8279e5a6363e52a9e9bd78d19f10512c06e9bdb51b7e32127b17da93a020ca6b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/cop_car.gd",
+      "sha256": "a0fa586629f7e38c956a8629665d30ff2e972880d778959118762f62a086b107",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/cop_manager.gd",
+      "sha256": "4330c7f44ceb63272e28a2c70cdca5b94658f0cac64b313a4a6dff3d79a6d536",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/crime_bus.gd",
+      "sha256": "37f0d28c13bb98c52afabfb591abc64b2e979bbd0a15e892891f02d1683ebeae",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/drive_input.gd",
+      "sha256": "0c7dd921808cd6804b90715add84efd12df56235097e13e7b9d98d915a17eb02",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/drive_input.gd.uid",
+      "sha256": "8ae4f0645eb1415d60f8bf16fb72ad3db9db3187f4722a2c4d1bdb83468f5507",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/fx/impact_sparks.gd",
+      "sha256": "f2bd0f7e7dc5ade4beaf45f3f3c857ab22534a80ea496403e79f6c0ea5684f65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/game_config.gd",
+      "sha256": "d8e6bb56fa0634c129bd5aebaa34b4b943315588483f9f50ff6ddb935634a9d4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/game_config.gd.uid",
+      "sha256": "144a96e7696c9e67407963fbc77008b1ad6dc55421af89da1f5645b6952ab815",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/game_signals.gd",
+      "sha256": "082759d49efbf19e8fb2899d772bcdf440efb56fe50926a37ed500d3faee2ef4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/impact_fx.gd",
+      "sha256": "a68ce147b00dcc5228ca51a9a76d3b084d414da0caa00123f4a216043b3cffdf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/impact_fx.gd.uid",
+      "sha256": "136fa070aa4cfa44e47d4b763f792bf1f51882670221d5f01ff49942081a902d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/input-provider.gd",
+      "sha256": "3f041ae119ed23062c81aa811af825ce07ad0a9fab5a5928f44ec3f4408fe180",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/input-provider.gd.uid",
+      "sha256": "063f28b5d04e4276724f8385219595658c6c71a1c18f6e5cf7784f16c71c2eaf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kenney_car_model.gd",
+      "sha256": "535dd077e7f5cf40506385a707b9f84cf574aa8d7a151309445f3b1be8d50743",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kenney_car_model.gd.uid",
+      "sha256": "307b0960df35229e11e207e1bc4a71a15a4bfa04795d62fbe06d05bcc431eab1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kit/pause_menu.gd",
+      "sha256": "bc88c9b5be59fd1885c532314272678d2ceb9a7765eaf073e812eba898024101",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kit/pause_menu.gd.uid",
+      "sha256": "0580fc88affb08b3ecbc6a26b4cbc75bb5ee2a451bc17e72971a8ac24146c061",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kit/tuning_panel.gd",
+      "sha256": "a0a2474549afd51a6300fbac63a5ae82e4bb5d744e0f1b9b4a8b5eb424ae81c4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/kit/tuning_panel.gd.uid",
+      "sha256": "405f705cabed67c62248cc79ce25c85787f39590ce8597e15d64ad6ab913ce0d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/local-input-provider.gd",
+      "sha256": "59a25b489ec7c41b7af1aa927eaa8c36a898733d46a4f5379b0cd047c41b59f0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/local-input-provider.gd.uid",
+      "sha256": "0d2192b16bd9bafd7cfbbd7c281c41df04868db24982292fad27bdb499374c76",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/arrest_sequence.gd",
+      "sha256": "25054dbdf5512ef7edef89d69954f595594983b29897018d9396b174313401cd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_atmosphere.gd",
+      "sha256": "32567d3d080e711f2736e36d86be493cecb530f5cda7d13e0ed6b8ae60af1ee5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_atmosphere.gd.uid",
+      "sha256": "94b1c9ddcf807b772c03ffefecfa959b7d6f20e9ec5e4a80d54727d12fcc2c65",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_batch.gd",
+      "sha256": "0a79e0b3396b93d61a74b9c007ac5e617b799200eec5313438da4f531d4bdf5a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_batch.gd.uid",
+      "sha256": "043add95764a6cee14c272f9485f7cdee22dd522a7c405f5a9ceb513134eb3b6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_data.gd",
+      "sha256": "8a727bf00dd682d7ec938e4434b083f47ac6fb82b33fea00c9cb90490752c0b5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_data.gd.uid",
+      "sha256": "73cf1c400cd639afd2d8469a9268d342c9711a7c7098d32e3c3e082cc4345786",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_dressing.gd.uid",
+      "sha256": "f29a6b75bcbcd72e1db0539b4ff573b47a7eda87c3e54653694046ac0eb788bb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_driver.gd",
+      "sha256": "f2b5f3139939f76a4787ae4233f0d043f82d7a99cceaf010ec92eee08826ea1d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_driver.gd.uid",
+      "sha256": "b098b94c9ee835eaad6057e6de65d928063b80e795cf0d2257cf7be6fa2813bc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_kit_batch.gd",
+      "sha256": "6e42382e2d192a1a312341a7ae4e454ea1c2464d27d8edb6171d0abd43287cd0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_router.gd",
+      "sha256": "91549e4132e2959ca4c401e2ec1cbf49cf01b482d7ddf707ea6401b322e67363",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_router.gd.uid",
+      "sha256": "d8a316c7fc4d16883713b5d82284213b00ef9d1fdb9e155dd250928649c491f9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_signs.gd",
+      "sha256": "d1cf3949b3465ac699681d9d3e02758f3732ceacc0e0d33266d82c528ca8fb63",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_signs.gd.uid",
+      "sha256": "b3bbde4d3796bb4685bb9de5517cf542c0eb076d608f79aa35cfe0390e0e99e7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_tenjin_buildings.gd",
+      "sha256": "cfec48aa5a370d52e96aafce2820b8fda5e622d1a3b9908b5ea2f913e1fcd4c7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_touch_controls.gd",
+      "sha256": "395b61cb911b58c9b8ae4301712ebc0012f913c36c153b65f7b4433979304a84",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/city_touch_controls.gd.uid",
+      "sha256": "db19d2922a748769e16feb6a2a77037cefe737bec8e92ab495da1b7479a052f3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_hud.gd",
+      "sha256": "321d9b09fc77ec9907d8ed0d8d1e72949bb0a3ec5541c4979b133fcb07806ce1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_hud.gd.uid",
+      "sha256": "9a0b0c0d9c39fd977946961d789a4d0d7539b867ea905ed829b6e7274bf3585d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_hud_reservations.gd",
+      "sha256": "56c6f8e6526e97742b6e6a21f95b22d3fe413a7e71498d00a4fbb03e6df4f536",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_hud_reservations.gd.uid",
+      "sha256": "2ee67938f3285e68535250b5264e4a96c9ead40775bdbcaf4fe93a2cfd339f2b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_profile.gd",
+      "sha256": "306e90dfe2cdcdf655da93e3da0dbf602310e9f906f76f072773ddae861ff3e0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_profile.gd.uid",
+      "sha256": "2f68500d6f6ece8c344afad1c1f2f357eb7494d2e6dce9dc7c42496728354bbd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_service.gd",
+      "sha256": "bdff5392415142563386b0e6bf3521e1929c7a352a52b1c33ec32c26dc75257e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_service.gd.uid",
+      "sha256": "27517b58de576e86c8b25143be98ad5620d7f0fcb0dbab74bf7a16b7e39e43f1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_station.gd",
+      "sha256": "f199c16b68a0dd9a9b6f6c304e5b968ac46b08f4d2f26a88dae7cc025a6cc50f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_station.gd.uid",
+      "sha256": "fa7a8166065036e45ecabb7f2cd2d6632e52070b9dbffeef03e87d42e74ddbf1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_tank.gd",
+      "sha256": "a1a733eedd063b8570119a1a8e1bb2cd7c2865e48568cfaa39f814d842e34fa9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/fuel_tank.gd.uid",
+      "sha256": "4a10b7b6c97880e7e1da3c8a4dfabb56c2baa7783e35cd10a272824deb1a8d33",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_dispatch.gd",
+      "sha256": "ceeeba09beb9babb29a7e058c66245d395135bc41a9fdeb81777a32d6df726a6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_dispatch.gd.uid",
+      "sha256": "21bd2dd1dc490f16e9dc67a175cc231afaad86397ff0ba03eef3772cb3aac60e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_hud.gd",
+      "sha256": "6e683cfc5ec6de5a133e011526c1fc4084773330b45c876710f9ad0228c6bea1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_hud.gd.uid",
+      "sha256": "9d40e8793dcaa54cadca523559fde8b9064e02e11f7e4cf574ecb6cf6719076c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_menu.gd",
+      "sha256": "aad97d1fab5ac88a2d79a493d63cc3373202e2e7a39fbcba65aad54ecfb030f8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/gig_menu.gd.uid",
+      "sha256": "9595134039839edf58538475d80ba2821ccb4b22601c8731cf9dea365b2934b0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/glyph_atlas.gd",
+      "sha256": "129f260fed5999f106d6569f593fe49d0a30a00b2abb18de049c39849444c6e1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/glyph_atlas.gd.uid",
+      "sha256": "d5153fb0c51f07b94e80c8bd8c9549b066cb5831c27f2404d009752e60c58dee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/hud_edge_dock.gd",
+      "sha256": "a4f386b66c71c1af65e26880191afc3edb918d55accee92cde1517911c5f4827",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/hud_edge_dock.gd.uid",
+      "sha256": "d568258fc716f50b77bdb29ba5c3698af46129d6f1db99ab7ecfc0283021b35b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/lower_city.gd",
+      "sha256": "b7843205bddede3d8119a9ecebbc51ce746c7d5ec8f8874b03f8258d8f992851",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/lower_city.gd.uid",
+      "sha256": "aa15e7e12544eb0b388148d38d4e7757f4cfc39aac6ed60f905698ee8dfcecb7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/lower_city_world.gd.uid",
+      "sha256": "bca458c0585278433d8ed4b420823e7f5914d59315dc11fcca412c8ee9303378",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/map_sheet.gd",
+      "sha256": "8a5e6f46b5d66c134df8e3d81265c1542b513cc0483ed77cbb52387faaccdfc5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/map_sheet.gd.uid",
+      "sha256": "c4a5e280f143da8b5e7050a29211cd1835106f4f120df02a05e8a737a58ed98e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/minimap.gd",
+      "sha256": "b816d0f476baca51d9399d3fa8f5875ffedb28d2cb79949b70da306b7a4b0810",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/minimap.gd.uid",
+      "sha256": "926d0f9323f4c371eb671a9e632c4dc5cbbeead479a5e504886e381cedeefd33",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/paper_map.gd",
+      "sha256": "83317d34b758314d697aeabb3c88bab2e0e38478576be61153a86f24b3683ca8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/paper_map.gd.uid",
+      "sha256": "253d48354f1b13fdfe7dce87f44390baf3b47ecd5282b070e446c0a881aabc83",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/sign_reader.gd",
+      "sha256": "80fed2138ae9b9f77cf0f081f72c26b7d1c13d9023c917a3f500fc5d1f0cf541",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/sign_reader.gd.uid",
+      "sha256": "c406f69e6c3133b08bcf1af075a63df314e13f4668c255b57ce0aa32614cc8f0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/wanted_hud.gd",
+      "sha256": "194967865367976c7c51c3d474acdd1af6d7f427231a8741744427752623d9c5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/wanted_symbol.gd",
+      "sha256": "8888e69d1c60951db3fb2286e00727a31797ba7fe100212bbb4d32cc66146453",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/lower_city/wanted_symbol.gd.uid",
+      "sha256": "d7d07e71718089de881e4d7cf449d05c4d49198f8e2517674ad4c06524df5cb6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/main_menu.gd",
+      "sha256": "e7ba4a829f50e502bf76bd433e84116b3eef07545810483183c9cf0bae791968",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/main_menu.gd.uid",
+      "sha256": "9321711303166f74bcf1fb557eb9120af4be5c4e375fef4d65aae9a1fd5ecc4a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_input_provider.gd",
+      "sha256": "eca2911603c72f869d28c1357ac6782c9f2117bf8072871eb4be2e7f45e00546",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_input_provider.gd.uid",
+      "sha256": "79be3189ab4cb6cfeeb7eb08487dd54a6880ad5eb9716e172fdd64b4d0f81df1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_nameplate.gd",
+      "sha256": "1254aaab839f7c1fd3b0d551af6889ee26926fc03ab8c5d3701780d2c2c8a6d9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_nameplate.gd.uid",
+      "sha256": "09040e1a9b092fdb4eb026ee41c03b9babc36eff1e9b7717da485c4371c2ed46",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_race.gd",
+      "sha256": "4126ed9eb0dd131eb9ace9060df8094fadc14372de13c552b500b7b0a71e8a11",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/mp_race.gd.uid",
+      "sha256": "d42180c33254615315b0fd9bae33f0b3c4a774e9a6df7a904f478d45a22a1310",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_debug_overlay.gd",
+      "sha256": "b45aa8da837b29ac59d18b6d46f7734452ce621a8738badbc08febeda57b16ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_debug_overlay.gd.uid",
+      "sha256": "0d8e8991355935feb6bcde282956be07dd0943de5771a9778f31c2941223e484",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_lobby.gd",
+      "sha256": "56bf57b89ce3e1274adac5c72236610a201209d64151c8a0d28950c2968fbf16",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_lobby.gd.uid",
+      "sha256": "6bd20ab732abb0181ac3acbaea12ee969c8a9efee82fa4c384673b0b59c28b96",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_trace.gd",
+      "sha256": "9aa357ffe51fe9ff4e559ce1f4a401486f71b5b9f0f564da69c56d391b26c236",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/multiplayer_trace.gd.uid",
+      "sha256": "f6fda6d1179125a793ce47e3ceba3da751e30f8f7da86a08ef732bddf8892c04",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/net.gd",
+      "sha256": "6706a7cd17accd86bc24edb788fc623ffc5abf20b6ed2c469403b2391339a4fc",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/net.gd.uid",
+      "sha256": "93d9546a77ac4ad403e9cd881763e83f4f319626721bb07bfada9875ee41bef6",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/net_config.gd",
+      "sha256": "89c99d9ebabb6845134b3ec66a461be193ef50df4583f1b26c9ac27dcec8570a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/night_lighting_rig.gd",
+      "sha256": "864c6f27318f0a8d9ab2f2c59b15bd0a2f2a1a5b12d20e512afbaf6022bcb070",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/offroute_reset.gd",
+      "sha256": "67c7beeef35980edcd4f0365e377d279b6a3b33504e6cb29fd628a07948d7ccd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/offroute_reset.gd.uid",
+      "sha256": "dd9681c362f971762a44836619656df68f218bb4aba0e4bba9418bd284d39341",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/pedestrian.gd",
+      "sha256": "21ca2d2685d9676a99ab5470bdd788f6d457bd23d0aa9bcabf5d7524d41253ea",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/pedestrian_manager.gd",
+      "sha256": "2552c4d314198ac7d122de25e261bd77f6b546430a51959a2a98f33721f8d8c1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/race_bodywork.gd",
+      "sha256": "11cc32fff21559794356cc310f255bb218eabfb0c1abd3a32681b33f7b5fba34",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/race_bodywork.gd.uid",
+      "sha256": "34252ca528476cbb4d1bbb4535f8edad25cb0b0077c390340fffedee7d9c512f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/race_loader.gd",
+      "sha256": "c52caee6fbda8fd6181327230ba5990c4c0ce1f9c129ac8560628ff91fa7b9c9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/race_loader.gd.uid",
+      "sha256": "ab22f32086b6491b6565e4ddbd26249ac8c79046bed613d12c80c6823abcd57b",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/remote_snapshot_interpolator.gd",
+      "sha256": "3115316aaa0a012f941b18cf23e4f13d0be2956ff4dd186de2353533e188880c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_c1.gd",
+      "sha256": "d1087cd7376126f5ac55abee9f8ef3418cf8c5554997e031273c5c6696939ab8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_c1.gd.uid",
+      "sha256": "ad711e11934d894be8199ef0d2580126f063e3a404c2b774a1fd21556bd85570",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_c1_world.gd",
+      "sha256": "0dfbd5fba5e3ffd56775588b026aa21c720fa13dd733dd19e6a30f9246d673f4",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_c1_world.gd.uid",
+      "sha256": "8fdd00f6635d9395b636e9e9ff4adf196300064ffec4e4d513c11d12426da1dd",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_cones.gd",
+      "sha256": "c46ce1a46d92314650b4bebfb1bef21dd88274698582825772828944cf641d33",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/shuto_c1/shuto_cones.gd.uid",
+      "sha256": "23cd19359dc01cf45177073f969903e30f1447c9bf0aafd9a7841405006c85c0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/anime_look.gd",
+      "sha256": "070ecac635c59f3c12e571207891197db9a51f5db16ae9a28587a99c6e2f0a89",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/anime_look.gd.uid",
+      "sha256": "a4f194f586eb9850894b42b04f8bd41105bf6652c4068332bd4ae5ffc9514513",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/awnings.gd",
+      "sha256": "311aa02f6fc95a13903f378cf7a488dd2a8b2b44ee45beb1873675cd117f2725",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/awnings.gd.uid",
+      "sha256": "b0eacec41392af689dcc4977bfea5a776f3d59d90f0a6e1da69087c2667d8dc3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/civilian_traffic.gd",
+      "sha256": "5db53c672df01aa3206258bf085cb8ab514cd815d3b451fa77e726deb1dd6748",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/civilian_traffic.gd.uid",
+      "sha256": "61f228fd4c00217d33090206bd278780d1a485dbb045d577d178118ef75ddb21",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/expressway_belt.gd",
+      "sha256": "c4a2070e4fcc25e21c9dd7d295892eac1b9dacb5323ae1b68c894447b66b8536",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/expressway_belt.gd.uid",
+      "sha256": "915cf4f481a0484004cd099d9591ebdf014a5ab237a9d9a77bb42658ef09c42c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/gas_station.gd",
+      "sha256": "750275967567093a1a7badd54030f91b72140bc7edbd57692cb496baa89a242e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/grounded_terrain.gd",
+      "sha256": "2c5a9e59ab3a06d25c739731e0d030c021ab490013d812dae0a44b97e46bd3ed",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/grounded_terrain.gd.uid",
+      "sha256": "b78523c778e0d6cb53ae717830273befe1bd762ca6db944ba52492fbd6a902cb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/living_city.gd",
+      "sha256": "2e4331cfda875a08355cbdb547a3960cd991208c260985fd7c2bff4d5fdb53e8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/living_city.gd.uid",
+      "sha256": "1c1ebff07d417b497a65a3807ef68bc6341c249feef8c924267ccfe921e5eda7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/planar_reflection.gd",
+      "sha256": "b372668522298b345260626138d6b6c3d31176bf003254c903a183aa67883d69",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/planar_reflection.gd.uid",
+      "sha256": "cd495b6b317661d2e740d46a731903f76d8e1405a3868ba06b3cdb611119d788",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/pole_kit_placer.gd",
+      "sha256": "ad9c8f2149c08ff818b44852c545665354e071fd6fbc34ac3ea19aac453add2f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/showa_signage.gd",
+      "sha256": "3e4bc24810f6703adc3800f50f4d987ce1aea705c0fcea0e533e05bb663e2ddb",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/slice_race.gd",
+      "sha256": "f1687f81389e0f9924e441644840591b001f9862af13a7547baab92e44e36fb1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/slice_race.gd.uid",
+      "sha256": "26992e9edc727a5ef4d9a0f9607fc11258bb9808e60099252e0f6daab14b40ec",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/slice_world.gd",
+      "sha256": "3a7e30a1b74a5eaea7c1ee39ef57243a3326a5fcffb225984acaa395fb889f32",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/slice/slice_world.gd.uid",
+      "sha256": "6c27fc5f561ba6ff64a47dd71a8f4410fff6c6dc52afb0752fc1fc162045a2d8",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/td109_sedan_model.gd",
+      "sha256": "63a2b22edadc645a0859199104febc1b61f98cb612ca94615064fff747123557",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/td186/td186_car_model.gd",
+      "sha256": "2ad701c9b73cebb85d6b9046883938486c60f9f8c36fff09ae124c9cb3281b95",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/td186/td186_car_model.gd.uid",
+      "sha256": "63c67ec2417269708041f55c6cccf474275a9e3f6acf7f1deb9c01815b6e4e51",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/td186/td186_pedestrian.gd",
+      "sha256": "e4d0ae3c8bba2b4350fe45e2815b9b4675b0c0dc8b5358e8e67c248e08ee4355",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/td186/td186_pedestrian.gd.uid",
+      "sha256": "3299dd4bc0f4fab868980aa10a18e1d5ba32bbd10bcf74d8684f4ed1e0f61496",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/touch_controls.gd",
+      "sha256": "64fe5e9b4b0de798f1e54d341255367d2aba846e9898ba85b20a8ba03a98858f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/touch_controls.gd.uid",
+      "sha256": "1f5c44157b89a23889e1dda78dafecdec2150121c43516dd233f48145ed864f9",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/touch_state.gd",
+      "sha256": "3f0ba3d677b842ad75ab262dc3c61498aed9ae88fc72c9f7358d40f3e0908012",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/touch_state.gd.uid",
+      "sha256": "a2a43474fe54ccfebad290b650620507ea62072359a2872a992fe6a0d60c16ee",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/track_decorator.gd",
+      "sha256": "4b5eb641bec2588f2c028dce585814b3e3366b8f5f9d0c6acab24082075fce2d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/track_decorator.gd.uid",
+      "sha256": "5b3ea1b8209ebab77b796fa0e1941a4b8c07b7e010c616e41be832ffde7e4ae1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/track_waypoints.gd",
+      "sha256": "8370224a0bf3522548c2911c4f6b7dc4509647e166027e291607ac0fe44ce17c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/track_waypoints.gd.uid",
+      "sha256": "7908e6a34a11fa0320531bf3795ab4c3e72a085549f3aed931879f4eb73b27ca",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic.gd",
+      "sha256": "9f8aafda30ef97123eecafe8410a7d43f99db02a2ba293725cc942c35a5e3d4f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic.gd.uid",
+      "sha256": "fb8705b41d9b931785927dda1dcefce66e32ce51ab1d1bab3ee6730977fc3dd7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic/city_road_graph.gd",
+      "sha256": "0276aa27779cb849eb20ffca0576cb04137ab54947ca38af65dd73246f1eda9e",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic/city_traffic.gd",
+      "sha256": "50584c699ed88315085cf404cd876a800db5cd12ad4ad90a46ef689b2484beaf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic/city_traffic_ai.gd",
+      "sha256": "2e6bfb1100cc19e6c772f7a61f059ad3fa63d3bd5fccd96ef18b8ff731ecb559",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic_ai.gd",
+      "sha256": "4393a48eae366c377d0c1772abc88d2bda3c5bf1564e679d67d7da01d4ab750d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic_ai.gd.uid",
+      "sha256": "cd25086e3ea0c1dd11faa1c9c2ce8fb0009fe24ed3e1d550be829f7e618b3dd0",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/traffic_fleet_config.gd",
+      "sha256": "b27e273d5d3692c86487a3a302ae304d4f96b4dfdf5fc2311c7c64a78d9fbe7c",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/tripo_car_model.gd",
+      "sha256": "35773f6a0f607af66da56aedfe848d4df43da463070af51cfc766809f1241d40",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/checkered_strip.gd",
+      "sha256": "244effaf9dd8d68613ffc81f878af542f4d0c68bab40ce07aa4bb2e1dec2a405",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/damage_bar.gd",
+      "sha256": "1ad824ecdc9df9fff1797e6cb573fef6fc7f109461a0620ba3f876d4dabe1d21",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/damage_vignette.gd",
+      "sha256": "fee6a94d03d774adf33e0b7abad296f38a5f9547017eb40991b36cc3523cb3cf",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/loading_overlay.gd",
+      "sha256": "8f7df77a2c9bce776a77775f368d0e02003ad5d21a024fd7961afcec6b2ffdf5",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/menu_backdrop.gd",
+      "sha256": "41acbd389da33a6a05bf242f7162e376af0a3be695c1687bf913efa1d04fe3e3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/race_results.gd",
+      "sha256": "8a872245a9ecfb5ca8af0e3b55f69145d309426a85e401b64ae63b7888e40259",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/skew_button.gd",
+      "sha256": "963204fa62dca17cfd8f0c6b0c035df7ef28187efc7c948a79c48ae9958c76da",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/skew_label.gd",
+      "sha256": "81bd541c71490239763cba79e90a09cd4c9534e65ce8910aa3b2972526d6fa3d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/striped_bar.gd",
+      "sha256": "a95e184a21e99452292c4fdf206ebb234b950f66f4d174addf2b93ddf1ce5a5a",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/ui/ui_kit.gd",
+      "sha256": "7cd2d7961fb0faccb4d1d7906012c65d4f87fa9aaa622ceb8126632e2591ae47",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle-config.gd",
+      "sha256": "8cffb964fdd19844506e709b0454902d9a5a7bde465e78b9fb234c8c35d65268",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle-config.gd.uid",
+      "sha256": "72494b8ec6154c98de9cf0e242356226bf3d8c549ca94c479dd12b7e172fe0d1",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle-model.gd",
+      "sha256": "c1d56216ae14456a3465c5c5e115c485c2791b6131830c0c3e885974a0690481",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle-model.gd.uid",
+      "sha256": "ff070f5473d7ab8b227ba0187c0b72de9172cfbca5bd8373721fd4cfddf9a7ac",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle.gd",
+      "sha256": "c4d9b48ce203173248a999f38ec87f6d14565910dc25e4b0b0312dc17350cd36",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle.gd.uid",
+      "sha256": "9a192357fa5514f458ec141dfcc3c91f6649d50fe010febcf6f7eddef1e7346d",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle_sphere_contacts.gd",
+      "sha256": "202ddf0ce0d7715c4f6f2b14541a21e00eea6ffcfedb37a26d7dabc1268728b3",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/vehicle_sphere_contacts.gd.uid",
+      "sha256": "5c53af0af0ee91b048d95ffda0398f9bd0a7984a5d8030f44741f78d797f0b4f",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/world_builder.gd",
+      "sha256": "2f215bc3ceef590a7a6cb70d40fd78623ac2770606306ef6096e45ed7698e3e7",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/world_builder.gd.uid",
+      "sha256": "39163843e1e101d5ae34a3e87562a7e8ba34c849113fe13fc66582921ac325ea",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/world_track.gd",
+      "sha256": "8e687fc7a7e135b6ff6b065622a7e9f6575ab3ba0e1a38af3cb8543bc6fb3b53",
+      "matches_base": true
+    },
+    {
+      "path": "godot/scripts/world_track.gd.uid",
+      "sha256": "99e3c1f90f71f89dc27c2f9ac03eb9cb21c158aad905a710457d90cb237e4f11",
+      "matches_base": true
+    }
+  ],
+  "protected_mismatches": [],
+  "dependency_parity": [
+    {
+      "manifest": "complete-asset-importer-parity.json",
+      "count": 1331,
+      "mismatches": []
+    },
+    {
+      "manifest": "importer-parity.json",
+      "count": 666,
+      "mismatches": []
+    }
+  ],
+  "lot_ids_exact": true,
+  "lot_count": 345,
+  "visual_exceptions": 50,
+  "lot_hash_mismatches": [],
+  "lot_geometry_mismatches": [],
+  "cameras": {
+    "native": {
+      "before": 746,
+      "after": 746,
+      "names_match": true,
+      "camera_car_mismatches": []
+    },
+    "browser": {
+      "before": 56,
+      "after": 56,
+      "names_match": true,
+      "camera_car_mismatches": []
+    }
+  },
+  "snapshot_comparisons": {
+    "drive_sha256": true,
+    "walls_outside_kamome_sha256": true,
+    "walls_outside_kamome_triangles": true,
+    "tenjin_meshes": true,
+    "protected_meshes": true,
+    "road_hits": true,
+    "bldg_canonical_sha256": true,
+    "metal_canonical_sha256": true,
+    "lamps_canonical_sha256": true
+  },
+  "profiles": {
+    "before": {
+      "build_ms": [
+        4628,
+        4100,
+        4110
+      ],
+      "median_build_ms": 4110,
+      "median_static_bytes": 309098122,
+      "median_peak_bytes": 492050338,
+      "median_material_conversion_us": 5657
+    },
+    "after": {
+      "build_ms": [
+        5626,
+        5040,
+        6021
+      ],
+      "median_build_ms": 5626,
+      "median_static_bytes": 377103143,
+      "median_peak_bytes": 585598587,
+      "median_material_conversion_us": 9105
+    }
+  },
+  "packs": {
+    "before": {
+      "bytes": 108704384,
+      "sha256": "95c0fe84026c40a6dcd16115b9d4c7467897dea6872fac316e64618ef0409be7",
+      "independent_content_matches_author": true,
+      "passes": true,
+      "entry": "res://scenes/main_menu.tscn",
+      "files": 1300
+    },
+    "after": {
+      "bytes": 112557688,
+      "sha256": "515161e2ac2b223d03cc7b360805c0fe80758fc3767e5ed8f2821ff0337653bc",
+      "independent_content_matches_author": true,
+      "passes": true,
+      "entry": "res://scenes/main_menu.tscn",
+      "files": 1324
+    }
+  },
+  "common_pack_assets": {
+    "count": 111,
+    "mismatches": [],
+    "shared_texture_mismatches": []
+  },
+  "ordinary": {
+    "before": {
+      "status": "failed",
+      "console_error_count": 48,
+      "console_errors": [
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+      ],
+      "harness_exception": {
+        "phase": "lower-city",
+        "message": "TimeoutError: page.waitForFunction: Timeout 30000ms exceeded."
+      },
+      "initial_speed": 0,
+      "final_speed": 30,
+      "pack_hash_matches": true
+    },
+    "after": {
+      "status": "failed",
+      "console_error_count": 48,
+      "console_errors": [
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+        "[menu] ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+        "[menu] ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[menu] ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+        "[menu] ERROR: Failed to load image. Error 7",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+        "[lower-city] ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+      ],
+      "harness_exception": {
+        "phase": "lower-city",
+        "message": "Error: Console errors were recorded; inspect raw-console.log"
+      },
+      "initial_speed": 0,
+      "final_speed": 29.7,
+      "pack_hash_matches": true
+    }
+  },
+  "ordinary_console_errors_identical": true,
+  "source_assets": [
+    {
+      "file": "godot/assets/td-186/buildings/kamome_hall/kamome_hall.glb",
+      "sha256": "4707eb96452f4ff4a2f5538f7f8744195907fa589883f4ad348a2835af4a30aa",
+      "triangles_including_ink": 1248,
+      "materials": [
+        {
+          "name": "Mat_Facade",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall.glb",
+      "sha256": "326715f608711523cd0436c2bab22ee4144ec9359157a97e058c8e2033d6dadb",
+      "triangles_including_ink": 266,
+      "materials": [
+        {
+          "name": "Mat_Facade",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/storefronts/ramen_window/ramen_window.glb",
+      "sha256": "cee7e4c4f0017f6233784661470c22f3fdaf0115e7f6bac89a7be8cfbe332ad5",
+      "triangles_including_ink": 708,
+      "materials": [
+        {
+          "name": "Mat_Facade",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk.glb",
+      "sha256": "35b6770aed7e337dc29aa0c5172c4d669f4a60537edbbf048386dd6d8499e556",
+      "triangles_including_ink": 434,
+      "materials": [
+        {
+          "name": "Mat_Facade",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/storefronts/sakaya/sakaya.glb",
+      "sha256": "db6e0c9c91262f99245105cc53bcb880a3bda52dbc41e549f2c32ae9ee96d918",
+      "triangles_including_ink": 640,
+      "materials": [
+        {
+          "name": "Mat_Facade",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/props/fish_crates/fish_crates.glb",
+      "sha256": "ff6e61e53d650c4fc01d34a47d855e57358370563070fff281b468dd905968a5",
+      "triangles_including_ink": 298,
+      "materials": [
+        {
+          "name": "Mat_Prop",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/props/hand_trucks/hand_trucks.glb",
+      "sha256": "75ceec9e062f68d71c7d14870fd43bfc880e3ed87cd907f0b6c5fa2e5fced889",
+      "triangles_including_ink": 1138,
+      "materials": [
+        {
+          "name": "Mat_Prop",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    },
+    {
+      "file": "godot/assets/td-186/props/tube_pedestal/tube_pedestal.glb",
+      "sha256": "1c5c4205c0b62fcf53f5c11f0fb1eb2eec70924d677891dbffd64e7857b98ebb",
+      "triangles_including_ink": 332,
+      "materials": [
+        {
+          "name": "Mat_Prop",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        },
+        {
+          "name": "Mat_Ink_Outline",
+          "alphaMode": "OPAQUE",
+          "doubleSided": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,12 @@
-# Kamome td-210 — independent review pending
+# Kamome td-210 — independently reviewed bounded district
 
 All 345 Kamome market lots are implemented in [draft PR494](https://github.com/doublehidenblade/tokyo-drift-3d/pull/494). This is bounded district work; [whole-city issue491](https://github.com/doublehidenblade/tokyo-drift-3d/issues/491), phone acceptance and publishing remain open. No game deployment is included in this branch.
 
 - Runtime: `f05048b12c176f9443cfc77e3a1bfb1ec19f62cf`.
 - Frozen author evidence: `dd0fe14672a92990193194741b5fc5580040fafc`.
 - Reviewed Tenjin base: `0b2652bc86b6824444af277fdb34af5bdd981066`.
-- Independent Astra High review is running. These are author evidence, not an accepted verdict.
+- **Independent Astra High review: all six bounded criteria PASS.** [Cited reviewer verdict](REVIEW_PUBLIC.md) · [exact original review](REVIEW.md) · [independent visual inspection record](review/visual-review.json). Phone, whole-city and publishing acceptance remain open.
+- Review commit: `09eb9455def0a27ece9f93f4946b739dc03cf712`. The author guide below remains frozen at its pre-review head. Only two source-code links are adapted in the public verdict; [derivation record](mirror-derivations.json).
 - [Author evidence guide](README.md) · [Reproduction](REPRODUCE.md) · [Byte-for-byte mirror manifest](mirror-manifest.json).
 
 ## Coverage and measured limits
@@ -13,8 +14,8 @@ All 345 Kamome market lots are implemented in [draft PR494](https://github.com/d
 - [Coverage manifest](coverage-manifest.json): 345 completed lots, 295 clearly visible front surveys and 50 documented visibility exceptions. Diagnostic outlines do not substitute for production views.
 - [Geometry checks](geometry-final.json) · [Preservation](preservation-comparison.json) · [Source audit](protected-source-audit.json).
 - [Quiet profile](profile/final-summary.json): median build 4,110→5,626 ms; retained static memory 309,098,122→377,103,143 bytes. Software-host measurements, not phone performance.
-- [Package comparison](pack-comparison.json): 112,557,688-byte PCK, +3,853,304 bytes over reviewed-base rebuild. The assembler owns larger-build packaging.
-- [Regression comparison](regression-comparison.json): inherited sign/drive and engine errors remain explicit.
+- [Package comparison](pack-comparison.json): 112,557,688-byte PCK, +3,853,304 bytes over reviewed-base rebuild. This is 7,700,088 bytes over 100 MiB; the assembler owns larger-build packaging.
+- [Independent raw regression audit](review/raw-regression-audit.json): seven failed sign trips; drive stops after eight successful legs and failed Ring leg 9, with twelve planned legs unexercised. Inherited engine errors remain explicit.
 - [Ordinary entry comparison](ordinary-comparison.json): both strict runs failed with 48 common engine errors; baseline also timed out waiting for speed.
 - [Rejected QA recheck](automatic-review-rejection.md): the denied action never executed; original failures remain unchanged.
 

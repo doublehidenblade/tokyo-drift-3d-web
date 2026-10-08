@@ -1,0 +1,142 @@
+[
+  {
+    "file": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_albedo.jpg",
+    "sha256": "6a9b2a65f799134867cd94cd674b77cf6af80292dabf139933d66dbe3193fb9e",
+    "size": [
+      2048,
+      2048
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/buildings/kamome_hall/kamome_hall_emission.jpg",
+    "sha256": "8c05e31fba4faf13d288ff9628f2e7be3ace9eb31f98f4cd6068c55588f54218",
+    "size": [
+      2048,
+      2048
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_albedo.jpg",
+    "sha256": "1b7434fe7ada93fa67bf21dcff2d2ca9e3334d1d83103e38b0bbc80613a3b753",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/sengyo_stall/sengyo_stall_emission.jpg",
+    "sha256": "7034ced4885a3898b303cd28bbb8c890be1d7d4a7ab1c73874780034f0c3ef1c",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/ramen_window/ramen_window_albedo.jpg",
+    "sha256": "f24955a3cdf794f9ccbb388c68336741eaf522a5691ebeb5d4717c979a4b65fb",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/ramen_window/ramen_window_emission.jpg",
+    "sha256": "d42aec024130e63af097fcd60e946055b10211163f0391cea71e96a3be56c75b",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_albedo.jpg",
+    "sha256": "bd0207b00ad69b022507c03084a8e1163cb8f28823bbaee70a9bd92724ce31c2",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/tabako_kiosk/tabako_kiosk_emission.jpg",
+    "sha256": "f510ea4b5cc42e845ed806b6db6c57a7ce94c5c0bb003ebd36c9d1f45c6874fa",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/sakaya/sakaya_albedo.jpg",
+    "sha256": "0c6b03608dab099fe9da03a902c01981ef96ee21f6e3bd97cc45972bde28ec4a",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/storefronts/sakaya/sakaya_emission.jpg",
+    "sha256": "c8e95aa95fe0d61b5f310e64f2cbb6693afd90331409785892f087b33a754661",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 2048,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/props/fish_crates/fish_crates_albedo.jpg",
+    "sha256": "65afda1bdbd4f3a90f24e59afa71d715f0ebcd303edbc6029e1e3e99b573abda",
+    "size": [
+      1024,
+      1024
+    ],
+    "limit": 1024,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/props/hand_trucks/hand_trucks_albedo.jpg",
+    "sha256": "6b16f0c4deb6aead72d8c6cfa1f02d463e9c457cfd426ce07b3755b241c216a1",
+    "size": [
+      512,
+      512
+    ],
+    "limit": 1024,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_albedo.jpg",
+    "sha256": "c69c67af4bb6969f5675fa59f84f311816ed331b2a33334f0b5bbc764d74cfef",
+    "size": [
+      512,
+      512
+    ],
+    "limit": 1024,
+    "passes": true
+  },
+  {
+    "file": "godot/assets/td-186/props/tube_pedestal/tube_pedestal_emission.jpg",
+    "sha256": "51758a21fc887f767f2cd40e08247f9e7c00c9808d77118c3102830de0af9ba0",
+    "size": [
+      512,
+      512
+    ],
+    "limit": 1024,
+    "passes": true
+  }
+]

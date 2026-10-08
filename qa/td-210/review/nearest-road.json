@@ -1,0 +1,5180 @@
+{
+  "method": "Independent Euclidean frontage-edge midpoint distance to all authored street centerline segments; diagnostic, not a replacement for inspected pixels. No road data edited.",
+  "lots": [
+    {
+      "lot": 1022,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        1021.75,
+        643.645
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1023,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        673.035
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1024,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1094.5,
+        673.2049999999999
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1025,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1074.425,
+        627.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1026,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1042.3,
+        718.15
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1027,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1075.175,
+        718.15
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1028,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1041.7,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1029,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1074.575,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1030,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        778.675
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1031,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1094.5,
+        778.675
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1032,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1042.385,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1033,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1075.26,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1034,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        982.295
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1035,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        1015.21
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1036,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1094.5,
+        1014.8299999999999
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1037,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        981.915
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1038,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        1021.75,
+        1064.3600000000001
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1039,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1073.47,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1040,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        1095.38
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1041,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1041.6799999999998,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1042,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1074.5549999999998,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1043,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        1096.15
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1044,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        1094.5,
+        594.1600000000001
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1045,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        561.2850000000001
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1046,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1038.22,
+        543.75
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 61.77999999999997,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1047,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1038.22,
+        613.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1048,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        526.155
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1049,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1073.15,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1050,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1036.83,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1051,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1018.36,
+        525.215
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 55.21500000000003,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1052,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        999.515,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1053,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        999.515,
+        541.65
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 59.514999999999986,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1054,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        963.01,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1055,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        941.85,
+        523.5
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1056,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        941.85,
+        559.175
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1057,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        941.85,
+        593.1
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1058,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        998.645,
+        613.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1059,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        998.645,
+        541.65
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 58.64499999999998,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1060,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1094.5,
+        848.44
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1061,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        1094.5,
+        880.2049999999999
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1062,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1021.75,
+        848.65
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1063,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1021.75,
+        880.415
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1064,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1042.3200000000002,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1065,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1075.1950000000002,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1066,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        1075.295,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1067,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1041.745,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1068,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1023.9,
+        1209.3899999999999
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 59.38999999999987,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1069,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1094.5,
+        1209.3899999999999
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1070,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1006.645,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1071,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        989.39,
+        1208.8899999999999
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 58.88999999999987,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1072,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        989.39,
+        1246.8449999999998
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 69.38999999999999,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1073,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1006.885,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1074,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1042.365,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1075,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1094.5,
+        1283.675
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1076,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        1247.59
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1077,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1024.38,
+        1247.59
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 72.41000000000008,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1078,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        972.54,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1079,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        921.85,
+        1172.34
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1080,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        1209.6999999999998
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1081,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        989.39,
+        1209.6999999999998
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 59.69999999999982,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1082,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        1248.46
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1083,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        989.39,
+        1248.46
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 69.38999999999999,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1084,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        1283.675
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1085,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        973.135,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1086,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1072.595,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1087,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        407.115
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1088,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1014.15,
+        408.84000000000003
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 61.15999999999997,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1089,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1034.17,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1090,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishitenjin",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1094.5,
+        368.905
+      ],
+      "nearest_authored_street": "nishitenjin",
+      "distance_to_street_centerline_m": 5.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1091,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1034.16,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1092,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        992.4649999999999,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1093,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        992.4649999999999,
+        425.43
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 44.56999999999999,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1094,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        981.92,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1095,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1003.605,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1096,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        959.98,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1097,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        938.63,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1098,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        908.745,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1099,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        909.165,
+        426.16
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 43.839999999999975,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1100,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        909.165,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1101,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        949.8499999999999,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1102,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        949.8499999999999,
+        388.17
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 58.170000000000016,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1103,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        846.5,
+        367.56
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1104,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        405.84000000000003
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1105,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        445.355
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1106,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        878.8050000000001,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1107,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        941.85,
+        644.345
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1108,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1018.25,
+        644.345
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1109,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        941.85,
+        686.4200000000001
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1110,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1018.25,
+        686.4200000000001
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1111,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        921.85,
+        848.51
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1112,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "shosha",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        991.26,
+        830.0
+      ],
+      "nearest_authored_street": "shosha",
+      "distance_to_street_centerline_m": 10.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1113,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        880.4449999999999
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1114,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        940.1800000000001,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1115,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        970.135,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1116,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1000.005,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1117,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1018.25,
+        880.035
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1118,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        955.01,
+        880.035
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 35.00999999999999,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1119,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        941.85,
+        779.735
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1120,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        1018.25,
+        779.735
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1121,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        998.28,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1122,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        963.5799999999999,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1123,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        946.6949999999999,
+        1033.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1124,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        991.395,
+        1033.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1125,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1018.25,
+        983.715
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1126,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        1018.25,
+        951.4200000000001
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1127,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        968.83,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1128,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        921.85,
+        949.605
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1129,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        981.9000000000001
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1130,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        984.94,
+        981.9000000000001
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 35.059999999999945,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1131,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        1018.25,
+        1065.5900000000001
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1132,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        971.755,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1133,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        955.35,
+        1097.835
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 35.35000000000002,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1134,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi4",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        1018.25,
+        1097.835
+      ],
+      "nearest_authored_street": "uogashi4",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1135,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        921.85,
+        1064.795
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1136,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        921.85,
+        1097.04
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1137,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        948.09,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1138,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        992.79,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1139,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        938.15,
+        490.385
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1140,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        890.465,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1141,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        875.6,
+        523.965
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 35.60000000000002,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1142,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        938.15,
+        523.965
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1143,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        862.8,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1144,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        525.59
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1145,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        560.5550000000001
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1146,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        594.05
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1147,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        892.31,
+        613.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1148,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        938.15,
+        593.74
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1149,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        938.15,
+        560.245
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1150,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        876.26,
+        560.245
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 36.25999999999999,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1151,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kenji_dock",
+      "fallback_frontage": false,
+      "primary_edge": 167,
+      "frontage_midpoint_plan": [
+        892.25,
+        702.91
+      ],
+      "nearest_authored_street": "kenji_dock",
+      "distance_to_street_centerline_m": 2.25,
+      "measured_frontage_width_m": 12.0
+    },
+    {
+      "lot": 1152,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        938.15,
+        692.325
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1153,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        846.5,
+        692.325
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1154,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        938.15,
+        778.985
+      ],
+      "nearest_authored_street": "uogashi3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1155,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "shosha",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        891.745,
+        810.0
+      ],
+      "nearest_authored_street": "shosha",
+      "distance_to_street_centerline_m": 10.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1156,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        919.9,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1157,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        890.52,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1158,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        846.5,
+        744.8050000000001
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1159,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        785.38
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1160,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        898.9749999999999,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1161,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        918.15,
+        1098.2150000000001
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1162,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        846.5,
+        1098.345
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1163,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        866.65,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1164,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        918.15,
+        1065.33
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1165,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        866.9,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1166,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        898.515,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1167,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        918.15,
+        879.6400000000001
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1168,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        846.5,
+        880.1700000000001
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1169,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        866.19,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1170,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        918.15,
+        848.845
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1171,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        846.5,
+        848.845
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1172,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        918.15,
+        960.05
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1173,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        846.5,
+        960.05
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1174,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        918.15,
+        1012.625
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1175,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kori",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        865.505,
+        991.75
+      ],
+      "nearest_authored_street": "kori",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1176,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        918.15,
+        1207.1750000000002
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1177,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        846.5,
+        1207.1750000000002
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1178,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        898.55,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1179,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        866.225,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1180,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi3b",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        918.15,
+        1286.45
+      ],
+      "nearest_authored_street": "uogashi3b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1181,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        899.4300000000001,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1182,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        867.105,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1183,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        846.5,
+        1286.25
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1184,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        663.5450000000001,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1185,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        700.71,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1186,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        719.68,
+        407.07
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 62.93000000000001,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1187,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        641.85,
+        407.07
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1188,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        700.51,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1189,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        641.85,
+        367.595
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1190,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        738.1949999999999,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1191,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        756.71,
+        406.775
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 63.22500000000002,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1192,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        774.77,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1193,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        811.415,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1194,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        406.385
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1195,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        756.71,
+        406.385
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 63.61500000000001,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1196,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        367.73
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1197,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        765.455,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1198,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "rinko",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        735.385,
+        346.0
+      ],
+      "nearest_authored_street": "rinko",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1199,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        741.85,
+        1215.9450000000002
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1200,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        741.85,
+        1176.295
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1201,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        787.53,
+        1238.15
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1202,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        833.5,
+        1207.525
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1203,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        816.78,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1204,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        787.905,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1205,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        761.85,
+        686.62
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1206,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        833.5,
+        686.62
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1207,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        813.475,
+        627.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1208,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        761.85,
+        644.5450000000001
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1209,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        780.48,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1210,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        812.8050000000001,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1211,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        779.26
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1212,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        833.5,
+        779.26
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1213,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        767.425,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1214,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        809.75,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1215,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        741.85,
+        1096.895
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1216,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        741.85,
+        1129.37
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1217,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        787.895,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1218,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        816.3199999999999,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1219,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        1097.395
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1220,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        773.15,
+        1097.395
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 33.14999999999998,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1221,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        741.85,
+        1259.2199999999998
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1222,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        741.85,
+        1286.795
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1223,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        786.53,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1224,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        833.5,
+        1286.3400000000001
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1225,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        816.3050000000001,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1226,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        787.225,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1227,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        813.61,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1228,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        833.5,
+        525.8
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1229,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        781.2850000000001,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1230,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        524.74
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1231,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        559.51
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1232,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        592.735
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1233,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        833.5,
+        593.565
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1234,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        560.3399999999999
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1235,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        833.5,
+        847.485
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1236,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        761.85,
+        847.485
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1237,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        877.2
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1238,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        782.325,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1239,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        814.65,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1240,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        878.375
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1241,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        814.5350000000001,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1242,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        782.21,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1243,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        984.595
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1244,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        761.85,
+        1016.11
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1245,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        814.1700000000001,
+        1033.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1246,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kamome",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        833.5,
+        983.225
+      ],
+      "nearest_authored_street": "kamome",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1247,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        733.575,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1248,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        688.925,
+        931.85
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1249,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        661.85,
+        984.06
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1250,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        661.85,
+        1015.645
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1251,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        710.405,
+        1033.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1252,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        758.15,
+        1014.74
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1253,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        758.15,
+        983.155
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1254,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        695.54,
+        983.155
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 35.539999999999964,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1255,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 34,
+      "frontage_midpoint_plan": [
+        729.95,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1256,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "hakobi",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        701.75,
+        524.585
+      ],
+      "nearest_authored_street": "hakobi",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1257,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "hakobi",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        701.75,
+        560.79
+      ],
+      "nearest_authored_street": "hakobi",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1258,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        729.95,
+        613.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1259,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        661.85,
+        910.4
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1260,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        708.4849999999999,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1261,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        724.81,
+        880.23
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 35.190000000000055,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1262,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        661.85,
+        880.23
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1263,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri3",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        739.73,
+        928.15
+      ],
+      "nearest_authored_street": "seri3",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1264,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        758.15,
+        880.5999999999999
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1265,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        758.15,
+        848.905
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1266,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        661.85,
+        848.905
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1267,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        661.85,
+        786.88
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1268,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        661.85,
+        746.3050000000001
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1269,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishimon",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        710.12,
+        810.0
+      ],
+      "nearest_authored_street": "nishimon",
+      "distance_to_street_centerline_m": 10.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1270,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        758.15,
+        778.74
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1271,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        739.76,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1272,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        709.585,
+        721.85
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1273,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        737.06,
+        718.15
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1274,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        758.15,
+        672.2750000000001
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1275,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        700.235,
+        656.61
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 36.610000000000014,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1276,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri2",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        700.235,
+        718.15
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1277,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        758.15,
+        643.5550000000001
+      ],
+      "nearest_authored_street": "uogashi2b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1278,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        701.135,
+        627.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1279,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        641.85,
+        651.165
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1280,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        641.85,
+        693.24
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1281,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        567.4100000000001,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1282,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        1287.12
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1283,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        604.635,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1284,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        604.635,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1285,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        642.405,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1286,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        642.405,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1287,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "soshajo_ring",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        679.75,
+        1304.0
+      ],
+      "nearest_authored_street": "soshajo_ring",
+      "distance_to_street_centerline_m": 16.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1288,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        679.75,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1289,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        738.15,
+        1285.8400000000001
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1290,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        716.895,
+        1241.85
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1291,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        568.565,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1292,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        605.495,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1293,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        1095.79
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1294,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        567.0899999999999,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1295,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        604.02,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1296,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        604.02,
+        1079.65
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 39.65000000000009,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1297,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        642.5,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1298,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        642.5,
+        1046.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1299,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        679.86,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1300,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "taru",
+      "fallback_frontage": false,
+      "primary_edge": 87,
+      "frontage_midpoint_plan": [
+        698.05,
+        1084.35
+      ],
+      "nearest_authored_street": "taru",
+      "distance_to_street_centerline_m": 1.9500000000000455,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1301,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        716.615,
+        1148.15
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1302,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        738.15,
+        1096.355
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1303,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        738.15,
+        1064.525
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1304,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "taru",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        698.05,
+        1064.525
+      ],
+      "nearest_authored_street": "taru",
+      "distance_to_street_centerline_m": 1.9500000000000455,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1305,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        566.64,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1306,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        602.65,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1307,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        1207.69
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1308,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        602.085,
+        1238.15
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1309,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        640.745,
+        1238.15
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1310,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        640.745,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1311,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri5",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        679.215,
+        1238.15
+      ],
+      "nearest_authored_street": "seri5",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1312,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi2",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        738.15,
+        1207.3600000000001
+      ],
+      "nearest_authored_street": "uogashi2",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1313,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        716.38,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1314,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri4",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        678.79,
+        1151.85
+      ],
+      "nearest_authored_street": "seri4",
+      "distance_to_street_centerline_m": 1.849999999999909,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1315,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 34,
+      "frontage_midpoint_plan": [
+        670.05,
+        613.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1316,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "hakobi",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        698.25,
+        560.565
+      ],
+      "nearest_authored_street": "hakobi",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1317,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "hakobi",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        698.25,
+        524.89
+      ],
+      "nearest_authored_street": "hakobi",
+      "distance_to_street_centerline_m": 1.75,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1318,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        670.05,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1319,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 19,
+      "frontage_midpoint_plan": [
+        638.15,
+        647.4449999999999
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1320,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "ichiba",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        590.525,
+        627.0
+      ],
+      "nearest_authored_street": "ichiba",
+      "distance_to_street_centerline_m": 7.0,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1321,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        575.68,
+        683.05
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 35.67999999999995,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1322,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        638.15,
+        683.05
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1323,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        546.5,
+        646.7950000000001
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1324,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        682.4000000000001
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1325,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        729.0150000000001
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1326,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        781.4100000000001
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1327,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishimon",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        601.52,
+        810.0
+      ],
+      "nearest_authored_street": "nishimon",
+      "distance_to_street_centerline_m": 10.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1328,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        619.25,
+        753.8699999999999
+      ],
+      "nearest_authored_street": "seri2",
+      "distance_to_street_centerline_m": 39.72076786770357,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1329,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        658.15,
+        790.39
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1330,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        658.15,
+        754.98
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1331,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 29,
+      "frontage_midpoint_plan": [
+        638.15,
+        710.81
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1332,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": true,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        601.815,
+        701.71
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 38.184999999999945,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1333,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 18,
+      "frontage_midpoint_plan": [
+        546.5,
+        1010.55
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1334,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        546.5,
+        970.72
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1335,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "reizo",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        604.615,
+        1033.5
+      ],
+      "nearest_authored_street": "reizo",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1336,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        658.15,
+        1011.345
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1337,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        658.15,
+        971.5150000000001
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1338,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        585.56,
+        971.5150000000001
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 45.559999999999945,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1339,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        658.15,
+        930.725
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1340,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        546.5,
+        930.725
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1341,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        658.15,
+        891.665
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1342,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        585.94,
+        891.665
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 45.940000000000055,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1343,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1b",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        658.15,
+        852.86
+      ],
+      "nearest_authored_street": "uogashi1b",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1344,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "nishimon",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        603.86,
+        830.0
+      ],
+      "nearest_authored_street": "nishimon",
+      "distance_to_street_centerline_m": 10.0,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1345,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        546.5,
+        851.21
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1346,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        890.015
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1347,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": false,
+      "primary_edge": 26,
+      "frontage_midpoint_plan": [
+        616.05,
+        599.85
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 1.7499999999999603,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1348,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        638.15,
+        561.2750000000001
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1349,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        578.885,
+        571.98
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 1.7469999999999801,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1350,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": false,
+      "primary_edge": 13,
+      "frontage_midpoint_plan": [
+        559.8,
+        557.665
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 1.7480000000000018,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1351,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        638.15,
+        527.085
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1352,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        577.1,
+        527.085
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 36.591999999999985,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1353,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        638.15,
+        492.54
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1354,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        592.575,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1355,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        563.55,
+        471.85
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 18.0
+    },
+    {
+      "lot": 1356,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        526.975
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1357,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 15,
+      "frontage_midpoint_plan": [
+        638.15,
+        446.395
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1358,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "seri1",
+      "fallback_frontage": false,
+      "primary_edge": 2,
+      "frontage_midpoint_plan": [
+        590.91,
+        468.15
+      ],
+      "nearest_authored_street": "seri1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1359,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        638.15,
+        407.86
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1360,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": true,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        575.39,
+        407.86
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 35.389999999999986,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1361,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 1,
+      "frontage_midpoint_plan": [
+        546.5,
+        407.145
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1362,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        546.5,
+        445.67999999999995
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1363,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uogashi1",
+      "fallback_frontage": false,
+      "primary_edge": 0,
+      "frontage_midpoint_plan": [
+        638.15,
+        368.53999999999996
+      ],
+      "nearest_authored_street": "uogashi1",
+      "distance_to_street_centerline_m": 1.8500000000000227,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1364,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "kotobuki_e",
+      "fallback_frontage": false,
+      "primary_edge": 17,
+      "frontage_midpoint_plan": [
+        546.5,
+        368.53999999999996
+      ],
+      "nearest_authored_street": "kotobuki_e",
+      "distance_to_street_centerline_m": 6.5,
+      "measured_frontage_width_m": 24.0
+    },
+    {
+      "lot": 1365,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": false,
+      "primary_edge": 19,
+      "frontage_midpoint_plan": [
+        570.2,
+        569.835
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 1.748000000000001,
+      "measured_frontage_width_m": 6.0
+    },
+    {
+      "lot": 1366,
+      "source_district": "kamome",
+      "source_style": "hall",
+      "source_street": "uroko",
+      "fallback_frontage": false,
+      "primary_edge": 30,
+      "frontage_midpoint_plan": [
+        595.2,
+        588.585
+      ],
+      "nearest_authored_street": "uroko",
+      "distance_to_street_centerline_m": 1.7480000000000018,
+      "measured_frontage_width_m": 6.0
+    }
+  ]
+}
