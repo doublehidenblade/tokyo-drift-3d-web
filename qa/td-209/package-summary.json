@@ -1,0 +1,31 @@
+{
+  "before": {
+    "path": "build/td209-base-native-import/index.pck",
+    "bytes": 102777856,
+    "sha256": "05bd88b54afe9cdf8816fb1335476f57fcaef8e0afad8efc7cf6c160fcec613e",
+    "main_scene": "res://scenes/main_menu.tscn",
+    "source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47"
+  },
+  "after": {
+    "path": "build/td209-final-released/index.pck",
+    "bytes": 108704384,
+    "sha256": "b85112efa5d2e4fde81e9cf580791f962bd0a4947babb62ed438b422eb6d4933",
+    "main_scene": "res://scenes/main_menu.tscn",
+    "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b"
+  },
+  "delta_bytes": 5926528,
+  "temporary_route_bytes": 104857600,
+  "after_over_route_bytes": 3846784,
+  "supplied_integration_pack_bytes": 102777824,
+  "local_base_difference_from_supplied_bytes": 32,
+  "common_ctex_byte_changes": [],
+  "common_semantic_glbs": 102,
+  "semantic_changes": [],
+  "semantic_scope": "Imported node hierarchy/transforms, mesh surface arrays and LOD buffers, selected StandardMaterial3D properties and texture paths. Does not claim all generated resource UID bytes identical.",
+  "audit_logs": [
+    "logs/pack-before-semantic-final.log",
+    "logs/pack-after-released-final.log"
+  ],
+  "clean_audit_logs": true,
+  "not_the_supplied_baseline": "Public-web index.pck100,963,028 bytes is an earlier artifact without Fuel JSON; its failed pack-supplied audit is retained only for chronology."
+}

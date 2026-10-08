@@ -1,0 +1,73 @@
+{
+  "scope": "Parked actual ChaseCam snapshots; draw counts include existing traffic/UI. Host frame times remain raw, are affected by software rendering and concurrent non-render tests, and are not device FPS evidence.",
+  "telemetry": {
+    "native": {
+      "before": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 498.0,
+          "max_draw_calls": 1549,
+          "median_triangles": 144689.5,
+          "max_triangles": 295634
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1741.0,
+          "max_draw_calls": 2838,
+          "median_triangles": 202360.5,
+          "max_triangles": 353126
+        }
+      },
+      "after": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 513.0,
+          "max_draw_calls": 1573,
+          "median_triangles": 461036.0,
+          "max_triangles": 711009
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1761.0,
+          "max_draw_calls": 2862,
+          "median_triangles": 519728.0,
+          "max_triangles": 768503
+        }
+      }
+    },
+    "browser": {
+      "before": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 480.5,
+          "max_draw_calls": 1488,
+          "median_triangles": 134020.5,
+          "max_triangles": 333448
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1837.0,
+          "max_draw_calls": 2853,
+          "median_triangles": 192353.5,
+          "max_triangles": 378216
+        }
+      },
+      "after": {
+        "world": {
+          "frames": 30,
+          "median_draw_calls": 467.5,
+          "max_draw_calls": 1512,
+          "median_triangles": 445681.0,
+          "max_triangles": 698205
+        },
+        "hud": {
+          "frames": 30,
+          "median_draw_calls": 1830.0,
+          "max_draw_calls": 2872,
+          "median_triangles": 504321.0,
+          "max_triangles": 757301
+        }
+      }
+    }
+  }
+}

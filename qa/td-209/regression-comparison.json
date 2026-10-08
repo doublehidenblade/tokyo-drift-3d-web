@@ -1,0 +1,1195 @@
+{
+  "base_source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+  "final_runtime_source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "scope": "Raw failure evidence preserved. Drive and sign failures predate this change; this is not an all-green regression claim. Signs per-trip numeric differences are retained.",
+  "tests": {
+    "build": {
+      "base_log": "logs/base-lower-city-build-restored.log",
+      "after_log": "logs/released-lower-city-build.log",
+      "base_events": {},
+      "after_events": {},
+      "events_identical": true,
+      "base_failures": [],
+      "after_failures": []
+    },
+    "ramps": {
+      "base_log": "logs/base-lower-city-ramps.log",
+      "after_log": "logs/released-lower-city-ramps.log",
+      "base_events": {
+        "TD185_RAMP": [
+          {
+            "end_y": -5.6360936164856,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_outer_on",
+            "merge_lane_m": 0.0,
+            "min_y_after_top": -5.6360936164856,
+            "past_top": 142.822875976562,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "closed": false,
+            "closest_m": -0.03,
+            "inside_m": 114.09,
+            "mouth": "tenjinkita_ic_outer_off",
+            "v_max": 24.3
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 117.028564453125,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.283569335938,
+            "recoveries": 0,
+            "v_top": 29.9605903625488
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.171264648438,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 202.660278320312,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.167175292969,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.192993164062,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "closed": true,
+            "closest_m": -2.16,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.16,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.6,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.55,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_inner_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.55,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_inner_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.6,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.54,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_inner_on",
+            "v_max": 23.4
+          }
+        ],
+        "TD185_RAMPS": [
+          {
+            "checks": 25,
+            "failures": 0
+          }
+        ]
+      },
+      "after_events": {
+        "TD185_RAMP": [
+          {
+            "end_y": -5.6360936164856,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_outer_on",
+            "merge_lane_m": 0.0,
+            "min_y_after_top": -5.6360936164856,
+            "past_top": 142.822875976562,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "closed": false,
+            "closest_m": -0.03,
+            "inside_m": 114.09,
+            "mouth": "tenjinkita_ic_outer_off",
+            "v_max": 24.3
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 117.028564453125,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "tenjinkita_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.282836914062,
+            "recoveries": 0,
+            "v_top": 29.9605808258057
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.171264648438,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "kashi_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 202.6591796875,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_outer_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.164001464844,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "end_y": 7.0,
+            "h_top": 7.0,
+            "id": "daikoku_ic_inner_on",
+            "merge_lane_m": 70.0,
+            "min_y_after_top": 7.0,
+            "past_top": 203.192993164062,
+            "recoveries": 0,
+            "v_top": 29.961145401001
+          },
+          {
+            "closed": true,
+            "closest_m": -2.16,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.16,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.51,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.55,
+            "inside_m": 0.0,
+            "mouth": "tenjinkita_ic_inner_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.55,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "kashi_ic_inner_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.54,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_outer_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -1.54,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_outer_on",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_inner_off",
+            "v_max": 23.4
+          },
+          {
+            "closed": true,
+            "closest_m": -2.15,
+            "inside_m": 0.0,
+            "mouth": "daikoku_ic_inner_on",
+            "v_max": 23.4
+          }
+        ],
+        "TD185_RAMPS": [
+          {
+            "checks": 25,
+            "failures": 0
+          }
+        ]
+      },
+      "events_identical": false,
+      "base_failures": [],
+      "after_failures": []
+    },
+    "signs": {
+      "base_log": "logs/base-lower-city-signs.log",
+      "after_log": "logs/released-lower-city-signs.log",
+      "base_events": {
+        "TD185_SIGNS_TABLE": [
+          {
+            "fails_by_pair": {
+              "->depots": 1,
+              "->kotobuki": 1,
+              "chidori->depots": 65,
+              "chidori->kamome": 21,
+              "chidori->kotobuki": 25,
+              "shinkai->depots": 5,
+              "shinkai->kamome": 4
+            },
+            "median_time_vs_best": 1.0,
+            "mode": "signs only",
+            "ok": 3715,
+            "trials": 3837
+          },
+          {
+            "fails_by_pair": {},
+            "median_time_vs_best": 1.0,
+            "mode": "signs+map",
+            "ok": 3837,
+            "trials": 3837
+          }
+        ],
+        "TD185_TRIP": [
+          {
+            "arcs": 5,
+            "driven_m": 477,
+            "from": "asahi_hq",
+            "ok": true,
+            "recoveries": 0,
+            "route": "銀行通り > 天神大通り > 商社通り",
+            "signed_decisions": 4,
+            "stuck": 0,
+            "time_s": 32.6,
+            "to": "kamome"
+          },
+          {
+            "arcs": 10,
+            "driven_m": 1103,
+            "from": "kenji_hall",
+            "ok": true,
+            "recoveries": 0,
+            "route": "市場通り > 河岸通り > 銀行通り > 星通り",
+            "signed_decisions": 9,
+            "stuck": 0,
+            "time_s": 66.2,
+            "to": "chidori"
+          },
+          {
+            "arcs": 17,
+            "driven_m": 1823,
+            "from": "starlight",
+            "ok": true,
+            "recoveries": 0,
+            "route": "星通り > 楓通り > 北千鳥通り > 操車場通り",
+            "signed_decisions": 15,
+            "stuck": 0,
+            "time_s": 105.3,
+            "to": "kotobuki"
+          },
+          {
+            "arcs": 19,
+            "driven_m": 1869,
+            "from": "mariko",
+            "ok": true,
+            "recoveries": 0,
+            "route": "寿二丁目小路 > 寿西通り > 西門通り > 商社通り > 河岸通り > 産業道路",
+            "signed_decisions": 18,
+            "stuck": 0,
+            "time_s": 115.6,
+            "to": "shinkai"
+          },
+          {
+            "arcs": 3,
+            "driven_m": 446,
+            "from": "kettle_lab",
+            "ok": true,
+            "recoveries": 0,
+            "route": "産業道路 > 第二工場通り",
+            "signed_decisions": 3,
+            "stuck": 0,
+            "time_s": 28.1,
+            "to": "daikoku"
+          },
+          {
+            "arcs": 18,
+            "driven_m": 1842,
+            "from": "gate2",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第二ゲート通り > コンテナ横丁 > 第三ゲート通り > 埠頭大通り > 検数通り > 臨港通り > 天神大通り",
+            "signed_decisions": 12,
+            "stuck": 7,
+            "time_s": 150.2,
+            "to": "depots"
+          },
+          {
+            "arcs": 5,
+            "driven_m": 0,
+            "from": "yard_shed",
+            "ok": false,
+            "recoveries": 0,
+            "route": "貨物ヤード通り > 操車場通り",
+            "signed_decisions": 4,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "tenjin"
+          },
+          {
+            "arcs": 10,
+            "driven_m": 0,
+            "from": "hotel_lantern",
+            "ok": false,
+            "recoveries": 0,
+            "route": "運河通り > 楓通り > 第二工場通り",
+            "signed_decisions": 7,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "daikoku"
+          },
+          {
+            "arcs": 16,
+            "driven_m": 0,
+            "from": "rinse4",
+            "ok": false,
+            "recoveries": 0,
+            "route": "洗浄横丁 > 市場通り > 河岸通り > 銀行通り > 星通り",
+            "signed_decisions": 14,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "chidori"
+          },
+          {
+            "arcs": 9,
+            "driven_m": 0,
+            "from": "shaft1_dock",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第一昇降塔前 > 臨港通り",
+            "signed_decisions": 7,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "kamome"
+          },
+          {
+            "arcs": 15,
+            "driven_m": 0,
+            "from": "t2_queue",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第二昇降塔前 > 天神大通り > 操車場通り",
+            "signed_decisions": 10,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "kotobuki"
+          },
+          {
+            "arcs": 12,
+            "driven_m": 0,
+            "from": "seri_window",
+            "ok": false,
+            "recoveries": 0,
+            "route": "競り小路 > 魚河岸横丁 > 西門通り > 商社通り > 河岸通り > 産業道路",
+            "signed_decisions": 9,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "shinkai"
+          }
+        ],
+        "TD185_SIGNS": [
+          {
+            "drive_min": 11.42,
+            "failures": 7,
+            "km": 7.56,
+            "trips": 12
+          }
+        ]
+      },
+      "after_events": {
+        "TD185_SIGNS_TABLE": [
+          {
+            "fails_by_pair": {
+              "->depots": 1,
+              "->kotobuki": 1,
+              "chidori->depots": 65,
+              "chidori->kamome": 21,
+              "chidori->kotobuki": 25,
+              "shinkai->depots": 5,
+              "shinkai->kamome": 4
+            },
+            "median_time_vs_best": 1.0,
+            "mode": "signs only",
+            "ok": 3715,
+            "trials": 3837
+          },
+          {
+            "fails_by_pair": {},
+            "median_time_vs_best": 1.0,
+            "mode": "signs+map",
+            "ok": 3837,
+            "trials": 3837
+          }
+        ],
+        "TD185_TRIP": [
+          {
+            "arcs": 5,
+            "driven_m": 477,
+            "from": "asahi_hq",
+            "ok": true,
+            "recoveries": 0,
+            "route": "銀行通り > 天神大通り > 商社通り",
+            "signed_decisions": 4,
+            "stuck": 0,
+            "time_s": 32.6,
+            "to": "kamome"
+          },
+          {
+            "arcs": 10,
+            "driven_m": 1103,
+            "from": "kenji_hall",
+            "ok": true,
+            "recoveries": 0,
+            "route": "市場通り > 河岸通り > 銀行通り > 星通り",
+            "signed_decisions": 9,
+            "stuck": 0,
+            "time_s": 66.2,
+            "to": "chidori"
+          },
+          {
+            "arcs": 17,
+            "driven_m": 1823,
+            "from": "starlight",
+            "ok": true,
+            "recoveries": 0,
+            "route": "星通り > 楓通り > 北千鳥通り > 操車場通り",
+            "signed_decisions": 15,
+            "stuck": 0,
+            "time_s": 105.3,
+            "to": "kotobuki"
+          },
+          {
+            "arcs": 19,
+            "driven_m": 1839,
+            "from": "mariko",
+            "ok": true,
+            "recoveries": 0,
+            "route": "寿二丁目小路 > 寿西通り > 西門通り > 商社通り > 河岸通り > 産業道路",
+            "signed_decisions": 18,
+            "stuck": 0,
+            "time_s": 113.3,
+            "to": "shinkai"
+          },
+          {
+            "arcs": 3,
+            "driven_m": 446,
+            "from": "kettle_lab",
+            "ok": true,
+            "recoveries": 0,
+            "route": "産業道路 > 第二工場通り",
+            "signed_decisions": 3,
+            "stuck": 0,
+            "time_s": 28.1,
+            "to": "daikoku"
+          },
+          {
+            "arcs": 18,
+            "driven_m": 1872,
+            "from": "gate2",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第二ゲート通り > コンテナ横丁 > 第三ゲート通り > 埠頭大通り > 検数通り > 臨港通り > 天神大通り",
+            "signed_decisions": 12,
+            "stuck": 7,
+            "time_s": 150.2,
+            "to": "depots"
+          },
+          {
+            "arcs": 5,
+            "driven_m": 0,
+            "from": "yard_shed",
+            "ok": false,
+            "recoveries": 0,
+            "route": "貨物ヤード通り > 操車場通り",
+            "signed_decisions": 4,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "tenjin"
+          },
+          {
+            "arcs": 10,
+            "driven_m": 0,
+            "from": "hotel_lantern",
+            "ok": false,
+            "recoveries": 0,
+            "route": "運河通り > 楓通り > 第二工場通り",
+            "signed_decisions": 7,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "daikoku"
+          },
+          {
+            "arcs": 16,
+            "driven_m": 0,
+            "from": "rinse4",
+            "ok": false,
+            "recoveries": 0,
+            "route": "洗浄横丁 > 市場通り > 河岸通り > 銀行通り > 星通り",
+            "signed_decisions": 14,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "chidori"
+          },
+          {
+            "arcs": 9,
+            "driven_m": 0,
+            "from": "shaft1_dock",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第一昇降塔前 > 臨港通り",
+            "signed_decisions": 7,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "kamome"
+          },
+          {
+            "arcs": 15,
+            "driven_m": 0,
+            "from": "t2_queue",
+            "ok": false,
+            "recoveries": 0,
+            "route": "第二昇降塔前 > 天神大通り > 操車場通り",
+            "signed_decisions": 10,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "kotobuki"
+          },
+          {
+            "arcs": 12,
+            "driven_m": 0,
+            "from": "seri_window",
+            "ok": false,
+            "recoveries": 0,
+            "route": "競り小路 > 魚河岸横丁 > 西門通り > 商社通り > 河岸通り > 産業道路",
+            "signed_decisions": 9,
+            "stuck": 7,
+            "time_s": 31.2,
+            "to": "shinkai"
+          }
+        ],
+        "TD185_SIGNS": [
+          {
+            "drive_min": 11.38,
+            "failures": 7,
+            "km": 7.56,
+            "trips": 12
+          }
+        ]
+      },
+      "events_identical": false,
+      "base_failures": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "after_failures": [
+        "FAIL: trip gate2 -> depots (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip yard_shed -> tenjin (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip hotel_lantern -> daikoku (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip rinse4 -> chidori (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip shaft1_dock -> kamome (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip t2_queue -> kotobuki (arrived false, stuck 7, recoveries 0)",
+        "FAIL: trip seri_window -> shinkai (arrived false, stuck 7, recoveries 0)"
+      ],
+      "trip_differences": [
+        {
+          "from": "mariko",
+          "to": "shinkai",
+          "changes": {
+            "time_s": {
+              "before": 115.6,
+              "after": 113.3
+            },
+            "driven_m": {
+              "before": 1869,
+              "after": 1839
+            }
+          }
+        },
+        {
+          "from": "gate2",
+          "to": "depots",
+          "changes": {
+            "driven_m": {
+              "before": 1842,
+              "after": 1872
+            }
+          }
+        }
+      ]
+    },
+    "drive": {
+      "base_log": "logs/base-lower-city-drive-isolated.log",
+      "after_log": "logs/released-lower-city-drive.log",
+      "base_events": {
+        "TD185_LEG": [
+          {
+            "arcs": 4,
+            "avg_kmh": 50.7,
+            "classes": {
+              "arterial": 1,
+              "avenue": 2,
+              "street": 1
+            },
+            "driven_m": 407,
+            "from": "asahi_hq",
+            "leg": 1,
+            "max_y": -0.11,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 43.1,
+            "recoveries": 0,
+            "streets": "ginko > tenjin > shosha",
+            "stuck": 0,
+            "time_s": 28.9,
+            "to": "paper_exch"
+          },
+          {
+            "arcs": 7,
+            "avg_kmh": 54.7,
+            "classes": {
+              "arterial": 1,
+              "ramp": 2,
+              "ring": 1,
+              "street": 3
+            },
+            "driven_m": 1399,
+            "from": "paper_exch",
+            "leg": 2,
+            "max_y": 6.86,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 112.4,
+            "recoveries": 0,
+            "streets": "shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba",
+            "stuck": 0,
+            "time_s": 92.1,
+            "to": "kenji_hall"
+          },
+          {
+            "arcs": 7,
+            "avg_kmh": 46.2,
+            "classes": {
+              "alley": 3,
+              "arterial": 2,
+              "street": 2
+            },
+            "driven_m": 486,
+            "from": "kenji_hall",
+            "leg": 3,
+            "max_y": -0.14,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 83.2,
+            "recoveries": 0,
+            "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+            "stuck": 0,
+            "time_s": 37.9,
+            "to": "seri_window"
+          },
+          {
+            "arcs": 6,
+            "avg_kmh": 53.4,
+            "classes": {
+              "alley": 2,
+              "arterial": 3,
+              "lane": 1
+            },
+            "driven_m": 638,
+            "from": "seri_window",
+            "leg": 4,
+            "max_y": -0.15,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 86.6,
+            "recoveries": 0,
+            "streets": "seri3 > uogashi2b > nishimon > senjo1",
+            "stuck": 0,
+            "time_s": 43.0,
+            "to": "rinse4"
+          },
+          {
+            "arcs": 8,
+            "avg_kmh": 50.2,
+            "classes": {
+              "arterial": 3,
+              "lane": 3,
+              "street": 1,
+              "trench": 1
+            },
+            "driven_m": 721,
+            "from": "rinse4",
+            "leg": 5,
+            "max_y": -0.12,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 115.4,
+            "recoveries": 0,
+            "streets": "senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2",
+            "stuck": 0,
+            "time_s": 51.8,
+            "to": "mariko"
+          },
+          {
+            "arcs": 6,
+            "avg_kmh": 48.0,
+            "classes": {
+              "arterial": 3,
+              "lane": 1,
+              "street": 2
+            },
+            "driven_m": 696,
+            "from": "mariko",
+            "leg": 6,
+            "max_y": -0.13,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 85.2,
+            "recoveries": 0,
+            "streets": "slum2 > kotobuki_w > nishimon",
+            "stuck": 0,
+            "time_s": 52.1,
+            "to": "west_gate"
+          },
+          {
+            "arcs": 9,
+            "avg_kmh": 57.2,
+            "classes": {
+              "arterial": 2,
+              "avenue": 1,
+              "lane": 1,
+              "street": 5
+            },
+            "driven_m": 990,
+            "from": "west_gate",
+            "leg": 7,
+            "max_y": -0.12,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 110.9,
+            "recoveries": 0,
+            "streets": "nishimon > kotobuki_w > futo > gate2",
+            "stuck": 0,
+            "time_s": 62.3,
+            "to": "gate2"
+          },
+          {
+            "arcs": 9,
+            "avg_kmh": 53.3,
+            "classes": {
+              "alley": 1,
+              "avenue": 3,
+              "lane": 2,
+              "ramp": 1,
+              "ring": 1,
+              "street": 1
+            },
+            "driven_m": 1429,
+            "from": "gate2",
+            "leg": 8,
+            "max_y": 6.86,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 127.6,
+            "recoveries": 0,
+            "streets": "gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring",
+            "stuck": 0,
+            "time_s": 96.6,
+            "to": "arc:627"
+          },
+          {
+            "arcs": 4,
+            "avg_kmh": 35.8,
+            "classes": {
+              "ring": 4
+            },
+            "driven_m": 793,
+            "from": "arc:627",
+            "leg": 9,
+            "max_y": 6.85,
+            "min_y": 0.35,
+            "ok": false,
+            "plan_s": 85.9,
+            "recoveries": 0,
+            "streets": "ring",
+            "stuck": 7,
+            "time_s": 79.6,
+            "to": "arc:622"
+          }
+        ],
+        "TD185_DRIVE": [
+          {
+            "drive_min": 7.74,
+            "failures": 1,
+            "km": 6.77,
+            "legs": 21
+          }
+        ]
+      },
+      "after_events": {
+        "TD185_LEG": [
+          {
+            "arcs": 4,
+            "avg_kmh": 50.7,
+            "classes": {
+              "arterial": 1,
+              "avenue": 2,
+              "street": 1
+            },
+            "driven_m": 407,
+            "from": "asahi_hq",
+            "leg": 1,
+            "max_y": -0.11,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 43.1,
+            "recoveries": 0,
+            "streets": "ginko > tenjin > shosha",
+            "stuck": 0,
+            "time_s": 28.9,
+            "to": "paper_exch"
+          },
+          {
+            "arcs": 7,
+            "avg_kmh": 54.7,
+            "classes": {
+              "arterial": 1,
+              "ramp": 2,
+              "ring": 1,
+              "street": 3
+            },
+            "driven_m": 1399,
+            "from": "paper_exch",
+            "leg": 2,
+            "max_y": 6.86,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 112.4,
+            "recoveries": 0,
+            "streets": "shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba",
+            "stuck": 0,
+            "time_s": 92.1,
+            "to": "kenji_hall"
+          },
+          {
+            "arcs": 7,
+            "avg_kmh": 46.2,
+            "classes": {
+              "alley": 3,
+              "arterial": 2,
+              "street": 2
+            },
+            "driven_m": 486,
+            "from": "kenji_hall",
+            "leg": 3,
+            "max_y": -0.14,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 83.2,
+            "recoveries": 0,
+            "streets": "ichiba > uogashi3 > shosha > kamome > seri3",
+            "stuck": 0,
+            "time_s": 37.9,
+            "to": "seri_window"
+          },
+          {
+            "arcs": 6,
+            "avg_kmh": 53.4,
+            "classes": {
+              "alley": 2,
+              "arterial": 3,
+              "lane": 1
+            },
+            "driven_m": 638,
+            "from": "seri_window",
+            "leg": 4,
+            "max_y": -0.15,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 86.6,
+            "recoveries": 0,
+            "streets": "seri3 > uogashi2b > nishimon > senjo1",
+            "stuck": 0,
+            "time_s": 43.0,
+            "to": "rinse4"
+          },
+          {
+            "arcs": 8,
+            "avg_kmh": 50.2,
+            "classes": {
+              "arterial": 3,
+              "lane": 3,
+              "street": 1,
+              "trench": 1
+            },
+            "driven_m": 721,
+            "from": "rinse4",
+            "leg": 5,
+            "max_y": -0.12,
+            "min_y": -5.15,
+            "ok": true,
+            "plan_s": 115.4,
+            "recoveries": 0,
+            "streets": "senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2",
+            "stuck": 0,
+            "time_s": 51.8,
+            "to": "mariko"
+          },
+          {
+            "arcs": 6,
+            "avg_kmh": 48.0,
+            "classes": {
+              "arterial": 3,
+              "lane": 1,
+              "street": 2
+            },
+            "driven_m": 696,
+            "from": "mariko",
+            "leg": 6,
+            "max_y": -0.13,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 85.2,
+            "recoveries": 0,
+            "streets": "slum2 > kotobuki_w > nishimon",
+            "stuck": 0,
+            "time_s": 52.1,
+            "to": "west_gate"
+          },
+          {
+            "arcs": 9,
+            "avg_kmh": 57.2,
+            "classes": {
+              "arterial": 2,
+              "avenue": 1,
+              "lane": 1,
+              "street": 5
+            },
+            "driven_m": 990,
+            "from": "west_gate",
+            "leg": 7,
+            "max_y": -0.12,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 110.9,
+            "recoveries": 0,
+            "streets": "nishimon > kotobuki_w > futo > gate2",
+            "stuck": 0,
+            "time_s": 62.3,
+            "to": "gate2"
+          },
+          {
+            "arcs": 9,
+            "avg_kmh": 53.3,
+            "classes": {
+              "alley": 1,
+              "avenue": 3,
+              "lane": 2,
+              "ramp": 1,
+              "ring": 1,
+              "street": 1
+            },
+            "driven_m": 1429,
+            "from": "gate2",
+            "leg": 8,
+            "max_y": 6.86,
+            "min_y": -0.15,
+            "ok": true,
+            "plan_s": 127.6,
+            "recoveries": 0,
+            "streets": "gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring",
+            "stuck": 0,
+            "time_s": 96.6,
+            "to": "arc:627"
+          },
+          {
+            "arcs": 4,
+            "avg_kmh": 35.8,
+            "classes": {
+              "ring": 4
+            },
+            "driven_m": 793,
+            "from": "arc:627",
+            "leg": 9,
+            "max_y": 6.85,
+            "min_y": 0.35,
+            "ok": false,
+            "plan_s": 85.9,
+            "recoveries": 0,
+            "streets": "ring",
+            "stuck": 7,
+            "time_s": 79.6,
+            "to": "arc:622"
+          }
+        ],
+        "TD185_DRIVE": [
+          {
+            "drive_min": 7.74,
+            "failures": 1,
+            "km": 6.77,
+            "legs": 21
+          }
+        ]
+      },
+      "events_identical": true,
+      "base_failures": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+      ],
+      "after_failures": [
+        "FAIL: leg 9 arc:627 -> arc:622 ({ \"arrived\": false, \"t\": 79.6333333333301, \"m\": 792.899357900023, \"stuck\": 7, \"recoveries\": 0, \"min_y\": 0.34999853372574, \"max_y\": 6.85319423675537 })"
+      ]
+    }
+  }
+}

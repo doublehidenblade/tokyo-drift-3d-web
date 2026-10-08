@@ -1,0 +1,151 @@
+{
+  "scope": "Fresh processes sequentially on quiet 4-core 16GiB host; headless world build, not hardware rendering FPS. After source a629b5b5 has runtime bytes identical to847270a4.",
+  "runs": [
+    {
+      "phase": "before",
+      "run": 1,
+      "source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/td209-baseline/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-before-1.json"
+      ],
+      "exit": 0,
+      "seconds": 1.281,
+      "observed_peak_rss_kib": 216848,
+      "log": "logs/benchmark-before-1.log",
+      "result": "benchmark-before-1.json"
+    },
+    {
+      "phase": "before",
+      "run": 2,
+      "source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/td209-baseline/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-before-2.json"
+      ],
+      "exit": 0,
+      "seconds": 1.277,
+      "observed_peak_rss_kib": 214852,
+      "log": "logs/benchmark-before-2.log",
+      "result": "benchmark-before-2.json"
+    },
+    {
+      "phase": "before",
+      "run": 3,
+      "source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/td209-baseline/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-before-3.json"
+      ],
+      "exit": 0,
+      "seconds": 1.279,
+      "observed_peak_rss_kib": 216628,
+      "log": "logs/benchmark-before-3.log",
+      "result": "benchmark-before-3.json"
+    },
+    {
+      "phase": "after",
+      "run": 1,
+      "source": "a629b5b5668a5e9b3c88f380460665df71418a30",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-after-1.json"
+      ],
+      "exit": 0,
+      "seconds": 6.602,
+      "observed_peak_rss_kib": 755020,
+      "log": "logs/benchmark-after-1.log",
+      "result": "benchmark-after-1.json"
+    },
+    {
+      "phase": "after",
+      "run": 2,
+      "source": "a629b5b5668a5e9b3c88f380460665df71418a30",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-after-2.json"
+      ],
+      "exit": 0,
+      "seconds": 6.593,
+      "observed_peak_rss_kib": 755096,
+      "log": "logs/benchmark-after-2.log",
+      "result": "benchmark-after-2.json"
+    },
+    {
+      "phase": "after",
+      "run": 3,
+      "source": "a629b5b5668a5e9b3c88f380460665df71418a30",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-after-3.json"
+      ],
+      "exit": 0,
+      "seconds": 6.694,
+      "observed_peak_rss_kib": 755128,
+      "log": "logs/benchmark-after-3.log",
+      "result": "benchmark-after-3.json"
+    }
+  ],
+  "summary": {
+    "before": {
+      "build_ms": [
+        930,
+        938,
+        897
+      ],
+      "median_build_ms": 930,
+      "static_memory_bytes": 132969630,
+      "static_memory_peak_bytes": 181060554,
+      "median_observed_peak_rss_kib": 216628
+    },
+    "after": {
+      "build_ms": [
+        4083,
+        4069,
+        4121
+      ],
+      "median_build_ms": 4083,
+      "static_memory_bytes": 330067986,
+      "static_memory_peak_bytes": 562136367,
+      "median_observed_peak_rss_kib": 755096
+    }
+  },
+  "three_builds_identical_tenjin_meshes": true,
+  "rss_note": "Observed peak includes serialization/hashing of all62 Tenjin batches after construction. Godot static usage is recorded before JSON formatting. Do not label observed RSS as retained GPU memory."
+}

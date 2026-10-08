@@ -1,0 +1,141 @@
+{
+  "baseline_source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+  "final_source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "baseline_result": "ordinary-entry-before/result.json",
+  "final_result": "ordinary-entry/result.json",
+  "baseline_pack_sha256": "05bd88b54afe9cdf8816fb1335476f57fcaef8e0afad8efc7cf6c160fcec613e",
+  "final_pack_sha256": "b85112efa5d2e4fde81e9cf580791f962bd0a4947babb62ed438b422eb6d4933",
+  "harness_exit": {
+    "before": 1,
+    "after": 1
+  },
+  "menu_and_live_scene_reached": true,
+  "actual_keyboard_speed_kmh": {
+    "before": 8.1,
+    "after": 4.7
+  },
+  "initial_probe_state_identical": true,
+  "console_error_counts_identical": true,
+  "engine_error_count": {
+    "before": 48,
+    "after": 48
+  },
+  "errors": [
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object.",
+      "before": 22,
+      "after": 22
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\"",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\"",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\"",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\"",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'.",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7",
+      "before": 9,
+      "after": 9
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb",
+      "before": 1,
+      "after": 1
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb",
+      "before": 1,
+      "after": 1
+    }
+  ],
+  "timing_scope": "Menu/scene readiness times in raw results are software-renderer host observations during concurrent headless regressions, not quiet matched benchmarks or physical-device performance. Keyboard values are first observed speed >3km/h, not comparable acceleration measurements.",
+  "verdict": "Ordinary path and real input worked in both. Strict console-error check remains failed in both for the same inherited26 menu missing Showa resource messages and22 deferred AnimeLook calls. No all-green entry claim."
+}

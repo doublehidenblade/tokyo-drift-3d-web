@@ -1,0 +1,14 @@
+{
+  "native": {
+    "before_frames": 137,
+    "after_frames": 137,
+    "same_seed": true,
+    "camera_car_viewport_hud_differences": []
+  },
+  "browser": {
+    "before_frames": 60,
+    "after_frames": 60,
+    "same_seed": true,
+    "camera_car_viewport_hud_differences": []
+  }
+}

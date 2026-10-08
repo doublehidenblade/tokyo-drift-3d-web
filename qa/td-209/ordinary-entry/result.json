@@ -1,0 +1,291 @@
+{
+  "status": "failed",
+  "scope": "Ordinary exported menu and Lower City; real keyboard input; software renderer; no device FPS claim.",
+  "errors": [
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_bare.glb\""
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_bare.glb"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_transformer.glb\""
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_transformer.glb"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_streetlight.glb\""
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_streetlight.glb"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Can't open file at path \"res://models/props/showa/pole_corner.glb\""
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: POLE_KIT: GLB load failed: res://models/props/showa/pole_corner.glb"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_izakaya.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_pachinko.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_kissaten.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_yakkyoku.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sushi.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_sakaya.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_tabako.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/sode_soba.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Error opening file 'res://assets/showa/tex/enamel_atlas.png'."
+    },
+    {
+      "phase": "menu",
+      "message": "ERROR: Failed to load image. Error 7"
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "ERROR: Error calling deferred method: 'Node(anime_look.gd)::_style_late': Cannot convert argument 1 from Object to Object."
+    },
+    {
+      "phase": "lower-city",
+      "message": "Error: Console errors were recorded; inspect raw-console.log"
+    }
+  ],
+  "screenshots": [
+    "ordinary-menu.png",
+    "ordinary-hud-1280.png",
+    "ordinary-hud-844.png"
+  ],
+  "pack_sha256": "b85112efa5d2e4fde81e9cf580791f962bd0a4947babb62ed438b422eb6d4933",
+  "browser": "151.0.7922.173",
+  "menu_ready_ms": 95066,
+  "lower_city_ready_ms": 17166,
+  "initial_state": {
+    "map": false,
+    "paused": false,
+    "phase": "idle",
+    "rects": {
+      "brake": [
+        1062,
+        522,
+        190,
+        170
+      ],
+      "gas": [
+        1062,
+        334,
+        190,
+        170
+      ],
+      "left": [
+        28,
+        522,
+        190,
+        170
+      ],
+      "map": [
+        1050,
+        110,
+        200,
+        84
+      ],
+      "right": [
+        236,
+        522,
+        190,
+        170
+      ]
+    },
+    "speed": 0,
+    "steer": 0,
+    "throttle": 0
+  },
+  "driving_state": {
+    "map": false,
+    "paused": false,
+    "phase": "idle",
+    "rects": {
+      "brake": [
+        725.9,
+        282.8,
+        102.9,
+        92.1
+      ],
+      "gas": [
+        725.9,
+        180.9,
+        102.9,
+        92.1
+      ],
+      "left": [
+        15.2,
+        282.8,
+        102.9,
+        92.1
+      ],
+      "map": [
+        719.4,
+        59.6,
+        108.3,
+        45.5
+      ],
+      "right": [
+        127.8,
+        282.8,
+        102.9,
+        92.1
+      ]
+    },
+    "speed": 4.7,
+    "steer": 0,
+    "throttle": 0
+  }
+}

@@ -1,0 +1,2769 @@
+{
+  "phase": "after",
+  "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "errors": [],
+  "shots": [
+    "routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/ginko-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/ginko-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_north-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_north-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_north-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/nishitenjin-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/nishitenjin-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/nishitenjin-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_minami-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/ichiba-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/ichiba-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/ichiba-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/ichiba-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/kashi-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/kashi-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/kashi-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/kashi-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_kita-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/shosha-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/shosha-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/shosha-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/shosha-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/soshajo_ring-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/rinko-forward-hud-1280/td-209-criterion-2-after.png",
+    "routes/rinko-forward-world-1280/td-209-criterion-2-after.png",
+    "routes/rinko-reverse-hud-1280/td-209-criterion-2-after.png",
+    "routes/rinko-reverse-world-1280/td-209-criterion-2-after.png",
+    "routes/ginko-forward-hud-844/td-209-criterion-2-after.png",
+    "routes/ginko-forward-world-844/td-209-criterion-2-after.png",
+    "routes/ginko-reverse-hud-844/td-209-criterion-2-after.png",
+    "routes/ginko-reverse-world-844/td-209-criterion-2-after.png",
+    "routes/tenjin-forward-hud-844/td-209-criterion-2-after.png",
+    "routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
+    "routes/tenjin-reverse-hud-844/td-209-criterion-2-after.png",
+    "routes/tenjin-reverse-world-844/td-209-criterion-2-after.png"
+  ],
+  "physical_phone": false,
+  "browser": "151.0.7922.173",
+  "capture": {
+    "engine": {
+      "build": "official",
+      "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+      "hex": 263938,
+      "major": 4,
+      "minor": 7,
+      "patch": 2,
+      "status": "stable",
+      "string": "4.7.2-stable (official)",
+      "timestamp": 0
+    },
+    "frames": [
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1131,
+            3.04999995231628,
+            -1042.19995117188
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1042.19995117188
+        ],
+        "draw_calls": 1575,
+        "file": "routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 954.725,
+        "hud": true,
+        "objects": 1707,
+        "street": "ginko",
+        "triangles": 599289,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1131,
+            3.04999995231628,
+            -1042.19995117188
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1042.19995117188
+        ],
+        "draw_calls": 215,
+        "file": "routes/ginko-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 803.78,
+        "hud": false,
+        "objects": 215,
+        "street": "ginko",
+        "triangles": 540193,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1149,
+            3.04999995231628,
+            -1037.80004882812
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1037.80004882812
+        ],
+        "draw_calls": 2121,
+        "file": "routes/ginko-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 811.58,
+        "hud": true,
+        "objects": 2253,
+        "street": "ginko",
+        "triangles": 359942,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1149,
+            3.04999995231628,
+            -1037.80004882812
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1037.80004882812
+        ],
+        "draw_calls": 761,
+        "file": "routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 763.545,
+        "hud": false,
+        "objects": 761,
+        "street": "ginko",
+        "triangles": 300846,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999804496765,
+            -631
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 2872,
+        "file": "routes/tenjin-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1166.885,
+        "hud": true,
+        "objects": 3004,
+        "street": "tenjin",
+        "triangles": 676296,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999804496765,
+            -631
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 1512,
+        "file": "routes/tenjin-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1058.26,
+        "hud": false,
+        "objects": 1512,
+        "street": "tenjin",
+        "triangles": 617200,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999804496765,
+            -649
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 1706,
+        "file": "routes/tenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 792.84,
+        "hud": true,
+        "objects": 1838,
+        "street": "tenjin",
+        "triangles": 492522,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999804496765,
+            -649
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 360,
+        "file": "routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 758.44,
+        "hud": false,
+        "objects": 360,
+        "street": "tenjin",
+        "triangles": 441380,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999995231628,
+            -1091
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150000005960464,
+          -1100
+        ],
+        "draw_calls": 1631,
+        "file": "routes/tenjin_north-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 811.83,
+        "hud": true,
+        "objects": 1763,
+        "street": "tenjin_north",
+        "triangles": 423422,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999995231628,
+            -1091
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150000005960464,
+          -1100
+        ],
+        "draw_calls": 271,
+        "file": "routes/tenjin_north-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 924.73,
+        "hud": false,
+        "objects": 271,
+        "street": "tenjin_north",
+        "triangles": 364326,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999995231628,
+            -1109
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150000005960464,
+          -1100
+        ],
+        "draw_calls": 2545,
+        "file": "routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1102.91,
+        "hud": true,
+        "objects": 2677,
+        "street": "tenjin_north",
+        "triangles": 757301,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999995231628,
+            -1109
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150000005960464,
+          -1100
+        ],
+        "draw_calls": 1185,
+        "file": "routes/tenjin_north-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 981.82,
+        "hud": false,
+        "objects": 1185,
+        "street": "tenjin_north",
+        "triangles": 698205,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1097.80004882812,
+            3.04999995231628,
+            -911
+          ]
+        },
+        "car": [
+          1097.80004882812,
+          -0.150000005960464,
+          -920
+        ],
+        "draw_calls": 1874,
+        "file": "routes/nishitenjin-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 980.17,
+        "hud": true,
+        "objects": 2006,
+        "street": "nishitenjin",
+        "triangles": 576792,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1097.80004882812,
+            3.04999995231628,
+            -911
+          ]
+        },
+        "car": [
+          1097.80004882812,
+          -0.150000005960464,
+          -920
+        ],
+        "draw_calls": 514,
+        "file": "routes/nishitenjin-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 932.46,
+        "hud": false,
+        "objects": 514,
+        "street": "nishitenjin",
+        "triangles": 517070,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1102.19995117188,
+            3.04999995231628,
+            -929
+          ]
+        },
+        "car": [
+          1102.19995117188,
+          -0.150000005960464,
+          -920
+        ],
+        "draw_calls": 2209,
+        "file": "routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1076.825,
+        "hud": true,
+        "objects": 2341,
+        "street": "nishitenjin",
+        "triangles": 551919,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1102.19995117188,
+            3.04999995231628,
+            -929
+          ]
+        },
+        "car": [
+          1102.19995117188,
+          -0.150000005960464,
+          -920
+        ],
+        "draw_calls": 841,
+        "file": "routes/nishitenjin-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 923.2,
+        "hud": false,
+        "objects": 841,
+        "street": "nishitenjin",
+        "triangles": 476733,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1263,
+            3.04999995231628,
+            -482.200012207031
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -482.200012207031
+        ],
+        "draw_calls": 1623,
+        "file": "routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 559.59,
+        "hud": true,
+        "objects": 1755,
+        "street": "tenjin_minami",
+        "triangles": 361544,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1263,
+            3.04999995231628,
+            -482.200012207031
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -482.200012207031
+        ],
+        "draw_calls": 263,
+        "file": "routes/tenjin_minami-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 606.125,
+        "hud": false,
+        "objects": 263,
+        "street": "tenjin_minami",
+        "triangles": 302448,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1281,
+            3.04999995231628,
+            -477.799987792969
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -477.799987792969
+        ],
+        "draw_calls": 1846,
+        "file": "routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 861.315,
+        "hud": true,
+        "objects": 1978,
+        "street": "tenjin_minami",
+        "triangles": 539138,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1281,
+            3.04999995231628,
+            -477.799987792969
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -477.799987792969
+        ],
+        "draw_calls": 487,
+        "file": "routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 770.23,
+        "hud": false,
+        "objects": 487,
+        "street": "tenjin_minami",
+        "triangles": 480054,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1136,
+            3.04999995231628,
+            -622.200012207031
+          ]
+        },
+        "car": [
+          1145,
+          -0.150000005960464,
+          -622.200012207031
+        ],
+        "draw_calls": 1845,
+        "file": "routes/ichiba-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 915.175,
+        "hud": true,
+        "objects": 1977,
+        "street": "ichiba",
+        "triangles": 595223,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1136,
+            3.04999995231628,
+            -622.200012207031
+          ]
+        },
+        "car": [
+          1145,
+          -0.150000005960464,
+          -622.200012207031
+        ],
+        "draw_calls": 533,
+        "file": "routes/ichiba-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1046.41,
+        "hud": false,
+        "objects": 533,
+        "street": "ichiba",
+        "triangles": 553709,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1154,
+            3.04999995231628,
+            -617.799987792969
+          ]
+        },
+        "car": [
+          1145,
+          -0.150000005960464,
+          -617.799987792969
+        ],
+        "draw_calls": 1679,
+        "file": "routes/ichiba-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 473.095,
+        "hud": true,
+        "objects": 1811,
+        "street": "ichiba",
+        "triangles": 272586,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1154,
+            3.04999995231628,
+            -617.799987792969
+          ]
+        },
+        "car": [
+          1145,
+          -0.150000005960464,
+          -617.799987792969
+        ],
+        "draw_calls": 353,
+        "file": "routes/ichiba-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 527.66,
+        "hud": false,
+        "objects": 353,
+        "street": "ichiba",
+        "triangles": 230264,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930463910103
+            ],
+            [
+              0,
+              0.216930463910103,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1347.80004882812,
+            5.15581607818604,
+            -891
+          ]
+        },
+        "car": [
+          1347.80004882812,
+          1.95581591129303,
+          -900
+        ],
+        "draw_calls": 1659,
+        "file": "routes/kashi-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 843.525,
+        "hud": true,
+        "objects": 1791,
+        "street": "kashi",
+        "triangles": 528273,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930463910103
+            ],
+            [
+              0,
+              0.216930463910103,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1347.80004882812,
+            5.15581607818604,
+            -891
+          ]
+        },
+        "car": [
+          1347.80004882812,
+          1.95581591129303,
+          -900
+        ],
+        "draw_calls": 299,
+        "file": "routes/kashi-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 809.465,
+        "hud": false,
+        "objects": 299,
+        "street": "kashi",
+        "triangles": 469177,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930463910103
+            ],
+            [
+              0,
+              0.216930463910103,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1352.19995117188,
+            10.0500001907349,
+            -909
+          ]
+        },
+        "car": [
+          1352.19995117188,
+          6.84999990463257,
+          -900
+        ],
+        "draw_calls": 2339,
+        "file": "routes/kashi-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1093.14,
+        "hud": true,
+        "objects": 2471,
+        "street": "kashi",
+        "triangles": 630585,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930463910103
+            ],
+            [
+              0,
+              0.216930463910103,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1352.19995117188,
+            10.0500001907349,
+            -909
+          ]
+        },
+        "car": [
+          1352.19995117188,
+          6.84999990463257,
+          -900
+        ],
+        "draw_calls": 1001,
+        "file": "routes/kashi-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1201.685,
+        "hud": false,
+        "objects": 1001,
+        "street": "kashi",
+        "triangles": 572497,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1263,
+            3.04999995231628,
+            -1182.19995117188
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -1182.19995117188
+        ],
+        "draw_calls": 1525,
+        "file": "routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 639.265,
+        "hud": true,
+        "objects": 1657,
+        "street": "tenjin_kita",
+        "triangles": 295633,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1263,
+            3.04999995231628,
+            -1182.19995117188
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -1182.19995117188
+        ],
+        "draw_calls": 165,
+        "file": "routes/tenjin_kita-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 542.705,
+        "hud": false,
+        "objects": 165,
+        "street": "tenjin_kita",
+        "triangles": 236537,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1281,
+            3.04999995231628,
+            -1177.80004882812
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -1177.80004882812
+        ],
+        "draw_calls": 1908,
+        "file": "routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 785.915,
+        "hud": true,
+        "objects": 2040,
+        "street": "tenjin_kita",
+        "triangles": 509078,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1281,
+            3.04999995231628,
+            -1177.80004882812
+          ]
+        },
+        "car": [
+          1272,
+          -0.150000005960464,
+          -1177.80004882812
+        ],
+        "draw_calls": 548,
+        "file": "routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 776.94,
+        "hud": false,
+        "objects": 548,
+        "street": "tenjin_kita",
+        "triangles": 449982,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1136,
+            3.04999613761902,
+            -822.200012207031
+          ]
+        },
+        "car": [
+          1145,
+          -0.15000382065773,
+          -822.200012207031
+        ],
+        "draw_calls": 2032,
+        "file": "routes/shosha-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1293.155,
+        "hud": true,
+        "objects": 2164,
+        "street": "shosha",
+        "triangles": 724669,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1136,
+            3.04999613761902,
+            -822.200012207031
+          ]
+        },
+        "car": [
+          1145,
+          -0.15000382065773,
+          -822.200012207031
+        ],
+        "draw_calls": 672,
+        "file": "routes/shosha-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1071.57,
+        "hud": false,
+        "objects": 672,
+        "street": "shosha",
+        "triangles": 665573,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1154,
+            3.04999613761902,
+            -817.799987792969
+          ]
+        },
+        "car": [
+          1145,
+          -0.15000382065773,
+          -817.799987792969
+        ],
+        "draw_calls": 1815,
+        "file": "routes/shosha-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 498.625,
+        "hud": true,
+        "objects": 1947,
+        "street": "shosha",
+        "triangles": 300178,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1154,
+            3.04999613761902,
+            -817.799987792969
+          ]
+        },
+        "car": [
+          1145,
+          -0.15000382065773,
+          -817.799987792969
+        ],
+        "draw_calls": 423,
+        "file": "routes/shosha-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 615.49,
+        "hud": false,
+        "objects": 423,
+        "street": "shosha",
+        "triangles": 231802,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1271,
+            3.04999995231628,
+            -982.200012207031
+          ]
+        },
+        "car": [
+          1280,
+          -0.150000005960464,
+          -982.200012207031
+        ],
+        "draw_calls": 1595,
+        "file": "routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 651.04,
+        "hud": true,
+        "objects": 1727,
+        "street": "tenjin_ura2",
+        "triangles": 347648,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1271,
+            3.04999995231628,
+            -982.200012207031
+          ]
+        },
+        "car": [
+          1280,
+          -0.150000005960464,
+          -982.200012207031
+        ],
+        "draw_calls": 233,
+        "file": "routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 565.265,
+        "hud": false,
+        "objects": 233,
+        "street": "tenjin_ura2",
+        "triangles": 281116,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1289,
+            3.04999995231628,
+            -977.799987792969
+          ]
+        },
+        "car": [
+          1280,
+          -0.150000005960464,
+          -977.799987792969
+        ],
+        "draw_calls": 2287,
+        "file": "routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1031.47,
+        "hud": true,
+        "objects": 2419,
+        "street": "tenjin_ura2",
+        "triangles": 679569,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1289,
+            3.04999995231628,
+            -977.799987792969
+          ]
+        },
+        "car": [
+          1280,
+          -0.150000005960464,
+          -977.799987792969
+        ],
+        "draw_calls": 926,
+        "file": "routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1032.3,
+        "hud": false,
+        "objects": 926,
+        "street": "tenjin_ura2",
+        "triangles": 620471,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1141,
+            3.04999995231628,
+            -722.200012207031
+          ]
+        },
+        "car": [
+          1150,
+          -0.150000005960464,
+          -722.200012207031
+        ],
+        "draw_calls": 1930,
+        "file": "routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1306.225,
+        "hud": true,
+        "objects": 2062,
+        "street": "tenjin_ura1",
+        "triangles": 578177,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1141,
+            3.04999995231628,
+            -722.200012207031
+          ]
+        },
+        "car": [
+          1150,
+          -0.150000005960464,
+          -722.200012207031
+        ],
+        "draw_calls": 575,
+        "file": "routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 1021.4,
+        "hud": false,
+        "objects": 575,
+        "street": "tenjin_ura1",
+        "triangles": 519777,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1159,
+            3.04999995231628,
+            -717.799987792969
+          ]
+        },
+        "car": [
+          1150,
+          -0.150000005960464,
+          -717.799987792969
+        ],
+        "draw_calls": 1672,
+        "file": "routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 693.31,
+        "hud": true,
+        "objects": 1804,
+        "street": "tenjin_ura1",
+        "triangles": 273132,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1159,
+            3.04999995231628,
+            -717.799987792969
+          ]
+        },
+        "car": [
+          1150,
+          -0.150000005960464,
+          -717.799987792969
+        ],
+        "draw_calls": 252,
+        "file": "routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 510.14,
+        "hud": false,
+        "objects": 252,
+        "street": "tenjin_ura1",
+        "triangles": 203022,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1251,
+            10.0500001907349,
+            -1322.19995117188
+          ]
+        },
+        "car": [
+          1260,
+          6.84999990463257,
+          -1322.19995117188
+        ],
+        "draw_calls": 1492,
+        "file": "routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 651.375,
+        "hud": true,
+        "objects": 1624,
+        "street": "soshajo_ring",
+        "triangles": 272666,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1251,
+            10.0500001907349,
+            -1322.19995117188
+          ]
+        },
+        "car": [
+          1260,
+          6.84999990463257,
+          -1322.19995117188
+        ],
+        "draw_calls": 132,
+        "file": "routes/soshajo_ring-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 518.885,
+        "hud": false,
+        "objects": 132,
+        "street": "soshajo_ring",
+        "triangles": 213570,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1269,
+            10.0500001907349,
+            -1317.80004882812
+          ]
+        },
+        "car": [
+          1260,
+          6.84999990463257,
+          -1317.80004882812
+        ],
+        "draw_calls": 1807,
+        "file": "routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 843.14,
+        "hud": true,
+        "objects": 1939,
+        "street": "soshajo_ring",
+        "triangles": 443401,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1269,
+            10.0500001907349,
+            -1317.80004882812
+          ]
+        },
+        "car": [
+          1260,
+          6.84999990463257,
+          -1317.80004882812
+        ],
+        "draw_calls": 448,
+        "file": "routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 684.935,
+        "hud": false,
+        "objects": 448,
+        "street": "soshajo_ring",
+        "triangles": 385855,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1241,
+            3.04999995231628,
+            -342.200012207031
+          ]
+        },
+        "car": [
+          1250,
+          -0.150000005960464,
+          -342.200012207031
+        ],
+        "draw_calls": 1609,
+        "file": "routes/rinko-forward-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 547.87,
+        "hud": true,
+        "objects": 1741,
+        "street": "rinko",
+        "triangles": 257691,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1241,
+            3.04999995231628,
+            -342.200012207031
+          ]
+        },
+        "car": [
+          1250,
+          -0.150000005960464,
+          -342.200012207031
+        ],
+        "draw_calls": 247,
+        "file": "routes/rinko-forward-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 620.31,
+        "hud": false,
+        "objects": 247,
+        "street": "rinko",
+        "triangles": 198591,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1259,
+            10.0500001907349,
+            -337.799987792969
+          ]
+        },
+        "car": [
+          1250,
+          6.84999990463257,
+          -337.799987792969
+        ],
+        "draw_calls": 2088,
+        "file": "routes/rinko-reverse-hud-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 977.685,
+        "hud": true,
+        "objects": 2220,
+        "street": "rinko",
+        "triangles": 445703,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930463910103,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930463910103,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1259,
+            10.0500001907349,
+            -337.799987792969
+          ]
+        },
+        "car": [
+          1250,
+          6.84999990463257,
+          -337.799987792969
+        ],
+        "draw_calls": 678,
+        "file": "routes/rinko-reverse-world-1280/td-209-criterion-2-after.png",
+        "host_frame_ms": 765.705,
+        "hud": false,
+        "objects": 678,
+        "street": "rinko",
+        "triangles": 361651,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          1280,
+          720
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1131,
+            3.04999995231628,
+            -1042.19995117188
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1042.19995117188
+        ],
+        "draw_calls": 1662,
+        "file": "routes/ginko-forward-hud-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 558.465,
+        "hud": true,
+        "objects": 1808,
+        "street": "ginko",
+        "triangles": 589675,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              -0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1131,
+            3.04999995231628,
+            -1042.19995117188
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1042.19995117188
+        ],
+        "draw_calls": 292,
+        "file": "routes/ginko-forward-world-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 481.34,
+        "hud": false,
+        "objects": 292,
+        "street": "ginko",
+        "triangles": 529251,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1149,
+            3.04999995231628,
+            -1037.80004882812
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1037.80004882812
+        ],
+        "draw_calls": 2224,
+        "file": "routes/ginko-reverse-hud-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 402.115,
+        "hud": true,
+        "objects": 2370,
+        "street": "ginko",
+        "triangles": 356928,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              0,
+              0,
+              -1
+            ],
+            [
+              -0.216930449008942,
+              0.97618705034256,
+              0
+            ],
+            [
+              0.97618705034256,
+              0.216930449008942,
+              0
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1149,
+            3.04999995231628,
+            -1037.80004882812
+          ]
+        },
+        "car": [
+          1140,
+          -0.150000005960464,
+          -1037.80004882812
+        ],
+        "draw_calls": 854,
+        "file": "routes/ginko-reverse-world-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 345.11,
+        "hud": false,
+        "objects": 854,
+        "street": "ginko",
+        "triangles": 296504,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999804496765,
+            -631
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 2866,
+        "file": "routes/tenjin-forward-hud-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 629.615,
+        "hud": true,
+        "objects": 3012,
+        "street": "tenjin",
+        "triangles": 629194,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              -0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1217.80004882812,
+            3.04999804496765,
+            -631
+          ]
+        },
+        "car": [
+          1217.80004882812,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 1496,
+        "file": "routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 621.355,
+        "hud": false,
+        "objects": 1496,
+        "street": "tenjin",
+        "triangles": 568770,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999804496765,
+            -649
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 1736,
+        "file": "routes/tenjin-reverse-hud-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 511.405,
+        "hud": true,
+        "objects": 1882,
+        "street": "tenjin",
+        "triangles": 499564,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      },
+      {
+        "camera": {
+          "basis": [
+            [
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0.97618705034256,
+              0.216930449008942
+            ],
+            [
+              0,
+              0.216930449008942,
+              -0.97618705034256
+            ]
+          ],
+          "fov": 70,
+          "position": [
+            1222.19995117188,
+            3.04999804496765,
+            -649
+          ]
+        },
+        "car": [
+          1222.19995117188,
+          -0.150001913309097,
+          -640
+        ],
+        "draw_calls": 366,
+        "file": "routes/tenjin-reverse-world-844/td-209-criterion-2-after.png",
+        "host_frame_ms": 439.46,
+        "hud": false,
+        "objects": 366,
+        "street": "tenjin",
+        "triangles": 439140,
+        "view": "actual ChaseCam, parked",
+        "viewport": [
+          844,
+          390
+        ]
+      }
+    ],
+    "phase": "after",
+    "physical_phone": false,
+    "scope": "Actual Lower City with production traffic/peds; fixed parked diagnostic cameras, not a driven performance claim.",
+    "seed": 209,
+    "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+    "web": true,
+    "world_stats": {
+      "build_ms": 7598,
+      "buildings": 4502,
+      "dressing": {
+        "arc_lights": 107,
+        "blade_signs": 1010,
+        "cornices": 77,
+        "eaves": 311,
+        "flood_masts": 82,
+        "pipe_gantries": 59,
+        "quay_cranes": 6,
+        "repair_bays": 169
+      },
+      "drive_tris": 31070,
+      "ground_tris": 25304,
+      "lamps_cleared": 36,
+      "merge_lanes": 12,
+      "mesh_instances": 718,
+      "ramp_mouths": 12,
+      "tenjin": {
+        "collision_triangles": 6470,
+        "donor_bands": 142,
+        "frontages": 918,
+        "lots": 77,
+        "max_lot_triangles": 14090,
+        "mesh_instances": 62,
+        "missing": 0,
+        "module_timings_us": {
+          "flush_us": 271540,
+          "place_us": 1810060,
+          "slice_us": 2777265
+        },
+        "module_variants": 5384,
+        "props": 116,
+        "storefronts": 33,
+        "triangles": 758474
+      },
+      "wall_tris": 92656
+    }
+  }
+}

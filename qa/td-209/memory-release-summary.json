@@ -1,0 +1,78 @@
+{
+  "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "runs": [
+    {
+      "run": 1,
+      "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-released-1.json"
+      ],
+      "exit": 0,
+      "seconds": 6.322,
+      "observed_peak_rss_kib": 687096,
+      "build_ms": 3808,
+      "static_memory_bytes": 294592615,
+      "static_memory_peak_bytes": 526660996,
+      "all_meshes_identical_to847270a4": true,
+      "log": "logs/benchmark-released-1.log",
+      "result": "benchmark-released-1.json"
+    },
+    {
+      "run": 2,
+      "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-released-2.json"
+      ],
+      "exit": 0,
+      "seconds": 6.594,
+      "observed_peak_rss_kib": 705260,
+      "build_ms": 4066,
+      "static_memory_bytes": 294592615,
+      "static_memory_peak_bytes": 526660996,
+      "all_meshes_identical_to847270a4": true,
+      "log": "logs/benchmark-released-2.log",
+      "result": "benchmark-released-2.json"
+    },
+    {
+      "run": 3,
+      "source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+      "command": [
+        "/workspace/tokyo-drift-3d/.tools/Godot_v4.7.2-stable_linux.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/tokyo-drift-3d/godot",
+        "-s",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark.gd",
+        "--",
+        "/workspace/tokyo-drift-3d/godot/qa/td-209/benchmark-released-3.json"
+      ],
+      "exit": 0,
+      "seconds": 6.329,
+      "observed_peak_rss_kib": 687592,
+      "build_ms": 3866,
+      "static_memory_bytes": 294592615,
+      "static_memory_peak_bytes": 526660996,
+      "all_meshes_identical_to847270a4": true,
+      "log": "logs/benchmark-released-3.log",
+      "result": "benchmark-released-3.json"
+    }
+  ],
+  "median_build_ms": 3866,
+  "retained_static_saving_bytes": 35475371,
+  "median_observed_peak_rss_kib": 687592,
+  "scope": "Quiet sequential fresh processes after browser capture completed. Source-only instrumentation release; every mesh surface array and placement transform matches previous frozen implementation847270a4. Peak RSS includes mesh hashing."
+}

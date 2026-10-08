@@ -1,0 +1,2313 @@
+{
+  "task": "td-209",
+  "scope": "Tenjin: 77 slab lots; whole-city completion remains open",
+  "runtime_source": "6f7818b45cd09ade3ca621354ce4eb116050a66b",
+  "game_evidence_commit": "bcaf46b86702848f4ae2259af6ca107592f7dcb9",
+  "baseline_qa_source": "ad4f24229a7ba80e25e3d4ddc1e83a33f3db0c47",
+  "artbook": "77c86fed8b8ea21f1a8eebc8fe84cb2bfb7c14bc",
+  "counts": {
+    "native-before": 137,
+    "native-after": 137,
+    "browser-before": 60,
+    "browser-after": 60
+  },
+  "independent_review": "pending",
+  "files": [
+    {
+      "path": "benchmark.json",
+      "bytes": 4799,
+      "sha256": "3d0b850e0bfff48e862669cb596cb657a1e784427ac640b25c6e7ff078d565aa"
+    },
+    {
+      "path": "browser-after/result.json",
+      "bytes": 64213,
+      "sha256": "1c128f22fc4369e6e0f71c50d22844450dbb6cdc43a4669e8884f5a4ebeb6933"
+    },
+    {
+      "path": "browser-after/routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 382805,
+      "sha256": "c1420ce7bba1b5b12ac9175d4f027720ef0ff377def4fb31f9f4412dabdc70ee"
+    },
+    {
+      "path": "browser-after/routes/ginko-forward-hud-844/td-209-criterion-2-after.png",
+      "bytes": 192436,
+      "sha256": "aae3abb173fdef444a09237a7aed6aa3a5f2023d2d444d88994ae7346464742b"
+    },
+    {
+      "path": "browser-after/routes/ginko-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 424284,
+      "sha256": "85853b5b5279a9ab5b2887951f19fe34de7774a7ab046229533cbeff4fd56c89"
+    },
+    {
+      "path": "browser-after/routes/ginko-forward-world-844/td-209-criterion-2-after.png",
+      "bytes": 182105,
+      "sha256": "ed04a5b990a88da43983092f2b2a664cb6287a498c4285d4df7e7ede83663992"
+    },
+    {
+      "path": "browser-after/routes/ginko-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 373645,
+      "sha256": "eaf445a1d33e56675b521fdb23c93c0ae52b304bb7672eb974da1285dfa31e9a"
+    },
+    {
+      "path": "browser-after/routes/ginko-reverse-hud-844/td-209-criterion-2-after.png",
+      "bytes": 199391,
+      "sha256": "928f92a32ea45db4c90a6a8a2d0d3cc8a028e2d2479af3c6563591b07e2184b5"
+    },
+    {
+      "path": "browser-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 408404,
+      "sha256": "28ec817d9fb9871a30b8c711cb807b6c2123d957044257e87243a4f160396b4e"
+    },
+    {
+      "path": "browser-after/routes/ginko-reverse-world-844/td-209-criterion-2-after.png",
+      "bytes": 192758,
+      "sha256": "7184b16ca3628d767bc9b8e0680553482fa3c9c34ed59bf0ffe6a64afa791c04"
+    },
+    {
+      "path": "browser-after/routes/ichiba-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 356710,
+      "sha256": "d579510fa5f99ee4594f189dc07e50b6582a2ad06607f1d43666311e0e3ccba2"
+    },
+    {
+      "path": "browser-after/routes/ichiba-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 395165,
+      "sha256": "a3200d73af09b74ae3ab19c8790adc75231b892483492ef4349d5c27c09e258f"
+    },
+    {
+      "path": "browser-after/routes/ichiba-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 348511,
+      "sha256": "e9fa4db78fb3ccb2363fb89640416fef1dcda84425d72f0a54e72e933c858a3b"
+    },
+    {
+      "path": "browser-after/routes/ichiba-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 386151,
+      "sha256": "b86a97764108668aa7136a94330d303c6c834ac092bd8b4d32c455152669b4a7"
+    },
+    {
+      "path": "browser-after/routes/kashi-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 326935,
+      "sha256": "5504aa2be2e85756ff1742793f59d4e16fe4050b3f0ea9b7f3bab2d51a7ad37e"
+    },
+    {
+      "path": "browser-after/routes/kashi-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 333477,
+      "sha256": "d5358626a2fbaaeb6234bcd4cea68f470aa3122ff76dbf0ef86e7a5e31fc7873"
+    },
+    {
+      "path": "browser-after/routes/kashi-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 339983,
+      "sha256": "4a86092c45519ce89dd0dd8f8a0471d8858f35d7722f35323a36466072b94bfb"
+    },
+    {
+      "path": "browser-after/routes/kashi-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 395280,
+      "sha256": "57fb128072db381b001134af2ee5beeb2252cfcccc519ab37ba4b272a73e4fe9"
+    },
+    {
+      "path": "browser-after/routes/nishitenjin-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 232544,
+      "sha256": "08e47014ece760fe05a8d73bcf6109273cfc6669b369aa90abcb2849bd5e6317"
+    },
+    {
+      "path": "browser-after/routes/nishitenjin-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 253605,
+      "sha256": "b610e718253949c841a0e5e7432d19200dc7d9f8b410a78058dbe9b4f243630b"
+    },
+    {
+      "path": "browser-after/routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 334758,
+      "sha256": "ac8c5ebb79e221bbec1478b99ba7c6083ab625b4138d5ce6f7988d49024f2ae1"
+    },
+    {
+      "path": "browser-after/routes/nishitenjin-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 319293,
+      "sha256": "de37c18fed0dfb3fc7ba7829b52f93f68f93108f0dfb231af638a5ad7a89e445"
+    },
+    {
+      "path": "browser-after/routes/rinko-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 359421,
+      "sha256": "174ec57e9873a56af6b141be382a171d97938e21a8dc923c0ec0b3fe69966378"
+    },
+    {
+      "path": "browser-after/routes/rinko-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 364694,
+      "sha256": "1794cd86ceafdc94d440e029dc3b8129c0be399a1b093fa7083cbb7da0a0f116"
+    },
+    {
+      "path": "browser-after/routes/rinko-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 383068,
+      "sha256": "51b05a99a718c8d36af2e180059ed3d437c50843dff609a3a62a18b864bccbd9"
+    },
+    {
+      "path": "browser-after/routes/rinko-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 464030,
+      "sha256": "d1e39b011a3235ce6db95e56af348815ec195986ef04b34fd77a41708a655236"
+    },
+    {
+      "path": "browser-after/routes/shosha-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 404741,
+      "sha256": "8730b44b7207d6786c7a189e1354e6b57ddd4c971298e519f7478689a5c85fd6"
+    },
+    {
+      "path": "browser-after/routes/shosha-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 422495,
+      "sha256": "529977a97e1f09ae99258d3d087b487d7390c471dd64347411e8693adeb40c02"
+    },
+    {
+      "path": "browser-after/routes/shosha-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 356203,
+      "sha256": "3d164cd57a779555b59166a5b016d475425dcce53952d8c81cf4177d93bb7873"
+    },
+    {
+      "path": "browser-after/routes/shosha-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 395124,
+      "sha256": "a8078bc29112cf29e85e9780c14074354d4deee5fb9acd45503169ec0361b270"
+    },
+    {
+      "path": "browser-after/routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 246309,
+      "sha256": "6726ed70e855f6f8210559f67398a29691d4db665cc712cb21535fcac5c6cf4b"
+    },
+    {
+      "path": "browser-after/routes/soshajo_ring-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 271913,
+      "sha256": "5903b1617fc73b7766843b1566b0175c2392f1bfa57bd068af54af2fca186fde"
+    },
+    {
+      "path": "browser-after/routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 308383,
+      "sha256": "8b3ffdeed2fa1a022170a05889d0866e19b1752d29f83b070a36cdab30980802"
+    },
+    {
+      "path": "browser-after/routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 295894,
+      "sha256": "b09da0ee56f5cc0583b3ebe5e043caadcdcae977b803898077857f11b1e81d34"
+    },
+    {
+      "path": "browser-after/routes/tenjin-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 435790,
+      "sha256": "71e889ad9c3f990c067e5604427d606fdc1f9ab3fff656f1a25d34f33b2b0851"
+    },
+    {
+      "path": "browser-after/routes/tenjin-forward-hud-844/td-209-criterion-2-after.png",
+      "bytes": 222100,
+      "sha256": "59cead0f64d7c8bc7981b41112fa40da8be2a5b4c58718597bfa5c1105e7b700"
+    },
+    {
+      "path": "browser-after/routes/tenjin-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 478244,
+      "sha256": "4ce2093ef37dae2a7c67c2a9971fa4e959ec74ed08d6a2d25d0adaa5a7a4433c"
+    },
+    {
+      "path": "browser-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
+      "bytes": 210415,
+      "sha256": "5cd7bf00d577f7ad3ad262ea5b08ec22cd33fdc5673772803ecd930dce170d6e"
+    },
+    {
+      "path": "browser-after/routes/tenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 416300,
+      "sha256": "2d1286043af1a396b000926a91682b8ea9ac0848c49b0c0713c077ac6ec3cfde"
+    },
+    {
+      "path": "browser-after/routes/tenjin-reverse-hud-844/td-209-criterion-2-after.png",
+      "bytes": 216344,
+      "sha256": "073c0d7a9e78537249b0ac1626747b23aed7e24bf01b01af771ac856abe6b9e1"
+    },
+    {
+      "path": "browser-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 445306,
+      "sha256": "512079635089139ea16e767d7a5a9e4a2136a306027ef5987cc0c8607e7e092a"
+    },
+    {
+      "path": "browser-after/routes/tenjin-reverse-world-844/td-209-criterion-2-after.png",
+      "bytes": 205322,
+      "sha256": "f6af52bca51319781db11028fe8926f6ed28f8ac8eface1f7a0707bde5ffce35"
+    },
+    {
+      "path": "browser-after/routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 326606,
+      "sha256": "f741480e28976d408a3662fcea258eab4464f80d664d701868aa62c4436b9179"
+    },
+    {
+      "path": "browser-after/routes/tenjin_kita-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 330950,
+      "sha256": "3931c2de440c1212c967bf71db17f7a5f21cbc5ca5d8feb999de9892249910ff"
+    },
+    {
+      "path": "browser-after/routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 326135,
+      "sha256": "96b3c29fa47a9582f4d2b454ccaa1724b66be69eb1b6b0079b90df97ed57206e"
+    },
+    {
+      "path": "browser-after/routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 356004,
+      "sha256": "f1028b6341e3a69b38dfc0a7f9e467011e14f842172fc6ee22691003f3daced1"
+    },
+    {
+      "path": "browser-after/routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 340190,
+      "sha256": "35f3b1e7dab177f50b17206fc26247a1bc77359cf3451faa88cbdf4e32ba702c"
+    },
+    {
+      "path": "browser-after/routes/tenjin_minami-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 351204,
+      "sha256": "d08105d4bf92fed95ecb489e20f96611a285d0dc875f7518fbfaecbcf5d402fd"
+    },
+    {
+      "path": "browser-after/routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 352026,
+      "sha256": "be570cb6f68597384930eba7d35977132090bb6034fb581f51ee318d2173362b"
+    },
+    {
+      "path": "browser-after/routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 387478,
+      "sha256": "5a42dcec07ba79f7959a11fcda41f865aa8c4baecd6ce6a64ffd3f0d96f4f939"
+    },
+    {
+      "path": "browser-after/routes/tenjin_north-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 419666,
+      "sha256": "2e972149cded8ee41f1b51d726edbfab987c53d03e34c25f0a1cbeac5f48efbb"
+    },
+    {
+      "path": "browser-after/routes/tenjin_north-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 453476,
+      "sha256": "047a6f1298d6e68999887cc83ab3cccc0f579d5fde538749826bec0164877269"
+    },
+    {
+      "path": "browser-after/routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 413433,
+      "sha256": "beb1739185b169c1ee505ae7b8df1a4f7848192f7c4d35b3d0cdbf20f4641bf6"
+    },
+    {
+      "path": "browser-after/routes/tenjin_north-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 440790,
+      "sha256": "17bee99a411884059e255f0b97710fc1f66b3e61a332f870bc366c6b6d938007"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 282856,
+      "sha256": "b5843d9ab11c6a50086fe7099c720b5ca229f121c58354bd5ab6e9da76b7ff37"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 317715,
+      "sha256": "105e2b49750c7c2b5bb001c3ad5e4448d54ce6e68e3bb2214c14399720fc3027"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 351034,
+      "sha256": "4e97644ea544bd32b2e50c9cc4e4037645cd9f9172f4fe3f8cd5b794ddf7cc74"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 397248,
+      "sha256": "e84ad28310717490c5a86a8da9673865e1b0f107ac2e20a35a54150a858396bc"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 339479,
+      "sha256": "9a6c410589e5b81c77532ee78813cb23ca752735593fef872c628638ee18f382"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 371156,
+      "sha256": "e99fa42d9d2eb230946477931d33b2a531f8d352bf72d68655c354a837c5a9ee"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 367343,
+      "sha256": "b01a93a62aff684dd6c91d632d6b1a8945941b030ed483fbe353c889cd6c525e"
+    },
+    {
+      "path": "browser-after/routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 411658,
+      "sha256": "ef8ef3a5b48b00c5ef2cdbf83a79e66f8dfc35ff0a6cc4d943bcc1df2d693959"
+    },
+    {
+      "path": "browser-before/result.json",
+      "bytes": 63779,
+      "sha256": "b195c11a9bb9bc259e471b236fd929d0761001d07f39288b433d1193321bdc7c"
+    },
+    {
+      "path": "browser-before/routes/ginko-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 192373,
+      "sha256": "1d356142f80af1733dbbe2d01601305338c1cd047835bf1eafce371a8977ebbd"
+    },
+    {
+      "path": "browser-before/routes/ginko-forward-hud-844/td-209-criterion-2-before.png",
+      "bytes": 113229,
+      "sha256": "16e9fef242ca3934b82a0821f9c2bd29f11533b4d56b3f31e76a5d88b8106b71"
+    },
+    {
+      "path": "browser-before/routes/ginko-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 182180,
+      "sha256": "60822a0fbf291408ee448ba6c7b46bfed779bd73ece4eb7f955686d398c0a15d"
+    },
+    {
+      "path": "browser-before/routes/ginko-forward-world-844/td-209-criterion-2-before.png",
+      "bytes": 84373,
+      "sha256": "ebda6838a280953267120114badac797d0a92878f3b013064f16b2c1544aa0c8"
+    },
+    {
+      "path": "browser-before/routes/ginko-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 199431,
+      "sha256": "03f55fcd55bf765e74a5fff07c556045cb1424e492818b7eaa8a8e6d4a869e85"
+    },
+    {
+      "path": "browser-before/routes/ginko-reverse-hud-844/td-209-criterion-2-before.png",
+      "bytes": 125748,
+      "sha256": "5fc463536b58468f694b772049a74cccc21cfdc1f38783478c44bbfaf63a1e7b"
+    },
+    {
+      "path": "browser-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 186352,
+      "sha256": "ec0d6cb9bc123d014912f146c963506c29db37c30593644931a8b0b626ffc8ea"
+    },
+    {
+      "path": "browser-before/routes/ginko-reverse-world-844/td-209-criterion-2-before.png",
+      "bytes": 98537,
+      "sha256": "f525ddce8b8e1cb18cc00b0eba3c1e0a54455f329126b7f9f791811575d08623"
+    },
+    {
+      "path": "browser-before/routes/ichiba-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 178432,
+      "sha256": "195eac0db301d045e2d36b54e38b6d19c25a159ef313a7fba1640cccff591802"
+    },
+    {
+      "path": "browser-before/routes/ichiba-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 181356,
+      "sha256": "371c9c69f5ec7ad73c02412a1e893e3c900011468f1091f4a2fb329b2d562406"
+    },
+    {
+      "path": "browser-before/routes/ichiba-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 182435,
+      "sha256": "30b156694412ee1282e15572272b8958447a1c6d200dc5806de48f00c2fe6865"
+    },
+    {
+      "path": "browser-before/routes/ichiba-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 175370,
+      "sha256": "b3be552cefbf36c425d9f996dab00d9571215a62e9b82a57d79f369863fa7e67"
+    },
+    {
+      "path": "browser-before/routes/kashi-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 188693,
+      "sha256": "784f7c7870626712d15d133f488ab8a4a4979c59cc785795afc22d028d12ff11"
+    },
+    {
+      "path": "browser-before/routes/kashi-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 196475,
+      "sha256": "2c6892032726c80ebf553eda7e1477eb57facfe8ea536da214ecb0f96c1f7000"
+    },
+    {
+      "path": "browser-before/routes/kashi-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 211580,
+      "sha256": "c6431c16d9d6f25492ad1eaeda502a16e0483060c8465163a79608d0a3cd0c0d"
+    },
+    {
+      "path": "browser-before/routes/kashi-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 181169,
+      "sha256": "e1bea8a2ac69113070eb0388aff0b0a970d45f686f9d75da1d94301baeff78c8"
+    },
+    {
+      "path": "browser-before/routes/nishitenjin-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 155844,
+      "sha256": "9ec6da2f47a9a79902e4063e6bcb3eadb36cc7d20563e1576edf611e436ebfb0"
+    },
+    {
+      "path": "browser-before/routes/nishitenjin-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 147616,
+      "sha256": "ea7d0edebb2772cc454141220aef40b904984c908e895ca3f954c3acfdad2fc2"
+    },
+    {
+      "path": "browser-before/routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 173461,
+      "sha256": "aafef9d8159b311a566f25fc047468f36b47ad80edcae8694758330db7dbda55"
+    },
+    {
+      "path": "browser-before/routes/nishitenjin-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 157364,
+      "sha256": "c0c6bbd25e749d23c0524555af858783d30666afbe846c72b29c6e7382cc9210"
+    },
+    {
+      "path": "browser-before/routes/rinko-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 181295,
+      "sha256": "8b02fc82ca099cf927de190f68ca726b29df074e91ef5dc3624f23adacbca73e"
+    },
+    {
+      "path": "browser-before/routes/rinko-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 185868,
+      "sha256": "387cf1a7e7d91c5fcf4491b1dbca0e0fdb3e28804d389185e8fb936247785de2"
+    },
+    {
+      "path": "browser-before/routes/rinko-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 217290,
+      "sha256": "fff9fc6e2dae4aad023671a3a9947b32466043c1038ba44b9538c04f79805b51"
+    },
+    {
+      "path": "browser-before/routes/rinko-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 189722,
+      "sha256": "cd8693fd31896454f352b9f707d3e2d1514da4cd76261dd9a7551b90073cf668"
+    },
+    {
+      "path": "browser-before/routes/shosha-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 209245,
+      "sha256": "0809a20790a9a4ae59a5dcf6507cf9c8f55c53cf1b93ad1a90281bd32fe17212"
+    },
+    {
+      "path": "browser-before/routes/shosha-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 202332,
+      "sha256": "cbd608f8c369727709e7040e1512ccdef29d55a8cd06a9bba8d8eb79b83bab60"
+    },
+    {
+      "path": "browser-before/routes/shosha-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 207655,
+      "sha256": "017c54c95528ed1ef9e363a48ffa506c74344a56dd8b1f143066577a5f5d8094"
+    },
+    {
+      "path": "browser-before/routes/shosha-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 194584,
+      "sha256": "97fd6e5c5372d665874a307b46228ef27d6712d294961207af8f99674298b738"
+    },
+    {
+      "path": "browser-before/routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 194389,
+      "sha256": "fb52b7a2249b91bd4e17ff5760cc3101772e19915e76603435f2a0a3d35c618c"
+    },
+    {
+      "path": "browser-before/routes/soshajo_ring-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 180573,
+      "sha256": "62da4123e84c7d1cdd8bb8217e60817681f142f50dcb8f817b30c33fde70a279"
+    },
+    {
+      "path": "browser-before/routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 186040,
+      "sha256": "7eb2fc4a37e09a3c9e56545038c18fa57fd9bf235eac37fe4ff1c57f02e11a70"
+    },
+    {
+      "path": "browser-before/routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 172968,
+      "sha256": "e9c75b5a44faf65f006a50c560d5a5578628a37569647db4a734252f9b640b91"
+    },
+    {
+      "path": "browser-before/routes/tenjin-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 220421,
+      "sha256": "6aff371706cc188c0a8e0d6537ec48ecf2431c6514a1a732b480bc45d29687f3"
+    },
+    {
+      "path": "browser-before/routes/tenjin-forward-hud-844/td-209-criterion-2-before.png",
+      "bytes": 133623,
+      "sha256": "4f96d0a45cdbff690460b75e2f2113d730b22c7afdaa9b07dbbe1dba7ade920a"
+    },
+    {
+      "path": "browser-before/routes/tenjin-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 216281,
+      "sha256": "acd64a7d7210dcfe7250e3a15c463cfeaa94ebf1fc11292cd1b474dbe50ef041"
+    },
+    {
+      "path": "browser-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png",
+      "bytes": 107695,
+      "sha256": "4d4b25d492cc6ce1325ffa600d0dd007dff53f4d00b81d7c6e484b9e1d06952b"
+    },
+    {
+      "path": "browser-before/routes/tenjin-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 195743,
+      "sha256": "2677e109d437cb5f8476d37504f7fe5436dbc97edb1ccf38282e180ff0808b0f"
+    },
+    {
+      "path": "browser-before/routes/tenjin-reverse-hud-844/td-209-criterion-2-before.png",
+      "bytes": 128272,
+      "sha256": "aa16a01db0d308b933a3c60eca4300e7894ce9453e1841b37f0e73212b331935"
+    },
+    {
+      "path": "browser-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 190639,
+      "sha256": "0bb8bf0eef7ccba82138d347223f96e43a6e2e9f77f7bda2b4c55bf482d48eab"
+    },
+    {
+      "path": "browser-before/routes/tenjin-reverse-world-844/td-209-criterion-2-before.png",
+      "bytes": 106694,
+      "sha256": "7a0b7daaf3626f90a6e8d45bda897caec53e2a383e2b251f4eedc55d5a049528"
+    },
+    {
+      "path": "browser-before/routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 159505,
+      "sha256": "2e3f527925147bddeee743430d7bffefb18b8ccf4a084228a8c789ad28ee383b"
+    },
+    {
+      "path": "browser-before/routes/tenjin_kita-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 147401,
+      "sha256": "539f92df638426affcd736aa081e402c52d82ee6e7990c81eac3a5962b4017b8"
+    },
+    {
+      "path": "browser-before/routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 175614,
+      "sha256": "f8945dc220cf681d066e1ce366c2b5e034d7dbdf8eb35a2215343ec547721392"
+    },
+    {
+      "path": "browser-before/routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 162743,
+      "sha256": "9c64e1b72c060e04fd181331d5719b9fe4492db16b28e1dc9bea99de8feae163"
+    },
+    {
+      "path": "browser-before/routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 162605,
+      "sha256": "87663868a22a4f7c29f08ff01e097690409027fa81981ba81365a00e1949ccd1"
+    },
+    {
+      "path": "browser-before/routes/tenjin_minami-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 149223,
+      "sha256": "02858692f6bfa125ea062989d196a748965857167650aea2d0f9cd2681770b27"
+    },
+    {
+      "path": "browser-before/routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 165617,
+      "sha256": "daf2a9e415808397028212327e98fe91f007bd5deff0d02ff79c401929aa6883"
+    },
+    {
+      "path": "browser-before/routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 152122,
+      "sha256": "3e0e7ee56a5de29caa6b7c82f7e12d9d519da21d9896d77a3e93a89eb91d2301"
+    },
+    {
+      "path": "browser-before/routes/tenjin_north-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 228009,
+      "sha256": "9b935edc7689fd72e690e3123088cc8e33f1d973092d483b17b5813ec0bfac64"
+    },
+    {
+      "path": "browser-before/routes/tenjin_north-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 223152,
+      "sha256": "08c9434cab715491e743e1729858818acf14366224f02d73e4d531bede2adb2b"
+    },
+    {
+      "path": "browser-before/routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 234061,
+      "sha256": "0a675b9a80a14e39303d985db72b489a22051aeaa77f464e20b4305d39bc3d0f"
+    },
+    {
+      "path": "browser-before/routes/tenjin_north-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 227400,
+      "sha256": "8ba5b94202e9f8854249c8c2380bf645e38fd51cf704a925f762b9146d1c583b"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 121542,
+      "sha256": "617cae424d98b7bc22ca5b0482c9a1f225b1eebeb497e48761a59a6a28801df4"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 100187,
+      "sha256": "77bd349428a5f710cf37c8d3039ee9fa9c734cd941caf3777c1472c7eb5d7c54"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 122427,
+      "sha256": "a36c3e2a759de0f23cda8bfbe3dc3bb9b1c358c7f1bcf5ee10eb02c26b617c81"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 100898,
+      "sha256": "285189804b084363a5582d9fc5f95ad287e98ae3a14f9576c6d1c8284098a364"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 125836,
+      "sha256": "f6abf2569ebeb2d896ea0b7dea9a8a5d4a1b80ff578ae1b53b8ee5e926a0ee72"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 103350,
+      "sha256": "f24965155601a828c5ca8f56ccb963d16d5cbbc03cfb00656d0c044b578f1c55"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 127263,
+      "sha256": "1f0c470a73215c27eed412c113a04a7f3c13624c5309af7196d600ffb8998f7d"
+    },
+    {
+      "path": "browser-before/routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 102819,
+      "sha256": "596d06774e06cc6a191835163a0aadbc9924cfc91756a551ffd43d282fd60323"
+    },
+    {
+      "path": "camera-comparison.json",
+      "bytes": 280,
+      "sha256": "4a33b430776f121114ca000dadb77ae7d40ac1f84acd5271af6ab5f995db2228"
+    },
+    {
+      "path": "coverage.json",
+      "bytes": 420357,
+      "sha256": "b739ce05cb0c360f2b13be212a9714dfed6b4fc4a0dea1d5810b93916624b033"
+    },
+    {
+      "path": "evidence-manifest.json",
+      "bytes": 294445,
+      "sha256": "cb1e339db8574f2367b25d942c757ca5ef306e724569187ca2610008dcd427c5"
+    },
+    {
+      "path": "final-source-pins.json",
+      "bytes": 13832,
+      "sha256": "b1f6327c72bbd52baa5c5a40dc0e6f56a99bc8875fd839b87caa4cd9507ce35f"
+    },
+    {
+      "path": "focused-tests.json",
+      "bytes": 432519,
+      "sha256": "560eb0dbdde6cbedd018caabe2d7d518fa212ef9bcac852cc25ab51ac50263b9"
+    },
+    {
+      "path": "memory-release-summary.json",
+      "bytes": 2759,
+      "sha256": "4c595bafe840443777b92d2b86efadb7c25b5ae5e48b6eb6a0366b99fcc85896"
+    },
+    {
+      "path": "native-after/lots/1367/td-209-criterion-1-after.png",
+      "bytes": 476155,
+      "sha256": "03c1be54137304a585519f3b30a00299665333ccfc694f796d2e81effe32b7a3"
+    },
+    {
+      "path": "native-after/lots/1368/td-209-criterion-1-after.png",
+      "bytes": 474816,
+      "sha256": "ff45585605f1f7a64b0e5726b4071650fda53797ba4591803e1b92f69f586f11"
+    },
+    {
+      "path": "native-after/lots/1369/td-209-criterion-1-after.png",
+      "bytes": 617504,
+      "sha256": "6fdde144c2a9b3f503c76adff2e08069ab1aa5858ecaa6660559e64d647d0d05"
+    },
+    {
+      "path": "native-after/lots/1370/td-209-criterion-1-after.png",
+      "bytes": 445872,
+      "sha256": "a0b7caaa944a45d6d746ec1dfd7b795581dee24da9ceb48710d1ebb427b4c779"
+    },
+    {
+      "path": "native-after/lots/1371/td-209-criterion-1-after.png",
+      "bytes": 574559,
+      "sha256": "79508602d052e37555164c6de3f19dac112cc38a560a3cec4cc60b272f1564e0"
+    },
+    {
+      "path": "native-after/lots/1372/td-209-criterion-1-after.png",
+      "bytes": 654722,
+      "sha256": "bfb1f99a30964f2532af5025727c3c6b07537de4238e300a7abd4680de2718b9"
+    },
+    {
+      "path": "native-after/lots/1373/td-209-criterion-1-after.png",
+      "bytes": 557893,
+      "sha256": "133008016d67631ca90bce203f7a9cc129030385f57ea6e1abc03844483dd80e"
+    },
+    {
+      "path": "native-after/lots/1374/td-209-criterion-1-after.png",
+      "bytes": 626709,
+      "sha256": "96dc20c25bdb7c4093fc8552b3ccc15bc85c64d89e5fc1aae5e8a25fa4494b10"
+    },
+    {
+      "path": "native-after/lots/1375/td-209-criterion-1-after.png",
+      "bytes": 339345,
+      "sha256": "bb7c5481336ab2978e4826fbb46a740b2782a487016c63059d555f9dadf4e44f"
+    },
+    {
+      "path": "native-after/lots/1376/td-209-criterion-1-after.png",
+      "bytes": 632464,
+      "sha256": "ef3915666af662377426c5c0f4cbc130f91a39e1d24604ba111f656f0638c791"
+    },
+    {
+      "path": "native-after/lots/1377/td-209-criterion-1-after.png",
+      "bytes": 504690,
+      "sha256": "3b629f44ce172ded03fac5e51a7a3e340bd93387331e243db2a8547119a0d0d8"
+    },
+    {
+      "path": "native-after/lots/1378/td-209-criterion-1-after.png",
+      "bytes": 492757,
+      "sha256": "20e5d42befa45c708a35259d0d247eea8c97d2c1ed588a7288e7bf73ad18ae2f"
+    },
+    {
+      "path": "native-after/lots/1379/td-209-criterion-1-after.png",
+      "bytes": 567659,
+      "sha256": "5429b513d0a9fa97108c17d7cdfee892e609a043c0cf5eb5c266160aa94c33ff"
+    },
+    {
+      "path": "native-after/lots/1380/td-209-criterion-1-after.png",
+      "bytes": 543764,
+      "sha256": "1dbb012cecb1672e45986d73231a44fb0e6c6b5d301b63926f77e512619275f6"
+    },
+    {
+      "path": "native-after/lots/1381/td-209-criterion-1-after.png",
+      "bytes": 605623,
+      "sha256": "fa05effb6f6462ca06b507047e8495a656e9ac609e4323af3fd29dc7d755af68"
+    },
+    {
+      "path": "native-after/lots/1382/td-209-criterion-1-after.png",
+      "bytes": 535814,
+      "sha256": "e70d79a5598ca56b0fc3f1a3556f498eeff1dc6362b9425a32eb50af7f23dadf"
+    },
+    {
+      "path": "native-after/lots/1383/td-209-criterion-1-after.png",
+      "bytes": 459731,
+      "sha256": "12e797d4206949e4e5c77fb6d914c4f77c5b82dcf9f624dcf215cd8da2995a70"
+    },
+    {
+      "path": "native-after/lots/1384/td-209-criterion-1-after.png",
+      "bytes": 359968,
+      "sha256": "876cf22a019c418bf3b96638ccb3fe4f69cae531d220430cd4a680c950a2cf14"
+    },
+    {
+      "path": "native-after/lots/1385/td-209-criterion-1-after.png",
+      "bytes": 562328,
+      "sha256": "c2bb628a2a6c73c5039007f13818b6f6de086c1f59805209acc0a34b81434e58"
+    },
+    {
+      "path": "native-after/lots/1386/td-209-criterion-1-after.png",
+      "bytes": 561019,
+      "sha256": "083abe0ec448ac6cbd20b862346c783ef8bd6f1edcd12e83c628631ab54dccb3"
+    },
+    {
+      "path": "native-after/lots/1387/td-209-criterion-1-after.png",
+      "bytes": 625415,
+      "sha256": "8fb7b412faaa489cc760059f07fffdcec418c2fd5f804c0dddad2a312b58308b"
+    },
+    {
+      "path": "native-after/lots/1388/td-209-criterion-1-after.png",
+      "bytes": 593700,
+      "sha256": "546d221ca2c13ba6b07aea97304b0e5a6bdc329d1dbd482a97d43f7762a7dbd5"
+    },
+    {
+      "path": "native-after/lots/1389/td-209-criterion-1-after.png",
+      "bytes": 625954,
+      "sha256": "8fe7b657429c225e3fdf03a71abd24b9308021aa46ba6995fb2b5e54572994de"
+    },
+    {
+      "path": "native-after/lots/1390/td-209-criterion-1-after.png",
+      "bytes": 478110,
+      "sha256": "0bcc88b0cc43bd1763814e481f1621028f39270d03c2ea7c9f2b768131986aa6"
+    },
+    {
+      "path": "native-after/lots/1391/td-209-criterion-1-after.png",
+      "bytes": 435328,
+      "sha256": "dc8336315cda781a1ec9d67ba1770a030e387b720ec80fde90cc552ba253c8d4"
+    },
+    {
+      "path": "native-after/lots/1392/td-209-criterion-1-after.png",
+      "bytes": 485717,
+      "sha256": "437e1b4896423192f31541c0ea1cd306d9454f98a1c50583aa88273b6fecea70"
+    },
+    {
+      "path": "native-after/lots/1393/td-209-criterion-1-after.png",
+      "bytes": 547051,
+      "sha256": "e16f8142c1fdbce80bdccc4fcb677f16c9b075e4b9e44c1e0fdc3179e262fd4c"
+    },
+    {
+      "path": "native-after/lots/1394/td-209-criterion-1-after.png",
+      "bytes": 354432,
+      "sha256": "9397728446b381b8551201845c1437ca6b3a017e616634aac235620d434ad561"
+    },
+    {
+      "path": "native-after/lots/1395/td-209-criterion-1-after.png",
+      "bytes": 548664,
+      "sha256": "7d5b73a4eb6b5c4c4c6eee2b015e1f4bebc5b5f9c9703058a03a2ecc7f4c665a"
+    },
+    {
+      "path": "native-after/lots/1396/td-209-criterion-1-after.png",
+      "bytes": 621255,
+      "sha256": "7ac17abbb295b159d3dae877541dca878671c7b9233c8ce7ed1dbe868547fae9"
+    },
+    {
+      "path": "native-after/lots/1397/td-209-criterion-1-after.png",
+      "bytes": 649402,
+      "sha256": "3beda04b7c9abcc18c15a108660de5a721ffb2cd42c0b75deeab6ec878b3db7b"
+    },
+    {
+      "path": "native-after/lots/1398/td-209-criterion-1-after.png",
+      "bytes": 476952,
+      "sha256": "8bacb2d04c8bc95e844a8649dd3182d03952fb1d6ef61d902201bc316340746c"
+    },
+    {
+      "path": "native-after/lots/1399/td-209-criterion-1-after.png",
+      "bytes": 432058,
+      "sha256": "082c265160b7cbf65db12f69b479050f48d8c328d0cd707347c5500e6194b5ea"
+    },
+    {
+      "path": "native-after/lots/1400/td-209-criterion-1-after.png",
+      "bytes": 453261,
+      "sha256": "1ea0e0c61d0609672f67c0be743266a954a898c7399e4f65b5c3c5a784b8c3c5"
+    },
+    {
+      "path": "native-after/lots/1401/td-209-criterion-1-after.png",
+      "bytes": 580453,
+      "sha256": "15d36d8ab5a52fa307c43ef6147298d9953cb957e5feadfec03b98d1be449cd9"
+    },
+    {
+      "path": "native-after/lots/1402/td-209-criterion-1-after.png",
+      "bytes": 351837,
+      "sha256": "c0455bf7f63ec5a1d7d93d2c98d1501998f27be7f4e00102bccb014dd9a5dfa8"
+    },
+    {
+      "path": "native-after/lots/1403/td-209-criterion-1-after.png",
+      "bytes": 550015,
+      "sha256": "418e1bb4299fb085d76c8ddb78529f097655fe6b477689a4e1408cf2642f9f4b"
+    },
+    {
+      "path": "native-after/lots/1404/td-209-criterion-1-after.png",
+      "bytes": 611953,
+      "sha256": "e66efe14ee34ee494f12a09e1c14d0b07bc1d90b144ea745fc672133abf00336"
+    },
+    {
+      "path": "native-after/lots/1405/td-209-criterion-1-after.png",
+      "bytes": 520565,
+      "sha256": "dfb6334dc16f66cf2951b491f6e2d113ea88012d61bfdfdda8770d4201824555"
+    },
+    {
+      "path": "native-after/lots/1406/td-209-criterion-1-after.png",
+      "bytes": 575593,
+      "sha256": "3d91889174847c6515082f55a3bf44b48944a08b6f8ff45d07c3de02fb585494"
+    },
+    {
+      "path": "native-after/lots/1407/td-209-criterion-1-after.png",
+      "bytes": 539018,
+      "sha256": "0524f50bd6c49773bdfb73049031a3381de536820e264993773cb2232c9f6dcd"
+    },
+    {
+      "path": "native-after/lots/1408/td-209-criterion-1-after.png",
+      "bytes": 551753,
+      "sha256": "d003ac8b67feae4bb4fdb9a0b35557162fda91444bb2b8837406543ffa464efa"
+    },
+    {
+      "path": "native-after/lots/1409/td-209-criterion-1-after.png",
+      "bytes": 521475,
+      "sha256": "59c1e6f8157291ca59acfbfdd4d182104e4d777038954b65f47a5ad5d545135f"
+    },
+    {
+      "path": "native-after/lots/1410/td-209-criterion-1-after.png",
+      "bytes": 666812,
+      "sha256": "f688530a7b8a45d993179ad6bc9142854f623354dfc17bb387006fcddaf40b4d"
+    },
+    {
+      "path": "native-after/lots/1411/td-209-criterion-1-after.png",
+      "bytes": 654467,
+      "sha256": "9553626babc5026a34b4bf9bb48b55f531f3ec540d548a8059a1eb7c09407212"
+    },
+    {
+      "path": "native-after/lots/1412/td-209-criterion-1-after.png",
+      "bytes": 549431,
+      "sha256": "88a6233397ba728589400981a60a516922cad27b52834677813f1c10a05fe152"
+    },
+    {
+      "path": "native-after/lots/1413/td-209-criterion-1-after.png",
+      "bytes": 694284,
+      "sha256": "2454e4fa96599b5a80c4f049a9b14384e6ca0cb063fd9f0b4b4446e3caf4f0d6"
+    },
+    {
+      "path": "native-after/lots/1414/td-209-criterion-1-after.png",
+      "bytes": 526209,
+      "sha256": "f796a54e8087fdf2ef18ab1d3d33a2d35341a333226eed5c24b290fb370fedea"
+    },
+    {
+      "path": "native-after/lots/1415/td-209-criterion-1-after.png",
+      "bytes": 510025,
+      "sha256": "160f256243dcab5f76adc6ae262e6801a5fbfa5dce682420718e62b404af8d53"
+    },
+    {
+      "path": "native-after/lots/1416/td-209-criterion-1-after.png",
+      "bytes": 478952,
+      "sha256": "6491efb3a2c8dc7354f48c3fd0030f6d80f37ee284783606a5657effed94e16c"
+    },
+    {
+      "path": "native-after/lots/1417/td-209-criterion-1-after.png",
+      "bytes": 545074,
+      "sha256": "2c27542a32f5f1102f7a9c9ba6699fe1ac3a730b2f80f9be44015ea489dd66c8"
+    },
+    {
+      "path": "native-after/lots/1418/td-209-criterion-1-after.png",
+      "bytes": 619823,
+      "sha256": "e51543ee0587dab27500a1b0370312a475aac1043723699aeb2739753bc9cc05"
+    },
+    {
+      "path": "native-after/lots/1419/td-209-criterion-1-after.png",
+      "bytes": 506695,
+      "sha256": "137cc3a34613fe14a0c0f24ba28b06c0352a89711083f494c08b37e7202ef51a"
+    },
+    {
+      "path": "native-after/lots/1420/td-209-criterion-1-after.png",
+      "bytes": 559579,
+      "sha256": "5cef475d8c671380efc97ad643642b4da54844da4f0c6ba48e113b6acf462a53"
+    },
+    {
+      "path": "native-after/lots/1421/td-209-criterion-1-after.png",
+      "bytes": 654976,
+      "sha256": "b3ad6c0e51fa71896bda1818e0c5c8b7510c9b74d1906356d5d64425e27b085a"
+    },
+    {
+      "path": "native-after/lots/1422/td-209-criterion-1-after.png",
+      "bytes": 449329,
+      "sha256": "bd3c8eb4fc971dc18fd6aae59934c5ae747cca2fce9f384b0c6ddb6786bfafa3"
+    },
+    {
+      "path": "native-after/lots/1423/td-209-criterion-1-after.png",
+      "bytes": 507250,
+      "sha256": "5f749624898c8324a5ba04c939f1316e54bc97f4f4972ae2090e11b33eaffe48"
+    },
+    {
+      "path": "native-after/lots/1424/td-209-criterion-1-after.png",
+      "bytes": 444866,
+      "sha256": "2a80fa43037535269633a69d3a779a8373e56c14fb3df952c1a6fb5197ebf483"
+    },
+    {
+      "path": "native-after/lots/1425/td-209-criterion-1-after.png",
+      "bytes": 615706,
+      "sha256": "96e90b72d595749a46d6677cd2807c66e4d4ccb87c2f3d736f82aa876723b131"
+    },
+    {
+      "path": "native-after/lots/1426/td-209-criterion-1-after.png",
+      "bytes": 489607,
+      "sha256": "7681e4e65d804b3261eb8d878e1166134ea7f80630ac1c74a082e7e31195999f"
+    },
+    {
+      "path": "native-after/lots/1427/td-209-criterion-1-after.png",
+      "bytes": 689508,
+      "sha256": "f06e4d0011d92335d8a99b3d5cfb80de20c2aa24a2aaa21fc926e96e5adaaaea"
+    },
+    {
+      "path": "native-after/lots/1428/td-209-criterion-1-after.png",
+      "bytes": 494861,
+      "sha256": "ebb6e32191d10ee549b5e2eb609e266ccabc9ee686ecf3a40227031b48f6b5a3"
+    },
+    {
+      "path": "native-after/lots/1429/td-209-criterion-1-after.png",
+      "bytes": 640020,
+      "sha256": "dbe9481a775bd3c7761bf9aac71428e1a3cb0d82a8eb0ec4d8bb88542895fd7d"
+    },
+    {
+      "path": "native-after/lots/1430/td-209-criterion-1-after.png",
+      "bytes": 535756,
+      "sha256": "b481eda3af72c9d1cca5de88815c9abdc3d5d3663361730de4bb261c2d1311ca"
+    },
+    {
+      "path": "native-after/lots/1431/td-209-criterion-1-after.png",
+      "bytes": 612291,
+      "sha256": "a03aca2b1feba3a31ea52922798bec6c6ffb0607ff588986a775f249183b63a8"
+    },
+    {
+      "path": "native-after/lots/1432/td-209-criterion-1-after.png",
+      "bytes": 523991,
+      "sha256": "7be22c7cb7c2ca1f33e113cf3ac56ae531e32c12bd008dc035ae2ce849050c5c"
+    },
+    {
+      "path": "native-after/lots/1433/td-209-criterion-1-after.png",
+      "bytes": 563941,
+      "sha256": "90e2144e593b201d801821c91dd015cd7b38632f0e629d5af7225ed95188cb92"
+    },
+    {
+      "path": "native-after/lots/1434/td-209-criterion-1-after.png",
+      "bytes": 491476,
+      "sha256": "a61be6ac184218cca8b1d37246bc609b9ebea8bdddb8e7e428e6f35f4bd51117"
+    },
+    {
+      "path": "native-after/lots/1435/td-209-criterion-1-after.png",
+      "bytes": 582347,
+      "sha256": "d9421f0ff14fbff4d10358bb727bbd9172b600180ac57852eb4747e762c3fd27"
+    },
+    {
+      "path": "native-after/lots/1436/td-209-criterion-1-after.png",
+      "bytes": 647826,
+      "sha256": "e822ff2f7d7f2211b54ab39a387e2922dae9165185b5022cf7770bc8790b22a0"
+    },
+    {
+      "path": "native-after/lots/1437/td-209-criterion-1-after.png",
+      "bytes": 625969,
+      "sha256": "d709e6050cf57c1de921203d21110ec81875c4d1e20298fb54641e86e2f33d01"
+    },
+    {
+      "path": "native-after/lots/1438/td-209-criterion-1-after.png",
+      "bytes": 479861,
+      "sha256": "22525daa4f4d65b34139434a693f044676dc7df80506327f623fa3602a91ef82"
+    },
+    {
+      "path": "native-after/lots/1439/td-209-criterion-1-after.png",
+      "bytes": 630081,
+      "sha256": "688e3f9a5ba4005bcd6ea7ad31e525f50414948bdfb10226335241bb16bf5557"
+    },
+    {
+      "path": "native-after/lots/1440/td-209-criterion-1-after.png",
+      "bytes": 469826,
+      "sha256": "79be4b1e342000e0651b879438e423063c9e14b08cbfe6b1a5cdb66ac5d24d76"
+    },
+    {
+      "path": "native-after/lots/1441/td-209-criterion-1-after.png",
+      "bytes": 486181,
+      "sha256": "04bca6b9fdf80a1297553e44f25bc1a030aac197358b498e705c594a66e37e03"
+    },
+    {
+      "path": "native-after/lots/1442/td-209-criterion-1-after.png",
+      "bytes": 492879,
+      "sha256": "018fef972b1fca3f64f89afb2946090a238b6a1b8504947261a13d7abff61acd"
+    },
+    {
+      "path": "native-after/lots/1443/td-209-criterion-1-after.png",
+      "bytes": 638909,
+      "sha256": "436d26468a5cc8c217609d9092475ffcb33321858f9ee68e1a01fe236a048e9c"
+    },
+    {
+      "path": "native-after/result.json",
+      "bytes": 128891,
+      "sha256": "d354fbb960e0b9fd3071c4a06ad71c8ca4be141376a3c642c23181299aeedce0"
+    },
+    {
+      "path": "native-after/routes/ginko-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 378045,
+      "sha256": "fc28badc31b2a91e21025616a19ff36ca4e8b9041fa7bdcb4c391433657411b0"
+    },
+    {
+      "path": "native-after/routes/ginko-forward-hud-844/td-209-criterion-2-after.png",
+      "bytes": 195149,
+      "sha256": "662d01a8a7d4c8e4325f76b67ba1aaa57c8d01aafc3db6450ce17f73515ea79d"
+    },
+    {
+      "path": "native-after/routes/ginko-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 417491,
+      "sha256": "3aec758f53fcdd86f293f063d6c6102708b30803e480f1b38d82550e5a64432e"
+    },
+    {
+      "path": "native-after/routes/ginko-forward-world-844/td-209-criterion-2-after.png",
+      "bytes": 186246,
+      "sha256": "dedceee57136f38358223991f81c87e4c12c2aa7de6ab498e3cbb1d31273599b"
+    },
+    {
+      "path": "native-after/routes/ginko-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 377302,
+      "sha256": "d2d8537b0d988d314a059a66fee2449e4046920048be21eb8a19d928f0f201ba"
+    },
+    {
+      "path": "native-after/routes/ginko-reverse-hud-844/td-209-criterion-2-after.png",
+      "bytes": 203136,
+      "sha256": "0678f1fca2137d7e23f18134a97425a0b9e08678db833971571e06ff7ee2dff8"
+    },
+    {
+      "path": "native-after/routes/ginko-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 414938,
+      "sha256": "df4ce9e1b2469a5c12b6f4351a1f73316b665c4b2cc7268692c8c2afdce8d268"
+    },
+    {
+      "path": "native-after/routes/ginko-reverse-world-844/td-209-criterion-2-after.png",
+      "bytes": 198754,
+      "sha256": "74f582c3095d9392d812c1c65cd263a8287c016d8af57be554f353d3d008697b"
+    },
+    {
+      "path": "native-after/routes/ichiba-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 359794,
+      "sha256": "60bdf0b37d0be9f8a4ab73bb0f7c38e2a5146ff6b1cdfea0cc3bd633238346ad"
+    },
+    {
+      "path": "native-after/routes/ichiba-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 384378,
+      "sha256": "29c6514e792bb18501bf0723c83e15942e0f22defbaa2588c1b2ebf52181208b"
+    },
+    {
+      "path": "native-after/routes/ichiba-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 358121,
+      "sha256": "02ba4c0c36b0e5bbe0f1a612bcda4009bfb7fe1095d20f8082e57bad1093b4cd"
+    },
+    {
+      "path": "native-after/routes/ichiba-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 398784,
+      "sha256": "6c96f573ec5b9584edf36d094b45ac48a8474bfab561319bcf8ccd2849853544"
+    },
+    {
+      "path": "native-after/routes/kashi-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 330237,
+      "sha256": "22d25decad310b45b167ba9732941b60b751dddd7a58f2d2d535a47d86084fb3"
+    },
+    {
+      "path": "native-after/routes/kashi-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 339250,
+      "sha256": "339972a5ec4f64232efed0d6da4270922588795bb7705793b575391bcaa69b2a"
+    },
+    {
+      "path": "native-after/routes/kashi-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 342856,
+      "sha256": "27923a7c309a4ae556388229b9f9402b4ee4ecd41cce17a16efbfbb4d1cfbfc9"
+    },
+    {
+      "path": "native-after/routes/kashi-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 404634,
+      "sha256": "4ec1845910fbcee2f353a3eef4f84f7a23069c13217560f79e0962713f5afc34"
+    },
+    {
+      "path": "native-after/routes/nishitenjin-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 232009,
+      "sha256": "f1524ffc56b9dca3d02a107459d95612239c9220cd966060d74a1103eda6ba3b"
+    },
+    {
+      "path": "native-after/routes/nishitenjin-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 254690,
+      "sha256": "772b2e62f11a3d64ad5700af375407e3df9f4fe7c495c830380edcd6a4bd8c42"
+    },
+    {
+      "path": "native-after/routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 330291,
+      "sha256": "b26b2d52e6af3101351583c7461c1475b216b4c77e2b9cd1c18376ec83dc0adc"
+    },
+    {
+      "path": "native-after/routes/nishitenjin-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 317113,
+      "sha256": "34b86ff4f0ec869d4b37cba6608b4f4ac9b727753826d124dc3bdeb6c8fa34c6"
+    },
+    {
+      "path": "native-after/routes/rinko-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 355332,
+      "sha256": "cca894b867411edddea44b1562265a09d2ec2adca776f79d505b7cfcedb38d79"
+    },
+    {
+      "path": "native-after/routes/rinko-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 360688,
+      "sha256": "b4eff2b6eb75896fc361c896c5c774b8c17fcb92183049467fc646603e142755"
+    },
+    {
+      "path": "native-after/routes/rinko-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 392866,
+      "sha256": "8e44e3c113588d1aa4c6140ff2a2690fd91b5323542f3bcb5bfba6d84990fec8"
+    },
+    {
+      "path": "native-after/routes/rinko-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 477756,
+      "sha256": "e0c78c750191f648e22baae5607153b19af601626cce1b2e106528da645f64be"
+    },
+    {
+      "path": "native-after/routes/shosha-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 408205,
+      "sha256": "1bda83b8bc751abdcf0cdccfeddd54ebc9617cc29282e88dbfae490a81db577e"
+    },
+    {
+      "path": "native-after/routes/shosha-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 429899,
+      "sha256": "de51eaacee1889a86be17ed0b027c17d114f223d324d16accefe9f8c904635ab"
+    },
+    {
+      "path": "native-after/routes/shosha-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 362049,
+      "sha256": "f90ab6a0e4be4efe833ef65921e2dddfd28caf47fb4d4a644ed3ad4439238309"
+    },
+    {
+      "path": "native-after/routes/shosha-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 406823,
+      "sha256": "d0759065060544c6d3d12ee2e04a03c7b5136a26079c3f0b3a6f6f95400db948"
+    },
+    {
+      "path": "native-after/routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 246382,
+      "sha256": "97ec5afc827b5a6cd3edbb8d09402437f99f4ef0d6fb859d35956dacddb89ed3"
+    },
+    {
+      "path": "native-after/routes/soshajo_ring-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 274875,
+      "sha256": "868c8f27f917507a18521ef4c6e34fe3bc7e5bd156f1ad5221cf269361bec307"
+    },
+    {
+      "path": "native-after/routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 310285,
+      "sha256": "e63856b435cda87b57b598507ff08ee13c8be1d2b8119f91430888994e0ba959"
+    },
+    {
+      "path": "native-after/routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 301044,
+      "sha256": "9b86e4ff870b457b968498d908338e919e38098f8a2363342c3c97f8e44f469f"
+    },
+    {
+      "path": "native-after/routes/tenjin-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 441089,
+      "sha256": "339bb35ff3a29ffdac038e6a8900b3e37f8f7efc6d68de413eb132d8f847254a"
+    },
+    {
+      "path": "native-after/routes/tenjin-forward-hud-844/td-209-criterion-2-after.png",
+      "bytes": 225780,
+      "sha256": "a2a1875dadf734875184c0b50b8bd249cda28cc53b5d255891ddd10a9b916a6e"
+    },
+    {
+      "path": "native-after/routes/tenjin-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 489091,
+      "sha256": "f86b84e752d915aedf2a12776bc84d11eed56a4e7831e77e666b13751330a772"
+    },
+    {
+      "path": "native-after/routes/tenjin-forward-world-844/td-209-criterion-2-after.png",
+      "bytes": 215490,
+      "sha256": "bec3424aad282c28e4b9d4664919815f8c78f8f0b0b64c55a647ba49ef3c4fed"
+    },
+    {
+      "path": "native-after/routes/tenjin-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 422125,
+      "sha256": "a20510b1165fef285c038c7cc84bbfb2db264360678d2329c0f1fc1c692ef36b"
+    },
+    {
+      "path": "native-after/routes/tenjin-reverse-hud-844/td-209-criterion-2-after.png",
+      "bytes": 218184,
+      "sha256": "32734c814203e6335e292a39d2919789daf229caca5d4626a2014333375eaf18"
+    },
+    {
+      "path": "native-after/routes/tenjin-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 455934,
+      "sha256": "82bbc4db324cb208adeb30dd013bc907a778f84c1582b3f6a4cabb65a69c7364"
+    },
+    {
+      "path": "native-after/routes/tenjin-reverse-world-844/td-209-criterion-2-after.png",
+      "bytes": 205826,
+      "sha256": "2a777815ca58bae58e22199faa48bc76200d704e6a83b441011d365560b4fd85"
+    },
+    {
+      "path": "native-after/routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 328763,
+      "sha256": "18640ce17e817f4264999a48aac0e3941c3e8579dc8516d4f5ff200e70a0a654"
+    },
+    {
+      "path": "native-after/routes/tenjin_kita-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 335033,
+      "sha256": "56b6c4c068d964db35e370beff6479ab4ec045062f8d77c24fae8e5e967b4382"
+    },
+    {
+      "path": "native-after/routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 332986,
+      "sha256": "31c46052025b3757bda1ba8ff2c6f4d974810208b5f5155df6232eb6532c7ba3"
+    },
+    {
+      "path": "native-after/routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 368981,
+      "sha256": "062e760e93cf1f9915db5dfccba85f0efbbababa8dddecf02873cb65d333d960"
+    },
+    {
+      "path": "native-after/routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 344033,
+      "sha256": "655193de0c530a5e21d3bb997a924197c262b9a9ed17d7ca0e8d9e11654609a6"
+    },
+    {
+      "path": "native-after/routes/tenjin_minami-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 358074,
+      "sha256": "1336e9bb7f6935981b65dccb385511cecb98066ffe076f10bf602cd99eeee393"
+    },
+    {
+      "path": "native-after/routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 359530,
+      "sha256": "56b58f5d3ef10fa015fd8827808a680d69813592cf046cc09ba8c19ee29afa2b"
+    },
+    {
+      "path": "native-after/routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 400213,
+      "sha256": "df882f2bfc64f2236011571e065e6c37431b931539d2e32af5cae635bcbb296d"
+    },
+    {
+      "path": "native-after/routes/tenjin_north-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 425279,
+      "sha256": "7be2f42e5912ae19c42f542084a038ce08f7050736b1df590afd4832931fc5a3"
+    },
+    {
+      "path": "native-after/routes/tenjin_north-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 458475,
+      "sha256": "c46016169860afece0634ea77507be9ed4f7253a37cfa0b4ca4e684c53e7ff58"
+    },
+    {
+      "path": "native-after/routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 411266,
+      "sha256": "55f20818f05bbc83c34bfc9281a857a8e67c66f35f9cdc4a9d87c4355ccda334"
+    },
+    {
+      "path": "native-after/routes/tenjin_north-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 444107,
+      "sha256": "c701cf01b41df09cae377527fa6d84e20f3e3c60d960540456e5d0e4c948d6a4"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 282679,
+      "sha256": "9fc7c0f1bf2535192394d3401c2224e6c6526ff4d7933e454309c83d81e56bf8"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 322655,
+      "sha256": "a500e2a60aaae298b7a6c2d20918a42444bc1b777e02af08593a7f4022708c44"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 351224,
+      "sha256": "5cd83e7540d2d9fabdfd2392532ce46851cf7084275a732a610d84fe8f827e92"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 399496,
+      "sha256": "2f58c2cb7f9797e58d741fe6cdba722d7f76e55c1580ed168ff38cc645ba1837"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 342769,
+      "sha256": "d68253ce55a334958606d8664ebadb5c644d3ffdbf603c1de3e4506c2c026398"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-after.png",
+      "bytes": 378088,
+      "sha256": "c5f94af9fca461488670aebb900ad5dd8e1b1cbf7571054c1b325f188203c7b5"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-after.png",
+      "bytes": 370662,
+      "sha256": "1fa8aca307f60cf27d308287acdb4a6f3a9982674f460e523346a124f6e50ef1"
+    },
+    {
+      "path": "native-after/routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-after.png",
+      "bytes": 415687,
+      "sha256": "5e92f99976fdec3cd075e836a7b6f845b1716650602951bcba93ab41b3da2655"
+    },
+    {
+      "path": "native-before/lots/1367/td-209-criterion-1-before.png",
+      "bytes": 56745,
+      "sha256": "cba1e961e597c7fab61794778e850ca9d6d59ae2588b5b367f720c53bcc56e95"
+    },
+    {
+      "path": "native-before/lots/1368/td-209-criterion-1-before.png",
+      "bytes": 44544,
+      "sha256": "c0c2cff7edc290cc8b297b55cf2c626e2dc387f4838cc9e286c8788320c73c24"
+    },
+    {
+      "path": "native-before/lots/1369/td-209-criterion-1-before.png",
+      "bytes": 45471,
+      "sha256": "bb7e2b23b699ecae811439b30c07b91517bd681bf6f9f807afd9bf36212c9a18"
+    },
+    {
+      "path": "native-before/lots/1370/td-209-criterion-1-before.png",
+      "bytes": 48420,
+      "sha256": "0261eae8e7ad9ffac566e9a29b2951949596ca44527ca485f5cc6c4444cb31e8"
+    },
+    {
+      "path": "native-before/lots/1371/td-209-criterion-1-before.png",
+      "bytes": 32307,
+      "sha256": "9e0da3202ffe2d994f12dfb3894f99c09c23b8f5b3bb97e3a5abe0bbd9ff5163"
+    },
+    {
+      "path": "native-before/lots/1372/td-209-criterion-1-before.png",
+      "bytes": 35611,
+      "sha256": "0d798545a037e502052831bacbfe1e6e48e951e6256221c9856dbd509c831139"
+    },
+    {
+      "path": "native-before/lots/1373/td-209-criterion-1-before.png",
+      "bytes": 31149,
+      "sha256": "80f1b6dab5a4fe7ee57591c89d7da928828f99506a8750527fb36c080e41c2b2"
+    },
+    {
+      "path": "native-before/lots/1374/td-209-criterion-1-before.png",
+      "bytes": 62513,
+      "sha256": "07899155332f8518718522fee1fe0e41641ed02105b99e1faebe0f38b0d479c6"
+    },
+    {
+      "path": "native-before/lots/1375/td-209-criterion-1-before.png",
+      "bytes": 53470,
+      "sha256": "d6fb92f5f819913ac63dadf11202cf70e554fd4f884f44743cb4abffab6e89ee"
+    },
+    {
+      "path": "native-before/lots/1376/td-209-criterion-1-before.png",
+      "bytes": 37975,
+      "sha256": "fd9e13c938e9598b143598c153e0ab19abf65ad82d60c6cd1f9131cf266cb3e1"
+    },
+    {
+      "path": "native-before/lots/1377/td-209-criterion-1-before.png",
+      "bytes": 59006,
+      "sha256": "12d1868ad97ffa3f082afbb30071793d589321c8f0de6e2a06959453fcf909ef"
+    },
+    {
+      "path": "native-before/lots/1378/td-209-criterion-1-before.png",
+      "bytes": 61866,
+      "sha256": "c67153ee50ecbe7724c7cf708893f9d9935d7222be8e1780699cb128d8c2166e"
+    },
+    {
+      "path": "native-before/lots/1379/td-209-criterion-1-before.png",
+      "bytes": 42392,
+      "sha256": "86e963206e9c51554352e0ab1569953bb5d1747cdea1bba0f203efb0685ace00"
+    },
+    {
+      "path": "native-before/lots/1380/td-209-criterion-1-before.png",
+      "bytes": 43245,
+      "sha256": "2564b5461496e5fc572e15ad96797a6e83f9763bb31b46e5e5909525a6866acd"
+    },
+    {
+      "path": "native-before/lots/1381/td-209-criterion-1-before.png",
+      "bytes": 90711,
+      "sha256": "1d3854fc8dffde07a799997ba08f3d03cbb08654747450d8279508a8e95ee643"
+    },
+    {
+      "path": "native-before/lots/1382/td-209-criterion-1-before.png",
+      "bytes": 75202,
+      "sha256": "8882c06b163f199375bcc8072a3cb01c2ea9af8e187479def09472c9077dc951"
+    },
+    {
+      "path": "native-before/lots/1383/td-209-criterion-1-before.png",
+      "bytes": 63164,
+      "sha256": "8969a36b04a39e58fe7aa11c7cf6b3f1dfdb9662c1198433a3f1cfcb3c89bfaa"
+    },
+    {
+      "path": "native-before/lots/1384/td-209-criterion-1-before.png",
+      "bytes": 70198,
+      "sha256": "2b6a3a076ff919d85a9458a1a53bf58f28949f63851932f17dbacec54a75dd18"
+    },
+    {
+      "path": "native-before/lots/1385/td-209-criterion-1-before.png",
+      "bytes": 35268,
+      "sha256": "a02e089be7922ed1906010ed882dd0df448201cd609845008c7fea9ebd9a1e32"
+    },
+    {
+      "path": "native-before/lots/1386/td-209-criterion-1-before.png",
+      "bytes": 36362,
+      "sha256": "a54948dc5cfb7b878c3d126b3a581ad291568d527a8c77430a21b82c7acf8a19"
+    },
+    {
+      "path": "native-before/lots/1387/td-209-criterion-1-before.png",
+      "bytes": 55101,
+      "sha256": "e8d9bd4d5eaa22fb157cf3ff156b48705d9f3f4a87b1979271e5bdf64886269f"
+    },
+    {
+      "path": "native-before/lots/1388/td-209-criterion-1-before.png",
+      "bytes": 34485,
+      "sha256": "86783e88b9c4d25aa20da1746ab6b5a05c33812d31479876735317128c5f2ba7"
+    },
+    {
+      "path": "native-before/lots/1389/td-209-criterion-1-before.png",
+      "bytes": 70119,
+      "sha256": "4a943fe12658050a7ced1c4192895a3ffd3b4eef1e1f956b87a9aadc4d1ebcc2"
+    },
+    {
+      "path": "native-before/lots/1390/td-209-criterion-1-before.png",
+      "bytes": 69312,
+      "sha256": "fd3247bac857a9228cbf60d0c8a8c10fc84196c48d309c54fe9cad68ce7b37ee"
+    },
+    {
+      "path": "native-before/lots/1391/td-209-criterion-1-before.png",
+      "bytes": 62971,
+      "sha256": "3d3eb25219475bf5ae623dcb02a4c9ab27b1c958b9352e9986aff40333eaaf80"
+    },
+    {
+      "path": "native-before/lots/1392/td-209-criterion-1-before.png",
+      "bytes": 52981,
+      "sha256": "dddef6b6a76712ecef5e7df4998e127dd77701e3e86f22639c564ec04f417d2b"
+    },
+    {
+      "path": "native-before/lots/1393/td-209-criterion-1-before.png",
+      "bytes": 38904,
+      "sha256": "818d47db6cd38f5e94134eaec3d9fc11cbc6cfbe81ad5b7912b7ae6039f90db8"
+    },
+    {
+      "path": "native-before/lots/1394/td-209-criterion-1-before.png",
+      "bytes": 67695,
+      "sha256": "cf7fe8334378c4136b40d2d5b1ce620d298104dd14baaadf66ad713af773296d"
+    },
+    {
+      "path": "native-before/lots/1395/td-209-criterion-1-before.png",
+      "bytes": 33668,
+      "sha256": "cf96ac1d8edcf0a13036aa6072d3548d7354eb2e4ec8560b342dcd74cf192264"
+    },
+    {
+      "path": "native-before/lots/1396/td-209-criterion-1-before.png",
+      "bytes": 41807,
+      "sha256": "2710eeee1572d2691f7197bf0dd86f5632b397cf0fe8c6b11c5c5605c0c478b9"
+    },
+    {
+      "path": "native-before/lots/1397/td-209-criterion-1-before.png",
+      "bytes": 58658,
+      "sha256": "e5279787a7022c184cae42822d0f8807b92277c2ec9394cafadf5a87a835d20d"
+    },
+    {
+      "path": "native-before/lots/1398/td-209-criterion-1-before.png",
+      "bytes": 53259,
+      "sha256": "7ddd0f5b6295c445c790d0cd978086661a8145ddff7b86b43d4ad380dfb52af8"
+    },
+    {
+      "path": "native-before/lots/1399/td-209-criterion-1-before.png",
+      "bytes": 58485,
+      "sha256": "0fc07b3ef1ef0b8de58efce63575327180daf804c4f08c0d5ae032e824172754"
+    },
+    {
+      "path": "native-before/lots/1400/td-209-criterion-1-before.png",
+      "bytes": 65608,
+      "sha256": "a602a6d9989983eea9f79b344f47b4e40fce3bd02ddc68e67cda1768891be36e"
+    },
+    {
+      "path": "native-before/lots/1401/td-209-criterion-1-before.png",
+      "bytes": 60051,
+      "sha256": "a79a6faa4683eab7fd14e4bb1ca320dd270b0534caf2e657a2f9323337788526"
+    },
+    {
+      "path": "native-before/lots/1402/td-209-criterion-1-before.png",
+      "bytes": 51473,
+      "sha256": "1bde8016606ad69f41bec85b625cf5b8318def6478d2f4d842589f5474e5f021"
+    },
+    {
+      "path": "native-before/lots/1403/td-209-criterion-1-before.png",
+      "bytes": 97906,
+      "sha256": "e029f6e3c887a5be66daf9390c23fba2368ded30334d700d9ed1ba41ad91dc34"
+    },
+    {
+      "path": "native-before/lots/1404/td-209-criterion-1-before.png",
+      "bytes": 53833,
+      "sha256": "5346cc48d07b413da7c188bfa0815904c679d3527cf1936b964e8a9dd980f517"
+    },
+    {
+      "path": "native-before/lots/1405/td-209-criterion-1-before.png",
+      "bytes": 76609,
+      "sha256": "5690771171c4bccff33db14904d84ff244aa6465cde6915a01b344bed972ab93"
+    },
+    {
+      "path": "native-before/lots/1406/td-209-criterion-1-before.png",
+      "bytes": 37102,
+      "sha256": "f1c6e4ac891f2b24f8923af0c56019a1ce84a7d9831651959c92b15671fe5f83"
+    },
+    {
+      "path": "native-before/lots/1407/td-209-criterion-1-before.png",
+      "bytes": 41932,
+      "sha256": "7248b542894e87f2a8613c8c13bec76eecf148420c7db90171a73c72a89fdb1c"
+    },
+    {
+      "path": "native-before/lots/1408/td-209-criterion-1-before.png",
+      "bytes": 38522,
+      "sha256": "723840c2c9f25ef0a2a92806fc6fdda019091f978afb05fcb4dacb035d5811b8"
+    },
+    {
+      "path": "native-before/lots/1409/td-209-criterion-1-before.png",
+      "bytes": 45691,
+      "sha256": "1232b46443455764330790e085bc69ba1e5c139b9be11ae79026bd925621e004"
+    },
+    {
+      "path": "native-before/lots/1410/td-209-criterion-1-before.png",
+      "bytes": 37176,
+      "sha256": "b48d544537efc42bb5704aae799b70e831c17a4b27a885300d644fdcea2559aa"
+    },
+    {
+      "path": "native-before/lots/1411/td-209-criterion-1-before.png",
+      "bytes": 32440,
+      "sha256": "70f33cdcb82831f244678ab95d602c275b9d3eb291f563d9798f65edbf78194f"
+    },
+    {
+      "path": "native-before/lots/1412/td-209-criterion-1-before.png",
+      "bytes": 137237,
+      "sha256": "ea29da2d7f16c4ae23437e78c3b9e41ad7525fa23dd29792def52749118f204c"
+    },
+    {
+      "path": "native-before/lots/1413/td-209-criterion-1-before.png",
+      "bytes": 31474,
+      "sha256": "6ec04996895073e341b497acdafb1b224b88902ff4e6a17456b1cc761aa710ef"
+    },
+    {
+      "path": "native-before/lots/1414/td-209-criterion-1-before.png",
+      "bytes": 83138,
+      "sha256": "e032e4f627484c391ba5cadfa1d61fc4ff73e650fdec4f45edf9e71a7abd619e"
+    },
+    {
+      "path": "native-before/lots/1415/td-209-criterion-1-before.png",
+      "bytes": 58772,
+      "sha256": "c76d3a6a019fb8c5f8986aa1d2bef85c140f7fed87ef081c54660b5c78f71f38"
+    },
+    {
+      "path": "native-before/lots/1416/td-209-criterion-1-before.png",
+      "bytes": 30524,
+      "sha256": "211250c682a245aa14495c62e76e1915d9de1031ce33a1b86555105c65ab2fb8"
+    },
+    {
+      "path": "native-before/lots/1417/td-209-criterion-1-before.png",
+      "bytes": 32355,
+      "sha256": "cb31cd2a109488373b77d34d1ed8b375d79a747e1d4f1f0838f02e326bf4e801"
+    },
+    {
+      "path": "native-before/lots/1418/td-209-criterion-1-before.png",
+      "bytes": 44129,
+      "sha256": "95b9a16661539688efa6a3470f3fc8cd0a12761cca8b173d27bfbed6e44260ab"
+    },
+    {
+      "path": "native-before/lots/1419/td-209-criterion-1-before.png",
+      "bytes": 68235,
+      "sha256": "7e0c670ba4cab1464a4897697ee004fd6c8ca6fb7b84e4963adb5942e429566a"
+    },
+    {
+      "path": "native-before/lots/1420/td-209-criterion-1-before.png",
+      "bytes": 41847,
+      "sha256": "f9b19df97b313e38cf8c391dd774300f8fec9ed8769a443b0ba7d2e6cb0e8fcd"
+    },
+    {
+      "path": "native-before/lots/1421/td-209-criterion-1-before.png",
+      "bytes": 42896,
+      "sha256": "5e9df3e38706e1bd0c4149bb567fbe7aa6190140e06f4df299f0abb436e69908"
+    },
+    {
+      "path": "native-before/lots/1422/td-209-criterion-1-before.png",
+      "bytes": 40494,
+      "sha256": "5441d17e13e377c490afd508da876865ace038a90a9d13c308badf402eed4ce5"
+    },
+    {
+      "path": "native-before/lots/1423/td-209-criterion-1-before.png",
+      "bytes": 64076,
+      "sha256": "26ffc894a6526771f26277b4792405c888d25a224e2200b5453d8bd5bd84d912"
+    },
+    {
+      "path": "native-before/lots/1424/td-209-criterion-1-before.png",
+      "bytes": 41589,
+      "sha256": "6544cbeec85db35b2449fd4ade9b6730cfe9d9da1114f3d4077a1b227a0ed71a"
+    },
+    {
+      "path": "native-before/lots/1425/td-209-criterion-1-before.png",
+      "bytes": 33577,
+      "sha256": "dfa9ebc3206f94502fe289ec719035dde10038ce9b4aaaf07b9c56d6031a07d1"
+    },
+    {
+      "path": "native-before/lots/1426/td-209-criterion-1-before.png",
+      "bytes": 67757,
+      "sha256": "b8a7dd6dbd34a2ae9205445873e8ed044e45fed707b6a6c13102d809d321b696"
+    },
+    {
+      "path": "native-before/lots/1427/td-209-criterion-1-before.png",
+      "bytes": 54622,
+      "sha256": "7047cf1d1b4e67534abf2aac83ce6f192afe3bae147d29ccd6fffc6d54d27429"
+    },
+    {
+      "path": "native-before/lots/1428/td-209-criterion-1-before.png",
+      "bytes": 58741,
+      "sha256": "594996fa2425a28ca001784cbccfa04c64e25bbfa31c24d5e95fe765de9cf225"
+    },
+    {
+      "path": "native-before/lots/1429/td-209-criterion-1-before.png",
+      "bytes": 40711,
+      "sha256": "87cc4f14ce063dd1ea80d9af3736f56508cab00db9483706fab607a49f3916a7"
+    },
+    {
+      "path": "native-before/lots/1430/td-209-criterion-1-before.png",
+      "bytes": 88428,
+      "sha256": "dbc8e256c101f3f73e99ecad34382471a485bfe7a8f78cee6ecd9a830e273564"
+    },
+    {
+      "path": "native-before/lots/1431/td-209-criterion-1-before.png",
+      "bytes": 34923,
+      "sha256": "0f44a744befc34cacf8168d94d2774963345f4919bf40fb70f52f8e409423309"
+    },
+    {
+      "path": "native-before/lots/1432/td-209-criterion-1-before.png",
+      "bytes": 64597,
+      "sha256": "060e3444eced7e7c579ccf125d286149dd90e4fed8fe39d601a9275df2125176"
+    },
+    {
+      "path": "native-before/lots/1433/td-209-criterion-1-before.png",
+      "bytes": 64126,
+      "sha256": "02be610c35d74b8a68856b0086cca79ba8247fd6a0d231c2e4080d2881466e62"
+    },
+    {
+      "path": "native-before/lots/1434/td-209-criterion-1-before.png",
+      "bytes": 66274,
+      "sha256": "88145d5107299ba124146849f1ccd5740f65d51810e2b0b79687ba5c4f2a6952"
+    },
+    {
+      "path": "native-before/lots/1435/td-209-criterion-1-before.png",
+      "bytes": 31409,
+      "sha256": "f26ca945556053e49ccf78b96161a884c7091887df7f566e563f7b474834b456"
+    },
+    {
+      "path": "native-before/lots/1436/td-209-criterion-1-before.png",
+      "bytes": 37088,
+      "sha256": "4bc02144b4c8dc65a34cdf2ccfecb72e7f49e7238a826ad36712734ef479a111"
+    },
+    {
+      "path": "native-before/lots/1437/td-209-criterion-1-before.png",
+      "bytes": 35476,
+      "sha256": "665ac209357a5778b6a9f06a054faa32930cc49d867f883cdddfa36be7bf9d41"
+    },
+    {
+      "path": "native-before/lots/1438/td-209-criterion-1-before.png",
+      "bytes": 53363,
+      "sha256": "f3807e2f1d73d872acf82fd613eb6c2bdfd618f417af5320e2d50249bafa0798"
+    },
+    {
+      "path": "native-before/lots/1439/td-209-criterion-1-before.png",
+      "bytes": 53564,
+      "sha256": "a5e20517afbb488cead7473dfc41beae8fc50709366f3e3cfcc216f6a56b30d9"
+    },
+    {
+      "path": "native-before/lots/1440/td-209-criterion-1-before.png",
+      "bytes": 56371,
+      "sha256": "7926993bcb8da92aa4c69891baab43e643a0be996337f5ad121c987825190f65"
+    },
+    {
+      "path": "native-before/lots/1441/td-209-criterion-1-before.png",
+      "bytes": 68474,
+      "sha256": "c797aca4dfd69241d826b227d09e83bd7a2416d158f457aa996dee7845f6ec69"
+    },
+    {
+      "path": "native-before/lots/1442/td-209-criterion-1-before.png",
+      "bytes": 64884,
+      "sha256": "24f65edd568b03278184b5d08b5868f71affeeca19589213b6731de1584eb615"
+    },
+    {
+      "path": "native-before/lots/1443/td-209-criterion-1-before.png",
+      "bytes": 63250,
+      "sha256": "9851e3a48cb85da76c4f0528e90d36864b6b48ccc1364bf87f0273a4e84d6c0a"
+    },
+    {
+      "path": "native-before/result.json",
+      "bytes": 128381,
+      "sha256": "5fd80ff340ff96495ac92c8286761e457ac49354ec02e7773cf39a501f423dc7"
+    },
+    {
+      "path": "native-before/routes/ginko-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 182753,
+      "sha256": "4de954fb09aadccf4c8323c696d25eedb9eb5d44d9ffc9dec0720d47b0f4b2f4"
+    },
+    {
+      "path": "native-before/routes/ginko-forward-hud-844/td-209-criterion-2-before.png",
+      "bytes": 115019,
+      "sha256": "fb5209e33de414e6bdccbe726f4cabc89e7de31a26a8a3700107f53ac015f557"
+    },
+    {
+      "path": "native-before/routes/ginko-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 168177,
+      "sha256": "80ebab757bb1fd6c4ceabfcaffd7137bb47f2b40b5f3facd29e468cf22342a20"
+    },
+    {
+      "path": "native-before/routes/ginko-forward-world-844/td-209-criterion-2-before.png",
+      "bytes": 84420,
+      "sha256": "38dd164f6ac6f6d5c15063dbaeba9b5230dfea64bc0fa1b1af5da48754cbe613"
+    },
+    {
+      "path": "native-before/routes/ginko-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 198473,
+      "sha256": "37d47332bf0bb4eb847f2280f538cb57e3377f958ca3093fe6c5e573bf87a8f5"
+    },
+    {
+      "path": "native-before/routes/ginko-reverse-hud-844/td-209-criterion-2-before.png",
+      "bytes": 126098,
+      "sha256": "3c193c0397991e0bffe7050c835eabe3fd3862eab5f32eedd6ed05274c8410ae"
+    },
+    {
+      "path": "native-before/routes/ginko-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 184320,
+      "sha256": "af0abc091ad21887ef86bba5d7bd0d604d27e2b2ec4c747383a40ceb40e16fc0"
+    },
+    {
+      "path": "native-before/routes/ginko-reverse-world-844/td-209-criterion-2-before.png",
+      "bytes": 99343,
+      "sha256": "b2b3a151d2956507a10143afe075b0e573e0ef30fb044eea68c22781936b0c27"
+    },
+    {
+      "path": "native-before/routes/ichiba-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 166252,
+      "sha256": "7aad1b97b1ff4253c94f45b3e51c17dd973db663a04185aa9c350afbce64e9cf"
+    },
+    {
+      "path": "native-before/routes/ichiba-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 159175,
+      "sha256": "37a5f9aa7d41694569a54eae61ec1709d37292d3a2aceb81356e76a5ed690f30"
+    },
+    {
+      "path": "native-before/routes/ichiba-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 185982,
+      "sha256": "c30aa7d9973ff4014bb59bdfda3898ec6cafb935c373524655d4bb384e158f43"
+    },
+    {
+      "path": "native-before/routes/ichiba-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 177266,
+      "sha256": "84ab737fb499fa857a345582b99dc329561a9438809a6852c34122dfafc13a09"
+    },
+    {
+      "path": "native-before/routes/kashi-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 186445,
+      "sha256": "7037a72a1caed9314ef4d4fcf387454bcaa2432a38adc3202b385040157dba72"
+    },
+    {
+      "path": "native-before/routes/kashi-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 195690,
+      "sha256": "d645f80c6eacdf28fe55f1bad6061f94c61482e0bef85131c120de5440ea222c"
+    },
+    {
+      "path": "native-before/routes/kashi-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 209038,
+      "sha256": "e3cb928b46683ba0c0c2e79d1807a5c90846b767982d208f1dcb1540ecc6e848"
+    },
+    {
+      "path": "native-before/routes/kashi-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 181432,
+      "sha256": "5c9539081b8b5b9d7641a441018b8fd28524178c9b652898699776499b54570a"
+    },
+    {
+      "path": "native-before/routes/nishitenjin-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 152981,
+      "sha256": "c59e8f2709ea2ccb1cac53de9bf9a2b0eaedcba286f7e5cdec0337268ad2632b"
+    },
+    {
+      "path": "native-before/routes/nishitenjin-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 145789,
+      "sha256": "ea13fb8a6972b21ba21c4dbfe620ffd678c5c63035c8c1650098e5334e8b3e61"
+    },
+    {
+      "path": "native-before/routes/nishitenjin-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 172071,
+      "sha256": "9d8c81aef81b7d14714fc983c55cefd81e5e21c05366f22acb5180090ae03b5d"
+    },
+    {
+      "path": "native-before/routes/nishitenjin-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 157048,
+      "sha256": "5a5d1d4dc9d34bfb5235b962709fcce1b5f3abc7947712b3cba874bd15ce1c07"
+    },
+    {
+      "path": "native-before/routes/rinko-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 182418,
+      "sha256": "27521a2482baef99f8889e1eda7ae722cbb40969ecafb281a828ff8b78ad679a"
+    },
+    {
+      "path": "native-before/routes/rinko-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 186131,
+      "sha256": "9ba21724aa2d3183ee2aced23a016fc65968a68363b38381aa2aa613b34f1001"
+    },
+    {
+      "path": "native-before/routes/rinko-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 220535,
+      "sha256": "f33676325e5c5763d328cab8c78a9c7a70782733ecf67bfdbabc308f8f53ea10"
+    },
+    {
+      "path": "native-before/routes/rinko-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 192224,
+      "sha256": "d15460bd5a127ae6d297162701331ff25611c44b6223cf05e4bff93f817f57ca"
+    },
+    {
+      "path": "native-before/routes/shosha-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 206891,
+      "sha256": "ba0ef7945336e7ce6aa15e0b0022c9e8939bb4c034fb20f34a527f491871b873"
+    },
+    {
+      "path": "native-before/routes/shosha-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 201791,
+      "sha256": "e7f1b44b79786172a321a7a604fdeb8b92a957cc60eb6891ff51ca8439c0b393"
+    },
+    {
+      "path": "native-before/routes/shosha-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 207798,
+      "sha256": "9a5eb8c6b1233d4946e96060de13b127ecc13a2dacc70ee797f5f33a5001d4d3"
+    },
+    {
+      "path": "native-before/routes/shosha-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 196033,
+      "sha256": "9c6d74181fbce623a0f9923c88fae7ca13c4efddd63f2e33d67e8784f8e1dc0b"
+    },
+    {
+      "path": "native-before/routes/soshajo_ring-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 192493,
+      "sha256": "5a0f2246a4806b4a582b25ed5edd46ad72b7355a2263799a64ed14806e13a314"
+    },
+    {
+      "path": "native-before/routes/soshajo_ring-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 180075,
+      "sha256": "8d43283f7abdc804cf25c9089c597b952b9714c915e0339dbd70eb91c7a8b8b1"
+    },
+    {
+      "path": "native-before/routes/soshajo_ring-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 185076,
+      "sha256": "0ce0e664fd1b237e0195f4a4ebdbe5bc89c3b8683705c3c82967bbf219901535"
+    },
+    {
+      "path": "native-before/routes/soshajo_ring-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 174337,
+      "sha256": "e10e00b8e7bc4cb1e8bf3081f917eaab63e540aa81cd6cdb241881b09e4a5944"
+    },
+    {
+      "path": "native-before/routes/tenjin-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 217208,
+      "sha256": "1dd757ef68f174d0a303656229609eda685d44ca0b9cd242d9860715a4640d4d"
+    },
+    {
+      "path": "native-before/routes/tenjin-forward-hud-844/td-209-criterion-2-before.png",
+      "bytes": 134827,
+      "sha256": "717807b8af6e7c58a04b2a929b33ee4892945189e2db9994366781e39df698fe"
+    },
+    {
+      "path": "native-before/routes/tenjin-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 215894,
+      "sha256": "de8873919786b3b9fb4b596ca9958ed873d20e2605f3e7b5fc3efb40888ed42e"
+    },
+    {
+      "path": "native-before/routes/tenjin-forward-world-844/td-209-criterion-2-before.png",
+      "bytes": 107642,
+      "sha256": "e25dc44b82228893a6190de4a6780dfe695ab642ff0ed972ffea200eddcb6794"
+    },
+    {
+      "path": "native-before/routes/tenjin-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 194684,
+      "sha256": "bac88655d4babb65754c883846cb258d7c20de5a909253b3c016417e7e069195"
+    },
+    {
+      "path": "native-before/routes/tenjin-reverse-hud-844/td-209-criterion-2-before.png",
+      "bytes": 128366,
+      "sha256": "7b45ebaf8adaf01b5af98f4e23287e8d24df8203812449a64cbf65b0794cc613"
+    },
+    {
+      "path": "native-before/routes/tenjin-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 191476,
+      "sha256": "671c34fa1501ac4e985bcf9e29b5663d17cfc8cbc880f63c6d91ee35b8206a98"
+    },
+    {
+      "path": "native-before/routes/tenjin-reverse-world-844/td-209-criterion-2-before.png",
+      "bytes": 103285,
+      "sha256": "c7d2e0915d4656528edaf6798e7acf294ae3fe59380be474f8cbb30bf0b38069"
+    },
+    {
+      "path": "native-before/routes/tenjin_kita-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 158074,
+      "sha256": "d673d4087a46f8e522b2759f6dd160f103aece5f9b80983f78fdf62feb3f1d93"
+    },
+    {
+      "path": "native-before/routes/tenjin_kita-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 147019,
+      "sha256": "0ae6a0bd8635ba413c1b0088da3f4cb82e06d0437b68d03c77abee1b75f0b033"
+    },
+    {
+      "path": "native-before/routes/tenjin_kita-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 174841,
+      "sha256": "3ae54eb22e3160542731379939a3f66177fe59c4fa9f27cbe2d3d7cc3f13d50f"
+    },
+    {
+      "path": "native-before/routes/tenjin_kita-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 163308,
+      "sha256": "ce6da49dea9d74b789d4df923600433ff89f614b9b9446abe25b88f94bc94d53"
+    },
+    {
+      "path": "native-before/routes/tenjin_minami-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 161815,
+      "sha256": "85fe77475bdfa3db885478f77358079c5f8748a04cfff101573d4044ffbea77c"
+    },
+    {
+      "path": "native-before/routes/tenjin_minami-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 150048,
+      "sha256": "a0fce5e88efde2353fcbc755a1409a901d492edb980ce0b1cbd921c3f5f1f236"
+    },
+    {
+      "path": "native-before/routes/tenjin_minami-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 166223,
+      "sha256": "d5d095d99cc6dfc0605274adc448d942d14f0b1420c6a9377d0c488c78c3de6d"
+    },
+    {
+      "path": "native-before/routes/tenjin_minami-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 154227,
+      "sha256": "7870ddb3fc6b7b3977f12613385fe06b39afab7ec0b3d189e0ea879c63ca0e83"
+    },
+    {
+      "path": "native-before/routes/tenjin_north-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 226554,
+      "sha256": "14b308b081acdcc363498131071dfdf519dd8b77189b198b27a8e7aecf74dd67"
+    },
+    {
+      "path": "native-before/routes/tenjin_north-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 218982,
+      "sha256": "fec8469f72ff731ce3613eb1e30f7977fc9c2ec2a554b1ee9db2dd05b5c9f390"
+    },
+    {
+      "path": "native-before/routes/tenjin_north-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 224724,
+      "sha256": "b7805dcfa9945bb4b0aab14c51db40a857488a85b654ee1281363e786f51776d"
+    },
+    {
+      "path": "native-before/routes/tenjin_north-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 218531,
+      "sha256": "dcc9b7b5ad0e6a4c37ddac80c4a7ef63d4bc39fee8bc53e9b22110407cf2cc55"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura1-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 119984,
+      "sha256": "df2ba6e99ddddbafebd449d5d03e8a5ab13c23759d4462ccb55f47a33185d5fb"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura1-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 99903,
+      "sha256": "e789949204a29c746a4ec26a780cb4487c512f498db57b06de082446c96fc127"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura1-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 120171,
+      "sha256": "5abc42cff4e043349fce9c195f7202f1ea8e0528a2ba680a6b9497085243cf31"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura1-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 100240,
+      "sha256": "c2a8e508adb3fabb8da41ba6d21e89bb78b64ca549b07c7e33c6485d52a81399"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura2-forward-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 124365,
+      "sha256": "de27a9532524af455bd269a83b5733479c5201ea07e3d29afc0fc0982c9b25cf"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura2-forward-world-1280/td-209-criterion-2-before.png",
+      "bytes": 103754,
+      "sha256": "198c5bb209d1758d34a11c2d3910a766f0d03f9ecdb0b9fd469c54c73e3897b0"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura2-reverse-hud-1280/td-209-criterion-2-before.png",
+      "bytes": 124546,
+      "sha256": "d763f06c6ea881f6a7a1d046f2ca13060bf418dd6dbdd3b1e44c4f549ac96665"
+    },
+    {
+      "path": "native-before/routes/tenjin_ura2-reverse-world-1280/td-209-criterion-2-before.png",
+      "bytes": 101908,
+      "sha256": "5e4b9867af463ab5cb0176c25ae5fe3aced2aab12c2ce9c55d4e4a37c66b03f9"
+    },
+    {
+      "path": "native-import-provenance.json",
+      "bytes": 143401,
+      "sha256": "00b67f188028b880b5356dd54f6f455db4759cba557f1520b7c1e17553c4ec05"
+    },
+    {
+      "path": "ordinary-entry/ordinary-hud-1280.png",
+      "bytes": 397504,
+      "sha256": "125e3740234917cc3f4079312680d4133aa378eed3ae193ac8d89a00b7b76d8d"
+    },
+    {
+      "path": "ordinary-entry/ordinary-hud-844.png",
+      "bytes": 198716,
+      "sha256": "67aecd3fecee16ab38dbdc401dbaf91555edb0edcaaf18f4c2df13ff482e8561"
+    },
+    {
+      "path": "ordinary-entry/ordinary-menu.png",
+      "bytes": 81051,
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
+    },
+    {
+      "path": "ordinary-entry/result.json",
+      "bytes": 8716,
+      "sha256": "efadf7725cb7f1ccb76a8df936ad4b4359d5ab3662581c2bde2e2a554f5652d9"
+    },
+    {
+      "path": "ordinary-entry-before/ordinary-hud-1280.png",
+      "bytes": 166756,
+      "sha256": "37884ce624f36bda41fcc699eae0e303717032bacbb061c9a76dcbe106b035dd"
+    },
+    {
+      "path": "ordinary-entry-before/ordinary-hud-844.png",
+      "bytes": 99607,
+      "sha256": "5485187175783524dd8205ed8aeebb7333f84c4a3bf5172370c410e32d9549a1"
+    },
+    {
+      "path": "ordinary-entry-before/ordinary-menu.png",
+      "bytes": 81051,
+      "sha256": "59eff0d72d344a32b61b5e1ad83236d1be5b25829dd35b7c1f785e90eb985bfc"
+    },
+    {
+      "path": "ordinary-entry-before/result.json",
+      "bytes": 8715,
+      "sha256": "4d2b2875e602c5e2ce05353e951c8facec9f93c0496ad7f926c735b0e4a415ab"
+    },
+    {
+      "path": "ordinary-entry-comparison.json",
+      "bytes": 4436,
+      "sha256": "5f19cf995dd9d39617f317f9ca8497fbeacc104c01a3fe535563b5c317683905"
+    },
+    {
+      "path": "package-summary.json",
+      "bytes": 1389,
+      "sha256": "7515729e94c3c510b1777e74c2d83ef347ca91a9348b4fc66f91056674b552db"
+    },
+    {
+      "path": "protected-comparison.json",
+      "bytes": 173563,
+      "sha256": "288d8337eb631103ce58d59a9ad4d34f311c87f06d656dd7846f182c0a433087"
+    },
+    {
+      "path": "regression-comparison.json",
+      "bytes": 34217,
+      "sha256": "2d63c5c2443ea654359a34b04a24d534b764e479c92d19b3f0e9ebca71f63452"
+    },
+    {
+      "path": "render-telemetry-summary.json",
+      "bytes": 1986,
+      "sha256": "e9250f794f6aa51d7f6ee4325710de30287ebfe2dd59b8b32b77895040e8752c"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-01.jpg",
+      "bytes": 398746,
+      "sha256": "e5a71e08d7d10e49169acc31a753066a8dc448d439c2a2cfee9111d6dc9a386a"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-02.jpg",
+      "bytes": 393362,
+      "sha256": "7a29f817deb72d5b039d7fc93cfeae6d994684e2d86b0403eccb48d864e643b1"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-03.jpg",
+      "bytes": 376499,
+      "sha256": "6117cb3d14d47a043bb8214d1732db2d3a88731dde074b40b04375705ea764e6"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-04.jpg",
+      "bytes": 417809,
+      "sha256": "847dce4ac21e72f00e3f5d6047f7bbbce59d67d30e5cd260d7819fbdce57a1fe"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-05.jpg",
+      "bytes": 394871,
+      "sha256": "51044b5a0eaa1dd87f99754f75f365c3b3b279d1ab68a9f2b31c7697caac3336"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-06.jpg",
+      "bytes": 409125,
+      "sha256": "ff31429d12dc9a00de521d6c92db80f389bf78a5bb230d9d45398ebbad7668ec"
+    },
+    {
+      "path": "review-sheets/criterion-1-all-lots-07.jpg",
+      "bytes": 194373,
+      "sha256": "13f5b153a36c74ff29a890cddf5acbd4f84cbde652bc2b143f90fcb5c944d466"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-01.jpg",
+      "bytes": 486319,
+      "sha256": "ea3b5400124b02ec4cc8ddbf82fa2b9bb5906ebd6e771262920844ab58b68804"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-02.jpg",
+      "bytes": 468405,
+      "sha256": "5c53d200c638a878446a3b8386a376a56a3a28cec9cb89270a7a27158815f60f"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-03.jpg",
+      "bytes": 463512,
+      "sha256": "37f0e918e081d9f340e41825738bd93570cd8ed8a94be4eee887c8e35198cf87"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-04.jpg",
+      "bytes": 498914,
+      "sha256": "c9b934ab8c78e1cdcbf150ba60f3f586d1ac6b430a6b84b118fb7f0ef0688592"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-05.jpg",
+      "bytes": 485585,
+      "sha256": "4aed19cc847e7153b7fd56acaed1b574bcae8b40eb1cc7d6c2b0a37a2648ba84"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-06.jpg",
+      "bytes": 457336,
+      "sha256": "22f67371b3a84cbc7008d3636a7e3c4f889ff7b9bd864edc212fa7506aaeb729"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-07.jpg",
+      "bytes": 469659,
+      "sha256": "bfb68bfeefc799f2685da2693ffb16a3ebd52ea3b8a7a030634a6e056cff8dce"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-hud-08.jpg",
+      "bytes": 233887,
+      "sha256": "4dd54a6ce57773751e2bb6405f7510815f21079d24f2fb8446c970c473350d3f"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-01.jpg",
+      "bytes": 350733,
+      "sha256": "391b52af345e226548f04c98bd0510786582c83536bac664e79264e66bb00f5f"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-02.jpg",
+      "bytes": 363922,
+      "sha256": "c9493e54007ddb1f55f6411cd62a2b9d92fa3cf094bf91cb81a70520687fb631"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-03.jpg",
+      "bytes": 358112,
+      "sha256": "f920a737122afb31270450048a082b8ae4fc3a046eb1145c35b9a1525d4f82ca"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-04.jpg",
+      "bytes": 388819,
+      "sha256": "8798e3a0840c395925fff9079935df381098ca192909bce542b939aa422540bf"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-05.jpg",
+      "bytes": 371110,
+      "sha256": "0ec0b91e9aafea96ada78eab27f5d2403c9a8b4f76a7b5e62af4fe15b471e372"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-06.jpg",
+      "bytes": 349191,
+      "sha256": "e0a6e6fa9c958afa239885e0e5306bd6aa3bad28cd12223c8cc49c45e2af41cc"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-07.jpg",
+      "bytes": 352239,
+      "sha256": "5cc01d75b1eede167ed909b2632ddbf834f01d2cb3be0b44d85dfaadaeff7ebe"
+    },
+    {
+      "path": "review-sheets/criterion-2-browser-world-08.jpg",
+      "bytes": 166808,
+      "sha256": "32d8cbf0c885cb77b3177b10f765ec0d4f5a94656ef7f0301d3d01df731c06bf"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-01.jpg",
+      "bytes": 489984,
+      "sha256": "82785fab133de01559b20e5057eaaa322983a5e9b60cf11ef5918ffb3895f6db"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-02.jpg",
+      "bytes": 470721,
+      "sha256": "0aff11e7300425ca339777913360522b7b4f6e3f56c4c778f08cbc38e636f9f3"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-03.jpg",
+      "bytes": 465750,
+      "sha256": "d157a6a142b87da4aadd581ef5ac33f812a319a37726ddf9d128b2f33844130b"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-04.jpg",
+      "bytes": 502299,
+      "sha256": "bd7fd8bd7f83831ca298f71bcba3530ee54e3cf1708114a30370f925bdf111d3"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-05.jpg",
+      "bytes": 487049,
+      "sha256": "83f2fa6f89702a9b762299f50ba0e2ea30afc9fc893c8d0566b1101844564134"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-06.jpg",
+      "bytes": 461409,
+      "sha256": "a5a747497e73b99b50128efe200fef61bd188fb754f2ebd027a27fe36e832d4c"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-07.jpg",
+      "bytes": 470519,
+      "sha256": "2026c048ef51830a6dcf70477808b28a7f6c4d80524361d1163dc95ff1fd89bc"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-hud-08.jpg",
+      "bytes": 235092,
+      "sha256": "02af5b220fba7f0ad2dbfd1806d2ce1709dfa9fbd14d5a72a00a3291c1c355ee"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-01.jpg",
+      "bytes": 346255,
+      "sha256": "b74c0ea426d957abdefe14303833a8854db5b90bf248987813c64a0a6065a04d"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-02.jpg",
+      "bytes": 357599,
+      "sha256": "4b4c4dc2d3a7f72750d11397157b9c6fde503ed39a3c0ea2d5ffe955f1714b9a"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-03.jpg",
+      "bytes": 358490,
+      "sha256": "1b99076a5439a1d9bb31b21ab8c214734d90291e509ed37179afd95214fc2fa6"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-04.jpg",
+      "bytes": 389302,
+      "sha256": "e4f3f46fcfa694aebbbd38f4a71593918e7716d6e02a4ab16379da2a666c137c"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-05.jpg",
+      "bytes": 368907,
+      "sha256": "c2bc8cbd9354b30a5da2803b11937f53500820995dacc606e98128c851930efe"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-06.jpg",
+      "bytes": 350468,
+      "sha256": "e33ecbd942a9407d333d686f59484f1f3f3708b84d1698431168e2b05bccf21a"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-07.jpg",
+      "bytes": 349387,
+      "sha256": "b741a5adc6bc53d633195ea4ff10aebd0b882f9eedfef928206f4053be8ab5c0"
+    },
+    {
+      "path": "review-sheets/criterion-2-native-world-08.jpg",
+      "bytes": 166893,
+      "sha256": "9e8cb9686ed822395941f5b3520358889f57e7496295b9581459b3110ff5da2a"
+    },
+    {
+      "path": "review-sheets/manifest.json",
+      "bytes": 49405,
+      "sha256": "4292a76c4848115e93d1393762e5fa8125c1cf0455c389085695aab4b206a481"
+    }
+  ],
+  "publication": "QA-only branch; no game PCK, site entry, main update, merge or deployment"
+}
