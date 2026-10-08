@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "packaging": "static-chunks-v1",
-  "release": "playtest-20261008-1a5d967",
-  "source_sha": "1a5d967ca81d285aecf07be830811aff4fbef48f",
-  "release_manifest_sha256": "1c056b1c7391bc99814103d9128c4efc72ac8affdc4c6968f293dbdb888ff6f5",
+  "release": "playtest-20261008-841ec6b",
+  "source_sha": "841ec6b8dd7ac6150d81d21a0df95f7ea68602f3",
+  "release_manifest_sha256": "9dfa95eb70437af6bb53f6fe312663f79b9c6eafa68dc03208296bbf9d6892b9",
   "validation_run": null,
   "published_at": null
 }

@@ -1,15 +1,9 @@
-# Experimental personal playtest
+# Experimental quality and traffic preview
 
-Runtime source: `1a5d967ca81d285aecf07be830811aff4fbef48f`.
+Release playtest-20261008-841ec6b. Source 841ec6b8dd7ac6150d81d21a0df95f7ea68602f3.
 
-This build is published for personal playtesting at the owner's request without waiting for CI or full gameplay acceptance. Publication checks establish artifact identity and serving, not gameplay approval.
+Includes reversible 3D resolution controls (50/75/100%, default75; choose50 in Pause) and bounded traffic deadlock/crossing-priority repairs. Reduced resolution does not establish an FPS improvement. Traffic retains seven baseline collision cases and nine shutdown errors; it is not a complete traffic fix.
 
-Known limitations and open checks:
-- Phone DPR sizing remains a known concern; physical-phone sizing/performance are not verified here.
-- Gig completion and station/fuel flows are not fully verified for this combined release.
-- Traffic collision blame remains an unresolved playtest concern.
-- Reload-reset behavior remains a known limitation; do not assume progress or transient state survives reload.
+Essential import, export and package integrity checks passed. Formal visual, browser gameplay, physical-phone and FPS acceptance remain unestablished. Camera, map, garage, damage and police bugs remain. No camera or map patch is included.
 
-Delivery uses 8 MiB chunks with per-chunk and assembled-pack SHA256 checks. Only the matching chunk-size constants changed in the existing packager and loader; runtime game source was not changed for publication. See `packaging-provenance.json` at site root.
-
-The prior v46 client is retained at `releases/live-v46-4ecd2089/index.html`. Prior files and unrelated galleries are preserved.
+Previous release playtest-20261008-1a5d967 and historical rollback live-v46-4ecd2089 are retained. No game implementation was merged to main and no manual GitHub Actions dispatch was used.

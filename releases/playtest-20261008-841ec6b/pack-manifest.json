@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "release": "playtest-20261008-841ec6b",
+  "source_sha": "841ec6b8dd7ac6150d81d21a0df95f7ea68602f3",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "pack": {
+    "path": "index.pck",
+    "bytes": 112578600,
+    "sha256": "5daf4a69a3ef981084886674acb7016ae86fc52a5d031a08547d9089069f2de4",
+    "chunks": [
+      {
+        "path": "pck/0000-80b898282d153d353115649ceef1f980e6b7e859213365928030f5cc546b77b5.bin",
+        "offset": 0,
+        "bytes": 8388608,
+        "sha256": "80b898282d153d353115649ceef1f980e6b7e859213365928030f5cc546b77b5"
+      },
+      {
+        "path": "pck/0001-a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170.bin",
+        "offset": 8388608,
+        "bytes": 8388608,
+        "sha256": "a502e87b113b1e99d597d04643467f0d82a92852d44496e0191b23135c443170"
+      },
+      {
+        "path": "pck/0002-1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4.bin",
+        "offset": 16777216,
+        "bytes": 8388608,
+        "sha256": "1ac3b3d60bcdb9701f4f8d8e82f4b9d442094e326b9d992865b991c8880a91f4"
+      },
+      {
+        "path": "pck/0003-a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f.bin",
+        "offset": 25165824,
+        "bytes": 8388608,
+        "sha256": "a29f5ce75fbb0076411189ef9313aa4ca54a977d209fdcb13c77a8109f53950f"
+      },
+      {
+        "path": "pck/0004-bc4fbf810691a444733ed1223e5b6c921d0142ec20528cd51411f043aeed50d8.bin",
+        "offset": 33554432,
+        "bytes": 8388608,
+        "sha256": "bc4fbf810691a444733ed1223e5b6c921d0142ec20528cd51411f043aeed50d8"
+      },
+      {
+        "path": "pck/0005-23c6ae5039aef1130559bbb01075d3b8be81a575f6c1e5b744646cbc4924035f.bin",
+        "offset": 41943040,
+        "bytes": 8388608,
+        "sha256": "23c6ae5039aef1130559bbb01075d3b8be81a575f6c1e5b744646cbc4924035f"
+      },
+      {
+        "path": "pck/0006-2c26b6749a94609957016357fa95b4caa6b0bd58f4fbbec5db0785c8a6d372e8.bin",
+        "offset": 50331648,
+        "bytes": 8388608,
+        "sha256": "2c26b6749a94609957016357fa95b4caa6b0bd58f4fbbec5db0785c8a6d372e8"
+      },
+      {
+        "path": "pck/0007-68a0a5ec0331bbc59d93f75b595983e6428bdb93a0ee390ff821aa2037ed51b3.bin",
+        "offset": 58720256,
+        "bytes": 8388608,
+        "sha256": "68a0a5ec0331bbc59d93f75b595983e6428bdb93a0ee390ff821aa2037ed51b3"
+      },
+      {
+        "path": "pck/0008-57bcf317406c45933f42723aa0235de0fcbee025c826b534eceee301b489818a.bin",
+        "offset": 67108864,
+        "bytes": 8388608,
+        "sha256": "57bcf317406c45933f42723aa0235de0fcbee025c826b534eceee301b489818a"
+      },
+      {
+        "path": "pck/0009-9ff3d0d523065ff71fb66d3cbfa4d8831ee1daf74cc814aa9e46a16ea8e5a8fb.bin",
+        "offset": 75497472,
+        "bytes": 8388608,
+        "sha256": "9ff3d0d523065ff71fb66d3cbfa4d8831ee1daf74cc814aa9e46a16ea8e5a8fb"
+      },
+      {
+        "path": "pck/0010-7e8c773613cc0c2db10f926c82f63eb7b9279361b4b568ede8028127cfb9fe84.bin",
+        "offset": 83886080,
+        "bytes": 8388608,
+        "sha256": "7e8c773613cc0c2db10f926c82f63eb7b9279361b4b568ede8028127cfb9fe84"
+      },
+      {
+        "path": "pck/0011-4acd581a3afeea48b2d3efe37d6998c808d81b969b211e4baf98108e7711e009.bin",
+        "offset": 92274688,
+        "bytes": 8388608,
+        "sha256": "4acd581a3afeea48b2d3efe37d6998c808d81b969b211e4baf98108e7711e009"
+      },
+      {
+        "path": "pck/0012-5f698d9ba9d6eff8451a3c721588225b90173bb7157120e971b4e9088ded9f9d.bin",
+        "offset": 100663296,
+        "bytes": 8388608,
+        "sha256": "5f698d9ba9d6eff8451a3c721588225b90173bb7157120e971b4e9088ded9f9d"
+      },
+      {
+        "path": "pck/0013-a76852788de01376c6374796a741af8f46df21addfa1e51636a7f0b79d669118.bin",
+        "offset": 109051904,
+        "bytes": 3526696,
+        "sha256": "a76852788de01376c6374796a741af8f46df21addfa1e51636a7f0b79d669118"
+      }
+    ]
+  }
+}
