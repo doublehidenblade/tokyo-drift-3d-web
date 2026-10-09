@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/factions/mock-kaiun-checkpoint.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist harbor drowned in ochre dust at dusk, DAIKOKU PIERS: container canyons stacked 4-high in rust-orange, tar beige and faded marine-green primer, gantry cranes as dark latticework in the haze, sodium-amber light. Warm palette only: dun haze, rust, tar, sodium amber. No neon, no cool blue/purple, no magenta/cyan.\n\nSubject (three-quarter street view at eye height from the dock road): the Gate 7 tally office, a squat two-storey board-formed concrete block (8 m wide) with flat roof and parapet, an elevated water tank on a steel stand and a thin signal mast with an amber tally lamp on the roof, a concrete sunshade slab over a ribbon of dark-green steel sash windows on the upper floor. Ground floor: a drive-up tally window glowing amber with a masked tally clerk behind it (dual-canister respirator, no face), two hooded gooseneck lamps over it, a steel hood and a brass counter lip; a dust-lock doorway hung with two weighted khaki canvas flaps; a white enamel name plate; a big green enamel gate plate with a huge numeral 7 on a bracket at the corner. A rusty corrugated-iron lean-to on one side, oil drums with gate marks, a chalk tally board on an A-frame, swept-dust piles at the threshold. The side wall carries a massive crane-hook emblem stencilled in whitewash. Containers stacked behind it. Exact lettering, nothing else written: name plate 検数事務所; gate plate 7 and 第七号門; container stencils 海運, 鶴丸, 黒金. No English or Latin letters.\nThe chalk tally board carries only chalk tick-mark tallies (groups of five strokes), no words. Each listed word appears once on its own plate; no other characters, no small print.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:18:30Z"
+}

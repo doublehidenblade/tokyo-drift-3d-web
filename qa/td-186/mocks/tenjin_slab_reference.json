@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "3:4",
+  "size": [
+    896,
+    1200
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-tenjin.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, TENJIN MID-CORRIDOR, the brutalist corporate canyon. Warm palette: ochre dust, bronze, umber concrete; no neon, no cool blue/purple, no magenta/cyan.\n\nSubject (looking up from the kerb across a wide avenue, slightly three-quarter): a 16-storey 1960s Showa brutalist trading-house slab, about 28 m wide and 58 m tall, after Kenzo Tange's Yamanashi and Shizuoka press buildings: dark board-formed concrete with form-tie holes, deep continuous bronze-anodised ribbon windows on every floor (a few offices lit warm, venetian blinds at different heights), thin vertical bronze expansion seams, no fire escapes and no pipes on the facade. A two-storey pilotis podium: four massive concrete columns carrying the slab, behind them a sealed amber-glass lobby with a revolving door, a uniformed keeper sealed inside behind the glass; floor-level bronze wash-lights grazing the columns and the corners with two warm vertical light-sheets. At the cornice, the company name in bronze letters and two round enamel crest plates; on the roof, two flag masts with oxblood zaibatsu banners. Nobody on the pavement. A dark sedan passes. No faces anywhere. Exact lettering, nothing else written: the cornice and the lobby read 黒金商事; the crest plates and banners show the single character 黒 in a circle; a small enamel plate by the corner reads 天神 中央回廊. No English or Latin letters.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:30:08Z"
+}

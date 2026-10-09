@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/fleet-gear/impl-hinode-carrier.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME vehicle really looks like as a low-poly 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog, a flat warm ochre sky. No painterly brushwork, no reflections, no bloom, no transparency. Number plates are blank white rectangles.\n\nSubject: a 1960s-style Japanese kei three-wheeler (original design, no badges): a rounded nose over a single front wheel with one big round headlamp, a small two-seat cab, a short open drop-side bed over two rear wheels, faded pale grey-green paint, dust everywhere.\nNo lettering anywhere: no badges, no words, no numbers.\n",
+  "model_text": "",
+  "created": "2026-10-06T17:20:43Z"
+}

@@ -1,0 +1,155 @@
+{
+  "file": "bus.glb",
+  "bytes": 544672,
+  "triangles": 1224,
+  "meshes": 5,
+  "materials": [
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Car_Livery",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.95,
+      0.62,
+      4.755
+    ],
+    "HeadLightR": [
+      -0.95,
+      0.62,
+      4.755
+    ],
+    "TailLightL": [
+      1.05,
+      1.1,
+      -5.75
+    ],
+    "TailLightR": [
+      -1.05,
+      1.1,
+      -5.75
+    ],
+    "Wheel_FrontL": [
+      1.02,
+      0.5,
+      2.65
+    ],
+    "Wheel_FrontR": [
+      -1.02,
+      0.5,
+      2.65
+    ],
+    "Wheel_RearL": [
+      0.92,
+      0.5,
+      -2.65
+    ],
+    "Wheel_RearR": [
+      -0.92,
+      0.5,
+      -2.65
+    ]
+  },
+  "bounds_min": [
+    -1.49,
+    0.0125,
+    -5.7852
+  ],
+  "bounds_max": [
+    1.49,
+    3.0352,
+    4.7852
+  ],
+  "size": [
+    2.98,
+    3.0226,
+    10.5704
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.257,
+    "regions": 21,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 912,
+    "Wheel_FrontL": 52,
+    "Wheel_FrontR": 52,
+    "Wheel_RearL": 104,
+    "Wheel_RearR": 104
+  },
+  "notes": {
+    "class": "bus",
+    "canon": "Minami line bus (the transport board's private fleet): two doors, destination roller board",
+    "reference": "1976 Mitsubishi Fuso MP117M / Hino RE120 city bus (5.2-5.3 m wheelbase class)",
+    "signage": [
+      "南線 102 (sides)",
+      "3 大黒埠頭 (lit destination board)",
+      "黒金 22 か 1-02 (plates)"
+    ],
+    "slots_extra": "Mat_Car_Livery = the fixed Minami livery with painted side windows; the destination board is a lit sign on Mat_Head_Lamp",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

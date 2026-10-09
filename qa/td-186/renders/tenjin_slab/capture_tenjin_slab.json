@@ -1,0 +1,55 @@
+{
+  "layout": "res://tools/td186/layouts/tenjin_slab.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 30,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 40,
+    "tower": false,
+    "world_ms": 24.218
+  },
+  "views": [
+    {
+      "draw_calls": 50,
+      "name": "street_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/street_34.png",
+      "primitives": 1890
+    },
+    {
+      "draw_calls": 14,
+      "name": "canyon_up",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/canyon_up.png",
+      "primitives": 1458
+    },
+    {
+      "draw_calls": 11,
+      "name": "lobby_detail",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/lobby_detail.png",
+      "primitives": 1422
+    },
+    {
+      "draw_calls": 54,
+      "name": "behind_car",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/behind_car.png",
+      "primitives": 1938
+    },
+    {
+      "draw_calls": 52,
+      "name": "aerial_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/aerial_34.png",
+      "primitives": 1914
+    },
+    {
+      "draw_calls": 11,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/tenjin_slab/front.png",
+      "primitives": 1422
+    }
+  ]
+}

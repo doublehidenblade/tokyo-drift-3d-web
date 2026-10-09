@@ -1,0 +1,75 @@
+{
+  "file": "kissaten.glb",
+  "bytes": 205072,
+  "triangles": 572,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Kissaten": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -2.29,
+    0.0,
+    -2.04
+  ],
+  "bounds_max": [
+    2.29,
+    3.94,
+    0.9
+  ],
+  "size": [
+    4.58,
+    3.94,
+    2.94
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.309,
+    "regions": 25,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Kissaten": 572
+  },
+  "notes": {
+    "shop": "kissaten coffee house (display case + coffee hatch)",
+    "signage": [
+      "純喫茶 白鳥",
+      "喫茶",
+      "珈琲 紅茶 軽食",
+      "sample tags 珈琲 ソーダ ナポリタン プリン カレー"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 4.5,
+    "signage_font": "IPAGothic"
+  }
+}

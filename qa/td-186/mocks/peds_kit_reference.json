@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kamome.png"
+  ],
+  "prompt": "[REFERENCE] concept art for a game art book character line-up, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted character art, a Showa retro-futurist city drowned in ochre dust, warm palette only (dun haze, rust, cream, lamp amber; no neon, no cool blue/purple, no magenta/cyan). A single finished illustration, not a character sheet: no captions, no name labels, no annotations, no sketches, no signboards. Four full-body figures standing side by side on a dusty Showa pavement in a three-quarter front view, each complete from boots to head with space around it. EVERY face is completely covered by respirators, goggles, hoods and helmets: no skin, no eyes, no mouths visible on any figure.\n\nFigures, left to right:\n1. a patrol officer: putty-grey waxed-canvas uniform, a white bucket helmet, a square black respirator with two round amber lenses, a hazard-orange belt stripe, dark gloves and boots.\n2. a market vendor at a fixed post: dark grey work clothes, a long indigo apron with a white crane crest, white rubber boots, a yellow sou'wester rain hat; under it the whole head is wrapped in a white cloth hood-mask like a balaclava, with amber goggles over it - no skin shows anywhere on the face.\n3. a dock worker: sodium-orange coverall with a glowing reflective bar across the chest, a square orange box hood with a narrow visor slot, a twin-canister respirator at the chin, dark gloves and boots.\n4. a suited worker: hooded tan filter suit, a dual-canister gas mask with round amber goggles, a leather satchel across the body, brown gloves and boots.\nExact lettering, nothing else written: the helmet band reads 交通; the apron crest is the single character 鶴 in a white circle. No English or Latin letters, no other signs or writing anywhere.\n",
+  "model_text": "",
+  "created": "2026-10-07T03:20:34Z"
+}

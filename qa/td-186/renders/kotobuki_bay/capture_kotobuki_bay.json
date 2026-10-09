@@ -1,0 +1,49 @@
+{
+  "layout": "res://tools/td186/layouts/kotobuki_bay.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 24,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 34,
+    "tower": false,
+    "world_ms": 14.13
+  },
+  "views": [
+    {
+      "draw_calls": 40,
+      "name": "street_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kotobuki_bay/street_34.png",
+      "primitives": 1752
+    },
+    {
+      "draw_calls": 16,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kotobuki_bay/front.png",
+      "primitives": 1464
+    },
+    {
+      "draw_calls": 14,
+      "name": "chop_shop",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kotobuki_bay/chop_shop.png",
+      "primitives": 1440
+    },
+    {
+      "draw_calls": 14,
+      "name": "rinse_bay",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kotobuki_bay/rinse_bay.png",
+      "primitives": 1440
+    },
+    {
+      "draw_calls": 46,
+      "name": "behind_car",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kotobuki_bay/behind_car.png",
+      "primitives": 1824
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "file": "izakaya.glb",
+  "bytes": 212908,
+  "triangles": 828,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Izakaya": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.84,
+    0.0,
+    -2.04
+  ],
+  "bounds_max": [
+    1.84,
+    3.94,
+    0.6437
+  ],
+  "size": [
+    3.68,
+    3.94,
+    2.6837
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.297,
+    "regions": 27,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Izakaya": 828
+  },
+  "notes": {
+    "shop": "izakaya (koshi lattice door + yakitori hatch)",
+    "signage": [
+      "大衆酒場 とり八",
+      "とり八 (noren)",
+      "焼鳥",
+      "酒"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 3.6,
+    "signage_font": "IPAGothic"
+  }
+}

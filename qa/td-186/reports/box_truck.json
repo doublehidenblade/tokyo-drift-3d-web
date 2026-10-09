@@ -1,0 +1,162 @@
+{
+  "file": "box_truck.glb",
+  "bytes": 552864,
+  "triangles": 1396,
+  "meshes": 5,
+  "materials": [
+    {
+      "name": "Mat_Car_Body",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Car_Livery",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.6,
+      0.86,
+      2.595
+    ],
+    "HeadLightR": [
+      -0.6,
+      0.86,
+      2.595
+    ],
+    "TailLightL": [
+      0.76,
+      0.57,
+      -3.125
+    ],
+    "TailLightR": [
+      -0.76,
+      0.57,
+      -3.125
+    ],
+    "Wheel_FrontL": [
+      0.75,
+      0.37,
+      1.525
+    ],
+    "Wheel_FrontR": [
+      -0.75,
+      0.37,
+      1.525
+    ],
+    "Wheel_RearL": [
+      0.715,
+      0.37,
+      -1.525
+    ],
+    "Wheel_RearR": [
+      -0.715,
+      0.37,
+      -1.525
+    ]
+  },
+  "bounds_min": [
+    -1.145,
+    0.0093,
+    -3.15
+  ],
+  "bounds_max": [
+    1.145,
+    2.925,
+    2.619
+  ],
+  "size": [
+    2.29,
+    2.9157,
+    5.769
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.245,
+    "regions": 37,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 1116,
+    "Wheel_FrontL": 52,
+    "Wheel_FrontR": 52,
+    "Wheel_RearL": 104,
+    "Wheel_RearR": 104
+  },
+  "notes": {
+    "class": "box_truck",
+    "canon": "Tatsumi Hauler (art book fleet-gear A2): cab-over flat nose, two round eyes, courier cylinders in flank holsters, enamel route plate",
+    "reference": "1975-1980 Isuzu Elf / 1973-1978 Mitsubishi Fuso Canter T200, 2 t long-body dry van (coachbuilt box)",
+    "signage": [
+      "辰巳運送 + 辰 mon (box)",
+      "三番 鴎 - 大黒 (enamel route plate)",
+      "辰巳 (mud flaps)",
+      "後方注意"
+    ],
+    "slots_extra": "Mat_Car_Livery = the box's fixed livery (never repainted)",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

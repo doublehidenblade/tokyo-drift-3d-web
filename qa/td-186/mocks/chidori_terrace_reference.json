@@ -1,0 +1,18 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "3:4",
+  "size": [
+    896,
+    1200
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-chidori.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, CHIDORI pleasure quarter at its authored night. Warm palette only: cherry red, amber, incandescent orange, umber shadows. NO magenta, NO cyan, NO neon soup, no cool blue/purple.\n\nSubject (three-quarter street view from across a narrow street, eye height): a narrow 4-storey Showa multi-tenant bar building (zakkyo biru), 10 m wide. Each floor is a different establishment. Ground floor: dark oxblood glazed tiles, a deep canopy hung with a row of red paper lanterns, an open lit doorway with a weighted canvas dust curtain, a sealed drive-up exchange booth at the curb with an amber mirrored-glass slit and a brass slot. Floors 2-3: beige mosaic-tile facade with aluminium sash windows, lace curtains, warm lit interiors; one floor is a mahjong parlour with lettering on its windows. Top floor stepped back behind a railed terrace. Two vertical blade signs project about 2 m from the facade at alternating heights, glowing amber and cherry red; one is a stacked column of small tenant panels. Box air-conditioners hang on the facade, a steel fire escape on the side wall. On the roof: a cylindrical water tank painted as a giant faded-vermilion paper lantern, a stair hut. Dust banked against the base, grime streaks under every sill. A dark taxi waits at the curb. Nobody on the sidewalk (walking outside unsuited is a felony); one attendant visible inside the booth window wearing a full-face dust respirator with round filter canisters and amber goggle lenses - the face is completely covered, no skin, no eyes, no mouth visible. No faces anywhere. No English or Latin letters anywhere in the image. Exact lettering, nothing else written anywhere: the tall left blade sign reads キャバレー銀河 top to bottom; the right blade sign is four stacked tenant panels reading クラブ夢, 麻雀千鳥荘, スナック蘭, キャバレー銀河 (top to bottom); the third-floor windows carry the painted word 麻雀; the booth's small sign reads 受付; the red lanterns read 千鳥. Do not write any other words.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:18:16Z",
+  "file": "chidori_terrace_reference.jpg",
+  "note": "stored as JPEG q92 (converted from the API's PNG)"
+}

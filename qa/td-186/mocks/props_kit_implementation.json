@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-kotobuki.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of the SAME prop model sheet as 3D assets rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog, a flat warm ochre sky. No painterly brushwork, no reflections, no bloom, no transparency. Warm palette only.\n\nProps in neat rows on flat dusty concrete, three-quarter view, no people: chained oil-drum barrier; bollard with coiled hawser and pallets; chalk A-frame; tarped fish-crate stack and burlap ice pallet; hand trucks chained to a bollard; brass stanchions with red velvet rope; concrete pylon with amber beacon; orange intersection mirror; blown-tyre wall; drum stove with chimney and kettle; filter-canister pyramid; strapped lead-drum stack with hazard bands; pneumatic tube pedestal with brass hatch; yellow air-lance swing boom over a trough; fuel tank house on tall legs with a canvas sleeve. No letters, numbers or symbols anywhere; all plates blank.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:46:26Z"
+}
