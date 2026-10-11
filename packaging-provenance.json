@@ -1,9 +1,0 @@
-{
-  "runtime_source_sha": "1a5d967ca81d285aecf07be830811aff4fbef48f",
-  "release_kind": "experimental-personal-playtest",
-  "packaging_change": "Chunk size reduced from 32 MiB to 8 MiB in matching packager and loader constants. No gameplay source changes.",
-  "chunk_bytes": 8388608,
-  "gameplay_qa_for_this_publication": "Not run; user-requested experimental publication",
-  "packager_sha256": "c6535d3c6cd00c73a822ed3edc59d4697912c8328a330a7e4816925097f9f96c",
-  "loader_sha256": "a5bcd74193188f34ee975d60b4159ee4de22e2774fbc20823232d2d7839add7e"
-}
