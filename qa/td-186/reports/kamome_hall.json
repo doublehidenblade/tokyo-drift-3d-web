@@ -1,0 +1,77 @@
+{
+  "file": "kamome_hall.glb",
+  "bytes": 845048,
+  "triangles": 1248,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Kamome_Hall": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -12.3,
+    -0.06,
+    -16.31
+  ],
+  "bounds_max": [
+    12.3,
+    7.7616,
+    2.82
+  ],
+  "size": [
+    24.6,
+    7.8216,
+    19.13
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.487,
+    "regions": 37,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Kamome_Hall": 1248
+  },
+  "notes": {
+    "district": "kamome",
+    "lot": "24 x 16 m hall on a Kamome lot (<= 60 x 42 m), 7.7 m to the monitor",
+    "signage": [
+      "鴎 鮮魚卸売場 (第三)",
+      "魚寅",
+      "丸八",
+      "カネ吉",
+      "競り",
+      "氷",
+      "鮮魚"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

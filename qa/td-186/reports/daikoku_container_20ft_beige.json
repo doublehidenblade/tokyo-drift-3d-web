@@ -1,0 +1,68 @@
+{
+  "file": "daikoku_container_20ft_beige.glb",
+  "bytes": 48892,
+  "triangles": 192,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Container": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.255,
+    -0.035,
+    -3.065
+  ],
+  "bounds_max": [
+    1.255,
+    2.625,
+    3.065
+  ],
+  "size": [
+    2.51,
+    2.66,
+    6.13
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.255,
+    "regions": 4,
+    "emission": false
+  },
+  "builder_triangles": {
+    "Container": 192
+  },
+  "notes": {
+    "district": "daikoku",
+    "size_m": [
+      2.44,
+      2.59,
+      6.06
+    ],
+    "stacking": "stack at y = n x 2.59; stagger like masonry"
+  }
+}

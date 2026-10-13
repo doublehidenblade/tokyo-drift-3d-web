@@ -1,0 +1,109 @@
+{
+  "layout": "res://tools/td186/layouts/props_kit.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 20,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 60,
+    "tower": false,
+    "world_ms": 40.013
+  },
+  "views": [
+    {
+      "draw_calls": 15,
+      "name": "drum_barrier",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/drum_barrier.png",
+      "primitives": 1218
+    },
+    {
+      "draw_calls": 13,
+      "name": "hawser_pallets",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/hawser_pallets.png",
+      "primitives": 922
+    },
+    {
+      "draw_calls": 12,
+      "name": "tally_aframe",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/tally_aframe.png",
+      "primitives": 510
+    },
+    {
+      "draw_calls": 14,
+      "name": "fish_crates",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/fish_crates.png",
+      "primitives": 2252
+    },
+    {
+      "draw_calls": 12,
+      "name": "hand_trucks",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/hand_trucks.png",
+      "primitives": 1954
+    },
+    {
+      "draw_calls": 29,
+      "name": "beacon_mirror",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/beacon_mirror.png",
+      "primitives": 1000
+    },
+    {
+      "draw_calls": 21,
+      "name": "tyre_wall",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/tyre_wall.png",
+      "primitives": 3956
+    },
+    {
+      "draw_calls": 13,
+      "name": "drum_stove",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/drum_stove.png",
+      "primitives": 1516
+    },
+    {
+      "draw_calls": 11,
+      "name": "canister_pyramid",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/canister_pyramid.png",
+      "primitives": 1292
+    },
+    {
+      "draw_calls": 15,
+      "name": "lead_drums",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/lead_drums.png",
+      "primitives": 1444
+    },
+    {
+      "draw_calls": 13,
+      "name": "slag_windrow",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/slag_windrow.png",
+      "primitives": 932
+    },
+    {
+      "draw_calls": 12,
+      "name": "tube_pedestal",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/tube_pedestal.png",
+      "primitives": 744
+    },
+    {
+      "draw_calls": 30,
+      "name": "airlance_boom",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/airlance_boom.png",
+      "primitives": 960
+    },
+    {
+      "draw_calls": 26,
+      "name": "sol88_tower",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/sol88_tower.png",
+      "primitives": 620
+    },
+    {
+      "draw_calls": 14,
+      "name": "velvet_rope",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/props_kit/velvet_rope.png",
+      "primitives": 1208
+    }
+  ]
+}

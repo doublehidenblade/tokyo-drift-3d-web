@@ -1,0 +1,77 @@
+{
+  "file": "sakaya.glb",
+  "bytes": 223296,
+  "triangles": 640,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Sakaya": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -2.2969,
+    -0.04,
+    -2.04
+  ],
+  "bounds_max": [
+    2.2969,
+    3.94,
+    0.85
+  ],
+  "size": [
+    4.5939,
+    3.98,
+    2.89
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.368,
+    "regions": 27,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Sakaya": 640
+  },
+  "notes": {
+    "shop": "sake and rice shop (sliding glass doors + bottle hatch)",
+    "signage": [
+      "中村酒店",
+      "酒 米",
+      "酒・米・塩・たばこ",
+      "清酒 (plate, barrels)",
+      "米",
+      "ビール crates"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 4.5,
+    "signage_font": "IPAGothic"
+  }
+}

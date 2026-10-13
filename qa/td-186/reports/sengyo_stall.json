@@ -1,0 +1,75 @@
+{
+  "file": "sengyo_stall.glb",
+  "bytes": 203456,
+  "triangles": 266,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "SengyoStall": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.9446,
+    -0.04,
+    -2.04
+  ],
+  "bounds_max": [
+    1.9446,
+    3.94,
+    1.043
+  ],
+  "size": [
+    3.8891,
+    3.98,
+    3.083
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.318,
+    "regions": 25,
+    "emission": true
+  },
+  "builder_triangles": {
+    "SengyoStall": 270
+  },
+  "notes": {
+    "shop": "fresh-fish stall (open bay, ice-tray counter at cab height)",
+    "signage": [
+      "鮮魚 魚吉",
+      "産地直送",
+      "鯵 鯖 鰯 tags",
+      "氷"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 3.6,
+    "signage_font": "IPAGothic"
+  }
+}

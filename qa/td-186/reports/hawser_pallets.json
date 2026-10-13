@@ -1,0 +1,68 @@
+{
+  "file": "hawser_pallets.glb",
+  "bytes": 51984,
+  "triangles": 424,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Prop",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "HawserPallets": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -1.4214,
+    -0.0849,
+    -0.75
+  ],
+  "bounds_max": [
+    1.0652,
+    1.0129,
+    1.0784
+  ],
+  "size": [
+    2.4866,
+    1.0978,
+    1.8284
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 512,
+    "used_fraction": 0.177,
+    "regions": 21,
+    "emission": false
+  },
+  "builder_triangles": {
+    "HawserPallets": 424
+  },
+  "notes": {
+    "district": "daikoku",
+    "canon": "coiled mooring hawsers, pallet windrows (mooring bollard)",
+    "size_m": [
+      2.2,
+      1.0,
+      1.6
+    ]
+  }
+}

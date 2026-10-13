@@ -1,0 +1,61 @@
+{
+  "layout": "res://tools/td186/layouts/peds_kit.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 28,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 56,
+    "tower": false,
+    "world_ms": 24.092
+  },
+  "views": [
+    {
+      "draw_calls": 28,
+      "name": "lineup",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/lineup.png",
+      "primitives": 15360
+    },
+    {
+      "draw_calls": 23,
+      "name": "masks",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/masks.png",
+      "primitives": 15300
+    },
+    {
+      "draw_calls": 25,
+      "name": "walk_cycle",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/walk_cycle.png",
+      "primitives": 15468
+    },
+    {
+      "draw_calls": 25,
+      "name": "run_cycle",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/run_cycle.png",
+      "primitives": 12780
+    },
+    {
+      "draw_calls": 25,
+      "name": "hit_fall",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/hit_fall.png",
+      "primitives": 16140
+    },
+    {
+      "draw_calls": 67,
+      "name": "cower",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/cower.png",
+      "primitives": 24928
+    },
+    {
+      "draw_calls": 49,
+      "name": "street_chase",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/peds_kit/street_chase.png",
+      "primitives": 16452
+    }
+  ]
+}

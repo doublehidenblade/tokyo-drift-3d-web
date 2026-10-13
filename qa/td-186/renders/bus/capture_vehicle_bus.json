@@ -1,0 +1,55 @@
+{
+  "layout": "res://tools/td186/layouts/vehicle_bus.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 21,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 36,
+    "tower": false,
+    "world_ms": 22.232
+  },
+  "views": [
+    {
+      "draw_calls": 44,
+      "name": "front_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/front_34.png",
+      "primitives": 1884
+    },
+    {
+      "draw_calls": 44,
+      "name": "rear_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/rear_34.png",
+      "primitives": 1884
+    },
+    {
+      "draw_calls": 28,
+      "name": "side",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/side.png",
+      "primitives": 1692
+    },
+    {
+      "draw_calls": 45,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/front.png",
+      "primitives": 1896
+    },
+    {
+      "draw_calls": 39,
+      "name": "variants",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/variants.png",
+      "primitives": 1664
+    },
+    {
+      "draw_calls": 45,
+      "name": "chase",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/bus/chase.png",
+      "primitives": 1896
+    }
+  ]
+}

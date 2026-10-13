@@ -1,0 +1,77 @@
+{
+  "file": "depots_goods_shed.glb",
+  "bytes": 984152,
+  "triangles": 1760,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Depots_Goods_Shed": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -15.57,
+    0.0,
+    -14.4231
+  ],
+  "bounds_max": [
+    16.46,
+    9.3398,
+    3.41
+  ],
+  "size": [
+    32.03,
+    9.3398,
+    17.8331
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.523,
+    "regions": 33,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Depots_Goods_Shed": 1760
+  },
+  "notes": {
+    "district": "depots",
+    "lot": "30 x 14 m shed + 2 m platform (Depots lots, dead freight yards)",
+    "real_reference": "JNR goods sheds: 0.96 m platform, 2.8 x 2.9 m sliding doors, 3.2 m canopy, 3.5:10 roof",
+    "signage": [
+      "北操車場 第二上屋",
+      "第二上屋 (gable)",
+      "一 二 三 四 五 (door numbers)",
+      "関係者以外立入禁止",
+      "鶴 (crates, aprons)",
+      "Tsuru-kai crane crest (whitewash)"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

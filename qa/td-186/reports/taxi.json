@@ -1,0 +1,156 @@
+{
+  "file": "taxi.glb",
+  "bytes": 265424,
+  "triangles": 1648,
+  "meshes": 5,
+  "materials": [
+    {
+      "name": "Mat_Car_Body",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.62,
+      0.6,
+      2.27
+    ],
+    "HeadLightR": [
+      -0.62,
+      0.6,
+      2.27
+    ],
+    "TailLightL": [
+      0.65,
+      0.69,
+      -2.345
+    ],
+    "TailLightR": [
+      -0.65,
+      0.69,
+      -2.345
+    ],
+    "Wheel_FrontL": [
+      0.7,
+      0.31,
+      1.345
+    ],
+    "Wheel_FrontR": [
+      -0.7,
+      0.31,
+      1.345
+    ],
+    "Wheel_RearL": [
+      0.7,
+      0.31,
+      -1.345
+    ],
+    "Wheel_RearR": [
+      -0.7,
+      0.31,
+      -1.345
+    ]
+  },
+  "bounds_min": [
+    -0.89,
+    0.0078,
+    -2.43
+  ],
+  "bounds_max": [
+    0.89,
+    1.77,
+    2.32
+  ],
+  "size": [
+    1.78,
+    1.7622,
+    4.75
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.448,
+    "regions": 35,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 1440,
+    "Wheel_FrontL": 52,
+    "Wheel_FrontR": 52,
+    "Wheel_RearL": 52,
+    "Wheel_RearR": 52
+  },
+  "notes": {
+    "class": "taxi",
+    "canon": "Hinode Carrier fleet cab (art book fleet-gear A1): two-tone mustard cream over rust-brown, rooftop 空車 flag on a brass stalk, caged round headlights, hood cyclone intake, roof rack with filter canisters",
+    "reference": "1979 Toyota Crown S110 taxi; Nissan Cedric 430 taxi",
+    "signage": [
+      "日の出交通",
+      "37",
+      "空車 (roof flag)",
+      "黒金 55 あ 37-37 (plates)"
+    ],
+    "marque": "Hinode sunrise roundel on the grille: a half sun over a horizon bar, no rays (the art book's 'rising-sun roundel', drawn ray-less on purpose so it never reads as the Rising Sun flag)",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

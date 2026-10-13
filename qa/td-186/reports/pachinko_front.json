@@ -1,0 +1,74 @@
+{
+  "file": "pachinko_front.glb",
+  "bytes": 242552,
+  "triangles": 542,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "PachinkoFront": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -3.04,
+    0.0,
+    -2.04
+  ],
+  "bounds_max": [
+    3.04,
+    3.94,
+    0.94
+  ],
+  "size": [
+    6.08,
+    3.94,
+    2.98
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.364,
+    "regions": 25,
+    "emission": true
+  },
+  "builder_triangles": {
+    "PachinkoFront": 542
+  },
+  "notes": {
+    "shop": "pachinko parlour front (lit doors, prize-exchange window)",
+    "signage": [
+      "パチンコ 銀星 (chaser-bulb fascia)",
+      "新台入替 本日 (poster, nobori)",
+      "景品交換所"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 6.0,
+    "signage_font": "IPAGothic"
+  }
+}

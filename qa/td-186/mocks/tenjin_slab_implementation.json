@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "3:4",
+  "size": [
+    896,
+    1200
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-tenjin.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME building really looks like as a 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, ochre dust fog swallowing everything past 60 m. No painterly brushwork, no reflections, no bloom, no transparency: glass is opaque painted panels, lit windows flat self-lit colour. Warm palette only.\n\nSubject (looking up from the kerb, slightly three-quarter): a 16-storey brutalist trading-house slab 28 m wide: dark board-formed concrete spandrel bands alternating with deep-set bronze ribbon window bands (some offices lit warm), thin vertical bronze seams, a pilotis podium of four big concrete columns, a sealed amber lobby with a revolving door, warm wash-light gradients at the base of the columns, bronze company name and two round crest plates at the cornice, two flag masts with oxblood banners on the roof. Exact lettering: 黒金商事 at the cornice and lobby; 黒 in a circle on the crests and banners.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:30:07Z"
+}

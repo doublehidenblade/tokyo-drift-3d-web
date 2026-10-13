@@ -1,0 +1,148 @@
+{
+  "file": "sedan.glb",
+  "bytes": 228944,
+  "triangles": 1140,
+  "meshes": 5,
+  "materials": [
+    {
+      "name": "Mat_Car_Body",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Windows",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Chrome",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Dark_Plastic",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Head_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Tail_Lamp",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    },
+    {
+      "name": "Mat_Wheel",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chassis_Mesh": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "HeadLightL": [
+      0.63,
+      0.59,
+      2.158
+    ],
+    "HeadLightR": [
+      -0.63,
+      0.59,
+      2.158
+    ],
+    "TailLightL": [
+      0.65,
+      0.66,
+      -2.215
+    ],
+    "TailLightR": [
+      -0.65,
+      0.66,
+      -2.215
+    ],
+    "Wheel_FrontL": [
+      0.7,
+      0.29,
+      1.26
+    ],
+    "Wheel_FrontR": [
+      -0.7,
+      0.29,
+      1.26
+    ],
+    "Wheel_RearL": [
+      0.69,
+      0.29,
+      -1.26
+    ],
+    "Wheel_RearR": [
+      -0.69,
+      0.29,
+      -1.26
+    ]
+  },
+  "bounds_min": [
+    -0.885,
+    0.0073,
+    -2.3
+  ],
+  "bounds_max": [
+    0.885,
+    1.4179,
+    2.215
+  ],
+  "size": [
+    1.77,
+    1.4107,
+    4.515
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.403,
+    "regions": 27,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chassis_Mesh": 932,
+    "Wheel_FrontL": 52,
+    "Wheel_FrontR": 52,
+    "Wheel_RearL": 52,
+    "Wheel_RearR": 52
+  },
+  "notes": {
+    "class": "sedan",
+    "reference": "1979 Nissan Bluebird 910 4-door sedan; 1978 Toyota Corona T130 sedan",
+    "slots": "Mat_Car_Body = paint only (albedo_color repaints it); glass Mat_Windows; trim Mat_Chrome / Mat_Dark_Plastic; lamps Mat_Head_Lamp / Mat_Tail_Lamp (the only emissive materials)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "file": "tabako_kiosk.glb",
+  "bytes": 169180,
+  "triangles": 434,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "TabakoKiosk": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -0.94,
+    0.0,
+    -2.04
+  ],
+  "bounds_max": [
+    0.94,
+    3.94,
+    0.58
+  ],
+  "size": [
+    1.88,
+    3.94,
+    2.62
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 1024,
+    "used_fraction": 0.155,
+    "regions": 23,
+    "emission": true
+  },
+  "builder_triangles": {
+    "TabakoKiosk": 434
+  },
+  "notes": {
+    "shop": "tobacco kiosk (1 ken)",
+    "signage": [
+      "たばこ (fascia + red enamel blade)",
+      "塩"
+    ],
+    "module": "front face on the building line (z = 0); fills W x 3.9 x 2.0 m behind it; signs/hoods/trays project <= 0.9 m",
+    "width_m": 1.8,
+    "signage_font": "IPAGothic"
+  }
+}

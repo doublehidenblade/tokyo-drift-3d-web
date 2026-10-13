@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kamome.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, the NORTH RAIL DEPOTS: dead freight yards now run by the Tsuru-kai fish guild as the cold chain's back door. Warm palette only: dun haze, brick red, rust, tar, lamp amber; the Tsuru-kai indigo is the one deep cool-ish value, kept dark. No neon, no cool blue/purple, no magenta/cyan.\n\nSubject (three-quarter street view at eye height from the truck road): a 30 m long Showa railway goods shed in dusty red brick with a shallow corrugated-iron gable roof and small gabled ridge ventilators, a corbelled brick eaves course, a row of segmental-arched clerestory windows (some dark, some dimly lit, some bricked halfway up into squinting half-arches, one boarded). A 1 m high concrete freight platform with a timber rubbing beam runs along the front, under a 3 m steel-bracketed cantilever canopy with enamel pendant lamps. Five top-hung sliding timber freight doors with white numeral roundels; two are slid open onto amber-lit bays stacked with wooden fish crates and ice blocks, a masked worker in an indigo apron inside (respirator, no face). Indigo work aprons with a white crane roundel hang out to dry along the canopy edge at one claimed doorway. Fish crates, an ice pallet and a two-wheeled platform cart on the platform; dust windrows along its base. The gable end carries a big whitewash crane crest and large whitewash lettering. Exact lettering, nothing else written: cream name board 北操車場 第二上屋; gable 第二上屋; door roundels 一 二 三 四 五; crates 鶴. No English or Latin letters, no other signs.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:26:00Z"
+}

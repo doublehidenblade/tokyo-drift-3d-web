@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kamome.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, KAMOME WHOLESALE WARD (the fish market district) before dawn. Warm palette: amber murk, tile-white, cream, umber shadows, faded indigo cloth. No neon, no cool blue/purple light, no magenta/cyan.\n\nSubject (three-quarter street view from across a narrow wet street, eye height): a long low Showa fish wholesale hall, 24 m wide and about 8 m tall, modelled on the Tsukiji market halls: a concrete plinth, tile-white lower walls stained with grey tide-lines of grime, corrugated cream fibreglass upper walls glowing faintly from the lights inside, a low-slope roof with a raised clerestory monitor running along the ridge with louvres. A deep, squat corrugated eave runs the whole front at about 3.2 m, warm fluorescent strip lights under it, an ice-melt gutter dripping at its edge, steel posts at the kerb. Under the eave: three open stall bays with tiled counters and ice troughs of fish, stacks of white styrofoam fish boxes, short indigo canvas noren flaps with white crests hanging across each bay top, hanging hand-painted wooden trade-name boards; at the right end a sealed drive-up bidding window at car-window height with an auctioneer inside in a rubber apron, sou'wester and full cloth mask. A big painted sign along the upper wall. A white crane crest painted in whitewash on the corner wall. Masked stall hands in rubber aprons and white rubber boots work at their counters (staff at their posts, nobody walking the street). A small kei van at the kerb. Wet pavement reflecting the warm light. No faces anywhere: every figure wears a full mask or respirator. Exact lettering, nothing else written: the long upper sign reads 鴎 鮮魚卸売場; the three hanging trade-name boards read 魚寅, 丸八, カネ吉; the small plate by the window reads 競り. No English or Latin letters.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:23:25Z"
+}

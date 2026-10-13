@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/fleet-gear/mock-hinode-carrier.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE vehicle in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, a Showa retro-futurist city drowned in ochre dust, warm palette only (dun haze, rust, cream, lamp amber; no neon, no cool blue/purple, no magenta/cyan). Three-quarter front view at eye height on a dusty Showa street; the vehicle is the subject, sharp and complete in frame. Every driver wears a respirator and goggles (no faces). Number plates are blank white rectangles.\n\nSubject: a tiny cab-over Japanese kei dock van (original design, no badges): flat vertical nose with two small round headlights, tall boxy body, sliding side door, a welded rebar roof rack with a rolled tarp, wooden fish crates visible through the windows, dark indigo paint under ochre dust.\nNo lettering anywhere: no badges, no words, no numbers.\n",
+  "model_text": "",
+  "created": "2026-10-06T17:21:08Z"
+}

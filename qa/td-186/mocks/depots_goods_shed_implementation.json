@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-kamome.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME building really looks like as a 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog; the sky is a flat warm ochre haze. No painterly brushwork, no reflections, no bloom, no transparency. Warm palette only.\n\nSubject (three-quarter view at eye height from the truck road): a 30 m long red-brick railway goods shed with a shallow corrugated gable roof and gabled ridge vents, arched clerestory windows, a 1 m concrete freight platform with a timber beam, a steel-bracketed cantilever canopy with pendant lamps, five sliding timber freight doors with white numeral roundels (two slid open onto amber-lit bays with crate stacks and a masked worker in an indigo apron), indigo aprons hung along the canopy edge, crates and an ice pallet on the platform, a whitewash crane crest on the gable. Lettering ONLY: name board 北操車場 第二上屋; gable 第二上屋; roundels 一 二 三 四 五. No English or Latin letters; no other plates, labels or small signs.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:25:59Z"
+}

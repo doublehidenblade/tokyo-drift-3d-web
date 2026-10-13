@@ -1,0 +1,76 @@
+{
+  "file": "kotobuki_bay.glb",
+  "bytes": 582000,
+  "triangles": 1296,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Kotobuki_Bay": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -6.4,
+    -0.05,
+    -7.3044
+  ],
+  "bounds_max": [
+    6.4,
+    4.1546,
+    1.138
+  ],
+  "size": [
+    12.8,
+    4.2046,
+    8.4423
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.203,
+    "regions": 28,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Kotobuki_Bay": 1296
+  },
+  "notes": {
+    "district": "kotobuki",
+    "lot": "12 x 7 m lean-to under a 4.3 m deck soffit (4.15 m tall)",
+    "signage": [
+      "鉄輪自動車修理",
+      "鉄輪連合 banner",
+      "営業中",
+      "持込整備",
+      "洗浄 料金 / フィルター 三百円 / 吸気口 二百円",
+      "relic wall: たばこ 氷 牛乳 質 薬 タクシー 修理 部品 酒"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

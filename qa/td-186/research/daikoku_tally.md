@@ -1,0 +1,31 @@
+# td-186 reference research: daikoku_tally
+
+Method: Gemini (gemini-3.8-flash, thinking low) with Google Search grounding, 2026-10-06. Photos could not be fetched (network policy); these facts and their sources are the traceable real reference. Treat the sources, not the summary, as authoritative.
+
+**Question.** Showa-era (1950s-1970s) Yokohama and Kobe port buildings: customs sheds and tally (kensu) offices on the piers (Osanbashi, Shinko pier, Yamashita pier, Honmoku), harbour warehouses (e.g. Yokohama Red Brick Warehouse 1911-1913 used through the Showa era), what the pier offices looked like (reinforced concrete, steel sash windows, numbered gates, enamel signs), and Showa container terminal gates (Honmoku 1970s). Sizes in metres where known.
+
+**Answer (model summary of the grounded search).**
+
+* **Yokohama Red Brick Warehouses (Shinko Pier)**: Built in 1911 (Building No. 2) and 1913 (Building No. 1), these bonded warehouses remained heavily used through the Showa period; Building No. 2 is roughly 150 m long and 22.6 m wide, while Building No. 1 is roughly 76 m long (reduced from its original ~150 m after the 1923 Great Kanto Earthquake) and 22.6 m wide.
+* **Shinko Pier Postwar Customs Sheds**: The pier featured 14 numbered transit sheds and customs facilities; postwar reinforced concrete transit sheds generally measured 30 to 40 m in width and 100 to 150 m in length, while individual tally office annex dimensions within them are unknown.
+* **Osanbashi Pier Passenger Terminal (1964)**: Rebuilt for the 1964 Tokyo Olympics, the Showa-era passenger and customs facility was a long, low-profile reinforced concrete and steel hall approximately 40 to 45 m wide and over 200 m long, housing CIQ (customs, immigration, quarantine) and tally counters.
+* **Yamashita Pier Transit Sheds (1953–1963)**: Developed to handle general cargo during Japan's high-growth period, the 47-hectare pier accommodated 8 massive multi-story warehouses totaling 33,575 m² of floor area, with typical standard berths having apron widths of 20 m and steel-frame transit sheds running roughly 120 to 180 m in length.
+* **Kobe Pier Sheds (Maya and Shinko Piers)**: Rebuilt during the 1950s and 1960s, Kobe’s standard municipal steel/RC transit sheds typically had clear spans of 30 to 45 m wide and lengths between 100 and 160 m per berth.
+* **Tally (*Kensu*) Offices Structure**: Cargo tallying (by the Japan Cargo Tally Corporation / *検数*) operated out of compact 1- to 2-story standalone booths or shed-corner enclosures; typical footprints ranged from roughly 3 × 4 m (booths) up to 8 × 15 m (central pier tally stations).
+* **Pier Office Architecture**: Typical 1950s–1960s port administrative buildings featured functionalist cast-in-place reinforced concrete (RC), exterior pebble-wash or fair-faced mortar, flat roofs with bitumen waterproofing, and narrow horizontal ribbon windows with industrial dark-green or grey steel sashes.
+* **Gate Signage and Markers**: Pier access gates used heavy galvanized steel or iron pipe sliding barriers (typically 6 to 10 m wide per lane), marked with high-contrast stenciled gate numbers (e.g., “1号門”, “2号門”) and white-on-navy or white-on-dark-green baked enamel (*hōrō*) metal identification plaques.
+* **Honmoku Container Terminal Gates (1968–1970s)**: Following the arrival of Japan’s first fully containerized ship at Honmoku in 1968, the 1970s terminal gates featured 4- to 8-lane canopy check-in points with multi-ton weighbridges (*kenshūki*) roughly 15 to 18 m long per lane.
+* **Container Gatehouses**: Honmoku's Showa-era container gatehouses were 2-story reinforced concrete elevated control towers (typically 6 to 8 m tall) equipped with large tinted or wire-reinforced viewing glass to allow clerks to inspect container rooftops, seal tags, and trailer chassis.
+* **Kobe Port Island Container Gates (1970s)**: Built starting around 1967–1972, Port Island terminal gate complexes mirrored Honmoku with 12 to 15 m deep overhead steel canopies and automated pneumatic tubes connecting checking booths to internal terminal dispatchers; specific interior booth room sizes remain unknown.
+
+**Search queries.** Yamashita pier warehouse transit shed dimensions meters; Yokohama Honmoku Pier container terminal gate 1968 1970s; Yokohama Shinko pier shed customs dimensions meters
+
+**Sources the answer was grounded on.**
+
+- yokohama.lg.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELPeR9IFOM8uQXGJkccxmAgLxIU_I5VcsSSwJwaMrg14w3vpzwo6DG2VgMx9PlxM5aJ7-3kuSTobc6myKeYdr0UoLwIgwgmZmQ6-Qpgp6W8bp0mRSw3tpyxQqeiSr7Q1eLpit8gnf_c8XYjZhOLIBubfOTEwqxlMuRZ8ya20RbVXpZH3edBQ==
+- yokohama.lg.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUWXMDnqohdL8UAJhmrWauot3AJ8rR0xSp3vOZFGYH8Cz3S6-NR2sQ-IM3zkVGVTddZWRBFMibfpU5MrzFdZrfZ9rtgGOODdDbo9_7owAbQpWon1aZZbN-xqjwgeCl0l_cgOZMC86V51R6docyIdvQeU4Je9jqKLEmWQB2kp7hoFdiMhDxfTIudHhGXijHU5uXx3Y6qjeFhfJ0EQ==
+- yokohama.lg.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5bg4Suk6hfmwsZHmZXsFDMKjD56Nr8aB-Z4a1-FWUqhtHlp5geYSE5Tv75-tI6kX97tFgZs-MEdDyBWIETpNAbqKuz9qeaD3bDactVZAi5YUMHA5WhQ8wqHbZVwLgpPbmYuZYedNGLkMKa3TxGsa9ddE_7DiFp-L5dH58QxKX_3i_
+- yokohama.lg.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW19M-DCzqeEL57uTJtxnzBV2JGHFy131JlMpSZi7EfGCyUg8IsyW_hB7MGGh3RpiiRgS_r-H7q4hWnr0BF80ao90yiEdInGizqvzajh7WvMtLM1N23JIdDtyzL4flbG37T3YDte7yvlsp1OcUTE-8enWRBqOjCp-EbtSAD31PO5XIZEfhbj_g
+- japan-forward.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlqukJz70gA2aGK-4YnrTORSnrYD58j4eNDjFzPYwZYuaZNxrEU_EQf0vpeEl0UajY7W0ZTzIW5ctlsF_1nrpl1KUXY2szzT-A6yph-XGtEMHZKyrmD2MxHTqMHv-QqZ-8W83g6NCcbsw5VGIgMQkgAujA6sknH7E1pKhcMozRQ8K0S_lZW3kIkUTygOcROQ1hlGco9cVhhjU_
+- yokohamaport.co.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKUrSQ4lcKotiQWxCpE01wq4iHZY7FjRRznJNClUA5kksa7BAcRauGX_iVtAuQEjqwy7EbLbv_XULkFCDHeyGc_U4PMh3WbYfPMLF7DSz1nTOmSraADNEzmjlG3KNZ_SGhbxIpwPZT1t3T_A==
+- yokohamaport.co.jp — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPoIoTuSte2b4r19pdvAvPgP7cwSV8Al8i1gKJFAngnBxnl5Wom1QZWYMyseCSy1xqVXrzWdP5vBkXfxVOt5i_yslSWCUbYzkoZS9xzqBSXucr-xWfFMONB0nA61nvoFJIk6nk

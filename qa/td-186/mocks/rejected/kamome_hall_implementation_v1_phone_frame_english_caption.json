@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-kamome.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: what the SAME building really looks like as a 3D asset rendered in-engine on a phone, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines on silhouettes, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, ochre dust fog swallowing everything past 60 m. No painterly brushwork, no reflections, no bloom, no transparency (glass and fibreglass are opaque painted panels; lit things are flat self-lit colour). Warm palette only.\n\nSubject (three-quarter street view at eye height): a long low Showa fish wholesale hall 24 m wide, 8 m tall: concrete plinth, tile-white lower walls with grey grime tide-lines, corrugated cream fibreglass upper walls, a low roof with a raised clerestory monitor and louvres along the ridge; a deep squat corrugated eave across the whole front at 3.2 m with glowing warm strip lights under it, steel posts at the kerb; three open stall bays with tiled counters, ice troughs of fish, stacks of white box-shaped styrofoam crates, indigo noren flaps across the bay tops, hanging trade-name boards; a sealed drive-up window at the right end with a masked auctioneer. Masked stall hands in aprons and white boots at their counters. Exact lettering: upper sign 鴎 鮮魚卸売場; boards 魚寅, 丸八, カネ吉; plate 競り.\n",
+  "model_text": "",
+  "created": "2026-10-06T06:23:26Z"
+}

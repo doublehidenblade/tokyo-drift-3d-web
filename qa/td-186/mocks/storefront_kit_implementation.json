@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/impl-kamome.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME shop row really looks like as 3D assets rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog; the sky is a flat warm ochre haze. No painterly brushwork, no reflections, no bloom, no transparency. Warm palette only.\n\nSubject (three-quarter view at a car's eye height): a row of five ground-floor drive-up shop fronts under plain box buildings: ramen window (white tile, red noren, red lantern), tiny tobacco kiosk (red fascia), coffee house (food-sample display case, plain green awning), izakaya (wooden lattice door, indigo noren, two red lanterns), pharmacy (shelved display glazing). Each has a steel guillotine hatch with counterweights, a slide-out tray and a brass coin plate; masked staff behind glass. Lettering ONLY on the five fascias: 中華そば 福来軒 / たばこ / 純喫茶 白鳥 / 大衆酒場 とり八 / くすり 大和薬局. No English or Latin letters; no other plates, labels or small signs.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:38:41Z"
+}

@@ -1,0 +1,74 @@
+{
+  "file": "chidori_terrace.glb",
+  "bytes": 975068,
+  "triangles": 3840,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Chidori_Terrace": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -5.28,
+    0.0,
+    -14.1414
+  ],
+  "bounds_max": [
+    6.15,
+    17.18,
+    2.18
+  ],
+  "size": [
+    11.43,
+    17.18,
+    16.3214
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.567,
+    "regions": 35,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Chidori_Terrace": 3876
+  },
+  "notes": {
+    "district": "chidori",
+    "lot": "10 m frontage x 14 m deep, 16.5 m class (CITY_PLAN.md / massing.py)",
+    "tenants": [
+      "GF キャバレー銀河 + 受付 exchange booth",
+      "2F スナック蘭",
+      "3F 麻雀千鳥荘",
+      "4F クラブ夢"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

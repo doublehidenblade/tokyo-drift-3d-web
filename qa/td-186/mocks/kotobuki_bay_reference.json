@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/lower-city/mock-kotobuki.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE building in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, Showa retro-futurist city drowned in ochre dust, KOTOBUKI REPAIR ROW in the sunken trench under the elevated expressway: a low concrete deck soffit is the sky, cylindrical concrete piers, the dust thickest here. Warm palette: dun brown haze, rust, tin, work-lamp amber; the welding flash is warm amber, never blue. No neon, no cool blue/purple, no magenta/cyan.\n\nSubject (three-quarter street view at eye height across a narrow under-deck lane): a 12 m wide corrugated-tin lean-to wedged between two expressway piers, mono-pitch roof just under the deck, salvaged sheets in rust, primer grey and faded tin-blue patches with rivets. Two open bays with roller shutters rolled up into their housings. Left bay: a chop shop glowing with green enamel-shaded work lamps, floor-to-ceiling parts racks, an I-beam trolley with a chain hoist, a stripped engine on a stand and a masked mechanic welding it with a warm amber arc. Right bay: a filter-rinse bay with a yellow counterbalanced air-lance swing boom ending in a blast cone, a grease-black drain trough, a pyramid of olive filter canisters, a small booth with a masked attendant behind its window, a hand-painted rate board. A black-and-white checkered union banner over the left shutter, a vertical hand-painted trade board on the middle post, enamel plates, blown tyres stacked as a barrier, rusty oil drums, dust windrows at the base. One side wall is a relic wall of old enamel shop plates. No faces: every figure wears a full respirator or welding mask. Exact lettering, nothing else written: banner 鉄輪連合; trade board 鉄輪自動車修理; plates 営業中, 持込整備, 洗浄; rate board 洗浄 料金 / フィルター 三百円 / 吸気口 二百円; relic plates たばこ, 氷, 牛乳, 質, 薬. No English or Latin letters.\n\nEvery plate and board shows exactly the listed words, each plate fully in frame; no other characters anywhere, no small print, no partial words, no logos.\n",
+  "model_text": "",
+  "created": "2026-10-06T12:17:58Z"
+}

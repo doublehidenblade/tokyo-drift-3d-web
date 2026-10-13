@@ -1,0 +1,55 @@
+{
+  "layout": "res://tools/td186/layouts/vehicle_kei_truck.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 20,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 39,
+    "tower": false,
+    "world_ms": 32.183
+  },
+  "views": [
+    {
+      "draw_calls": 61,
+      "name": "front_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/front_34.png",
+      "primitives": 3508
+    },
+    {
+      "draw_calls": 24,
+      "name": "rear_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/rear_34.png",
+      "primitives": 1240
+    },
+    {
+      "draw_calls": 25,
+      "name": "side",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/side.png",
+      "primitives": 2044
+    },
+    {
+      "draw_calls": 74,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/front.png",
+      "primitives": 4696
+    },
+    {
+      "draw_calls": 74,
+      "name": "variants",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/variants.png",
+      "primitives": 4696
+    },
+    {
+      "draw_calls": 51,
+      "name": "chase",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/kei_truck/chase.png",
+      "primitives": 2476
+    }
+  ]
+}

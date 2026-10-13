@@ -1,0 +1,73 @@
+{
+  "layout": "res://tools/td186/layouts/storefront_kit.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 45,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 67,
+    "tower": false,
+    "world_ms": 21.113
+  },
+  "views": [
+    {
+      "draw_calls": 106,
+      "name": "shotengai",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/shotengai.png",
+      "primitives": 7532
+    },
+    {
+      "draw_calls": 82,
+      "name": "row_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/row_34.png",
+      "primitives": 5346
+    },
+    {
+      "draw_calls": 66,
+      "name": "ramen_cab",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/ramen_cab.png",
+      "primitives": 5154
+    },
+    {
+      "draw_calls": 78,
+      "name": "tabako_kissaten",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/tabako_kissaten.png",
+      "primitives": 5298
+    },
+    {
+      "draw_calls": 62,
+      "name": "izakaya_yakkyoku",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/izakaya_yakkyoku.png",
+      "primitives": 4012
+    },
+    {
+      "draw_calls": 52,
+      "name": "sengyo_pachinko",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/sengyo_pachinko.png",
+      "primitives": 2540
+    },
+    {
+      "draw_calls": 34,
+      "name": "sakaya",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/sakaya.png",
+      "primitives": 1542
+    },
+    {
+      "draw_calls": 106,
+      "name": "behind_car",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/behind_car.png",
+      "primitives": 7532
+    },
+    {
+      "draw_calls": 56,
+      "name": "chidori_night",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/storefront_kit/chidori_night.png",
+      "primitives": 2588
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layer": "IMPLEMENTATION",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/fleet-gear/impl-hinode-carrier.png"
+  ],
+  "prompt": "[IMPLEMENTATION] mock for a game art book: a full-bleed in-game screenshot (no device frame, no border, no captions, no labels, no UI) of what the SAME vehicle really looks like as a low-poly 3D asset rendered in-engine at phone resolution, matching the attached in-engine mock's style: Godot low-poly geometry, flat poster-colour fills, hard ink outlines, 2-step cel shading with warm umber shadows, washed-out paper-grain texture noise, dun dust fog, a flat warm ochre sky. Every driver wears a respirator and goggles (no faces). No painterly brushwork, no reflections, no bloom, no transparency. Number plates are blank white rectangles.\n\nSubject: a 1970s Japanese city route bus (original design, no badges): a long box body with rounded roof edges, cream upper and maroon skirt with a maroon band under the long window strip, a large two-pane windshield with the driver in a dust respirator with round amber goggles and a peaked cap (face fully covered, no skin showing), a lit destination roller board above it, two folding passenger doors on the kerb side, big mirrors on stalks, steel wheels.\nExact lettering, nothing else written: destination board 3 大黒埠頭; side 南線. No English or Latin letters.\n",
+  "model_text": "",
+  "created": "2026-10-07T02:55:59Z"
+}

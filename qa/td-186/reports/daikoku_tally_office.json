@@ -1,0 +1,74 @@
+{
+  "file": "daikoku_tally_office.glb",
+  "bytes": 609184,
+  "triangles": 1176,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Daikoku_Tally_Office": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -8.2598,
+    -0.05,
+    -10.2
+  ],
+  "bounds_max": [
+    5.4144,
+    10.85,
+    1.9
+  ],
+  "size": [
+    13.6743,
+    10.9,
+    12.1
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.386,
+    "regions": 25,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Daikoku_Tally_Office": 1176
+  },
+  "notes": {
+    "district": "daikoku",
+    "lot": "8 x 10 m tally office + 4 m lean-to (Daikoku shed lots <= 46 x 46 m)",
+    "signage": [
+      "検数事務所",
+      "第七号門 / 7 (enamel gate plate)",
+      "chalk tally board",
+      "Kaiun-gumi hook (whitewash)"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

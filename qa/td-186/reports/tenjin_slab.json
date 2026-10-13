@@ -1,0 +1,73 @@
+{
+  "file": "tenjin_slab.glb",
+  "bytes": 614580,
+  "triangles": 1314,
+  "meshes": 1,
+  "materials": [
+    {
+      "name": "Mat_Facade",
+      "alpha": "OPAQUE",
+      "unlit": false,
+      "emissive": true
+    },
+    {
+      "name": "Mat_Ink_Outline",
+      "alpha": "OPAQUE",
+      "unlit": true,
+      "emissive": false
+    }
+  ],
+  "all_opaque": true,
+  "images": [
+    {
+      "name": "emission",
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "albedo",
+      "mime": "image/jpeg"
+    }
+  ],
+  "nodes": {
+    "Tenjin_Slab": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "bounds_min": [
+    -14.16,
+    -0.08,
+    -20.08
+  ],
+  "bounds_max": [
+    14.16,
+    67.2,
+    0.16
+  ],
+  "size": [
+    28.32,
+    67.28,
+    20.24
+  ],
+  "animations": [],
+  "atlas": {
+    "size": 2048,
+    "used_fraction": 0.363,
+    "regions": 29,
+    "emission": true
+  },
+  "builder_triangles": {
+    "Tenjin_Slab": 1314
+  },
+  "notes": {
+    "district": "tenjin",
+    "lot": "28 x 20 m slab, 58.2 m to the cornice top (Tenjin Odori class 52-72 m)",
+    "signage": [
+      "黒金商事 (cornice + lobby)",
+      "黒 mon plates + banners",
+      "天神 中央回廊 boundary plate"
+    ],
+    "signage_font": "IPAGothic"
+  }
+}

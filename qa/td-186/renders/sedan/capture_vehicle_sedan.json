@@ -1,0 +1,55 @@
+{
+  "layout": "res://tools/td186/layouts/vehicle_sedan.json",
+  "look": {
+    "city_batches": 0,
+    "flare_meshes": 0,
+    "flares": 0,
+    "hulls": 20,
+    "palette": "trench",
+    "pools": 0,
+    "road_sections": 0,
+    "streaks": 0,
+    "tail_glows": 0,
+    "toon_materials": 39,
+    "tower": false,
+    "world_ms": 22.357
+  },
+  "views": [
+    {
+      "draw_calls": 68,
+      "name": "front_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/front_34.png",
+      "primitives": 4608
+    },
+    {
+      "draw_calls": 26,
+      "name": "rear_34",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/rear_34.png",
+      "primitives": 1320
+    },
+    {
+      "draw_calls": 22,
+      "name": "side",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/side.png",
+      "primitives": 1272
+    },
+    {
+      "draw_calls": 74,
+      "name": "front",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/front.png",
+      "primitives": 4920
+    },
+    {
+      "draw_calls": 74,
+      "name": "variants",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/variants.png",
+      "primitives": 4920
+    },
+    {
+      "draw_calls": 50,
+      "name": "chase",
+      "path": "/home/user/tokyo-drift-3d/godot/qa/td-186/renders/sedan/chase.png",
+      "primitives": 2536
+    }
+  ]
+}

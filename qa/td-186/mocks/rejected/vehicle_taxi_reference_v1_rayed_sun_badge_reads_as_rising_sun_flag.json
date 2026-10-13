@@ -1,0 +1,16 @@
+{
+  "layer": "REFERENCE",
+  "generated_by": "Gemini image API (AI-generated concept mock, not designer-drawn)",
+  "model": "gemini-3-pro-image",
+  "aspect": "16:9",
+  "size": [
+    1376,
+    768
+  ],
+  "references": [
+    "tokyo-drift-3d-web:art-book/fleet-gear/mock-hinode-carrier.png"
+  ],
+  "prompt": "[REFERENCE] concept art for ONE vehicle in a game art book, matching the attached art-book mock's style exactly: 1980s Japanese anime cel-painted background art, a Showa retro-futurist city drowned in ochre dust, warm palette only (dun haze, rust, cream, lamp amber; no neon, no cool blue/purple, no magenta/cyan). Three-quarter front view at eye height on a dusty Showa street; the vehicle is the subject, sharp and complete in frame. Every driver wears a respirator and goggles (no faces). Number plates are blank white rectangles.\n\nSubject: the Hinode Carrier fleet cab: a boxy late-1970s notchback taxi, two-tone faded mustard cream over rust-brown primer split at a chrome rub strip, round headlights caged behind wire guards, a rising-sun roundel on the grille, a conical cyclone filter intake on the hood, a roof rack with olive filter canisters, a small red roof flag on a brass stalk with a bulb, chrome fender bullet mirrors, the fleet name on the front doors.\nExact lettering, nothing else written: door 日の出交通; roof flag 空車. No English or Latin letters.\n",
+  "model_text": "",
+  "created": "2026-10-06T17:20:23Z"
+}
