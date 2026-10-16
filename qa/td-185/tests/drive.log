@@ -1,0 +1,142 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+  trace t=10 plan=(1225, 982, -0.1) v=18.6 m/s progress=0.29 stuck=0
+  trace t=20 plan=(1227, 824, -0.1) v=6.5 m/s progress=0.67 stuck=0
+TD185_LEG {"arcs":4,"avg_kmh":50.8,"classes":{"arterial":1,"avenue":2,"street":1},"driven_m":407,"from":"asahi_hq","leg":1,"max_y":-0.11,"min_y":-0.15,"ok":true,"plan_s":43.1,"recoveries":0,"streets":"ginko > tenjin > shosha","stuck":0,"time_s":28.9,"to":"paper_exch"}
+  trace t=10 plan=(1372, 690, 6.3) v=13.7 m/s progress=0.10 stuck=0
+  trace t=20 plan=(1368, 658, -0.2) v=8.5 m/s progress=0.13 stuck=0
+  trace t=30 plan=(1367, 506, -0.2) v=18.6 m/s progress=0.23 stuck=0
+  trace t=40 plan=(1334, 342, -0.2) v=15.0 m/s progress=0.36 stuck=0
+  trace t=50 plan=(1161, 324, -0.2) v=18.6 m/s progress=0.48 stuck=0
+  trace t=60 plan=(995, 324, -0.2) v=5.0 m/s progress=0.60 stuck=0
+  trace t=70 plan=(878, 322, -0.2) v=17.7 m/s progress=0.69 stuck=0
+  trace t=80 plan=(838, 435, -0.1) v=18.6 m/s progress=0.80 stuck=0
+  trace t=90 plan=(838, 610, -0.1) v=8.1 m/s progress=0.92 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":51.3,"classes":{"arterial":1,"ramp":2,"ring":1,"street":3},"driven_m":1405,"from":"paper_exch","leg":2,"max_y":6.85,"min_y":-0.22,"ok":true,"plan_s":112.4,"recoveries":0,"streets":"shosha > kashi_ic_outer_on > ring > daikoku_ic_outer_off > kamome > ichiba","stuck":0,"time_s":98.5,"to":"kenji_hall"}
+  trace t=10 plan=(940, 743, -0.1) v=18.6 m/s progress=0.26 stuck=0
+  trace t=20 plan=(878, 818, -0.1) v=18.4 m/s progress=0.54 stuck=0
+  trace t=30 plan=(838, 913, -0.1) v=10.9 m/s progress=0.80 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":46.2,"classes":{"alley":3,"arterial":2,"street":2},"driven_m":486,"from":"kenji_hall","leg":3,"max_y":-0.14,"min_y":-0.15,"ok":true,"plan_s":83.2,"recoveries":0,"streets":"ichiba > uogashi3 > shosha > kamome > seri3","stuck":0,"time_s":37.9,"to":"seri_window"}
+  trace t=10 plan=(758, 823, -0.1) v=7.9 m/s progress=0.17 stuck=0
+  trace t=20 plan=(600, 818, -0.1) v=18.6 m/s progress=0.42 stuck=0
+  trace t=30 plan=(435, 818, -5.2) v=6.1 m/s progress=0.68 stuck=0
+  trace t=40 plan=(428, 668, -5.2) v=18.6 m/s progress=0.92 stuck=0
+TD185_LEG {"arcs":6,"avg_kmh":53.4,"classes":{"alley":2,"arterial":3,"lane":1},"driven_m":638,"from":"seri_window","leg":4,"max_y":-0.15,"min_y":-5.15,"ok":true,"plan_s":86.6,"recoveries":0,"streets":"seri3 > uogashi2b > nishimon > senjo1","stuck":0,"time_s":43.0,"to":"rinse4"}
+  trace t=10 plan=(397, 695, -5.2) v=18.6 m/s progress=0.14 stuck=0
+  trace t=20 plan=(378, 818, -5.2) v=16.9 m/s progress=0.34 stuck=0
+  trace t=30 plan=(198, 818, -0.1) v=18.6 m/s progress=0.58 stuck=0
+  trace t=40 plan=(148, 911, -0.1) v=18.6 m/s progress=0.78 stuck=0
+  trace t=50 plan=(235, 961, -0.1) v=17.0 m/s progress=0.96 stuck=0
+TD185_LEG {"arcs":8,"avg_kmh":50.1,"classes":{"arterial":3,"lane":3,"street":1,"trench":1},"driven_m":722,"from":"rinse4","leg":5,"max_y":-0.12,"min_y":-5.15,"ok":true,"plan_s":115.4,"recoveries":0,"streets":"senjo1 > ichiba > horiwari > nishimon > nishihatoba > slum2","stuck":0,"time_s":51.8,"to":"mariko"}
+  trace t=10 plan=(262, 835, -0.1) v=10.3 m/s progress=0.19 stuck=0
+  trace t=20 plan=(129, 818, -0.1) v=18.6 m/s progress=0.40 stuck=0
+  trace t=30 plan=(-29, 818, -0.1) v=12.9 m/s progress=0.64 stuck=0
+  trace t=40 plan=(-41, 820, -0.1) v=11.8 m/s progress=0.72 stuck=0
+  trace t=50 plan=(119, 822, -0.1) v=18.4 m/s progress=0.95 stuck=0
+TD185_LEG {"arcs":6,"avg_kmh":48.0,"classes":{"arterial":3,"lane":1,"street":2},"driven_m":695,"from":"mariko","leg":6,"max_y":-0.13,"min_y":-0.15,"ok":true,"plan_s":85.2,"recoveries":0,"streets":"slum2 > kotobuki_w > nishimon","stuck":0,"time_s":52.2,"to":"west_gate"}
+  trace t=10 plan=(263, 805, -0.1) v=14.9 m/s progress=0.13 stuck=0
+  trace t=20 plan=(262, 619, -0.1) v=18.6 m/s progress=0.31 stuck=0
+  trace t=30 plan=(262, 433, -0.1) v=18.6 m/s progress=0.50 stuck=0
+  trace t=40 plan=(262, 247, -0.1) v=18.6 m/s progress=0.69 stuck=0
+  trace t=50 plan=(328, 175, -0.1) v=18.6 m/s progress=0.83 stuck=0
+  trace t=60 plan=(432, 133, -0.1) v=18.6 m/s progress=0.97 stuck=0
+TD185_LEG {"arcs":9,"avg_kmh":57.2,"classes":{"arterial":2,"avenue":1,"lane":1,"street":5},"driven_m":990,"from":"west_gate","leg":7,"max_y":-0.12,"min_y":-0.15,"ok":true,"plan_s":110.9,"recoveries":0,"streets":"nishimon > kotobuki_w > futo > gate2","stuck":0,"time_s":62.3,"to":"gate2"}
+  trace t=10 plan=(556, 100, -0.1) v=18.6 m/s progress=0.09 stuck=0
+  trace t=20 plan=(609, 165, -0.1) v=8.6 m/s progress=0.17 stuck=0
+  trace t=30 plan=(762, 175, -0.1) v=18.6 m/s progress=0.28 stuck=0
+  trace t=40 plan=(838, 235, -0.1) v=18.6 m/s progress=0.37 stuck=0
+  trace t=50 plan=(791, 319, -0.0) v=18.6 m/s progress=0.46 stuck=0
+  trace t=60 plan=(685, 320, 6.7) v=1.7 m/s progress=0.54 stuck=0
+  trace t=70 plan=(581, 324, -0.1) v=18.6 m/s progress=0.61 stuck=0
+  trace t=80 plan=(414, 353, -0.1) v=15.0 m/s progress=0.74 stuck=0
+  trace t=90 plan=(393, 525, -5.2) v=18.6 m/s progress=0.86 stuck=0
+  trace t=100 plan=(394, 707, -5.2) v=12.4 m/s progress=0.99 stuck=0
+TD185_LEG {"arcs":9,"avg_kmh":51.0,"classes":{"alley":1,"avenue":3,"lane":2,"ramp":1,"ring":1,"street":1},"driven_m":1431,"from":"gate2","leg":8,"max_y":6.84,"min_y":-5.15,"ok":true,"plan_s":127.6,"recoveries":0,"streets":"gate2 > canyon_w > gate3 > futo > kamome > daikoku_ic_outer_on > ring","stuck":0,"time_s":101.0,"to":"arc:627"}
+  trace t=10 plan=(393, 896, -5.2) v=18.6 m/s progress=0.13 stuck=0
+  trace t=20 plan=(393, 1082, -5.2) v=18.6 m/s progress=0.26 stuck=0
+  trace t=30 plan=(397, 1264, -0.1) v=14.7 m/s progress=0.38 stuck=0
+  trace t=40 plan=(535, 1327, -0.1) v=18.6 m/s progress=0.50 stuck=0
+  trace t=50 plan=(721, 1326, -0.2) v=18.6 m/s progress=0.63 stuck=0
+  trace t=60 plan=(907, 1326, -0.1) v=18.6 m/s progress=0.76 stuck=0
+  trace t=70 plan=(1093, 1326, -0.1) v=18.6 m/s progress=0.89 stuck=0
+TD185_LEG {"arcs":4,"avg_kmh":65.0,"classes":{"ring":4},"driven_m":1425,"from":"arc:627","leg":9,"max_y":-0.13,"min_y":-5.15,"ok":true,"plan_s":85.9,"recoveries":0,"streets":"ring","stuck":0,"time_s":78.9,"to":"arc:622"}
+  trace t=10 plan=(1366, 1251, -0.1) v=16.9 m/s progress=0.12 stuck=0
+  trace t=20 plan=(1366, 1067, -0.1) v=18.6 m/s progress=0.26 stuck=0
+  trace t=30 plan=(1367, 961, -0.1) v=8.6 m/s progress=0.34 stuck=0
+  trace t=40 plan=(1364, 804, -0.1) v=6.6 m/s progress=0.46 stuck=0
+  trace t=50 plan=(1364, 625, -0.1) v=18.6 m/s progress=0.60 stuck=0
+  trace t=60 plan=(1404, 522, -0.1) v=18.6 m/s progress=0.70 stuck=0
+  trace t=70 plan=(1590, 522, -0.1) v=18.6 m/s progress=0.84 stuck=0
+  trace t=80 plan=(1776, 522, -0.1) v=16.1 m/s progress=0.98 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":58.0,"classes":{"arterial":2,"boulevard":2,"ramp":1,"ring":2},"driven_m":1319,"from":"arc:622","leg":10,"max_y":-0.12,"min_y":-0.15,"ok":true,"plan_s":92.0,"recoveries":0,"streets":"ring > kashi_ic_outer_off > kashi > sangyo","stuck":0,"time_s":81.8,"to":"kettle_lab"}
+  trace t=10 plan=(1975, 522, -0.1) v=18.6 m/s progress=0.50 stuck=0
+TD185_LEG {"arcs":3,"avg_kmh":63.4,"classes":{"arterial":3},"driven_m":349,"from":"kettle_lab","leg":11,"max_y":-0.15,"min_y":-0.15,"ok":true,"plan_s":36.7,"recoveries":0,"streets":"sangyo","stuck":0,"time_s":19.8,"to":"kpc_gate"}
+  trace t=10 plan=(2071, 518, -0.1) v=10.4 m/s progress=0.10 stuck=0
+  trace t=20 plan=(2052, 390, -0.1) v=18.6 m/s progress=0.25 stuck=0
+  trace t=30 plan=(2052, 205, -0.1) v=15.8 m/s progress=0.46 stuck=0
+  trace t=40 plan=(2164, 175, -0.1) v=18.6 m/s progress=0.61 stuck=0
+  trace t=50 plan=(2340, 175, -0.1) v=9.1 m/s progress=0.80 stuck=0
+  trace t=60 plan=(2348, 231, -0.1) v=18.6 m/s progress=0.89 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":50.4,"classes":{"arterial":2,"avenue":2,"lane":1,"street":2},"driven_m":921,"from":"kpc_gate","leg":12,"max_y":-0.14,"min_y":-0.15,"ok":true,"plan_s":100.0,"recoveries":0,"streets":"sangyo > kojo3 > futo > shaft1","stuck":0,"time_s":65.8,"to":"shaft1_dock"}
+  trace t=10 plan=(2220, 328, -0.1) v=18.6 m/s progress=0.16 stuck=0
+  trace t=20 plan=(2059, 328, -0.1) v=6.4 m/s progress=0.34 stuck=0
+  trace t=30 plan=(2052, 180, -0.1) v=8.9 m/s progress=0.52 stuck=0
+  trace t=40 plan=(1913, 165, -0.1) v=18.6 m/s progress=0.69 stuck=0
+  trace t=50 plan=(1728, 165, -0.1) v=14.5 m/s progress=0.90 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":54.0,"classes":{"arterial":1,"avenue":3,"lane":2,"street":1},"driven_m":866,"from":"shaft1_dock","leg":13,"max_y":-0.13,"min_y":-0.15,"ok":true,"plan_s":96.8,"recoveries":0,"streets":"shaft1 > rinko_e > kojo3 > futo > gate7","stuck":0,"time_s":57.8,"to":"gate7"}
+  trace t=10 plan=(1833, 100, -0.1) v=18.6 m/s progress=0.10 stuck=0
+  trace t=20 plan=(1948, 123, -0.1) v=18.4 m/s progress=0.21 stuck=0
+  trace t=30 plan=(1851, 165, -0.1) v=18.6 m/s progress=0.31 stuck=0
+  trace t=40 plan=(1798, 253, -0.1) v=18.6 m/s progress=0.42 stuck=0
+  trace t=50 plan=(1798, 439, -0.1) v=18.6 m/s progress=0.56 stuck=0
+  trace t=60 plan=(1798, 625, -0.1) v=18.6 m/s progress=0.71 stuck=0
+  trace t=70 plan=(1804, 752, -0.1) v=6.3 m/s progress=0.81 stuck=0
+  trace t=80 plan=(1977, 752, -0.1) v=18.6 m/s progress=0.94 stuck=0
+TD185_LEG {"arcs":11,"avg_kmh":55.1,"classes":{"alley":1,"avenue":1,"lane":4,"street":5},"driven_m":1290,"from":"gate7","leg":14,"max_y":0.65,"min_y":-0.15,"ok":true,"plan_s":162.5,"recoveries":0,"streets":"gate7 > canyon_e > gate8 > futo > kojo2 > kaede > unga","stuck":0,"time_s":84.4,"to":"hotel_lantern"}
+  trace t=10 plan=(2048, 905, -0.1) v=18.6 m/s progress=0.14 stuck=0
+  trace t=20 plan=(2048, 1091, -0.1) v=18.6 m/s progress=0.31 stuck=0
+  trace t=30 plan=(1999, 1178, -0.1) v=18.6 m/s progress=0.43 stuck=0
+  trace t=40 plan=(1813, 1178, -0.1) v=18.6 m/s progress=0.60 stuck=0
+  trace t=50 plan=(1628, 1178, -0.1) v=14.7 m/s progress=0.77 stuck=0
+  trace t=60 plan=(1602, 1067, -0.1) v=14.5 m/s progress=0.89 stuck=0
+TD185_LEG {"arcs":10,"avg_kmh":57.0,"classes":{"lane":1,"oneway":3,"street":6},"driven_m":1103,"from":"hotel_lantern","leg":15,"max_y":-0.13,"min_y":-0.15,"ok":true,"plan_s":119.2,"recoveries":0,"streets":"unga > higashihama > tsuki > sakura > hoshi","stuck":0,"time_s":69.6,"to":"starlight"}
+  trace t=10 plan=(1874, 1042, -0.1) v=18.6 m/s progress=0.24 stuck=0
+  trace t=20 plan=(2041, 1042, -0.1) v=4.9 m/s progress=0.47 stuck=0
+  trace t=30 plan=(2048, 1171, -0.1) v=5.4 m/s progress=0.65 stuck=0
+  trace t=40 plan=(1896, 1178, -0.1) v=18.6 m/s progress=0.87 stuck=0
+TD185_LEG {"arcs":7,"avg_kmh":57.5,"classes":{"oneway":5,"street":2},"driven_m":728,"from":"starlight","leg":16,"max_y":-0.15,"min_y":-0.15,"ok":true,"plan_s":76.0,"recoveries":0,"streets":"hoshi > higashihama > tsuki","stuck":0,"time_s":45.6,"to":"pachinko"}
+  trace t=10 plan=(1627, 1178, -0.1) v=15.3 m/s progress=0.15 stuck=0
+  trace t=20 plan=(1598, 1290, -0.1) v=15.5 m/s progress=0.26 stuck=0
+  trace t=30 plan=(1488, 1318, -0.1) v=18.6 m/s progress=0.38 stuck=0
+  trace t=40 plan=(1308, 1316, -0.1) v=18.6 m/s progress=0.53 stuck=0
+  trace t=50 plan=(1215, 1366, -0.1) v=9.8 m/s progress=0.64 stuck=0
+  trace t=60 plan=(1170, 1417, -0.1) v=18.6 m/s progress=0.72 stuck=0
+  trace t=70 plan=(1231, 1490, -0.1) v=18.6 m/s progress=0.83 stuck=0
+  trace t=80 plan=(1270, 1399, -0.1) v=12.0 m/s progress=0.94 stuck=0
+TD185_LEG {"arcs":12,"avg_kmh":49.3,"classes":{"avenue":1,"boulevard":1,"oneway":2,"street":8},"driven_m":1188,"from":"pachinko","leg":17,"max_y":0.64,"min_y":-0.15,"ok":true,"plan_s":164.7,"recoveries":0,"streets":"tsuki > sakura > kitachidori > soshajo_e > soshajo_ring > tenjin > t2_s > t2_w > t2_n > t2_e > t2_s","stuck":0,"time_s":86.8,"to":"t2_queue"}
+  trace t=10 plan=(1169, 1316, -0.1) v=18.6 m/s progress=0.12 stuck=0
+  trace t=20 plan=(983, 1316, -0.1) v=18.6 m/s progress=0.34 stuck=0
+  trace t=30 plan=(797, 1316, -0.1) v=18.6 m/s progress=0.55 stuck=0
+  trace t=40 plan=(699, 1362, -0.1) v=18.6 m/s progress=0.70 stuck=0
+  trace t=50 plan=(754, 1442, -0.1) v=18.6 m/s progress=0.86 stuck=0
+TD185_LEG {"arcs":10,"avg_kmh":55.6,"classes":{"avenue":1,"boulevard":6,"lane":2,"street":1},"driven_m":883,"from":"t2_queue","leg":18,"max_y":-0.13,"min_y":-0.15,"ok":true,"plan_s":97.8,"recoveries":0,"streets":"t2_s > tenjin > soshajo_ring > yard_n1 > yard","stuck":0,"time_s":57.2,"to":"yard_shed"}
+  trace t=10 plan=(873, 1320, -0.1) v=10.4 m/s progress=0.14 stuck=0
+  trace t=20 plan=(711, 1316, -0.1) v=18.6 m/s progress=0.33 stuck=0
+  trace t=30 plan=(548, 1315, -0.1) v=8.1 m/s progress=0.51 stuck=0
+  trace t=40 plan=(542, 1157, -0.2) v=18.6 m/s progress=0.69 stuck=0
+  trace t=50 plan=(565, 1043, -0.1) v=18.4 m/s progress=0.85 stuck=0
+TD185_LEG {"arcs":11,"avg_kmh":55.0,"classes":{"boulevard":4,"lane":2,"street":5},"driven_m":882,"from":"yard_shed","leg":19,"max_y":-0.12,"min_y":-0.15,"ok":true,"plan_s":111.3,"recoveries":0,"streets":"yard > yard_n2 > soshajo_ring > kotobuki_e > reizo","stuck":0,"time_s":57.8,"to":"ice_house"}
+  trace t=10 plan=(699, 1105, -0.1) v=4.0 m/s progress=0.09 stuck=0
+  trace t=20 plan=(692, 1037, -0.1) v=7.6 m/s progress=0.19 stuck=0
+  trace t=30 plan=(512, 1038, -0.1) v=18.6 m/s progress=0.45 stuck=0
+  trace t=40 plan=(397, 1068, -5.2) v=18.4 m/s progress=0.64 stuck=0
+  trace t=50 plan=(397, 1253, -0.1) v=18.6 m/s progress=0.90 stuck=0
+TD185_LEG {"arcs":8,"avg_kmh":47.9,"classes":{"alley":2,"street":5,"trench":1},"driven_m":720,"from":"ice_house","leg":20,"max_y":-0.13,"min_y":-5.15,"ok":true,"plan_s":98.9,"recoveries":0,"streets":"reizo > taru > reizo > horiwari","stuck":0,"time_s":54.1,"to":"shaft3_queue"}
+  trace t=10 plan=(534, 1324, -0.1) v=18.6 m/s progress=0.13 stuck=0
+  trace t=20 plan=(720, 1324, -0.1) v=18.6 m/s progress=0.30 stuck=0
+  trace t=30 plan=(906, 1324, -0.1) v=18.6 m/s progress=0.47 stuck=0
+  trace t=40 plan=(1083, 1324, -0.1) v=7.9 m/s progress=0.63 stuck=0
+  trace t=50 plan=(1102, 1185, -0.1) v=18.6 m/s progress=0.76 stuck=0
+  trace t=60 plan=(1106, 1042, -0.1) v=5.9 m/s progress=0.90 stuck=0
+TD185_LEG {"arcs":12,"avg_kmh":58.8,"classes":{"boulevard":7,"oneway":3,"street":1,"trench":1},"driven_m":1097,"from":"shaft3_queue","leg":21,"max_y":-0.09,"min_y":-0.15,"ok":true,"plan_s":115.6,"recoveries":0,"streets":"horiwari > soshajo_ring > nishitenjin > ginko","stuck":0,"time_s":67.2,"to":"asahi_hq"}
+TD185_DRIVE {"drive_min":21.71,"failures":0,"km":19.55,"legs":21}

@@ -1,0 +1,1965 @@
+{
+  "errors": [],
+  "stages": [],
+  "status": "passed",
+  "loading": {
+    "prepare_ms": 89971.96,
+    "stages": [
+      {
+        "ms": 0.055,
+        "progress": 0.7,
+        "stage": "Preparing Tokyo Bay"
+      },
+      {
+        "ms": 1032.42,
+        "progress": 0.72,
+        "stage": "Preparing materials"
+      },
+      {
+        "ms": 1906.36,
+        "progress": 0.76,
+        "stage": "Laying roads and terrain"
+      },
+      {
+        "ms": 2086.065,
+        "progress": 0.8,
+        "stage": "Building the bridge"
+      },
+      {
+        "ms": 2126.805,
+        "progress": 0.83,
+        "stage": "Opening the city streets"
+      },
+      {
+        "ms": 2887.73,
+        "progress": 0.87,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3010.28,
+        "progress": 0.870275862068966,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3031.725,
+        "progress": 0.870551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3054.145,
+        "progress": 0.870965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3073.68,
+        "progress": 0.871379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3119.515,
+        "progress": 0.871655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3153.885,
+        "progress": 0.872068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3174.315,
+        "progress": 0.87248275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3199.795,
+        "progress": 0.872758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3220.085,
+        "progress": 0.872896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3239.945,
+        "progress": 0.873172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3259.405,
+        "progress": 0.873586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3296.12,
+        "progress": 0.873724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3428.87,
+        "progress": 0.873862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3466.695,
+        "progress": 0.874275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3829.79,
+        "progress": 0.874413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3868.99,
+        "progress": 0.874827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3931.93,
+        "progress": 0.874965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 3988.18,
+        "progress": 0.875103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4120.555,
+        "progress": 0.87551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4212.14,
+        "progress": 0.875931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4306.27,
+        "progress": 0.876620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4397.37,
+        "progress": 0.876758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4465.79,
+        "progress": 0.876896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4540.905,
+        "progress": 0.877034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4585.805,
+        "progress": 0.877448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4762.49,
+        "progress": 0.877586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 4853.605,
+        "progress": 0.877724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5009.96,
+        "progress": 0.877862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5081.965,
+        "progress": 0.878,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5181.41,
+        "progress": 0.878275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5284.135,
+        "progress": 0.878413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5386.75,
+        "progress": 0.878551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5468.345,
+        "progress": 0.878689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5562.08,
+        "progress": 0.878827586206896,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5668.455,
+        "progress": 0.878965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5787.59,
+        "progress": 0.879103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5896.275,
+        "progress": 0.879241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 5972.63,
+        "progress": 0.879379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6050.05,
+        "progress": 0.87951724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6136.845,
+        "progress": 0.879655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6163.065,
+        "progress": 0.879793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6262.76,
+        "progress": 0.879931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6350.275,
+        "progress": 0.880068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6422.875,
+        "progress": 0.880206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6462.005,
+        "progress": 0.881310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6576.35,
+        "progress": 0.881448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6682.06,
+        "progress": 0.881586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6758.255,
+        "progress": 0.881724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6881.065,
+        "progress": 0.881862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 6976.635,
+        "progress": 0.882,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7067.04,
+        "progress": 0.882137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7171.485,
+        "progress": 0.882275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7254.085,
+        "progress": 0.882413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7348.335,
+        "progress": 0.882551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7522.91,
+        "progress": 0.882689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7632.72,
+        "progress": 0.882827586206896,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7758.51,
+        "progress": 0.882965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7879.83,
+        "progress": 0.883103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 7952.45,
+        "progress": 0.884068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8064.845,
+        "progress": 0.884206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8169.675,
+        "progress": 0.884344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8360.905,
+        "progress": 0.88448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8457.18,
+        "progress": 0.884620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8577.475,
+        "progress": 0.884758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8688.66,
+        "progress": 0.884896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8778.73,
+        "progress": 0.885034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8857.145,
+        "progress": 0.885172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 8885.865,
+        "progress": 0.886413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9001.37,
+        "progress": 0.886551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9084.4,
+        "progress": 0.886689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9188.715,
+        "progress": 0.886827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9340.095,
+        "progress": 0.886965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9380.695,
+        "progress": 0.887103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9459.285,
+        "progress": 0.887241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9542.245,
+        "progress": 0.887379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9629.39,
+        "progress": 0.88751724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9731.045,
+        "progress": 0.887655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9812.58,
+        "progress": 0.887931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 9936.455,
+        "progress": 0.888068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10026.66,
+        "progress": 0.888206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10205.38,
+        "progress": 0.888344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10236.695,
+        "progress": 0.88848275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10384.67,
+        "progress": 0.889034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10420.565,
+        "progress": 0.889172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10539.13,
+        "progress": 0.889310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10699.685,
+        "progress": 0.889448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10790.875,
+        "progress": 0.889586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 10882.28,
+        "progress": 0.89,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11011.58,
+        "progress": 0.890137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11104.06,
+        "progress": 0.890413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11192.15,
+        "progress": 0.890551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11321.255,
+        "progress": 0.890689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11367.26,
+        "progress": 0.891379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11437.295,
+        "progress": 0.89151724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11537.065,
+        "progress": 0.891655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11670.585,
+        "progress": 0.891793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11781.88,
+        "progress": 0.891931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11863.9,
+        "progress": 0.89248275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11938.825,
+        "progress": 0.892620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 11997.3,
+        "progress": 0.892758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12148.65,
+        "progress": 0.894137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12191.86,
+        "progress": 0.894413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12224.345,
+        "progress": 0.894551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12322.035,
+        "progress": 0.894689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12477.385,
+        "progress": 0.894965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12512.1,
+        "progress": 0.895241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12661.365,
+        "progress": 0.895379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12760.335,
+        "progress": 0.895655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12865.7,
+        "progress": 0.895793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12901.775,
+        "progress": 0.896206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 12989.58,
+        "progress": 0.896344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13079.775,
+        "progress": 0.89648275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13157.59,
+        "progress": 0.896620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13222.465,
+        "progress": 0.896758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13348.115,
+        "progress": 0.896896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13463.395,
+        "progress": 0.897034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13634.875,
+        "progress": 0.897172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13725.52,
+        "progress": 0.898137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13814.79,
+        "progress": 0.898275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 13934.63,
+        "progress": 0.898827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14061.375,
+        "progress": 0.898965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14158.04,
+        "progress": 0.899103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14348.92,
+        "progress": 0.899241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14453.32,
+        "progress": 0.899379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14550.795,
+        "progress": 0.89951724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14660.56,
+        "progress": 0.899655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14789.695,
+        "progress": 0.899793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14864.68,
+        "progress": 0.899931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 14941.365,
+        "progress": 0.900068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15045.015,
+        "progress": 0.900206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15155.045,
+        "progress": 0.900344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15227.16,
+        "progress": 0.90048275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15325.185,
+        "progress": 0.900620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15370.085,
+        "progress": 0.901448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15531.395,
+        "progress": 0.901862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15557.16,
+        "progress": 0.902,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15638.75,
+        "progress": 0.902137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15745.02,
+        "progress": 0.902275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15848.59,
+        "progress": 0.902413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 15925.145,
+        "progress": 0.902551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16012.54,
+        "progress": 0.902689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16126.72,
+        "progress": 0.902827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16231.39,
+        "progress": 0.902965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16321.11,
+        "progress": 0.903103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16435.08,
+        "progress": 0.903241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16514.765,
+        "progress": 0.903379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16600.46,
+        "progress": 0.90351724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16726.815,
+        "progress": 0.903655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16806.5,
+        "progress": 0.904206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16891.73,
+        "progress": 0.904344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 16924.38,
+        "progress": 0.904758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17089.46,
+        "progress": 0.904896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17159.805,
+        "progress": 0.905034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17236.6,
+        "progress": 0.905172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17344.925,
+        "progress": 0.905448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17389.665,
+        "progress": 0.905724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17566.885,
+        "progress": 0.905862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17612.465,
+        "progress": 0.906,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17724.16,
+        "progress": 0.906137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17821.57,
+        "progress": 0.906275862068965,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 17941.9,
+        "progress": 0.906413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18104.715,
+        "progress": 0.906827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18208.815,
+        "progress": 0.906965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18299.37,
+        "progress": 0.907655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18407.725,
+        "progress": 0.907793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18444.4,
+        "progress": 0.907931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18608.055,
+        "progress": 0.908068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18636.035,
+        "progress": 0.910413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18835.66,
+        "progress": 0.910551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 18979.58,
+        "progress": 0.910689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19154.97,
+        "progress": 0.910827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19197.89,
+        "progress": 0.910965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19368.6,
+        "progress": 0.911103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19457.67,
+        "progress": 0.911379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19546.275,
+        "progress": 0.91151724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19669.045,
+        "progress": 0.911655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19715.635,
+        "progress": 0.911793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19875.95,
+        "progress": 0.911931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 19950.73,
+        "progress": 0.912068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20135.24,
+        "progress": 0.912206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20169.625,
+        "progress": 0.913310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20214.32,
+        "progress": 0.913448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20301.985,
+        "progress": 0.913586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20426.69,
+        "progress": 0.913724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20536.03,
+        "progress": 0.913862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20630.565,
+        "progress": 0.914,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20696.79,
+        "progress": 0.914137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20730.725,
+        "progress": 0.914827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 20931.765,
+        "progress": 0.914965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21033.235,
+        "progress": 0.915103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21151.67,
+        "progress": 0.916068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21176.965,
+        "progress": 0.916206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21263.71,
+        "progress": 0.916344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21419.615,
+        "progress": 0.91648275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21516.745,
+        "progress": 0.916620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21629.38,
+        "progress": 0.916758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21715.135,
+        "progress": 0.916896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21821.125,
+        "progress": 0.917034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21867.145,
+        "progress": 0.917586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 21962.13,
+        "progress": 0.917724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22054.23,
+        "progress": 0.917862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22156.43,
+        "progress": 0.918,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22220.475,
+        "progress": 0.918137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22300.785,
+        "progress": 0.918827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22393.915,
+        "progress": 0.918965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22491.63,
+        "progress": 0.919103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22573.385,
+        "progress": 0.919241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22669.245,
+        "progress": 0.919379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22773.685,
+        "progress": 0.91951724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22875.405,
+        "progress": 0.919655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 22964.32,
+        "progress": 0.919793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23071.51,
+        "progress": 0.919931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23154.03,
+        "progress": 0.920068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23256.955,
+        "progress": 0.920206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23298.55,
+        "progress": 0.920344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23394.43,
+        "progress": 0.92048275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23565.9,
+        "progress": 0.920620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23657.905,
+        "progress": 0.920758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23810.625,
+        "progress": 0.920896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23885.365,
+        "progress": 0.921034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 23999.595,
+        "progress": 0.921172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24152.83,
+        "progress": 0.921310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24236.66,
+        "progress": 0.921448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24272.835,
+        "progress": 0.922551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24406.955,
+        "progress": 0.922689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24485.565,
+        "progress": 0.922827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24590.98,
+        "progress": 0.922965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24670.975,
+        "progress": 0.923103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24758.725,
+        "progress": 0.923241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24866.585,
+        "progress": 0.923379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 24910.71,
+        "progress": 0.92351724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25026.13,
+        "progress": 0.923655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25104.63,
+        "progress": 0.923793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25188.485,
+        "progress": 0.923931034482759,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25224.155,
+        "progress": 0.925310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25298.155,
+        "progress": 0.925448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25438.765,
+        "progress": 0.925586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25529.135,
+        "progress": 0.925724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25555.505,
+        "progress": 0.926,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25728.78,
+        "progress": 0.926137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25850.18,
+        "progress": 0.926689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 25918.09,
+        "progress": 0.926827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26004.975,
+        "progress": 0.926965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26228.82,
+        "progress": 0.927103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26295.54,
+        "progress": 0.927241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26387.285,
+        "progress": 0.927379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26439.385,
+        "progress": 0.928620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26562.545,
+        "progress": 0.928758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26636.43,
+        "progress": 0.929034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26668.225,
+        "progress": 0.929172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26755.825,
+        "progress": 0.929310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26842.5,
+        "progress": 0.929448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 26927.37,
+        "progress": 0.929586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27007.255,
+        "progress": 0.929724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27094.715,
+        "progress": 0.929862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27199.46,
+        "progress": 0.93,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27293.51,
+        "progress": 0.930137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27320.395,
+        "progress": 0.930275862068966,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27438.665,
+        "progress": 0.930413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27560.375,
+        "progress": 0.930551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27713.665,
+        "progress": 0.930689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27736.905,
+        "progress": 0.930827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27884.875,
+        "progress": 0.930965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 27997.775,
+        "progress": 0.931379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28168.22,
+        "progress": 0.93151724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28280.165,
+        "progress": 0.931655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28384.615,
+        "progress": 0.932068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28514.26,
+        "progress": 0.932206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28613.06,
+        "progress": 0.932344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28701.355,
+        "progress": 0.93248275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28797.255,
+        "progress": 0.932620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28952.495,
+        "progress": 0.932758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 28983.905,
+        "progress": 0.933310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29121.955,
+        "progress": 0.934137931034483,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29153.34,
+        "progress": 0.934275862068966,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29345.04,
+        "progress": 0.934413793103448,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29371.49,
+        "progress": 0.934551724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29511.725,
+        "progress": 0.934689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29542.33,
+        "progress": 0.934827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29626.605,
+        "progress": 0.934965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29716.645,
+        "progress": 0.935103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29823.075,
+        "progress": 0.935241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 29921.17,
+        "progress": 0.935379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30002.645,
+        "progress": 0.936206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30082.005,
+        "progress": 0.937172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30184.485,
+        "progress": 0.937448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30291.275,
+        "progress": 0.937724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30372.81,
+        "progress": 0.937862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30398.86,
+        "progress": 0.938827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30593.265,
+        "progress": 0.938965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30625.71,
+        "progress": 0.940068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30809.105,
+        "progress": 0.940206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30909.77,
+        "progress": 0.940344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 30993.275,
+        "progress": 0.94048275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31105.125,
+        "progress": 0.940620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31198.595,
+        "progress": 0.940758620689655,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31244.105,
+        "progress": 0.941034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31393.08,
+        "progress": 0.941172413793103,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31493.665,
+        "progress": 0.941310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31608.815,
+        "progress": 0.941448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31665.535,
+        "progress": 0.941586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31855.615,
+        "progress": 0.941724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 31892.695,
+        "progress": 0.941862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32041.98,
+        "progress": 0.942,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32066.61,
+        "progress": 0.942689655172414,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32143.36,
+        "progress": 0.942827586206897,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32220.825,
+        "progress": 0.942965517241379,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32288.42,
+        "progress": 0.943103448275862,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32410.87,
+        "progress": 0.943241379310345,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32559.94,
+        "progress": 0.943379310344828,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32587,
+        "progress": 0.94351724137931,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32676.46,
+        "progress": 0.943655172413793,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32758.38,
+        "progress": 0.944068965517241,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32902.535,
+        "progress": 0.944206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 32927.515,
+        "progress": 0.94448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33056.585,
+        "progress": 0.944620689655172,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33140.645,
+        "progress": 0.944896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33228.025,
+        "progress": 0.945310344827586,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33307.13,
+        "progress": 0.945448275862069,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33366.95,
+        "progress": 0.945586206896552,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33466.825,
+        "progress": 0.945724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33562.54,
+        "progress": 0.945862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33590.295,
+        "progress": 0.947793103448276,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33673.125,
+        "progress": 0.948206896551724,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33767.135,
+        "progress": 0.948344827586207,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33854.85,
+        "progress": 0.948896551724138,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33928.23,
+        "progress": 0.949034482758621,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 33962.42,
+        "progress": 0.949724137931034,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 34046.445,
+        "progress": 0.949862068965517,
+        "stage": "Assembling city geometry"
+      },
+      {
+        "ms": 35140.15,
+        "progress": 0.97,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 40177.895,
+        "progress": 0.970517857142857,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 47329.775,
+        "progress": 0.971035714285714,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 47415.485,
+        "progress": 0.971553571428571,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 47441.905,
+        "progress": 0.972071428571429,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 47543.61,
+        "progress": 0.972589285714286,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 48135.09,
+        "progress": 0.973107142857143,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 53725.56,
+        "progress": 0.973625,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 55805.91,
+        "progress": 0.974142857142857,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 57610.545,
+        "progress": 0.974660714285714,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 58856.705,
+        "progress": 0.975178571428571,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 59415.255,
+        "progress": 0.975696428571429,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 59829.45,
+        "progress": 0.976214285714286,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 60229.96,
+        "progress": 0.976732142857143,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 61621.835,
+        "progress": 0.97725,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 62435.085,
+        "progress": 0.977767857142857,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 63851.42,
+        "progress": 0.978285714285714,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 64467.17,
+        "progress": 0.978803571428571,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 65129.075,
+        "progress": 0.979321428571429,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 65833.17,
+        "progress": 0.979839285714286,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 66414.65,
+        "progress": 0.980357142857143,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 66997.245,
+        "progress": 0.980875,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 67765.13,
+        "progress": 0.981392857142857,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 68125,
+        "progress": 0.981910714285714,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 68642.615,
+        "progress": 0.982428571428571,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 69097.3,
+        "progress": 0.982946428571429,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 69134.755,
+        "progress": 0.983464285714286,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 69948.095,
+        "progress": 0.983982142857143,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 70807.395,
+        "progress": 0.9845,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 71375.99,
+        "progress": 0.985017857142857,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 71999.095,
+        "progress": 0.985535714285714,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 72505.61,
+        "progress": 0.986053571428571,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 73763.415,
+        "progress": 0.986571428571429,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 74765.73,
+        "progress": 0.987089285714286,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 75432,
+        "progress": 0.987607142857143,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 76245.28,
+        "progress": 0.988125,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 76686.715,
+        "progress": 0.988642857142857,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 77322.44,
+        "progress": 0.989160714285714,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 77958.56,
+        "progress": 0.989678571428571,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 78477.835,
+        "progress": 0.990196428571429,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 79088.6,
+        "progress": 0.990714285714286,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 79406.395,
+        "progress": 0.991232142857143,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 80096.475,
+        "progress": 0.99175,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 80744.785,
+        "progress": 0.992267857142857,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 81303.845,
+        "progress": 0.992785714285714,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 81773.44,
+        "progress": 0.993303571428571,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 82181.075,
+        "progress": 0.993821428571429,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 82738.665,
+        "progress": 0.994339285714286,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 83765.855,
+        "progress": 0.994857142857143,
+        "stage": "Warming traffic models"
+      },
+      {
+        "ms": 84448.19,
+        "progress": 0.995375,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 85342.385,
+        "progress": 0.995892857142857,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 86063.375,
+        "progress": 0.996410714285714,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 86661.02,
+        "progress": 0.996928571428571,
+        "stage": "Warming lights and materials"
+      },
+      {
+        "ms": 89963.705,
+        "progress": 0.999,
+        "stage": "Warming countdown and HUD"
+      },
+      {
+        "ms": 89971.24,
+        "progress": 1,
+        "stage": "Ready to race"
+      }
+    ]
+  },
+  "entry": {
+    "entry_ms": 63.565,
+    "reused_world": true
+  },
+  "firstTickAfterPressMs": 1675
+}
