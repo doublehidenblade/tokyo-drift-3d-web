@@ -1,0 +1,11 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+TD185_GIG {"cargo":"fresh fish on ice","cargo_left":1.0,"drive_s":144.6,"fare":4410,"from":"starlight","hits":0,"km":2.51,"late":false,"limit_s":255.0,"ok":true,"run":0,"share_of_limit":0.56,"time_used_s":143.0,"to":"gate2","total_yen":4890}
+TD185_GIG {"cargo":"sealed documents","cargo_left":1.0,"drive_s":90.2,"fare":2400,"from":"asahi_hq","hits":0,"km":1.54,"late":false,"limit_s":160.0,"ok":true,"run":1,"share_of_limit":0.55,"time_used_s":88.7,"to":"gate7","total_yen":2670}
+TD185_GIG {"cargo":"sake, 1.8 L bottles","cargo_left":1.0,"drive_s":117.5,"fare":4230,"from":"hotel_lantern","hits":0,"km":2.05,"late":false,"limit_s":235.0,"ok":true,"run":2,"share_of_limit":0.49,"time_used_s":116.0,"to":"asahi_hq","total_yen":4770}
+  cargo hit 3.3% -> 96.7% at plan (759.8, 927.2, -0.15) v=3.3 recoveries=0
+TD185_GIG {"cargo":"crated spare parts","cargo_left":0.95,"drive_s":125.2,"fare":3540,"from":"seri_window","hits":1,"km":2.09,"late":false,"limit_s":250.0,"ok":true,"run":3,"share_of_limit":0.49,"time_used_s":123.7,"to":"pachinko","total_yen":3790}
+  cargo hit 79.5% -> 20.5% at plan (1699.0, 513.0, -0.17) v=2.2 recoveries=0
+  cargo hit 21.8% -> 0.0% at plan (1695.2, 511.4, -0.17) v=5.4 recoveries=0
+TD185_CRASH {"cargo_after":0.0,"cargo_before":100.0,"hits":-1,"phase":"settled"}
+TD185_GIGS {"completed":4,"earned_yen":16120,"failures":0,"hud_glyph_checks":11,"runs":4}

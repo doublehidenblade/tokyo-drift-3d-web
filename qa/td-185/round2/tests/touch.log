@@ -1,0 +1,17 @@
+ok: the city pads are built (◀ ▶ ▲ ▼)
+ok: layers: pads 10 < HUD 11 < map 12 < pause 13
+ok: negative control: a full-screen layer on top swallows the tap (phase idle)
+ok: a tap on offer 1 takes the run (phase to_pickup)
+ok: a tap on MAP opens the paper map and pauses the drive
+ok: a tap on × 閉じる closes the map and resumes
+ok: ▶ and ▲ held together: steer 1, throttle 1
+ok: holding ▲ drives the car (6.7 m in 1 s)
+ok: a thumb rolled from ▶ to ◀ steers left (steer -1)
+ok: ▼ brakes (throttle -1)
+ok: lifting both thumbs releases everything
+ok: a pause releases a held pedal (throttle 0)
+ok: in the pickup bay the LOAD button shows (積込 LOAD)
+ok: a tap on LOAD loads (phase loading)
+ok: the touch UI's characters are all in the font []
+TD185_TOUCH {"checks":15,"failures":0}
+touch exit 0

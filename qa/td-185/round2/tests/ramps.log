@@ -1,0 +1,47 @@
+ok: negative control: the edge sweep finds round 1's unguarded drops, Craig's ramp top among them (36, e.g. [[950.0, 1330.0, 7.0], [950.0, 1331.5, 7.0], [950.0, 1333.0, 7.0]])
+TD185_RAMP {"end_y":-5.6360936164856,"h_top":7.0,"id":"tenjinkita_ic_outer_on","merge_lane_m":0.0,"min_y_after_top":-5.6360936164856,"past_top":142.822875976562,"recoveries":0,"v_top":29.961145401001}
+ok: negative control: with no merge lane the blind car flies off the top of tenjinkita_ic_outer_on (fell to -5.6 m)
+TD185_RAMP {"closed":false,"closest_m":-0.03,"inside_m":114.09,"mouth":"tenjinkita_ic_outer_off","v_max":24.3}
+ok: negative control: with the high end open the blind car drives into tenjinkita_ic_outer_off (114.1 m inside)
+ok: 12 merge / diverge lanes and 12 closed ramp ends built (12, 12)
+ok: no edge of the Ring, a merge lane or a raised ramp drops 0.6 m or more without a barrier (0: [])
+ok: no street lamp stands within 2.5 m of a raised deck it would clip (600 lamps; [])
+ok: the 36 lamps left out all stood beside or under a raised deck (round 1 built them; [])
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"tenjinkita_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":117.028564453125,"recoveries":0,"v_top":29.961145401001}
+ok: blind up tenjinkita_ic_outer_on: on past the top 117 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"tenjinkita_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.279724121094,"recoveries":0,"v_top":29.9605655670166}
+ok: blind up tenjinkita_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"kashi_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.171264648438,"recoveries":0,"v_top":29.961145401001}
+ok: blind up kashi_ic_outer_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"kashi_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":202.660278320312,"recoveries":0,"v_top":29.961145401001}
+ok: blind up kashi_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"daikoku_ic_outer_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.167175292969,"recoveries":0,"v_top":29.961145401001}
+ok: blind up daikoku_ic_outer_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"end_y":7.0,"h_top":7.0,"id":"daikoku_ic_inner_on","merge_lane_m":70.0,"min_y_after_top":7.0,"past_top":203.192993164062,"recoveries":0,"v_top":29.961145401001}
+ok: blind up daikoku_ic_inner_on: on past the top 203 m, lowest 7.0 m (deck 7.0), ends at 7.0 m
+TD185_RAMP {"closed":true,"closest_m":-2.16,"inside_m":0.0,"mouth":"tenjinkita_ic_outer_off","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_outer_off: stopped 2.2 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.16,"inside_m":0.0,"mouth":"tenjinkita_ic_outer_on","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_outer_on: stopped 2.2 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.6,"inside_m":0.0,"mouth":"tenjinkita_ic_inner_off","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_inner_off: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.55,"inside_m":0.0,"mouth":"tenjinkita_ic_inner_on","v_max":23.4}
+ok: blind into the high end of tenjinkita_ic_inner_on: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_outer_off","v_max":23.4}
+ok: blind into the high end of kashi_ic_outer_off: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_outer_on","v_max":23.4}
+ok: blind into the high end of kashi_ic_outer_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.55,"inside_m":0.0,"mouth":"kashi_ic_inner_off","v_max":23.4}
+ok: blind into the high end of kashi_ic_inner_off: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"kashi_ic_inner_on","v_max":23.4}
+ok: blind into the high end of kashi_ic_inner_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.6,"inside_m":0.0,"mouth":"daikoku_ic_outer_off","v_max":23.4}
+ok: blind into the high end of daikoku_ic_outer_off: stopped 1.6 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-1.54,"inside_m":0.0,"mouth":"daikoku_ic_outer_on","v_max":23.4}
+ok: blind into the high end of daikoku_ic_outer_on: stopped 1.5 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"daikoku_ic_inner_off","v_max":23.4}
+ok: blind into the high end of daikoku_ic_inner_off: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMP {"closed":true,"closest_m":-2.15,"inside_m":0.0,"mouth":"daikoku_ic_inner_on","v_max":23.4}
+ok: blind into the high end of daikoku_ic_inner_on: stopped 2.1 m short of its face from 23.4 m/s, never inside
+TD185_RAMPS {"checks":25,"failures":0}
+ramps exit 0
