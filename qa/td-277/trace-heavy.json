@@ -1,0 +1,275 @@
+{
+	"config": {
+		"mode": "heavy",
+		"record": false,
+		"savedir": "/home/hatch/workspace/td277-runs/save"
+	},
+	"events": [
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": true,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": true,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"caps": {
+				"base_volume_units": 8,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 8,
+				"fitting_mass_kg": 0,
+				"payload_kg": 600,
+				"reserved_mass_kg": 0,
+				"total_mass_kg": 0,
+				"total_volume_units": 0,
+				"vehicle_id": "tatsumi_hauler"
+			},
+			"car_model": "res://scenes/tokyo_tripo_van.tscn",
+			"current": "tatsumi_hauler",
+			"kind": "boot",
+			"mode": "heavy",
+			"owned": [
+				"starter_coupe",
+				"tatsumi_hauler"
+			],
+			"t": 0.0,
+			"workshop_balance": 0
+		},
+		{
+			"board": [
+				{
+					"cargo": "crated spare parts",
+					"eligible": true,
+					"fare": 4350,
+					"fragility": 0.8,
+					"from": "ice_house",
+					"km": 2.72,
+					"overweight_for_payload": true,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "shaft1_dock",
+					"weight_kg": 320
+				},
+				{
+					"cargo": "crated spare parts",
+					"eligible": true,
+					"fare": 3020,
+					"fragility": 0.8,
+					"from": "kenji_hall",
+					"km": 1.69,
+					"overweight_for_payload": true,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 320
+				},
+				{
+					"cargo": "certified glassware",
+					"eligible": false,
+					"fare": 3530,
+					"fragility": 1.0,
+					"from": "seri_window",
+					"km": 1.88,
+					"overweight_for_payload": false,
+					"refusal": "Delicate-certified load: it can only ride in a lined, braced carrier. Fit the Padded Bed Carrier first.",
+					"requires_fitting": true,
+					"to": "kpc_gate",
+					"weight_kg": 60
+				}
+			],
+			"ctx": "heavy_van",
+			"heavy_idx": 1,
+			"kind": "board",
+			"t": 0.1
+		},
+		{
+			"bot_finished": false,
+			"fuel_km": 6.96,
+			"gig_phase": "to_pickup",
+			"kind": "beat",
+			"phase": "flip",
+			"plan": [
+				960.9,
+				818.3
+			],
+			"speed": 25.5,
+			"t": 30.0,
+			"workshop_balance": 0
+		},
+		{
+			"bot_finished": false,
+			"fuel_km": 6.49,
+			"gig_phase": "to_dropoff",
+			"kind": "beat",
+			"phase": "flip",
+			"plan": [
+				1003.2,
+				622.5
+			],
+			"speed": 25.5,
+			"t": 60.0,
+			"workshop_balance": 0
+		},
+		{
+			"bot_finished": false,
+			"fuel_km": 5.84,
+			"gig_phase": "to_dropoff",
+			"kind": "beat",
+			"phase": "flip",
+			"plan": [
+				1224.8,
+				191.6
+			],
+			"speed": 12.3,
+			"t": 90.0,
+			"workshop_balance": 0
+		},
+		{
+			"bot_finished": false,
+			"fuel_km": 5.15,
+			"gig_phase": "to_dropoff",
+			"kind": "beat",
+			"phase": "flip",
+			"plan": [
+				558.6,
+				165.2
+			],
+			"speed": 25.5,
+			"t": 120.1,
+			"workshop_balance": 0
+		},
+		{
+			"cargo": "crated spare parts",
+			"cargo_damage_sum": 0.0,
+			"condition": 1.0,
+			"ctx": "heavy_van",
+			"delivery_drive_s": 76.8,
+			"delivery_via": "finished",
+			"fare_final": 3020,
+			"fare_offered": 3020,
+			"fragility": 0.8,
+			"from": "kenji_hall",
+			"fuel_km_at_accept": 7.5,
+			"fuel_km_at_settle": 4.99,
+			"fuel_wallet_after": 8450,
+			"hits": 0,
+			"kind": "gig_settled",
+			"km": 1.69,
+			"late": false,
+			"limit_s": 180.0,
+			"ok": true,
+			"pickup_drive_s": 53.1,
+			"pickup_via": "finished",
+			"reason": "",
+			"recoveries": 0,
+			"stuck_delivery": 0,
+			"stuck_pickup": 0,
+			"t": 133.0,
+			"t_accept": 0.1,
+			"t_loaded": 54.8,
+			"t_settled": 133.0,
+			"time_used_s": 76.8,
+			"timing": 1.14,
+			"to": "gate2",
+			"total_yen": 3450,
+			"weight_kg": 320,
+			"workshop_balance_after": 3450,
+			"workshop_balance_before": 0
+		},
+		{
+			"current": "tatsumi_hauler",
+			"heavy_gig_total_yen": 3450,
+			"kind": "van_loop_complete",
+			"mode": "heavy",
+			"owned": [
+				"starter_coupe",
+				"tatsumi_hauler"
+			],
+			"t": 133.0,
+			"workshop_balance": 3450
+		},
+		{
+			"code": 0,
+			"kind": "finish",
+			"phase": "flip",
+			"t": 133.0
+		}
+	],
+	"gigs": [
+		{
+			"cargo": "crated spare parts",
+			"cargo_damage_sum": 0.0,
+			"condition": 1.0,
+			"ctx": "heavy_van",
+			"delivery_drive_s": 76.8,
+			"delivery_via": "finished",
+			"fare_final": 3020,
+			"fare_offered": 3020,
+			"fragility": 0.8,
+			"from": "kenji_hall",
+			"fuel_km_at_accept": 7.5,
+			"fuel_km_at_settle": 4.99,
+			"fuel_wallet_after": 8450,
+			"hits": 0,
+			"km": 1.69,
+			"late": false,
+			"limit_s": 180.0,
+			"ok": true,
+			"pickup_drive_s": 53.1,
+			"pickup_via": "finished",
+			"reason": "",
+			"recoveries": 0,
+			"stuck_delivery": 0,
+			"stuck_pickup": 0,
+			"t_accept": 0.1,
+			"t_loaded": 54.8,
+			"t_settled": 133.0,
+			"time_used_s": 76.8,
+			"timing": 1.14,
+			"to": "gate2",
+			"total_yen": 3450,
+			"weight_kg": 320,
+			"workshop_balance_after": 3450,
+			"workshop_balance_before": 0
+		}
+	],
+	"harness": "run_van_loop.gd",
+	"persona": "a",
+	"task": "td-277"
+}

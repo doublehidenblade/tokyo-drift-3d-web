@@ -1,0 +1,151 @@
+{
+	"config": {
+		"mode": "earn",
+		"record": false,
+		"savedir": "/home/hatch/workspace/td277-runs/save"
+	},
+	"events": [
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": true,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": true,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"caps": {
+				"base_volume_units": 4,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 4,
+				"fitting_mass_kg": 0,
+				"payload_kg": 240,
+				"reserved_mass_kg": 0,
+				"total_mass_kg": 0,
+				"total_volume_units": 0,
+				"vehicle_id": "starter_coupe"
+			},
+			"car_model": "res://scenes/tokyo_tripo_coupe.tscn",
+			"current": "starter_coupe",
+			"kind": "boot",
+			"mode": "earn",
+			"owned": [
+				"starter_coupe"
+			],
+			"t": 0.0,
+			"workshop_balance": 0
+		},
+		{
+			"balance_after": 0,
+			"kind": "refusal_probe",
+			"ok": true,
+			"owned_after": [
+				"starter_coupe"
+			],
+			"result": {
+				"error": "INSUFFICIENT_FUNDS",
+				"ok": false
+			},
+			"t": 0.0
+		},
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": true,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": true,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"ctx": "earn",
+			"kind": "board",
+			"t": 0.0
+		},
+		{
+			"bot_finished": false,
+			"fuel_km": 7.02,
+			"gig_phase": "to_dropoff",
+			"kind": "beat",
+			"phase": "earn",
+			"plan": [
+				1640.3,
+				1042.0
+			],
+			"speed": 10.6,
+			"t": 30.0,
+			"workshop_balance": 0
+		}
+	],
+	"gigs": [],
+	"harness": "run_van_loop.gd",
+	"persona": "a",
+	"task": "td-277"
+}

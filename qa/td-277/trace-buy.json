@@ -1,0 +1,285 @@
+{
+	"config": {
+		"mode": "buy",
+		"record": false,
+		"savedir": "/home/hatch/workspace/td277-runs/save"
+	},
+	"events": [
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": false,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "Too heavy: 240 kg of cargo with 60 kg already aboard exceeds this car's 240 kg payload.",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": false,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "Too bulky: this load takes 4 cargo units but only 2 are free. Fit the Utility Bed Rack to carry more.",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"caps": {
+				"base_volume_units": 4,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 4,
+				"fitting_mass_kg": 0,
+				"payload_kg": 240,
+				"reserved_mass_kg": 60,
+				"total_mass_kg": 60,
+				"total_volume_units": 2,
+				"vehicle_id": "starter_coupe"
+			},
+			"car_model": "res://scenes/tokyo_tripo_coupe.tscn",
+			"current": "starter_coupe",
+			"kind": "boot",
+			"mode": "buy",
+			"owned": [
+				"starter_coupe"
+			],
+			"t": 0.0,
+			"workshop_balance": 30000
+		},
+		{
+			"kind": "garage_in",
+			"shelter_state": "sheltered",
+			"t": 0.1,
+			"via": "teleport_to_bay_mark"
+		},
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": false,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "Too heavy: 240 kg of cargo with 60 kg already aboard exceeds this car's 240 kg payload.",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": false,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "Too bulky: this load takes 4 cargo units but only 2 are free. Fit the Utility Bed Rack to carry more.",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"caps": {
+				"base_volume_units": 4,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 4,
+				"fitting_mass_kg": 0,
+				"payload_kg": 240,
+				"reserved_mass_kg": 60,
+				"total_mass_kg": 60,
+				"total_volume_units": 2,
+				"vehicle_id": "starter_coupe"
+			},
+			"ctx": "before_select",
+			"kind": "board",
+			"t": 0.1
+		},
+		{
+			"balance_after": 0,
+			"balance_before": 30000,
+			"current": "starter_coupe",
+			"kind": "purchase",
+			"owned": [
+				"starter_coupe",
+				"tatsumi_hauler"
+			],
+			"price_expected": 30000,
+			"resumed_owned": false,
+			"t": 0.1
+		},
+		{
+			"car_model": "res://scenes/tokyo_tripo_van.tscn",
+			"current": "tatsumi_hauler",
+			"kind": "select",
+			"t": 0.2
+		},
+		{
+			"board": [
+				{
+					"cargo": "lab samples",
+					"eligible": true,
+					"fare": 5090,
+					"fragility": 1.5,
+					"from": "starlight",
+					"km": 2.51,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "gate2",
+					"weight_kg": 60
+				},
+				{
+					"cargo": "fresh fish on ice",
+					"eligible": true,
+					"fare": 4230,
+					"fragility": 1.0,
+					"from": "hotel_lantern",
+					"km": 2.38,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "seri_window",
+					"weight_kg": 240
+				},
+				{
+					"cargo": "sake, 1.8 L bottles",
+					"eligible": true,
+					"fare": 4240,
+					"fragility": 1.4,
+					"from": "gate7",
+					"km": 2.05,
+					"overweight_for_payload": false,
+					"refusal": "",
+					"requires_fitting": false,
+					"to": "pachinko",
+					"weight_kg": 180
+				}
+			],
+			"caps": {
+				"base_volume_units": 8,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 8,
+				"fitting_mass_kg": 0,
+				"payload_kg": 600,
+				"reserved_mass_kg": 0,
+				"total_mass_kg": 0,
+				"total_volume_units": 0,
+				"vehicle_id": "tatsumi_hauler"
+			},
+			"ctx": "after_select",
+			"kind": "board",
+			"t": 0.2
+		},
+		{
+			"caps_car": {
+				"base_volume_units": 4,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 4,
+				"fitting_mass_kg": 0,
+				"payload_kg": 240,
+				"reserved_mass_kg": 60,
+				"total_mass_kg": 60,
+				"total_volume_units": 2,
+				"vehicle_id": "starter_coupe"
+			},
+			"caps_van": {
+				"base_volume_units": 8,
+				"carried_mass_kg": 0,
+				"compatible_cargo_impact_factor": 1.0,
+				"delicate_capability": false,
+				"effective_volume_units": 8,
+				"fitting_mass_kg": 0,
+				"payload_kg": 600,
+				"reserved_mass_kg": 0,
+				"total_mass_kg": 0,
+				"total_volume_units": 0,
+				"vehicle_id": "tatsumi_hauler"
+			},
+			"car": {
+				"ok": false,
+				"refusal": "Too heavy: 320 kg of cargo with 60 kg already aboard exceeds this car's 240 kg payload."
+			},
+			"cargo": {
+				"delicate": false,
+				"durability": "medium",
+				"en": "crated spare parts",
+				"fragility": 0.8,
+				"jp": "部品箱",
+				"size": "10 crates",
+				"volume_units": 4,
+				"weight_kg": 320
+			},
+			"kind": "flip_check",
+			"t": 0.2,
+			"van": {
+				"ok": true,
+				"refusal": ""
+			}
+		},
+		{
+			"current": "tatsumi_hauler",
+			"kind": "purchase_segment_complete",
+			"owned": [
+				"starter_coupe",
+				"tatsumi_hauler"
+			],
+			"t": 0.2,
+			"workshop_balance": 0
+		},
+		{
+			"code": 0,
+			"kind": "finish",
+			"phase": "flip",
+			"t": 0.2
+		}
+	],
+	"gigs": [],
+	"harness": "run_van_loop.gd",
+	"persona": "a",
+	"task": "td-277"
+}
