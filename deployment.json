@@ -1,22 +1,22 @@
 {
-  "source_sha": "132edfdc4bbd09236300771aeba0c117a6e42d0b",
+  "source_sha": "1249dc96eccf48980dbb6512859f8a3487121afb",
   "source_branch": "main",
-  "validation_run": 40012082906,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/40012082906",
-  "smoke_conclusion": "success",
+  "validation_run": 41084319798,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/41084319798",
+  "smoke_conclusion": null,
   "forced": true,
-  "published_at": "2026-10-23T19:48:37.870Z",
-  "export_commit": "132edfdc4bbd09236300771aeba0c117a6e42d0b",
+  "published_at": "2026-10-30T16:08:50.281Z",
+  "export_commit": "1249dc96eccf48980dbb6512859f8a3487121afb",
   "sha256": {
-    "build-sha.txt": "f6804f821f4fae9d00685066f1afb981ef4b7cf2c3fbf5f09b1682d8de322e33",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.html": "4415d83b5b3b608efecba4f60a9a5284adc744c0e4dae58e2dc82b6f16dcaa34",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "build-sha.txt": "3940c98a86153e67ba486a0330cf22a083432712d37a4fed732acc30c14f0545",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.pck": "653cc0540070cd16e1fabd33edbd5e8734241c9ab9e1ace406068b5b17384c4a",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    "index.pck": "a23aa9af6cc0dade474f9018b10bd6227deadfcf3fb85446a58dc4f58fb8704e",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.html": "fa3d67ece6f6e82c4e012be3c495731363f33bf48a209ee63edcc3b66e19af10"
   }
 }
