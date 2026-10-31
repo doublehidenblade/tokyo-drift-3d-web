@@ -1,0 +1,281 @@
+{
+	"failures": 0,
+	"log": [
+		{
+			"detail": "",
+			"ok": true,
+			"what": "dialog_wired"
+		},
+		{
+			"detail": "900.0",
+			"ok": true,
+			"what": "fare_base"
+		},
+		{
+			"detail": "1400.0",
+			"ok": true,
+			"what": "fare_per_km"
+		},
+		{
+			"detail": "900.0",
+			"ok": true,
+			"what": "route_min_m"
+		},
+		{
+			"detail": "1690",
+			"ok": true,
+			"what": "cheapest_starting_fare_yen"
+		},
+		{
+			"detail": "1800 <= 3380",
+			"ok": true,
+			"what": "first_price_le_two_cheapest_gigs"
+		},
+		{
+			"value": {
+				"alloy_wheels": 3200,
+				"driving_lamps": 2500,
+				"roof_light_bar": 1800
+			},
+			"what": "prices"
+		},
+		{
+			"detail": "0",
+			"ok": true,
+			"what": "balance_starts_zero"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "nothing_visible_at_start"
+		},
+		{
+			"value": {
+				"amount": 2000,
+				"balance": 2000
+			},
+			"what": "settled_gig_credit"
+		},
+		{
+			"detail": "2000",
+			"ok": true,
+			"what": "balance_after_gig1"
+		},
+		{
+			"detail": "{ \"state_at_open\": \"offer\", \"state_after\": \"done\", \"balance\": 200 }",
+			"ok": true,
+			"what": "roof_dialog_offer_state"
+		},
+		{
+			"detail": "{ \"state_at_open\": \"offer\", \"state_after\": \"done\", \"balance\": 200 }",
+			"ok": true,
+			"what": "roof_dialog_done_state"
+		},
+		{
+			"detail": "200",
+			"ok": true,
+			"what": "roof_one_debit_at_price"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "roof_owned"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "roof_visible_immediately"
+		},
+		{
+			"value": {
+				"balance": 200,
+				"state_after": "done",
+				"state_at_open": "offer"
+			},
+			"what": "buy_roof_light_bar"
+		},
+		{
+			"value": {
+				"amount": 5000,
+				"balance": 5200
+			},
+			"what": "settled_gig_credit"
+		},
+		{
+			"detail": "5200",
+			"ok": true,
+			"what": "balance_after_gig2"
+		},
+		{
+			"detail": "2700",
+			"ok": true,
+			"what": "lamps_one_debit_at_price"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "lamps_visible_immediately"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "roof_still_visible"
+		},
+		{
+			"value": {
+				"balance": 2700,
+				"state_after": "done",
+				"state_at_open": "offer"
+			},
+			"what": "buy_driving_lamps"
+		},
+		{
+			"detail": "short",
+			"ok": true,
+			"what": "alloy_dialog_short_state"
+		},
+		{
+			"detail": "Gold alloy wheels, all four corners, balanced and torqued. She'll look like a different car. Cash only. That's ¥3,200 — you've got ¥2,700, so you're ¥500 short. Nothing charged. Run a gig or two and come back.",
+			"ok": true,
+			"what": "alloy_dialog_names_shortfall"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "alloy_confirm_disabled_when_short"
+		},
+		{
+			"detail": "2700",
+			"ok": true,
+			"what": "short_attempt_charges_nothing"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "alloy_not_owned_after_short_attempt"
+		},
+		{
+			"detail": "{ \"ok\": false, \"error\": \"INSUFFICIENT_FUNDS\" }",
+			"ok": true,
+			"what": "service_refuses_short_buy"
+		},
+		{
+			"detail": "2700",
+			"ok": true,
+			"what": "service_refusal_charges_nothing"
+		},
+		{
+			"value": {
+				"amount": 1000,
+				"balance": 3700
+			},
+			"what": "settled_gig_credit"
+		},
+		{
+			"detail": "3700",
+			"ok": true,
+			"what": "balance_after_gig3"
+		},
+		{
+			"detail": "500",
+			"ok": true,
+			"what": "alloy_one_debit_at_price"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "alloy_visible_immediately"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "all_three_visible_together"
+		},
+		{
+			"value": {
+				"balance": 500,
+				"state_after": "done",
+				"state_at_open": "offer"
+			},
+			"what": "buy_alloy_wheels"
+		},
+		{
+			"detail": "{ \"ok\": false, \"error\": \"ALREADY_OWNED\" }",
+			"ok": true,
+			"what": "rebuy_refused"
+		},
+		{
+			"detail": "500",
+			"ok": true,
+			"what": "rebuy_charges_nothing"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "reload_store_ok"
+		},
+		{
+			"detail": "500",
+			"ok": true,
+			"what": "reload_balance_exact"
+		},
+		{
+			"detail": "roof_light_bar",
+			"ok": true,
+			"what": "reload_owns_roof_light_bar"
+		},
+		{
+			"detail": "driving_lamps",
+			"ok": true,
+			"what": "reload_owns_driving_lamps"
+		},
+		{
+			"detail": "alloy_wheels",
+			"ok": true,
+			"what": "reload_owns_alloy_wheels"
+		},
+		{
+			"value": {
+				"amount": 12000,
+				"balance": 12500
+			},
+			"what": "settled_gig_credit"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "buy_mechanical_ok"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "buy_steel_ok"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "unload_ok"
+		},
+		{
+			"detail": "{ \"ok\": true, \"receipt\": { \"tx_id\": \"td200p-0b4bb1afc9ab86c8302a5d2ecf00c92c-tx0010\", \"fitting_instance_id\": \"td200p-0b4bb1afc9ab86c8302a5d2ecf00c92c-tx0010-fit\", \"consumed_item_ids\": [\"td200p-0b4bb1afc9ab86c8302a5d2ecf00c92c-tx0009-L0-U0\", \"td200p-0b4bb1afc9ab86c8302a5d2ecf00c92c-tx0009-L0-U1\", \"td200p-0b4bb1afc9ab86c8302a5d2ecf00c92c-tx0008-L0-U0\"], \"fee_yen\": 3900, \"request_id\": \"td201-run-58086-cmd15\", \"op\": \"install_fitting\", \"revision_after\": 13 }, \"replayed\": false }",
+			"ok": true,
+			"what": "rack_installs_after_cash_buys"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "rack_is_equipped_module"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "cash_fittings_survive_module_install"
+		},
+		{
+			"detail": "",
+			"ok": true,
+			"what": "cash_visuals_survive_module_install"
+		}
+	],
+	"task": "td-293"
+}
