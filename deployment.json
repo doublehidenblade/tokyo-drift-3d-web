@@ -1,22 +1,22 @@
 {
-  "source_sha": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
+  "source_sha": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
   "source_branch": "main",
-  "validation_run": 42295015934,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/42295015934",
-  "smoke_conclusion": "cancelled",
+  "validation_run": 43508726364,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/43508726364",
+  "smoke_conclusion": "success",
   "forced": true,
-  "published_at": "2026-11-06T21:44:38.043Z",
-  "export_commit": "2ad6af032f06e19c5b11e9093d3b3807bf28e5b3",
+  "published_at": "2026-11-13T21:31:47.669Z",
+  "export_commit": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
   "sha256": {
-    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
-    "index.html": "fce5850cb63e9cd1dd3a6933810e08e04ca98f38702efb2c7e0a22fd8aa2e0ac",
-    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.html": "5c3f6e181dddac174148b73f77c5f2a7bb4642ec4604626468867def38bdc6a6",
+    "build-sha.txt": "8d672a799bf7d0cafe104fd0ec6b06fd45ee0b640db9daf3b43359584d330856",
     "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
     "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "build-sha.txt": "706cc30ba04bd6de6819741b14a3ca4e4ec75d9248c5db8e6aae235229db7dcc",
-    "index.pck": "6e8e1d62671a9f14c03bd26e912d7ae7ef0bee3d4bbd504b4a53603a3c6a6b9e"
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "index.pck": "8c433e8b39a7655af5105e1edf397add0155323135736e26b38ef6382a45f7a9"
   }
 }
