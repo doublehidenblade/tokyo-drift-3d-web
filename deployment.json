@@ -1,22 +1,23 @@
 {
-  "source_sha": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
+  "source_sha": "440f783d396424b9519dc379227a7412f666108c",
   "source_branch": "main",
-  "validation_run": 43508726364,
-  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/43508726364",
+  "validation_run": 44818080129,
+  "validation_url": "https://github.com/doublehidenblade/tokyo-drift-3d/actions/runs/44818080129",
   "smoke_conclusion": "success",
   "forced": true,
-  "published_at": "2026-11-13T21:31:47.669Z",
-  "export_commit": "1e1881c8f4b8a913e7549986aa8fa6daec036304",
+  "published_at": "2026-11-20T21:43:32.043Z",
+  "export_commit": "440f783d396424b9519dc379227a7412f666108c",
   "sha256": {
-    "index.html": "5c3f6e181dddac174148b73f77c5f2a7bb4642ec4604626468867def38bdc6a6",
-    "build-sha.txt": "8d672a799bf7d0cafe104fd0ec6b06fd45ee0b640db9daf3b43359584d330856",
-    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
-    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
-    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
-    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+    "version.txt": "ac9e3fb1c1671e40fb15b3a74edbd4f87c215b05827158cdb7190468b881df8e",
+    "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+    "index.apple-touch-icon.png": "048af062d1269c25b274333ea1cf7869b8dd2caf0afa68a0fd106313b7c44447",
+    "index.pck": "5a99d055543ee6f4032caa26340aa718343f03d72814f9ff1c7b9d336c0edecc",
     "index.wasm": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
-    "index.pck": "8c433e8b39a7655af5105e1edf397add0155323135736e26b38ef6382a45f7a9"
+    "index.html": "7c2613319692e687ebe7e085b046bbe7bd3d113803c0afb2823dd7930d53b3f0",
+    "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "index.icon.png": "8efad2d23cabddc02b83f483887cf74635346566af20b678307243ed7cbc0e4c",
+    "index.js": "ffc3898b59fba6f5af0c02f76e5ee526cc061e65c7d2d6f4f98186876cea15c4",
+    "build-sha.txt": "5efc742258c4ac9bd8deb51bd5c8fb473cfdb3483371ebf700abd204a8f80e9f"
   }
 }
